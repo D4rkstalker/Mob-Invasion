@@ -1,0 +1,48 @@
+{
+    "name": "Biomes O' Plenty Biome List",
+    "mods": [
+        {
+            "modId": "biomesoplenty",
+            "biomes": [
+                {
+                    "biomeId": "corrupted_sands",
+                    "weight": 5,
+                    "climateType": "temperate"
+                },
+                {
+                    "biomeId": "fungi_forest",
+                    "weight": 5,
+                    "climateType": "cool"
+                },
+                {
+                    "biomeId": "phantasmagoric_inferno",
+                    "weight": 5,
+					"oceanBlock": {
+                        "blockId": "thermalfoundation:fluid_pyrotheum",
+                        "meta": 0
+                    },
+                    "climateType": "hot"
+                },
+                {
+                    "biomeId": "polar_chasm",
+                    "weight": 5,
+                    "oceanBlock": {
+                        "blockId": "thermalfoundation:fluid_cryotheum",
+                        "meta": 0
+                    },
+                    "climateType": "cold"
+                },
+                {
+                    "biomeId": "undergarden",
+                    "weight": 5,
+                    "climateType": "cool"
+                },
+                {
+                    "biomeId": "visceral_heap",
+                    "weight": 5,
+                    "climateType": "cool"
+                }
+            ]
+        }
+    ]
+}
