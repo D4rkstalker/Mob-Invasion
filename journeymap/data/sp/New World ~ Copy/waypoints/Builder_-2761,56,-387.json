@@ -1,0 +1,18 @@
+{
+  "id": "Builder_-2761,56,-387",
+  "name": "Builder",
+  "icon": "waypoint-normal.png",
+  "x": -2761,
+  "y": 56,
+  "z": -387,
+  "r": 94,
+  "g": 101,
+  "b": 147,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
