@@ -3,8 +3,9 @@
 
 !mods
 !config
-!saves
+!structures/*
+!saves/*
 !scripts
-!structures
+
 
 WailaErrorOutput.txt
