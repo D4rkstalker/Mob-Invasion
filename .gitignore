@@ -1,10 +1,11 @@
 */
 *.json
 
-!mods
-!config
-!scripts
-!structures
+!mods/*
+!config/*
+!scripts/*
+!structures/*
+!saves/*
 
 
 WailaErrorOutput.txt
