@@ -39,10 +39,10 @@ openblocks:last_stand
 openblocks:flim_flam
 endercore:xpboost
 endercore:autosmelt
+enderio:witherweapon
+enderio:repellent
 enderio:shimmer
 enderio:soulbound
-enderio:repellent
-enderio:witherweapon
 enderio:witherarrow
 silentgems:lifesteal
 silentgems:magicdamage
@@ -53,8 +53,9 @@ silentgems:supercharged
 exnihilocreatio:sieve_efficiency
 exnihilocreatio:sieve_fortune
 exnihilocreatio:sieve_luck_of_the_sea
-matteroverdrive:overclock
+natural_absorption:absorption
 woot:headhunter
+matteroverdrive:overclock
 cofhcore:holding
 cofhcore:insight
 cofhcore:leech

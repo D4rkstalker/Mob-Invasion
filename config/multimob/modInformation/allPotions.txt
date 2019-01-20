@@ -54,6 +54,7 @@ nex:freeze
 nex:frostbite
 nex:spore
 nex:lost
+scalinghealth:bandaged
 techguns:radiation
 techguns:radresistance
 techguns:radregeneration

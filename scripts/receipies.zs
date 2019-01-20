@@ -1,6 +1,4 @@
 mods.thermalexpansion.Pulverizer.removeRecipe(<draconicevolution:draconium_ore>);
-mods.thermalexpansion.InductionSmelter.addRecipe(<ore:ingotFerroboron>, <ore:ingotBoron>, <ore:ingotSteel>, 2000);
-mods.thermalexpansion.InductionSmelter.addRecipe(<ore:ingotTough>, <ore:ingotLithium>, <ore:ingotFerroboron>, 2000);
 mods.thermalexpansion.InductionSmelter.addRecipe(<woot:stygianironingot>, <minecraft:netherbrick>, <minecraft:iron_ingot>, 2000);
 mods.thermalexpansion.Pulverizer.addRecipe(<woot:soulsanddust>*2, <minecraft:soul_sand>, 2000, <woot:stygianirondust>, 20);
 mods.thermalexpansion.Pulverizer.addRecipe(<woot:stygianirondust>*2, <woot:stygianironore>, 2000, <woot:stygianirondust>, 50);
@@ -24,18 +22,6 @@ gem = <ore:gemLitherite>;
 gem.add(<environmentaltech:litherite_crystal>);
 var meat = <ore:listAllmeatraw>;
 meat.add(<biomesoplenty:fleshchunk>);
-var cheese = <ore:foodcheese>;
-cheese.add(<galacticraftcore:cheese_curd>);
-var dust = <ore:dustCoal>;
-dust.add(<extraplanets:coal_grit>);
-dust = <ore:dustIron>;
-dust.add(<extraplanets:iron_grit>);
-dust = <ore:dustGold>;
-dust.add(<extraplanets:gold_grit>);
-dust = <ore:dustDiamond>;
-dust.add(<extraplanets:diamond_grit>);
-dust = <ore:dustEmerald>;
-dust.add(<extraplanets:emerald_grit>);
 
 var platinum = <ore:ingotPlatinum>;
 var glass = <ore:blockGlassHardened>;
@@ -58,8 +44,6 @@ recipes.addShaped(<simplyjetpacks:metaitemmods:13>,
 var bitumen = <ore:crystalCrudeOil>;
 bitumen.add(<immersivepetroleum:material:0>);
 
-mods.nuclearcraft.chemical_reactor.addRecipe(<liquid:refined_fuel> * 3000 , <liquid:liquidfusionfuel> * 1000, <liquid:fuel> * 1000, <liquid:fuel> * 1000);
-
 mods.thermalexpansion.Pulverizer.addRecipe(<rftools:dimensional_shard> * 10, <rftools:dimensional_shard_ore>, 4000, <minecraft:prismarine_shard>, 10);
 mods.thermalexpansion.Pulverizer.addRecipe(<draconicevolution:draconium_dust> * 10, <draconicevolution:draconium_ore>, 4000);
 mods.thermalexpansion.Infuser.addRecipe( <environmentaltech:litherite_crystal> *2,<environmentaltech:litherite_crystal>, 100000);
@@ -72,25 +56,6 @@ mods.thermalexpansion.Infuser.addRecipe(<draconicevolution:dragon_heart> ,<minec
 mods.thermalexpansion.Infuser.addRecipe(<draconicevolution:chaos_shard:2> ,<draconicevolution:chaos_shard:3>, 100000000);
 mods.thermalexpansion.Infuser.addRecipe(<draconicevolution:chaos_shard:1> ,<draconicevolution:chaos_shard:2>, 200000000);
 mods.thermalexpansion.Infuser.addRecipe(<draconicevolution:chaos_shard> ,<draconicevolution:chaos_shard:1>, 400000000);
-
-mods.thermalexpansion.Centrifuge.addRecipe([<galacticraftcore:meteoric_iron_raw> % 10, <galacticraftcore:cheese_curd> % 10], <galacticraftcore:basic_block_moon:*>, null, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<galacticraftcore:meteoric_iron_raw> % 10, <modernmetals:titanium_blend> % 10, <galacticraftcore:basic_item:2> % 10], <galacticraftplanets:asteroids_block:*>, null, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<galacticraftplanets:item_basic_mars> % 10], <galacticraftplanets:mars:*>, <liquid:bacterialsludge>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<thermalfoundation:material:67> % 10,<nuclearcraft:gem_dust:2> % 10], <galacticraftplanets:venus:*>, <liquid:sulphuricacid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<extraplanets:tier8_items:6> % 10, <basemetals:zinc_powder> % 10], <extraplanets:neptune:*>, <liquid:nitrogen_fluid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<modernmetals:tungsten_powder> % 20], <extraplanets:pluto:*>,null, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([(<enderio:item_alloy_nugget:6> * 3) % 10,<extraplanets:tier10_items:5> % 10], <extraplanets:eris:*>,null, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<extraplanets:tier11_items:0> % 10,<extraplanets:tier11_items:1> % 10,<extraplanets:tier11_items:3> % 10,<extraplanets:tier11_items:4> % 10], <extraplanets:kepler22b:0>,<liquid:liquid_chocolate_fluid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([(<minecraft:coal> * 5) % 10,<basemetals:platinum_powder> % 10,<extraplanets:tier11_items:3> % 10,<extraplanets:tier11_items:2> % 10], <extraplanets:kepler22b:12>,<liquid:liquid_caramel_fluid>*100	, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<basemetals:mercury_powder> % 20,<jaopca:item_dustcarbon> % 1], <extraplanets:mercury:*>,null, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<modernmetals:uranium_powder> % 10], <extraplanets:ceres:*>, <liquid:radioactive_water_fluid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<jaopca:item_dustpalladium> % 10,<extraplanets:tier5_items:8>% 10], <extraplanets:jupiter:*>, <liquid:magma_fluid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<nuclearcraft:dust:7> % 10,<minecraft:slime_ball>% 10], <extraplanets:saturn:*>, <liquid:liquid_hydrocarbon_fluid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<moreplanets:chalos_item:1> % 10,<moreplanets:chalos_item>% 10], <moreplanets:chalos_block:*>, <liquid:cheese_of_milk_fluid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<actuallyadditions:item_dust:2> % 10,<matteroverdrive:dilithium_crystal>% 10], <moreplanets:koentus_block:*>, <liquid:cheese_of_milk_fluid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<galacticraftcore:basic_item:2> % 10,<thermalfoundation:material:68> % 10,<moreplanets:fronos_item>% 10], <moreplanets:fronos_block:*>, <liquid:cheese_of_milk_fluid>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<galacticraftcore:basic_item:2> % 10,<moreplanets:nibiru_item>% 10], <moreplanets:nibiru_block:*>, <liquid:crude_oil>*100, 5000);
-mods.thermalexpansion.Centrifuge.addRecipe([<galacticraftcore:basic_item:2> % 10,<moreplanets:nibiru_item>% 10], <moreplanets:nibiru_sandstone:*>, <liquid:crude_oil>*100, 5000);
 
 mods.thermalexpansion.Insolator.addRecipe(<silentgems:glowrose:14> * 5, <silentgems:glowrose:14>, <silentgems:glowrosefertilizer>, 2000, <actuallyadditions:item_misc:17>, 20);
 //This file was created via CT-GUI! Editing it is not advised!
