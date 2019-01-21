@@ -1,6 +1,10 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<actuallyadditions:block_tiny_torch>);
+recipes.remove(<silentgems:stonetorch>);
+recipes.remove(<tconstruct:stone_torch>);
+recipes.remove(<tconstruct:stone_torch>);
 recipes.remove(<projecte:condenser_mk2>);
 recipes.remove(<projecte:condenser_mk1>);
 recipes.remove(<actuallyadditions:block_coal_generator>);

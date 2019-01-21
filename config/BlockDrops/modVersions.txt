@@ -58,6 +58,7 @@
   "simplyjetpacks": "2.2.10.63",
   "passableleavescore": "1.0.0",
   "woot": "1.12.2-1.4.9",
+  "grue": "1.4.0",
   "configmod": "v1.0",
   "hungeroverhaul": "1.12.2-1.3.3.jenkins148",
   "jei": "4.13.1.225",

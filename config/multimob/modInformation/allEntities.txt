@@ -109,21 +109,21 @@ plustic:supremeleader
 plustic:blindbandit
 enderzoo:entityowlegg
 enderzoo:entityprimedcharge
-quark:chest_passenger
+quark:seat
 quark:arrow_ender
 quark:arrow_explosive
 quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
-quark:seat
-quark:flat_item_frame
-quark:colored_item_frame
-quark:glass_item_frame
 quark:pirate
 quark:wraith
 quark:dweller
 quark:ashen
+quark:chest_passenger
+quark:flat_item_frame
+quark:colored_item_frame
+quark:glass_item_frame
 darkutils:fake_tnt
 davincisvessels:ship
 davincisvessels:seat
@@ -160,6 +160,7 @@ dungeonmobs:dmbladetrap
 exnihilocreatio:thrown stone
 excompressum:angry_chicken
 fluxnetworks:flux
+grue:entitygrue
 immersivepetroleum:speedboat
 lcrdrfs:laser_creeper
 lcrdrfs:laser_beam
@@ -329,9 +330,9 @@ appliedenergistics2:appeng.entity.entitytinytntprimed
 appliedenergistics2:appeng.entity.entitygrowingcrystal
 appliedenergistics2:appeng.entity.entitysingularity
 appliedenergistics2:appeng.entity.entitychargedquartz
-enderio:owl_egg
 enderio:primed_charge
 enderio:falling_machine
+enderio:owl_egg
 tconstruct:blueslime
 tconstruct:indestructible
 tconstruct:arrow
