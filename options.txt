@@ -116,7 +116,6 @@ key_Toggle Special:46:SHIFT
 key_Toggle Chaos Gem (First):210
 key_Toggle Chaos Gem (All):210
 key_Use Return Home Charm:210
-key_quark.keybind.toggleAutojump:210
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -135,6 +134,8 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.toggleAutojump:210
+key_quark.keybind.lockBuilding:210
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:210
 key_quark.keybind.chestSort:0
@@ -142,7 +143,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:210
 key_key.next_item.desc:203
 key_key.previous_item.desc:205
 key_key.open_danknull.desc:208
