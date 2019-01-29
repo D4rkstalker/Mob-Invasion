@@ -2327,6 +2327,13 @@
     },
     "done": true
   },
+  "silentgems:chaos_altar": {
+    "criteria": {
+      "place_altar": "2019-01-26 12:23:00 +0800",
+      "get_altar": "2019-01-26 12:22:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -2802,6 +2809,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "craft_hammer": "2019-01-26 12:25:40 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/koru_terrarium": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -2985,6 +2998,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "silentgems:get_material_grader": {
+    "criteria": {
+      "get_item": "2019-01-26 12:22:24 +0800"
     },
     "done": true
   },
