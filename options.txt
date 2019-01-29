@@ -116,6 +116,7 @@ key_Toggle Special:46:SHIFT
 key_Toggle Chaos Gem (First):210
 key_Toggle Chaos Gem (All):210
 key_Use Return Home Charm:210
+key_quark.keybind.lockBuilding:210
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -135,7 +136,6 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:210
-key_quark.keybind.lockBuilding:210
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:210
 key_quark.keybind.chestSort:0
@@ -232,8 +232,8 @@ key_waila.keybind.wailadisplay:83
 key_waila.keybind.liquid:210
 key_waila.keybind.recipe:210
 key_waila.keybind.usage:210
-key_key.effortlessbuilding.hud.desc:78
-key_key.effortlessbuilding.replace.desc:74
+key_key.effortlessbuilding.hud.desc:27
+key_key.effortlessbuilding.replace.desc:0
 key_key.effortlessbuilding.creative.desc:62
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
@@ -249,7 +249,7 @@ key_justenoughbuttons.key.chunkoverlay:62
 key_justenoughbuttons.key.moboverlay:65
 key_LevelUpGUI:38
 key_keybind.fovfixtoggle:0
-key_key.porterNextDestination:27
+key_key.porterNextDestination:0
 key_key.porterPrevDestination:26
 key_key.debugDumpNBTItem:0
 key_key.debugDumpNBTBlock:0

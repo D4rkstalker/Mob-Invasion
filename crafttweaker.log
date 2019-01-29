@@ -44,4 +44,122 @@
 [INITIALIZATION][CLIENT][INFO] Adding Chunk of Flesh to ore dictionary entry listAllmeatraw
 [INITIALIZATION][CLIENT][INFO] Adding Bitumen to ore dictionary entry crystalCrudeOil
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 851ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 813ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dark Steel Armor Plating with name ct_shaped448154969
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux-Infused Chestplate Assembly with name ct_shaped510989015
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Conductive Iron Armor Plating with name ct_shaped-1364022346
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blast Brick with name ct_shaped-301324876
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token (Blank) with name ct_shaped-2010829840
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Smeltery Controller with name ct_shaped-64717810
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Uncrafting Table with name ct_shaped-1249220841
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Connector with name ct_shaped788693196
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Null Modifier with name ct_shaped-1455001294
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Panel with name ct_shaped659749376
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for End Crystal with name ct_shaped-500624484
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ammo - Blazing Clay with name ct_shapeless-25842409
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ammo - Rocket with name ct_shapeless668095291
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ammo - Grenade with name ct_shapeless315448312
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ammo - Ferro-Magnetic Slug with name ct_shapeless753795320
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ammo - Bullet with name ct_shapeless-389845646
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 5) with name ct_shaped1618003835
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 4) with name ct_shaped805626961
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 3) with name ct_shaped156382261
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 2) with name ct_shaped1087309701
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 1) with name ct_shaped-654331460
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 5) with name ct_shaped203715445
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 4) with name ct_shaped1582412815
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 3) with name ct_shaped-571270010
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 2) with name ct_shaped-2060265616
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 1) with name ct_shaped-1678594606
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 5) with name ct_shaped639121310
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 4) with name ct_shaped-1956556991
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 3) with name ct_shaped-1686177542
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 2) with name ct_shaped1235983700
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 1) with name ct_shaped1083429062
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 5) with name ct_shaped1337166390
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 4) with name ct_shaped-17025184
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 3) with name ct_shaped1457501927
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 1) with name ct_shaped-1893441811
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 2) with name ct_shaped-637750758
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gravitational Anomaly with name ct_shaped286538045
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 5) with name ct_shaped1837543010
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Anti Gravity Core with name ct_shaped1203462942
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Device Frame with name ct_shaped-1947542795
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped-1019343267
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blaster Shotgun with name ct_shaped-1723810887
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wither Skeleton Skull with name ct_shaped422983406
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Windy Garden with name ct_shaped1073216428
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Arid Garden with name ct_shaped-257345980
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tropical Garden with name ct_shaped-298920820
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Soggy Garden with name ct_shaped1551122021
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Shaded Garden with name ct_shaped1126841443
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Frost Garden with name ct_shaped-860640702
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ultimate Control Circuit with name ct_shaped-606631036
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Control Circuit with name ct_shaped1255469352
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Control Circuit with name ct_shaped-1514821844
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <draconicevolution:draconium_ore>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <woot:stygianironingot>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <woot:soulsanddust> * 2
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <woot:stygianirondust> * 2
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:pyrotheum> * 1000
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:cryotheum> * 1000
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:experience> * 500
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:mushroom_stew> * 1000
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <woot:stygianironplate> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <rftools:dimensional_shard> * 10
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <draconicevolution:draconium_dust> * 10
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <environmentaltech:litherite_crystal> * 2
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <environmentaltech:erodium_crystal> * 2
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <environmentaltech:kyronite_crystal> * 2
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <environmentaltech:pladium_crystal> * 2
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <environmentaltech:ionite_crystal> * 2
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <environmentaltech:aethium_crystal> * 2
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <draconicevolution:dragon_heart>
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <draconicevolution:chaos_shard:2>
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <draconicevolution:chaos_shard:1>
+[AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <draconicevolution:chaos_shard>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <silentgems:glowrose:14> * 5
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
+[SERVER_STARTED][SERVER][ERROR] receipies.zs:13: Could not resolve <matteroverdrive : tritanuim_plate>
+[SERVER_STARTED][SERVER][ERROR] receipies.zs:13: Could not resolve <matteroverdrive : tritanuim_ingot>
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 146ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 39ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 40ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 25ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
+[SERVER_STARTED][SERVER][ERROR] receipies.zs:16: Could not resolve <thermalexpansion : material : 160>
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 54ms
