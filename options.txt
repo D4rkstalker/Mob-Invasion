@@ -135,6 +135,7 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:210
+key_quark.keybind.lockBuilding:210
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:210
 key_quark.keybind.chestSort:0
@@ -142,7 +143,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:210
 key_key.next_item.desc:203
 key_key.previous_item.desc:205
 key_key.open_danknull.desc:208
@@ -279,7 +279,7 @@ key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
 key_Profile GUI:55
-soundCategory_master:1.0
+soundCategory_master:0.50993377
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

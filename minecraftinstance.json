@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-01-30T02:40:36.4609327Z",
+  "lastPlayed": "2019-01-30T12:49:39.143469Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -994,6 +994,152 @@
       "fileSize": 8306
     },
     {
+      "folderName": "New World",
+      "fingerprint": 1105862488,
+      "fileDateHash": 3187750597,
+      "sectionID": 17,
+      "individualFingerprints": [
+        40009286,
+        118596283,
+        150503040,
+        325489447,
+        350598488,
+        350598488,
+        466422544,
+        466422544,
+        466422544,
+        466422544,
+        466422544,
+        466422544,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        612129200,
+        708749131,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        965405920,
+        1165204338,
+        1242983175,
+        1320689441,
+        1392965992,
+        1392965992,
+        1414156570,
+        1441842433,
+        1441842433,
+        1441842433,
+        1441842433,
+        1441842433,
+        1441842433,
+        1441842433,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1540447798,
+        1784707266,
+        1847317961,
+        1931526825,
+        1951424017,
+        1957474135,
+        2083000545,
+        2119334069,
+        2131379573,
+        2239961529,
+        2430003878,
+        2430003878,
+        2481146162,
+        2643933950,
+        2724654431,
+        2724654431,
+        2724654431,
+        2724654431,
+        2724654431,
+        2724654431,
+        2724654431,
+        2724654431,
+        2724654431,
+        2748919454,
+        2755256242,
+        2803389871,
+        2867224728,
+        2896509132,
+        2898641309,
+        2920740582,
+        2945317609,
+        2968251841,
+        3057974670,
+        3179483534,
+        3202791725,
+        3236926897,
+        3298882786,
+        3322343576,
+        3322343576,
+        3444548295,
+        3476345618,
+        3577570815,
+        3582932549,
+        3750254640,
+        3752211355,
+        3752211355,
+        3752211355,
+        3752211355,
+        3752211355,
+        3752211355,
+        3784058293,
+        4031055806,
+        4066555641,
+        4109403879,
+        4182813385,
+        4198961104,
+        4200071940,
+        4223687758,
+        4228808913,
+        4236089394,
+        4287276362
+      ],
+      "status": 1,
+      "timestamp": "2019-01-30T02:40:28.5703371Z",
+      "lastWriteTimeUtc": "2019-01-29T13:10:11.5831881Z",
+      "queryTimestamp": "2019-01-30T02:40:30.8192825Z",
+      "fileCount": 31,
+      "fileSize": 0
+    },
+    {
       "folderName": "Controlling-3.0.6.jar",
       "fingerprint": 2220369187,
       "fileDateHash": 3684072734,
@@ -1309,21 +1455,6 @@
       "fileSize": 1160618
     },
     {
-      "folderName": "weather2-1.12.1-2.6.12.jar",
-      "fingerprint": 943059266,
-      "fileDateHash": 2802639932,
-      "sectionID": 6,
-      "individualFingerprints": [
-        943059266
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:48.6984205Z",
-      "lastWriteTimeUtc": "2019-01-29T10:32:12.8983348Z",
-      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
-      "fileCount": 1,
-      "fileSize": 4550732
-    },
-    {
       "folderName": "TConstruct-1.12.2-2.12.0.113.jar",
       "fingerprint": 369920497,
       "fileDateHash": 1864319417,
@@ -1337,6 +1468,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
       "fileCount": 1,
       "fileSize": 3945706
+    },
+    {
+      "folderName": "weather2-1.12.1-2.6.12.jar",
+      "fingerprint": 943059266,
+      "fileDateHash": 2802639932,
+      "sectionID": 6,
+      "individualFingerprints": [
+        943059266
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:48.6984205Z",
+      "lastWriteTimeUtc": "2019-01-29T10:32:12.8983348Z",
+      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
+      "fileCount": 1,
+      "fileSize": 4550732
     },
     {
       "folderName": "Draconic-Evolution-1.12.2-2.3.18.329-universal.jar",
@@ -1354,6 +1500,21 @@
       "fileSize": 5674864
     },
     {
+      "folderName": "blockdrops-1.12.2-1.4.0.jar",
+      "fingerprint": 2072195003,
+      "fileDateHash": 1397765631,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2072195003
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:46.8702637Z",
+      "lastWriteTimeUtc": "2019-01-29T10:32:11.3970903Z",
+      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
+      "fileCount": 1,
+      "fileSize": 31143
+    },
+    {
       "folderName": "unnatural_absorption-1.12-1.3.1.jar",
       "fingerprint": 2532138959,
       "fileDateHash": 4289914010,
@@ -1369,19 +1530,19 @@
       "fileSize": 42712
     },
     {
-      "folderName": "blockdrops-1.12.2-1.4.0.jar",
-      "fingerprint": 2072195003,
-      "fileDateHash": 1397765631,
+      "folderName": "justenoughbuttons-1.12.2-1.2.3.jar",
+      "fingerprint": 1921752920,
+      "fileDateHash": 3004418924,
       "sectionID": 6,
       "individualFingerprints": [
-        2072195003
+        1921752920
       ],
       "status": 1,
-      "timestamp": "2019-01-29T10:51:46.8702637Z",
-      "lastWriteTimeUtc": "2019-01-29T10:32:11.3970903Z",
+      "timestamp": "2019-01-29T10:51:47.4457536Z",
+      "lastWriteTimeUtc": "2019-01-29T10:32:12.3432363Z",
       "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
       "fileCount": 1,
-      "fileSize": 31143
+      "fileSize": 106019
     },
     {
       "folderName": "Structures",
@@ -1525,19 +1686,19 @@
       "fileSize": 0
     },
     {
-      "folderName": "justenoughbuttons-1.12.2-1.2.3.jar",
-      "fingerprint": 1921752920,
-      "fileDateHash": 3004418924,
+      "folderName": "NotEnoughIDs-1.5.4.3.jar",
+      "fingerprint": 2000351783,
+      "fileDateHash": 2320030815,
       "sectionID": 6,
       "individualFingerprints": [
-        1921752920
+        2000351783
       ],
       "status": 1,
-      "timestamp": "2019-01-29T10:51:47.4457536Z",
-      "lastWriteTimeUtc": "2019-01-29T10:32:12.3432363Z",
-      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
+      "timestamp": "2019-01-29T12:20:15.1732148Z",
+      "lastWriteTimeUtc": "2019-01-29T10:52:19.6286008Z",
+      "queryTimestamp": "2019-01-29T12:20:15.6888576Z",
       "fileCount": 1,
-      "fileSize": 106019
+      "fileSize": 32172
     },
     {
       "folderName": "PassableLeaves-1.12.2-2.0.0.jar",
@@ -1553,21 +1714,6 @@
       "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
       "fileCount": 1,
       "fileSize": 64575
-    },
-    {
-      "folderName": "NotEnoughIDs-1.5.4.3.jar",
-      "fingerprint": 2000351783,
-      "fileDateHash": 2320030815,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2000351783
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T12:20:15.1732148Z",
-      "lastWriteTimeUtc": "2019-01-29T10:52:19.6286008Z",
-      "queryTimestamp": "2019-01-29T12:20:15.6888576Z",
-      "fileCount": 1,
-      "fileSize": 32172
     },
     {
       "folderName": "solcarrot-1.12.2-1.3.3.jar",
@@ -1615,21 +1761,6 @@
       "fileSize": 135518
     },
     {
-      "folderName": "LagGoggles-FORGE-1.12.2-4.1.jar",
-      "fingerprint": 3292787491,
-      "fileDateHash": 2993704405,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3292787491
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:47.448719Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:55.3718704Z",
-      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
-      "fileCount": 1,
-      "fileSize": 3806071
-    },
-    {
       "folderName": "coroutil-1.12.1-1.2.15.jar",
       "fingerprint": 367544734,
       "fileDateHash": 1079535983,
@@ -1643,6 +1774,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
       "fileCount": 1,
       "fileSize": 2265355
+    },
+    {
+      "folderName": "LagGoggles-FORGE-1.12.2-4.1.jar",
+      "fingerprint": 3292787491,
+      "fileDateHash": 2993704405,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3292787491
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:47.448719Z",
+      "lastWriteTimeUtc": "2019-01-29T10:31:55.3718704Z",
+      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
+      "fileCount": 1,
+      "fileSize": 3806071
     },
     {
       "folderName": "VanillaFix-1.0.10-99.jar",
@@ -1705,21 +1851,6 @@
       "fileSize": 1304914
     },
     {
-      "folderName": "NuclearCraft-2.13--1.12.2.jar",
-      "fingerprint": 1451264991,
-      "fileDateHash": 2745747460,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1451264991
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:48.2496612Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:56.5676274Z",
-      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
-      "fileCount": 1,
-      "fileSize": 6879232
-    },
-    {
       "folderName": "CustomStartingGear-1.12-1.2.0.9-universal.jar",
       "fingerprint": 1781565182,
       "fileDateHash": 2512666232,
@@ -1733,6 +1864,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
       "fileCount": 1,
       "fileSize": 23171
+    },
+    {
+      "folderName": "NuclearCraft-2.13--1.12.2.jar",
+      "fingerprint": 1451264991,
+      "fileDateHash": 2745747460,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1451264991
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:48.2496612Z",
+      "lastWriteTimeUtc": "2019-01-29T10:31:56.5676274Z",
+      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
+      "fileCount": 1,
+      "fileSize": 6879232
     },
     {
       "folderName": "Erosion-2.2.1.jar",
@@ -1765,21 +1911,6 @@
       "fileSize": 151410
     },
     {
-      "folderName": "SimplyJetpacks2-1.12.2-2.2.10.63.jar",
-      "fingerprint": 1129790114,
-      "fileDateHash": 1932551195,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1129790114
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:48.483864Z",
-      "lastWriteTimeUtc": "2019-01-29T10:32:09.6536549Z",
-      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
-      "fileCount": 1,
-      "fileSize": 664367
-    },
-    {
       "folderName": "modtweaker-4.0.15.jar",
       "fingerprint": 1946190618,
       "fileDateHash": 4169606724,
@@ -1795,19 +1926,19 @@
       "fileSize": 430351
     },
     {
-      "folderName": "NoMoreRecipeConflict-0.12(1.12.2).jar",
-      "fingerprint": 808652298,
-      "fileDateHash": 3747107148,
+      "folderName": "SimplyJetpacks2-1.12.2-2.2.10.63.jar",
+      "fingerprint": 1129790114,
+      "fileDateHash": 1932551195,
       "sectionID": 6,
       "individualFingerprints": [
-        808652298
+        1129790114
       ],
       "status": 1,
-      "timestamp": "2019-01-29T10:51:48.2486621Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:56.4739018Z",
+      "timestamp": "2019-01-29T10:51:48.483864Z",
+      "lastWriteTimeUtc": "2019-01-29T10:32:09.6536549Z",
       "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
       "fileCount": 1,
-      "fileSize": 41868
+      "fileSize": 664367
     },
     {
       "folderName": "bdlib-1.14.3.12-mc1.12.2.jar",
@@ -1823,6 +1954,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
       "fileCount": 1,
       "fileSize": 1962731
+    },
+    {
+      "folderName": "NoMoreRecipeConflict-0.12(1.12.2).jar",
+      "fingerprint": 808652298,
+      "fileDateHash": 3747107148,
+      "sectionID": 6,
+      "individualFingerprints": [
+        808652298
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:48.2486621Z",
+      "lastWriteTimeUtc": "2019-01-29T10:31:56.4739018Z",
+      "queryTimestamp": "2019-01-29T10:51:50.1638249Z",
+      "fileCount": 1,
+      "fileSize": 41868
     },
     {
       "folderName": "Bloodmoon-MC1.12.2-1.5.3.jar",
@@ -2035,21 +2181,6 @@
       "fileSize": 10301
     },
     {
-      "folderName": "techguns-1.12.2-2.0.1.2.jar",
-      "fingerprint": 2228194220,
-      "fileDateHash": 2632849352,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2228194220
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:48.5211634Z",
-      "lastWriteTimeUtc": "2019-01-29T10:32:12.8564472Z",
-      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
-      "fileCount": 1,
-      "fileSize": 25435696
-    },
-    {
       "folderName": "EndMetals-1.12-1.2.0-beta4.53.jar",
       "fingerprint": 1098126825,
       "fileDateHash": 1285308154,
@@ -2063,6 +2194,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.179482Z",
       "fileCount": 1,
       "fileSize": 106579
+    },
+    {
+      "folderName": "techguns-1.12.2-2.0.1.2.jar",
+      "fingerprint": 2228194220,
+      "fileDateHash": 2632849352,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2228194220
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:48.5211634Z",
+      "lastWriteTimeUtc": "2019-01-29T10:32:12.8564472Z",
+      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
+      "fileCount": 1,
+      "fileSize": 25435696
     },
     {
       "folderName": "AppleSkin-mc1.12-1.0.9.jar",
@@ -2110,21 +2256,6 @@
       "fileSize": 1255887
     },
     {
-      "folderName": "LibEx-1.12.2-1.0.8.jar",
-      "fingerprint": 619120326,
-      "fileDateHash": 1846377744,
-      "sectionID": 6,
-      "individualFingerprints": [
-        619120326
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:47.4876156Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:55.5124314Z",
-      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
-      "fileCount": 1,
-      "fileSize": 154500
-    },
-    {
       "folderName": "Guide-API-1.12-2.1.8-63.jar",
       "fingerprint": 1899009469,
       "fileDateHash": 2675836736,
@@ -2140,19 +2271,19 @@
       "fileSize": 169528
     },
     {
-      "folderName": "tinkersjei-1.0.jar",
-      "fingerprint": 2894672098,
-      "fileDateHash": 2652590281,
+      "folderName": "LibEx-1.12.2-1.0.8.jar",
+      "fingerprint": 619120326,
+      "fileDateHash": 1846377744,
       "sectionID": 6,
       "individualFingerprints": [
-        2894672098
+        619120326
       ],
       "status": 1,
-      "timestamp": "2019-01-29T10:51:48.6828069Z",
-      "lastWriteTimeUtc": "2019-01-29T10:32:12.8604373Z",
+      "timestamp": "2019-01-29T10:51:47.4876156Z",
+      "lastWriteTimeUtc": "2019-01-29T10:31:55.5124314Z",
       "queryTimestamp": "2019-01-29T10:51:50.179482Z",
       "fileCount": 1,
-      "fileSize": 11473
+      "fileSize": 154500
     },
     {
       "folderName": "LaserCreeperRobotDinoRidersFromSpace-2.0.0.jar",
@@ -2168,6 +2299,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.179482Z",
       "fileCount": 1,
       "fileSize": 2460689
+    },
+    {
+      "folderName": "tinkersjei-1.0.jar",
+      "fingerprint": 2894672098,
+      "fileDateHash": 2652590281,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2894672098
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:48.6828069Z",
+      "lastWriteTimeUtc": "2019-01-29T10:32:12.8604373Z",
+      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
+      "fileCount": 1,
+      "fileSize": 11473
     },
     {
       "folderName": "AquaCreepers-1.2.3.jar",
@@ -2395,21 +2541,6 @@
       "fileSize": 2304958
     },
     {
-      "folderName": "worldutils-1.12.2-0.4.2.jar",
-      "fingerprint": 3355323550,
-      "fileDateHash": 4085521142,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3355323550
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:48.7542317Z",
-      "lastWriteTimeUtc": "2019-01-29T10:32:12.930189Z",
-      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
-      "fileCount": 1,
-      "fileSize": 248949
-    },
-    {
       "folderName": "p455w0rdslib-1.12.2-2.0.36.jar",
       "fingerprint": 2107305204,
       "fileDateHash": 3913444832,
@@ -2423,6 +2554,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.179482Z",
       "fileCount": 1,
       "fileSize": 305888
+    },
+    {
+      "folderName": "worldutils-1.12.2-0.4.2.jar",
+      "fingerprint": 3355323550,
+      "fileDateHash": 4085521142,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3355323550
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:48.7542317Z",
+      "lastWriteTimeUtc": "2019-01-29T10:32:12.930189Z",
+      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
+      "fileCount": 1,
+      "fileSize": 248949
     },
     {
       "folderName": "WailaHarvestability-mc1.12-1.1.12.jar",
@@ -2741,21 +2887,6 @@
       "fileSize": 496656
     },
     {
-      "folderName": "InventoryTweaks-1.63.jar",
-      "fingerprint": 4009982705,
-      "fileDateHash": 172315860,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4009982705
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:47.4228132Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:55.3249765Z",
-      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
-      "fileCount": 1,
-      "fileSize": 263258
-    },
-    {
       "folderName": "Forgelin-1.8.2.jar",
       "fingerprint": 3233439295,
       "fileDateHash": 4094436170,
@@ -2769,6 +2900,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.179482Z",
       "fileCount": 1,
       "fileSize": 5124663
+    },
+    {
+      "folderName": "InventoryTweaks-1.63.jar",
+      "fingerprint": 4009982705,
+      "fileDateHash": 172315860,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4009982705
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:47.4228132Z",
+      "lastWriteTimeUtc": "2019-01-29T10:31:55.3249765Z",
+      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
+      "fileCount": 1,
+      "fileSize": 263258
     },
     {
       "folderName": "WirelessCraftingTerminal-1.12.2-3.11.88.jar",
@@ -2846,21 +2992,6 @@
       "fileSize": 758397
     },
     {
-      "folderName": "LycanitesMobsComplete 1.20.5.2 [1.12.2].jar",
-      "fingerprint": 828012641,
-      "fileDateHash": 2272759034,
-      "sectionID": 6,
-      "individualFingerprints": [
-        828012641
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:47.4986125Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:55.979215Z",
-      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
-      "fileCount": 1,
-      "fileSize": 63045505
-    },
-    {
       "folderName": "JustEnoughResources-1.12.2-0.8.9.48.jar",
       "fingerprint": 4082124556,
       "fileDateHash": 157771357,
@@ -2874,6 +3005,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.179482Z",
       "fileCount": 1,
       "fileSize": 219114
+    },
+    {
+      "folderName": "LycanitesMobsComplete 1.20.5.2 [1.12.2].jar",
+      "fingerprint": 828012641,
+      "fileDateHash": 2272759034,
+      "sectionID": 6,
+      "individualFingerprints": [
+        828012641
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:47.4986125Z",
+      "lastWriteTimeUtc": "2019-01-29T10:31:55.979215Z",
+      "queryTimestamp": "2019-01-29T10:51:50.179482Z",
+      "fileCount": 1,
+      "fileSize": 63045505
     },
     {
       "folderName": "primitivemobs-1.2.3a.jar",
@@ -3056,21 +3202,6 @@
       "fileSize": 180476
     },
     {
-      "folderName": "lavadynamics-1.12.2-3.11.18.jar.disabled",
-      "fingerprint": 1582183190,
-      "fileDateHash": 3004418924,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1582183190
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:47.4856189Z",
-      "lastWriteTimeUtc": "2019-01-29T10:32:12.3432363Z",
-      "queryTimestamp": "2019-01-29T10:51:50.1951028Z",
-      "fileCount": 1,
-      "fileSize": 32936
-    },
-    {
       "folderName": "conarm-1.12.2-1.2.3.jar",
       "fingerprint": 12685933,
       "fileDateHash": 3802577569,
@@ -3084,6 +3215,21 @@
       "queryTimestamp": "2019-01-29T10:51:50.1951028Z",
       "fileCount": 1,
       "fileSize": 864305
+    },
+    {
+      "folderName": "lavadynamics-1.12.2-3.11.18.jar.disabled",
+      "fingerprint": 1582183190,
+      "fileDateHash": 3004418924,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1582183190
+      ],
+      "status": 1,
+      "timestamp": "2019-01-29T10:51:47.4856189Z",
+      "lastWriteTimeUtc": "2019-01-29T10:32:12.3432363Z",
+      "queryTimestamp": "2019-01-29T10:51:50.1951028Z",
+      "fileCount": 1,
+      "fileSize": 32936
     },
     {
       "folderName": "appliedenergistics2-rv6-stable-6.jar",
