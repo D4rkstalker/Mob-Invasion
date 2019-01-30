@@ -35,6 +35,7 @@
 [INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_fusion recipe: 1000 x liquidtritium, 144 x lithium7 -> 1000 x helium, 1000 x helium, 10 x neutron, 10 x neutron
 [INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_fusion recipe: 1000 x liquidtritium, 144 x boron11 -> 1500 x helium, 1500 x helium, 10 x neutron, 10 x neutron
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_ingot_former recipe: 4000 x corium -> 1 x item.nuclearcraft.alloy:1
 [INITIALIZATION][CLIENT][INFO] Adding Ionite Crystal to ore dictionary entry gemIonite
 [INITIALIZATION][CLIENT][INFO] Adding Aethium Crystal to ore dictionary entry gemAethium
 [INITIALIZATION][CLIENT][INFO] Adding Pladium Crystal to ore dictionary entry gemPladium
@@ -44,7 +45,7 @@
 [INITIALIZATION][CLIENT][INFO] Adding Chunk of Flesh to ore dictionary entry listAllmeatraw
 [INITIALIZATION][CLIENT][INFO] Adding Bitumen to ore dictionary entry crystalCrudeOil
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 813ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 655ms
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dark Steel Armor Plating with name ct_shaped448154969
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux-Infused Chestplate Assembly with name ct_shaped510989015
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Conductive Iron Armor Plating with name ct_shaped-1364022346
@@ -105,7 +106,13 @@
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:cryotheum> * 1000
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:experience> * 500
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:mushroom_stew> * 1000
-[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <woot:stygianironplate> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <nuclearcraft:part> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <nuclearcraft:part:1> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <nuclearcraft:part:2> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <nuclearcraft:part:3> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <matteroverdrive:tritanium_plate> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <nuclearcraft:alloy:1>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <nuclearcraft:alloy:6>
 [AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <rftools:dimensional_shard> * 10
 [AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <draconicevolution:draconium_dust> * 10
 [AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <environmentaltech:litherite_crystal> * 2
@@ -120,46 +127,3 @@
 [AVAILABLE][CLIENT][INFO] Altering Infuser Recipe(s) for <draconicevolution:chaos_shard>
 [AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <silentgems:glowrose:14> * 5
 [SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
-[SERVER_STARTED][SERVER][ERROR] receipies.zs:13: Could not resolve <matteroverdrive : tritanuim_plate>
-[SERVER_STARTED][SERVER][ERROR] receipies.zs:13: Could not resolve <matteroverdrive : tritanuim_ingot>
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 146ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 39ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 40ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 25ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
-[SERVER_STARTED][SERVER][ERROR] receipies.zs:16: Could not resolve <thermalexpansion : material : 160>
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 54ms

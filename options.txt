@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:60
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -116,7 +116,6 @@ key_Toggle Special:46:SHIFT
 key_Toggle Chaos Gem (First):210
 key_Toggle Chaos Gem (All):210
 key_Use Return Home Charm:210
-key_quark.keybind.lockBuilding:210
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -143,6 +142,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:210
 key_key.next_item.desc:203
 key_key.previous_item.desc:205
 key_key.open_danknull.desc:208
@@ -232,7 +232,7 @@ key_waila.keybind.wailadisplay:83
 key_waila.keybind.liquid:210
 key_waila.keybind.recipe:210
 key_waila.keybind.usage:210
-key_key.effortlessbuilding.hud.desc:27
+key_key.effortlessbuilding.hud.desc:78
 key_key.effortlessbuilding.replace.desc:0
 key_key.effortlessbuilding.creative.desc:62
 key_key.immersiveengineering.magnetEquip:31

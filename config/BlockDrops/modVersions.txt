@@ -119,6 +119,7 @@
   "controlling": "3.0.6",
   "cookingforblockheads": "6.4.69",
   "plainsmobs": "1.20.5.2 - MC 1.12.2",
+  "neid": "1.5.4.3",
   "ae2stuff": "0.7.0.4",
   "bookshelf": "2.3.569",
   "ironbackpacks": "1.12.2-3.0.8-12",

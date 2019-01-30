@@ -3502,6 +3502,274 @@ nuclearcraft:fluid_alugentum, Molten Alugentum
 nuclearcraft:fluid_alumina, Molten Alumina
 nuclearcraft:fluid_aluminum, Molten Aluminum
 nuclearcraft:fluid_silver, Molten Silver
+nuclearcraft:fluid_thorium, Molten Thorium
+nuclearcraft:fluid_thorium_fluoride, Molten Thorium Fluoride
+nuclearcraft:fluid_thorium_fluoride_flibe, Molten FLiBe Salt Solution of Thorium Fluoride
+nuclearcraft:fluid_uranium, Molten Uranium
+nuclearcraft:fluid_uranium_fluoride, Molten Uranium Fluoride
+nuclearcraft:fluid_uranium_fluoride_flibe, Molten FLiBe Salt Solution of Uranium Fluoride
+nuclearcraft:fluid_plutonium, Molten Plutonium
+nuclearcraft:fluid_plutonium_fluoride, Molten Plutonium Fluoride
+nuclearcraft:fluid_plutonium_fluoride_flibe, Molten FLiBe Salt Solution of Plutonium Fluoride
+nuclearcraft:fluid_thorium_230, Molten Thorium-230
+nuclearcraft:fluid_thorium_230_fluoride, Molten Thorium-230 Fluoride
+nuclearcraft:fluid_thorium_230_fluoride_flibe, Molten FLiBe Salt Solution of Thorium-230 Fluoride
+nuclearcraft:fluid_thorium_232, Molten Thorium-232
+nuclearcraft:fluid_thorium_232_fluoride, Molten Thorium-232 Fluoride
+nuclearcraft:fluid_thorium_232_fluoride_flibe, Molten FLiBe Salt Solution of Thorium-232 Fluoride
+nuclearcraft:fluid_uranium_233, Molten Uranium-233
+nuclearcraft:fluid_uranium_233_fluoride, Molten Uranium-233 Fluoride
+nuclearcraft:fluid_uranium_233_fluoride_flibe, Molten FLiBe Salt Solution of Uranium-233 Fluoride
+nuclearcraft:fluid_uranium_235, Molten Uranium-235
+nuclearcraft:fluid_uranium_235_fluoride, Molten Uranium-235 Fluoride
+nuclearcraft:fluid_uranium_235_fluoride_flibe, Molten FLiBe Salt Solution of Uranium-235 Fluoride
+nuclearcraft:fluid_uranium_238, Molten Uranium-238
+nuclearcraft:fluid_uranium_238_fluoride, Molten Uranium-238 Fluoride
+nuclearcraft:fluid_uranium_238_fluoride_flibe, Molten FLiBe Salt Solution of Uranium-238 Fluoride
+nuclearcraft:fluid_neptunium_236, Molten Neptunium-236
+nuclearcraft:fluid_neptunium_236_fluoride, Molten Neptunium-236 Fluoride
+nuclearcraft:fluid_neptunium_236_fluoride_flibe, Molten FLiBe Salt Solution of Neptunium-236 Fluoride
+nuclearcraft:fluid_neptunium_237, Molten Neptunium-237
+nuclearcraft:fluid_neptunium_237_fluoride, Molten Neptunium-237 Fluoride
+nuclearcraft:fluid_neptunium_237_fluoride_flibe, Molten FLiBe Salt Solution of Neptunium-237 Fluoride
+nuclearcraft:fluid_plutonium_238, Molten Plutonium-238
+nuclearcraft:fluid_plutonium_238_fluoride, Molten Plutonium-238 Fluoride
+nuclearcraft:fluid_plutonium_238_fluoride_flibe, Molten FLiBe Salt Solution of Plutonium-238 Fluoride
+nuclearcraft:fluid_plutonium_239, Molten Plutonium-239
+nuclearcraft:fluid_plutonium_239_fluoride, Molten Plutonium-239 Fluoride
+nuclearcraft:fluid_plutonium_239_fluoride_flibe, Molten FLiBe Salt Solution of Plutonium-239 Fluoride
+nuclearcraft:fluid_plutonium_241, Molten Plutonium-241
+nuclearcraft:fluid_plutonium_241_fluoride, Molten Plutonium-241 Fluoride
+nuclearcraft:fluid_plutonium_241_fluoride_flibe, Molten FLiBe Salt Solution of Plutonium-241 Fluoride
+nuclearcraft:fluid_plutonium_242, Molten Plutonium-242
+nuclearcraft:fluid_plutonium_242_fluoride, Molten Plutonium-242 Fluoride
+nuclearcraft:fluid_plutonium_242_fluoride_flibe, Molten FLiBe Salt Solution of Plutonium-242 Fluoride
+nuclearcraft:fluid_americium_241, Molten Americium-241
+nuclearcraft:fluid_americium_241_fluoride, Molten Americium-241 Fluoride
+nuclearcraft:fluid_americium_241_fluoride_flibe, Molten FLiBe Salt Solution of Americium-241 Fluoride
+nuclearcraft:fluid_americium_242, Molten Americium-242
+nuclearcraft:fluid_americium_242_fluoride, Molten Americium-242 Fluoride
+nuclearcraft:fluid_americium_242_fluoride_flibe, Molten FLiBe Salt Solution of Americium-242 Fluoride
+nuclearcraft:fluid_americium_243, Molten Americium-243
+nuclearcraft:fluid_americium_243_fluoride, Molten Americium-243 Fluoride
+nuclearcraft:fluid_americium_243_fluoride_flibe, Molten FLiBe Salt Solution of Americium-243 Fluoride
+nuclearcraft:fluid_curium_243, Molten Curium-243
+nuclearcraft:fluid_curium_243_fluoride, Molten Curium-243 Fluoride
+nuclearcraft:fluid_curium_243_fluoride_flibe, Molten FLiBe Salt Solution of Curium-243 Fluoride
+nuclearcraft:fluid_curium_245, Molten Curium-245
+nuclearcraft:fluid_curium_245_fluoride, Molten Curium-245 Fluoride
+nuclearcraft:fluid_curium_245_fluoride_flibe, Molten FLiBe Salt Solution of Curium-245 Fluoride
+nuclearcraft:fluid_curium_246, Molten Curium-246
+nuclearcraft:fluid_curium_246_fluoride, Molten Curium-246 Fluoride
+nuclearcraft:fluid_curium_246_fluoride_flibe, Molten FLiBe Salt Solution of Curium-246 Fluoride
+nuclearcraft:fluid_curium_247, Molten Curium-247
+nuclearcraft:fluid_curium_247_fluoride, Molten Curium-247 Fluoride
+nuclearcraft:fluid_curium_247_fluoride_flibe, Molten FLiBe Salt Solution of Curium-247 Fluoride
+nuclearcraft:fluid_berkelium_247, Molten Berkelium-247
+nuclearcraft:fluid_berkelium_247_fluoride, Molten Berkelium-247 Fluoride
+nuclearcraft:fluid_berkelium_247_fluoride_flibe, Molten FLiBe Salt Solution of Berkelium-247 Fluoride
+nuclearcraft:fluid_berkelium_248, Molten Berkelium-248
+nuclearcraft:fluid_berkelium_248_fluoride, Molten Berkelium-248 Fluoride
+nuclearcraft:fluid_berkelium_248_fluoride_flibe, Molten FLiBe Salt Solution of Berkelium-248 Fluoride
+nuclearcraft:fluid_californium_249, Molten Californium-249
+nuclearcraft:fluid_californium_249_fluoride, Molten Californium-249 Fluoride
+nuclearcraft:fluid_californium_249_fluoride_flibe, Molten FLiBe Salt Solution of Californium-249 Fluoride
+nuclearcraft:fluid_californium_250, Molten Californium-250
+nuclearcraft:fluid_californium_250_fluoride, Molten Californium-250 Fluoride
+nuclearcraft:fluid_californium_250_fluoride_flibe, Molten FLiBe Salt Solution of Californium-250 Fluoride
+nuclearcraft:fluid_californium_251, Molten Californium-251
+nuclearcraft:fluid_californium_251_fluoride, Molten Californium-251 Fluoride
+nuclearcraft:fluid_californium_251_fluoride_flibe, Molten FLiBe Salt Solution of Californium-251 Fluoride
+nuclearcraft:fluid_californium_252, Molten Californium-252
+nuclearcraft:fluid_californium_252_fluoride, Molten Californium-252 Fluoride
+nuclearcraft:fluid_californium_252_fluoride_flibe, Molten FLiBe Salt Solution of Californium-252 Fluoride
+nuclearcraft:fluid_fuel_tbu, Molten TBU Fuel
+nuclearcraft:fluid_fuel_tbu_fluoride, Molten TBU Fluoride Fuel
+nuclearcraft:fluid_fuel_tbu_fluoride_flibe, Molten FLiBe Salt Solution of TBU Fluoride Fuel
+nuclearcraft:fluid_fuel_leu_233, Molten LEU-233 Fuel
+nuclearcraft:fluid_fuel_leu_233_fluoride, Molten LEU-233 Fluoride Fuel
+nuclearcraft:fluid_fuel_leu_233_fluoride_flibe, Molten FLiBe Salt Solution of LEU-233 Fluoride Fuel
+nuclearcraft:fluid_fuel_heu_233, Molten HEU-233 Fuel
+nuclearcraft:fluid_fuel_heu_233_fluoride, Molten HEU-233 Fluoride Fuel
+nuclearcraft:fluid_fuel_heu_233_fluoride_flibe, Molten FLiBe Salt Solution of HEU-233 Fluoride Fuel
+nuclearcraft:fluid_fuel_leu_235, Molten LEU-235 Fuel
+nuclearcraft:fluid_fuel_leu_235_fluoride, Molten LEU-235 Fluoride Fuel
+nuclearcraft:fluid_fuel_leu_235_fluoride_flibe, Molten FLiBe Salt Solution of LEU-235 Fluoride Fuel
+nuclearcraft:fluid_fuel_heu_235, Molten HEU-235 Fuel
+nuclearcraft:fluid_fuel_heu_235_fluoride, Molten HEU-235 Fluoride Fuel
+nuclearcraft:fluid_fuel_heu_235_fluoride_flibe, Molten FLiBe Salt Solution of HEU-235 Fluoride Fuel
+nuclearcraft:fluid_fuel_len_236, Molten LEN-236 Fuel
+nuclearcraft:fluid_fuel_len_236_fluoride, Molten LEN-236 Fluoride Fuel
+nuclearcraft:fluid_fuel_len_236_fluoride_flibe, Molten FLiBe Salt Solution of LEN-236 Fluoride Fuel
+nuclearcraft:fluid_fuel_hen_236, Molten HEN-236 Fuel
+nuclearcraft:fluid_fuel_hen_236_fluoride, Molten HEN-236 Fluoride Fuel
+nuclearcraft:fluid_fuel_hen_236_fluoride_flibe, Molten FLiBe Salt Solution of HEN-236 Fluoride Fuel
+nuclearcraft:fluid_fuel_lep_239, Molten LEP-239 Fuel
+nuclearcraft:fluid_fuel_lep_239_fluoride, Molten LEP-239 Fluoride Fuel
+nuclearcraft:fluid_fuel_lep_239_fluoride_flibe, Molten FLiBe Salt Solution of LEP-239 Fluoride Fuel
+nuclearcraft:fluid_fuel_hep_239, Molten HEP-239 Fuel
+nuclearcraft:fluid_fuel_hep_239_fluoride, Molten HEP-239 Fluoride Fuel
+nuclearcraft:fluid_fuel_hep_239_fluoride_flibe, Molten FLiBe Salt Solution of HEP-239 Fluoride Fuel
+nuclearcraft:fluid_fuel_lep_241, Molten LEP-241 Fuel
+nuclearcraft:fluid_fuel_lep_241_fluoride, Molten LEP-241 Fluoride Fuel
+nuclearcraft:fluid_fuel_lep_241_fluoride_flibe, Molten FLiBe Salt Solution of LEP-241 Fluoride Fuel
+nuclearcraft:fluid_fuel_hep_241, Molten HEP-241 Fuel
+nuclearcraft:fluid_fuel_hep_241_fluoride, Molten HEP-241 Fluoride Fuel
+nuclearcraft:fluid_fuel_hep_241_fluoride_flibe, Molten FLiBe Salt Solution of HEP-241 Fluoride Fuel
+nuclearcraft:fluid_fuel_lea_242, Molten LEA-242 Fuel
+nuclearcraft:fluid_fuel_lea_242_fluoride, Molten LEA-242 Fluoride Fuel
+nuclearcraft:fluid_fuel_lea_242_fluoride_flibe, Molten FLiBe Salt Solution of LEA-242 Fluoride Fuel
+nuclearcraft:fluid_fuel_hea_242, Molten HEA-242 Fuel
+nuclearcraft:fluid_fuel_hea_242_fluoride, Molten HEA-242 Fluoride Fuel
+nuclearcraft:fluid_fuel_hea_242_fluoride_flibe, Molten FLiBe Salt Solution of HEA-242 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecm_243, Molten LECm-243 Fuel
+nuclearcraft:fluid_fuel_lecm_243_fluoride, Molten LECm-243 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecm_243_fluoride_flibe, Molten FLiBe Salt Solution of LECm-243 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecm_243, Molten HECm-243 Fuel
+nuclearcraft:fluid_fuel_hecm_243_fluoride, Molten HECm-243 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecm_243_fluoride_flibe, Molten FLiBe Salt Solution of HECm-243 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecm_245, Molten LECm-245 Fuel
+nuclearcraft:fluid_fuel_lecm_245_fluoride, Molten LECm-245 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecm_245_fluoride_flibe, Molten FLiBe Salt Solution of LECm-245 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecm_245, Molten HECm-245 Fuel
+nuclearcraft:fluid_fuel_hecm_245_fluoride, Molten HECm-245 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecm_245_fluoride_flibe, Molten FLiBe Salt Solution of HECm-245 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecm_247, Molten LECm-247 Fuel
+nuclearcraft:fluid_fuel_lecm_247_fluoride, Molten LECm-247 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecm_247_fluoride_flibe, Molten FLiBe Salt Solution of LECm-247 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecm_247, Molten HECm-247 Fuel
+nuclearcraft:fluid_fuel_hecm_247_fluoride, Molten HECm-247 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecm_247_fluoride_flibe, Molten FLiBe Salt Solution of HECm-247 Fluoride Fuel
+nuclearcraft:fluid_fuel_leb_248, Molten LEB-248 Fuel
+nuclearcraft:fluid_fuel_leb_248_fluoride, Molten LEB-248 Fluoride Fuel
+nuclearcraft:fluid_fuel_leb_248_fluoride_flibe, Molten FLiBe Salt Solution of LEB-248 Fluoride Fuel
+nuclearcraft:fluid_fuel_heb_248, Molten HEB-248 Fuel
+nuclearcraft:fluid_fuel_heb_248_fluoride, Molten HEB-248 Fluoride Fuel
+nuclearcraft:fluid_fuel_heb_248_fluoride_flibe, Molten FLiBe Salt Solution of HEB-248 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecf_249, Molten LECf-249 Fuel
+nuclearcraft:fluid_fuel_lecf_249_fluoride, Molten LECf-249 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecf_249_fluoride_flibe, Molten FLiBe Salt Solution of LECf-249 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecf_249, Molten HECf-249 Fuel
+nuclearcraft:fluid_fuel_hecf_249_fluoride, Molten HECf-249 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecf_249_fluoride_flibe, Molten FLiBe Salt Solution of HECf-249 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecf_251, Molten LECf-251 Fuel
+nuclearcraft:fluid_fuel_lecf_251_fluoride, Molten LECf-251 Fluoride Fuel
+nuclearcraft:fluid_fuel_lecf_251_fluoride_flibe, Molten FLiBe Salt Solution of LECf-251 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecf_251, Molten HECf-251 Fuel
+nuclearcraft:fluid_fuel_hecf_251_fluoride, Molten HECf-251 Fluoride Fuel
+nuclearcraft:fluid_fuel_hecf_251_fluoride_flibe, Molten FLiBe Salt Solution of HECf-251 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_tbu, Molten Depleted TBU Fuel
+nuclearcraft:fluid_depleted_fuel_tbu_fluoride, Molten Depleted TBU Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_tbu_fluoride_flibe, Molten FLiBe Salt Solution of Depleted TBU Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_leu_233, Molten Depleted LEU-233 Fuel
+nuclearcraft:fluid_depleted_fuel_leu_233_fluoride, Molten Depleted LEU-233 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_leu_233_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LEU-233 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_heu_233, Molten Depleted HEU-233 Fuel
+nuclearcraft:fluid_depleted_fuel_heu_233_fluoride, Molten Depleted HEU-233 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_heu_233_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HEU-233 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_leu_235, Molten Depleted LEU-235 Fuel
+nuclearcraft:fluid_depleted_fuel_leu_235_fluoride, Molten Depleted LEU-235 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_leu_235_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LEU-235 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_heu_235, Molten Depleted HEU-235 Fuel
+nuclearcraft:fluid_depleted_fuel_heu_235_fluoride, Molten Depleted HEU-235 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_heu_235_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HEU-235 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_len_236, Molten Depleted LEN-236 Fuel
+nuclearcraft:fluid_depleted_fuel_len_236_fluoride, Molten Depleted LEN-236 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_len_236_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LEN-236 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hen_236, Molten Depleted HEN-236 Fuel
+nuclearcraft:fluid_depleted_fuel_hen_236_fluoride, Molten Depleted HEN-236 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hen_236_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HEN-236 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lep_239, Molten Depleted LEP-239 Fuel
+nuclearcraft:fluid_depleted_fuel_lep_239_fluoride, Molten Depleted LEP-239 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lep_239_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LEP-239 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hep_239, Molten Depleted HEP-239 Fuel
+nuclearcraft:fluid_depleted_fuel_hep_239_fluoride, Molten Depleted HEP-239 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hep_239_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HEP-239 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lep_241, Molten Depleted LEP-241 Fuel
+nuclearcraft:fluid_depleted_fuel_lep_241_fluoride, Molten Depleted LEP-241 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lep_241_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LEP-241 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hep_241, Molten Depleted HEP-241 Fuel
+nuclearcraft:fluid_depleted_fuel_hep_241_fluoride, Molten Depleted HEP-241 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hep_241_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HEP-241 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lea_242, Molten Depleted LEA-242 Fuel
+nuclearcraft:fluid_depleted_fuel_lea_242_fluoride, Molten Depleted LEA-242 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lea_242_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LEA-242 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hea_242, Molten Depleted HEA-242 Fuel
+nuclearcraft:fluid_depleted_fuel_hea_242_fluoride, Molten Depleted HEA-242 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hea_242_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HEA-242 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_243, Molten Depleted LECm-243 Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_243_fluoride, Molten Depleted LECm-243 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_243_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LECm-243 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_243, Molten Depleted HECm-243 Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_243_fluoride, Molten Depleted HECm-243 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_243_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HECm-243 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_245, Molten Depleted LECm-245 Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_245_fluoride, Molten Depleted LECm-245 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_245_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LECm-245 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_245, Molten Depleted HECm-245 Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_245_fluoride, Molten Depleted HECm-245 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_245_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HECm-245 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_247, Molten Depleted LECm-247 Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_247_fluoride, Molten Depleted LECm-247 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecm_247_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LECm-247 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_247, Molten Depleted HECm-247 Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_247_fluoride, Molten Depleted HECm-247 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecm_247_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HECm-247 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_leb_248, Molten Depleted LEB-248 Fuel
+nuclearcraft:fluid_depleted_fuel_leb_248_fluoride, Molten Depleted LEB-248 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_leb_248_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LEB-248 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_heb_248, Molten Depleted HEB-248 Fuel
+nuclearcraft:fluid_depleted_fuel_heb_248_fluoride, Molten Depleted HEB-248 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_heb_248_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HEB-248 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecf_249, Molten Depleted LECf-249 Fuel
+nuclearcraft:fluid_depleted_fuel_lecf_249_fluoride, Molten Depleted LECf-249 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecf_249_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LECf-249 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecf_249, Molten Depleted HECf-249 Fuel
+nuclearcraft:fluid_depleted_fuel_hecf_249_fluoride, Molten Depleted HECf-249 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecf_249_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HECf-249 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecf_251, Molten Depleted LECf-251 Fuel
+nuclearcraft:fluid_depleted_fuel_lecf_251_fluoride, Molten Depleted LECf-251 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_lecf_251_fluoride_flibe, Molten FLiBe Salt Solution of Depleted LECf-251 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecf_251, Molten Depleted HECf-251 Fuel
+nuclearcraft:fluid_depleted_fuel_hecf_251_fluoride, Molten Depleted HECf-251 Fluoride Fuel
+nuclearcraft:fluid_depleted_fuel_hecf_251_fluoride_flibe, Molten FLiBe Salt Solution of Depleted HECf-251 Fluoride Fuel
+nuclearcraft:fluid_redstone_nak, Eutectic NaK-Redstone Mixture
+nuclearcraft:fluid_redstone_nak_hot, Hot Eutectic NaK-Redstone Mixture
+nuclearcraft:fluid_quartz, Molten Quartz
+nuclearcraft:fluid_quartz_nak, Eutectic NaK-Quartz Mixture
+nuclearcraft:fluid_quartz_nak_hot, Hot Eutectic NaK-Quartz Mixture
+nuclearcraft:fluid_gold, Molten Gold
+nuclearcraft:fluid_gold_nak, Eutectic NaK-Gold Mixture
+nuclearcraft:fluid_gold_nak_hot, Hot Eutectic NaK-Gold Mixture
+nuclearcraft:fluid_glowstone_nak, Eutectic NaK-Glowstone Mixture
+nuclearcraft:fluid_glowstone_nak_hot, Hot Eutectic NaK-Glowstone Mixture
+nuclearcraft:fluid_lapis, Molten Lapis
+nuclearcraft:fluid_lapis_nak, Eutectic NaK-Lapis Mixture
+nuclearcraft:fluid_lapis_nak_hot, Hot Eutectic NaK-Lapis Mixture
+nuclearcraft:fluid_diamond, Molten Diamond
+nuclearcraft:fluid_diamond_nak, Eutectic NaK-Diamond Mixture
+nuclearcraft:fluid_diamond_nak_hot, Hot Eutectic NaK-Diamond Mixture
+nuclearcraft:fluid_liquidhelium_nak, Eutectic NaK-Helium Mixture
+nuclearcraft:fluid_liquidhelium_nak_hot, Hot Eutectic NaK-Helium Mixture
+nuclearcraft:fluid_ender_nak, Eutectic NaK-Ender Mixture
+nuclearcraft:fluid_ender_nak_hot, Hot Eutectic NaK-Ender Mixture
+nuclearcraft:fluid_cryotheum_nak, Eutectic NaK-Cryotheum Mixture
+nuclearcraft:fluid_cryotheum_nak_hot, Hot Eutectic NaK-Cryotheum Mixture
+nuclearcraft:fluid_iron, Molten Iron
+nuclearcraft:fluid_iron_nak, Eutectic NaK-Iron Mixture
+nuclearcraft:fluid_iron_nak_hot, Hot Eutectic NaK-Iron Mixture
+nuclearcraft:fluid_emerald, Molten Emerald
+nuclearcraft:fluid_emerald_nak, Eutectic NaK-Emerald Mixture
+nuclearcraft:fluid_emerald_nak_hot, Hot Eutectic NaK-Emerald Mixture
+nuclearcraft:fluid_copper, Molten Copper
+nuclearcraft:fluid_copper_nak, Eutectic NaK-Copper Mixture
+nuclearcraft:fluid_copper_nak_hot, Hot Eutectic NaK-Copper Mixture
+nuclearcraft:fluid_tin, Molten Tin
+nuclearcraft:fluid_tin_nak, Eutectic NaK-Tin Mixture
+nuclearcraft:fluid_tin_nak_hot, Hot Eutectic NaK-Tin Mixture
+nuclearcraft:fluid_magnesium, Molten Magnesium
+nuclearcraft:fluid_magnesium_nak, Eutectic NaK-Magnesium Mixture
+nuclearcraft:fluid_magnesium_nak_hot, Hot Eutectic NaK-Magnesium Mixture
 openblocks:ladder, Jaded Ladder
 openblocks:guide, Building Guide
 openblocks:builder_guide, Enhanced Building Guide
@@ -7575,10 +7843,10 @@ silentgems:soul_urn, Soul Urn
 scalinghealth:crystalore, Heart Crystal Ore
 sgextraparts:rock, Feldspar
 forge:bucketfilled, %s Bucket
+uncraftingtable:uncrafting_table, Uncrafting Table
 uncraftingtable:nugget:0, Diamond Nugget
 uncraftingtable:nugget:1, Emerald Nugget
 uncraftingtable:nugget:3, Leather Strip
-uncraftingtable:uncrafting_table, Uncrafting Table
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:matrix_frame, Matrix Frame
@@ -10347,6 +10615,10 @@ appliedenergistics2:facade:0, Cable Facade - Chaos Ore
 appliedenergistics2:facade:0, Cable Facade - Block of Chaos Essence
 appliedenergistics2:facade:0, Cable Facade - Hardened Stone
 appliedenergistics2:facade:0, Cable Facade - Fluffy Block (White)
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
 appliedenergistics2:facade:0, Cable Facade - Marble
 appliedenergistics2:facade:0, Cable Facade - Limestone
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
@@ -10383,10 +10655,6 @@ appliedenergistics2:facade:0, Cable Facade - Carved Oak Wood
 appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
 appliedenergistics2:facade:0, Cable Facade - Kitchen Floor
 appliedenergistics2:facade:0, Cable Facade - Melty Obsidian
 appliedenergistics2:facade:0, Cable Facade - Drippy Obsidian
@@ -11944,44 +12212,44 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
 tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -11992,6 +12260,7 @@ tconstruct:shard:0, Dark Shard
 tconstruct:shard:0, Souled Shard
 tconstruct:shard:0, Shard of the End
 tconstruct:shard:0, Fake-Iron Shard
+tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
 tconstruct:shard:0, Cactus Shard
@@ -12201,15 +12470,14 @@ tconstruct:shard:0, Supercharged Kunzite Shard
 tconstruct:shard:0, Supercharged Rose Quartz Shard
 tconstruct:shard:0, Supercharged Tektite Shard
 tconstruct:shard:0, Supercharged Pearl Shard
-tconstruct:shard:0, Wyvern Shard
-tconstruct:shard:0, Awakened Shard
-tconstruct:shard:0, Chaotic Shard
-tconstruct:shard:0, Emerald Shard
 tconstruct:shard:0, Bloodwood Shard
 tconstruct:shard:0, Fusewood Shard
 tconstruct:shard:0, Ghostwood Shard
 tconstruct:shard:0, Darkwood Shard
-tconstruct:shard:0, Wooden Shard
+tconstruct:shard:0, Wyvern Shard
+tconstruct:shard:0, Awakened Shard
+tconstruct:shard:0, Chaotic Shard
+tconstruct:shard:0, Emerald Shard
 tconstruct:sharpening_kit:0, Electrical Sharpening Kit
 tconstruct:sharpening_kit:0, Energetic Sharpening Kit
 tconstruct:sharpening_kit:0, Vibrant Sharpening Kit
@@ -12220,6 +12488,7 @@ tconstruct:sharpening_kit:0, Dark Sharpening Kit
 tconstruct:sharpening_kit:0, Souled Sharpening Kit
 tconstruct:sharpening_kit:0, Sharpening Kit of the End
 tconstruct:sharpening_kit:0, Fake-Iron Sharpening Kit
+tconstruct:sharpening_kit:0, Wooden Sharpening Kit
 tconstruct:sharpening_kit:0, Stone Sharpening Kit
 tconstruct:sharpening_kit:0, Flint Sharpening Kit
 tconstruct:sharpening_kit:0, Cactus Sharpening Kit
@@ -12429,15 +12698,14 @@ tconstruct:sharpening_kit:0, Supercharged Kunzite Sharpening Kit
 tconstruct:sharpening_kit:0, Supercharged Rose Quartz Sharpening Kit
 tconstruct:sharpening_kit:0, Supercharged Tektite Sharpening Kit
 tconstruct:sharpening_kit:0, Supercharged Pearl Sharpening Kit
-tconstruct:sharpening_kit:0, Wyvern Sharpening Kit
-tconstruct:sharpening_kit:0, Awakened Sharpening Kit
-tconstruct:sharpening_kit:0, Chaotic Sharpening Kit
-tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:sharpening_kit:0, Bloodwood Sharpening Kit
 tconstruct:sharpening_kit:0, Fusewood Sharpening Kit
 tconstruct:sharpening_kit:0, Ghostwood Sharpening Kit
 tconstruct:sharpening_kit:0, Darkwood Sharpening Kit
-tconstruct:sharpening_kit:0, Wooden Sharpening Kit
+tconstruct:sharpening_kit:0, Wyvern Sharpening Kit
+tconstruct:sharpening_kit:0, Awakened Sharpening Kit
+tconstruct:sharpening_kit:0, Chaotic Sharpening Kit
+tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:pick_head:0, Electrical Pickaxe Head
 tconstruct:pick_head:0, Energetic Pickaxe Head
 tconstruct:pick_head:0, Vibrant Pickaxe Head
@@ -12448,6 +12716,7 @@ tconstruct:pick_head:0, Dark Pickaxe Head
 tconstruct:pick_head:0, Souled Pickaxe Head
 tconstruct:pick_head:0, Pickaxe Head of the End
 tconstruct:pick_head:0, Fake-Iron Pickaxe Head
+tconstruct:pick_head:0, Wooden Pickaxe Head
 tconstruct:pick_head:0, Stone Pickaxe Head
 tconstruct:pick_head:0, Flint Pickaxe Head
 tconstruct:pick_head:0, Cactus Pickaxe Head
@@ -12657,15 +12926,14 @@ tconstruct:pick_head:0, Supercharged Kunzite Pickaxe Head
 tconstruct:pick_head:0, Supercharged Rose Quartz Pickaxe Head
 tconstruct:pick_head:0, Supercharged Tektite Pickaxe Head
 tconstruct:pick_head:0, Supercharged Pearl Pickaxe Head
-tconstruct:pick_head:0, Wyvern Pickaxe Head
-tconstruct:pick_head:0, Awakened Pickaxe Head
-tconstruct:pick_head:0, Chaotic Pickaxe Head
-tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:pick_head:0, Bloodwood Pickaxe Head
 tconstruct:pick_head:0, Fusewood Pickaxe Head
 tconstruct:pick_head:0, Ghostwood Pickaxe Head
 tconstruct:pick_head:0, Darkwood Pickaxe Head
-tconstruct:pick_head:0, Wooden Pickaxe Head
+tconstruct:pick_head:0, Wyvern Pickaxe Head
+tconstruct:pick_head:0, Awakened Pickaxe Head
+tconstruct:pick_head:0, Chaotic Pickaxe Head
+tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:shovel_head:0, Electrical Shovel Head
 tconstruct:shovel_head:0, Energetic Shovel Head
 tconstruct:shovel_head:0, Vibrant Shovel Head
@@ -12676,6 +12944,7 @@ tconstruct:shovel_head:0, Dark Shovel Head
 tconstruct:shovel_head:0, Souled Shovel Head
 tconstruct:shovel_head:0, Shovel Head of the End
 tconstruct:shovel_head:0, Fake-Iron Shovel Head
+tconstruct:shovel_head:0, Wooden Shovel Head
 tconstruct:shovel_head:0, Stone Shovel Head
 tconstruct:shovel_head:0, Flint Shovel Head
 tconstruct:shovel_head:0, Cactus Shovel Head
@@ -12885,15 +13154,14 @@ tconstruct:shovel_head:0, Supercharged Kunzite Shovel Head
 tconstruct:shovel_head:0, Supercharged Rose Quartz Shovel Head
 tconstruct:shovel_head:0, Supercharged Tektite Shovel Head
 tconstruct:shovel_head:0, Supercharged Pearl Shovel Head
-tconstruct:shovel_head:0, Wyvern Shovel Head
-tconstruct:shovel_head:0, Awakened Shovel Head
-tconstruct:shovel_head:0, Chaotic Shovel Head
-tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:shovel_head:0, Bloodwood Shovel Head
 tconstruct:shovel_head:0, Fusewood Shovel Head
 tconstruct:shovel_head:0, Ghostwood Shovel Head
 tconstruct:shovel_head:0, Darkwood Shovel Head
-tconstruct:shovel_head:0, Wooden Shovel Head
+tconstruct:shovel_head:0, Wyvern Shovel Head
+tconstruct:shovel_head:0, Awakened Shovel Head
+tconstruct:shovel_head:0, Chaotic Shovel Head
+tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:axe_head:0, Electrical Axe Head
 tconstruct:axe_head:0, Energetic Axe Head
 tconstruct:axe_head:0, Vibrant Axe Head
@@ -12904,6 +13172,7 @@ tconstruct:axe_head:0, Dark Axe Head
 tconstruct:axe_head:0, Souled Axe Head
 tconstruct:axe_head:0, Axe Head of the End
 tconstruct:axe_head:0, Fake-Iron Axe Head
+tconstruct:axe_head:0, Wooden Axe Head
 tconstruct:axe_head:0, Stone Axe Head
 tconstruct:axe_head:0, Flint Axe Head
 tconstruct:axe_head:0, Cactus Axe Head
@@ -13113,15 +13382,14 @@ tconstruct:axe_head:0, Supercharged Kunzite Axe Head
 tconstruct:axe_head:0, Supercharged Rose Quartz Axe Head
 tconstruct:axe_head:0, Supercharged Tektite Axe Head
 tconstruct:axe_head:0, Supercharged Pearl Axe Head
-tconstruct:axe_head:0, Wyvern Axe Head
-tconstruct:axe_head:0, Awakened Axe Head
-tconstruct:axe_head:0, Chaotic Axe Head
-tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:axe_head:0, Bloodwood Axe Head
 tconstruct:axe_head:0, Fusewood Axe Head
 tconstruct:axe_head:0, Ghostwood Axe Head
 tconstruct:axe_head:0, Darkwood Axe Head
-tconstruct:axe_head:0, Wooden Axe Head
+tconstruct:axe_head:0, Wyvern Axe Head
+tconstruct:axe_head:0, Awakened Axe Head
+tconstruct:axe_head:0, Chaotic Axe Head
+tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:broad_axe_head:0, Electrical Broad Axe Head
 tconstruct:broad_axe_head:0, Energetic Broad Axe Head
 tconstruct:broad_axe_head:0, Vibrant Broad Axe Head
@@ -13132,6 +13400,7 @@ tconstruct:broad_axe_head:0, Dark Broad Axe Head
 tconstruct:broad_axe_head:0, Souled Broad Axe Head
 tconstruct:broad_axe_head:0, Broad Axe Head of the End
 tconstruct:broad_axe_head:0, Fake-Iron Broad Axe Head
+tconstruct:broad_axe_head:0, Wooden Broad Axe Head
 tconstruct:broad_axe_head:0, Stone Broad Axe Head
 tconstruct:broad_axe_head:0, Flint Broad Axe Head
 tconstruct:broad_axe_head:0, Cactus Broad Axe Head
@@ -13341,15 +13610,14 @@ tconstruct:broad_axe_head:0, Supercharged Kunzite Broad Axe Head
 tconstruct:broad_axe_head:0, Supercharged Rose Quartz Broad Axe Head
 tconstruct:broad_axe_head:0, Supercharged Tektite Broad Axe Head
 tconstruct:broad_axe_head:0, Supercharged Pearl Broad Axe Head
-tconstruct:broad_axe_head:0, Wyvern Broad Axe Head
-tconstruct:broad_axe_head:0, Awakened Broad Axe Head
-tconstruct:broad_axe_head:0, Chaotic Broad Axe Head
-tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:broad_axe_head:0, Bloodwood Broad Axe Head
 tconstruct:broad_axe_head:0, Fusewood Broad Axe Head
 tconstruct:broad_axe_head:0, Ghostwood Broad Axe Head
 tconstruct:broad_axe_head:0, Darkwood Broad Axe Head
-tconstruct:broad_axe_head:0, Wooden Broad Axe Head
+tconstruct:broad_axe_head:0, Wyvern Broad Axe Head
+tconstruct:broad_axe_head:0, Awakened Broad Axe Head
+tconstruct:broad_axe_head:0, Chaotic Broad Axe Head
+tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:sword_blade:0, Electrical Sword Blade
 tconstruct:sword_blade:0, Energetic Sword Blade
 tconstruct:sword_blade:0, Vibrant Sword Blade
@@ -13360,6 +13628,7 @@ tconstruct:sword_blade:0, Dark Sword Blade
 tconstruct:sword_blade:0, Souled Sword Blade
 tconstruct:sword_blade:0, Sword Blade of the End
 tconstruct:sword_blade:0, Fake-Iron Sword Blade
+tconstruct:sword_blade:0, Wooden Sword Blade
 tconstruct:sword_blade:0, Stone Sword Blade
 tconstruct:sword_blade:0, Flint Sword Blade
 tconstruct:sword_blade:0, Cactus Sword Blade
@@ -13569,15 +13838,14 @@ tconstruct:sword_blade:0, Supercharged Kunzite Sword Blade
 tconstruct:sword_blade:0, Supercharged Rose Quartz Sword Blade
 tconstruct:sword_blade:0, Supercharged Tektite Sword Blade
 tconstruct:sword_blade:0, Supercharged Pearl Sword Blade
-tconstruct:sword_blade:0, Wyvern Sword Blade
-tconstruct:sword_blade:0, Awakened Sword Blade
-tconstruct:sword_blade:0, Chaotic Sword Blade
-tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:sword_blade:0, Bloodwood Sword Blade
 tconstruct:sword_blade:0, Fusewood Sword Blade
 tconstruct:sword_blade:0, Ghostwood Sword Blade
 tconstruct:sword_blade:0, Darkwood Sword Blade
-tconstruct:sword_blade:0, Wooden Sword Blade
+tconstruct:sword_blade:0, Wyvern Sword Blade
+tconstruct:sword_blade:0, Awakened Sword Blade
+tconstruct:sword_blade:0, Chaotic Sword Blade
+tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:large_sword_blade:0, Electrical Large Sword Blade
 tconstruct:large_sword_blade:0, Energetic Large Sword Blade
 tconstruct:large_sword_blade:0, Vibrant Large Sword Blade
@@ -13588,6 +13856,7 @@ tconstruct:large_sword_blade:0, Dark Large Sword Blade
 tconstruct:large_sword_blade:0, Souled Large Sword Blade
 tconstruct:large_sword_blade:0, Large Sword Blade of the End
 tconstruct:large_sword_blade:0, Fake-Iron Large Sword Blade
+tconstruct:large_sword_blade:0, Wooden Large Sword Blade
 tconstruct:large_sword_blade:0, Stone Large Sword Blade
 tconstruct:large_sword_blade:0, Flint Large Sword Blade
 tconstruct:large_sword_blade:0, Cactus Large Sword Blade
@@ -13797,15 +14066,14 @@ tconstruct:large_sword_blade:0, Supercharged Kunzite Large Sword Blade
 tconstruct:large_sword_blade:0, Supercharged Rose Quartz Large Sword Blade
 tconstruct:large_sword_blade:0, Supercharged Tektite Large Sword Blade
 tconstruct:large_sword_blade:0, Supercharged Pearl Large Sword Blade
-tconstruct:large_sword_blade:0, Wyvern Large Sword Blade
-tconstruct:large_sword_blade:0, Awakened Large Sword Blade
-tconstruct:large_sword_blade:0, Chaotic Large Sword Blade
-tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:large_sword_blade:0, Bloodwood Large Sword Blade
 tconstruct:large_sword_blade:0, Fusewood Large Sword Blade
 tconstruct:large_sword_blade:0, Ghostwood Large Sword Blade
 tconstruct:large_sword_blade:0, Darkwood Large Sword Blade
-tconstruct:large_sword_blade:0, Wooden Large Sword Blade
+tconstruct:large_sword_blade:0, Wyvern Large Sword Blade
+tconstruct:large_sword_blade:0, Awakened Large Sword Blade
+tconstruct:large_sword_blade:0, Chaotic Large Sword Blade
+tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:hammer_head:0, Electrical Hammer Head
 tconstruct:hammer_head:0, Energetic Hammer Head
 tconstruct:hammer_head:0, Vibrant Hammer Head
@@ -13816,6 +14084,7 @@ tconstruct:hammer_head:0, Dark Hammer Head
 tconstruct:hammer_head:0, Souled Hammer Head
 tconstruct:hammer_head:0, Hammer Head of the End
 tconstruct:hammer_head:0, Fake-Iron Hammer Head
+tconstruct:hammer_head:0, Wooden Hammer Head
 tconstruct:hammer_head:0, Stone Hammer Head
 tconstruct:hammer_head:0, Flint Hammer Head
 tconstruct:hammer_head:0, Cactus Hammer Head
@@ -14025,15 +14294,14 @@ tconstruct:hammer_head:0, Supercharged Kunzite Hammer Head
 tconstruct:hammer_head:0, Supercharged Rose Quartz Hammer Head
 tconstruct:hammer_head:0, Supercharged Tektite Hammer Head
 tconstruct:hammer_head:0, Supercharged Pearl Hammer Head
-tconstruct:hammer_head:0, Wyvern Hammer Head
-tconstruct:hammer_head:0, Awakened Hammer Head
-tconstruct:hammer_head:0, Chaotic Hammer Head
-tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:hammer_head:0, Bloodwood Hammer Head
 tconstruct:hammer_head:0, Fusewood Hammer Head
 tconstruct:hammer_head:0, Ghostwood Hammer Head
 tconstruct:hammer_head:0, Darkwood Hammer Head
-tconstruct:hammer_head:0, Wooden Hammer Head
+tconstruct:hammer_head:0, Wyvern Hammer Head
+tconstruct:hammer_head:0, Awakened Hammer Head
+tconstruct:hammer_head:0, Chaotic Hammer Head
+tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:excavator_head:0, Electrical Excavator Head
 tconstruct:excavator_head:0, Energetic Excavator Head
 tconstruct:excavator_head:0, Vibrant Excavator Head
@@ -14044,6 +14312,7 @@ tconstruct:excavator_head:0, Dark Excavator Head
 tconstruct:excavator_head:0, Souled Excavator Head
 tconstruct:excavator_head:0, Excavator Head of the End
 tconstruct:excavator_head:0, Fake-Iron Excavator Head
+tconstruct:excavator_head:0, Wooden Excavator Head
 tconstruct:excavator_head:0, Stone Excavator Head
 tconstruct:excavator_head:0, Flint Excavator Head
 tconstruct:excavator_head:0, Cactus Excavator Head
@@ -14253,15 +14522,14 @@ tconstruct:excavator_head:0, Supercharged Kunzite Excavator Head
 tconstruct:excavator_head:0, Supercharged Rose Quartz Excavator Head
 tconstruct:excavator_head:0, Supercharged Tektite Excavator Head
 tconstruct:excavator_head:0, Supercharged Pearl Excavator Head
-tconstruct:excavator_head:0, Wyvern Excavator Head
-tconstruct:excavator_head:0, Awakened Excavator Head
-tconstruct:excavator_head:0, Chaotic Excavator Head
-tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:excavator_head:0, Bloodwood Excavator Head
 tconstruct:excavator_head:0, Fusewood Excavator Head
 tconstruct:excavator_head:0, Ghostwood Excavator Head
 tconstruct:excavator_head:0, Darkwood Excavator Head
-tconstruct:excavator_head:0, Wooden Excavator Head
+tconstruct:excavator_head:0, Wyvern Excavator Head
+tconstruct:excavator_head:0, Awakened Excavator Head
+tconstruct:excavator_head:0, Chaotic Excavator Head
+tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:kama_head:0, Electrical Kama Head
 tconstruct:kama_head:0, Energetic Kama Head
 tconstruct:kama_head:0, Vibrant Kama Head
@@ -14272,6 +14540,7 @@ tconstruct:kama_head:0, Dark Kama Head
 tconstruct:kama_head:0, Souled Kama Head
 tconstruct:kama_head:0, Kama Head of the End
 tconstruct:kama_head:0, Fake-Iron Kama Head
+tconstruct:kama_head:0, Wooden Kama Head
 tconstruct:kama_head:0, Stone Kama Head
 tconstruct:kama_head:0, Flint Kama Head
 tconstruct:kama_head:0, Cactus Kama Head
@@ -14481,15 +14750,14 @@ tconstruct:kama_head:0, Supercharged Kunzite Kama Head
 tconstruct:kama_head:0, Supercharged Rose Quartz Kama Head
 tconstruct:kama_head:0, Supercharged Tektite Kama Head
 tconstruct:kama_head:0, Supercharged Pearl Kama Head
-tconstruct:kama_head:0, Wyvern Kama Head
-tconstruct:kama_head:0, Awakened Kama Head
-tconstruct:kama_head:0, Chaotic Kama Head
-tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:kama_head:0, Bloodwood Kama Head
 tconstruct:kama_head:0, Fusewood Kama Head
 tconstruct:kama_head:0, Ghostwood Kama Head
 tconstruct:kama_head:0, Darkwood Kama Head
-tconstruct:kama_head:0, Wooden Kama Head
+tconstruct:kama_head:0, Wyvern Kama Head
+tconstruct:kama_head:0, Awakened Kama Head
+tconstruct:kama_head:0, Chaotic Kama Head
+tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:scythe_head:0, Electrical Scythe Head
 tconstruct:scythe_head:0, Energetic Scythe Head
 tconstruct:scythe_head:0, Vibrant Scythe Head
@@ -14500,6 +14768,7 @@ tconstruct:scythe_head:0, Dark Scythe Head
 tconstruct:scythe_head:0, Souled Scythe Head
 tconstruct:scythe_head:0, Scythe Head of the End
 tconstruct:scythe_head:0, Fake-Iron Scythe Head
+tconstruct:scythe_head:0, Wooden Scythe Head
 tconstruct:scythe_head:0, Stone Scythe Head
 tconstruct:scythe_head:0, Flint Scythe Head
 tconstruct:scythe_head:0, Cactus Scythe Head
@@ -14709,15 +14978,14 @@ tconstruct:scythe_head:0, Supercharged Kunzite Scythe Head
 tconstruct:scythe_head:0, Supercharged Rose Quartz Scythe Head
 tconstruct:scythe_head:0, Supercharged Tektite Scythe Head
 tconstruct:scythe_head:0, Supercharged Pearl Scythe Head
-tconstruct:scythe_head:0, Wyvern Scythe Head
-tconstruct:scythe_head:0, Awakened Scythe Head
-tconstruct:scythe_head:0, Chaotic Scythe Head
-tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:scythe_head:0, Bloodwood Scythe Head
 tconstruct:scythe_head:0, Fusewood Scythe Head
 tconstruct:scythe_head:0, Ghostwood Scythe Head
 tconstruct:scythe_head:0, Darkwood Scythe Head
-tconstruct:scythe_head:0, Wooden Scythe Head
+tconstruct:scythe_head:0, Wyvern Scythe Head
+tconstruct:scythe_head:0, Awakened Scythe Head
+tconstruct:scythe_head:0, Chaotic Scythe Head
+tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:pan_head:0, Electrical Pan
 tconstruct:pan_head:0, Energetic Pan
 tconstruct:pan_head:0, Vibrant Pan
@@ -14728,6 +14996,7 @@ tconstruct:pan_head:0, Dark Pan
 tconstruct:pan_head:0, Souled Pan
 tconstruct:pan_head:0, Pan of the End
 tconstruct:pan_head:0, Fake-Iron Pan
+tconstruct:pan_head:0, Wooden Pan
 tconstruct:pan_head:0, Stone Pan
 tconstruct:pan_head:0, Flint Pan
 tconstruct:pan_head:0, Cactus Pan
@@ -14937,15 +15206,14 @@ tconstruct:pan_head:0, Supercharged Kunzite Pan
 tconstruct:pan_head:0, Supercharged Rose Quartz Pan
 tconstruct:pan_head:0, Supercharged Tektite Pan
 tconstruct:pan_head:0, Supercharged Pearl Pan
-tconstruct:pan_head:0, Wyvern Pan
-tconstruct:pan_head:0, Awakened Pan
-tconstruct:pan_head:0, Chaotic Pan
-tconstruct:pan_head:0, Emerald Pan
 tconstruct:pan_head:0, Bloodwood Pan
 tconstruct:pan_head:0, Fusewood Pan
 tconstruct:pan_head:0, Ghostwood Pan
 tconstruct:pan_head:0, Darkwood Pan
-tconstruct:pan_head:0, Wooden Pan
+tconstruct:pan_head:0, Wyvern Pan
+tconstruct:pan_head:0, Awakened Pan
+tconstruct:pan_head:0, Chaotic Pan
+tconstruct:pan_head:0, Emerald Pan
 tconstruct:sign_head:0, Electrical Sign Plate
 tconstruct:sign_head:0, Energetic Sign Plate
 tconstruct:sign_head:0, Vibrant Sign Plate
@@ -14956,6 +15224,7 @@ tconstruct:sign_head:0, Dark Sign Plate
 tconstruct:sign_head:0, Souled Sign Plate
 tconstruct:sign_head:0, Sign Plate of the End
 tconstruct:sign_head:0, Fake-Iron Sign Plate
+tconstruct:sign_head:0, Wooden Sign Plate
 tconstruct:sign_head:0, Stone Sign Plate
 tconstruct:sign_head:0, Flint Sign Plate
 tconstruct:sign_head:0, Cactus Sign Plate
@@ -15165,15 +15434,14 @@ tconstruct:sign_head:0, Supercharged Kunzite Sign Plate
 tconstruct:sign_head:0, Supercharged Rose Quartz Sign Plate
 tconstruct:sign_head:0, Supercharged Tektite Sign Plate
 tconstruct:sign_head:0, Supercharged Pearl Sign Plate
-tconstruct:sign_head:0, Wyvern Sign Plate
-tconstruct:sign_head:0, Awakened Sign Plate
-tconstruct:sign_head:0, Chaotic Sign Plate
-tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:sign_head:0, Bloodwood Sign Plate
 tconstruct:sign_head:0, Fusewood Sign Plate
 tconstruct:sign_head:0, Ghostwood Sign Plate
 tconstruct:sign_head:0, Darkwood Sign Plate
-tconstruct:sign_head:0, Wooden Sign Plate
+tconstruct:sign_head:0, Wyvern Sign Plate
+tconstruct:sign_head:0, Awakened Sign Plate
+tconstruct:sign_head:0, Chaotic Sign Plate
+tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:tool_rod:0, Electrical Tool Rod
 tconstruct:tool_rod:0, Energetic Tool Rod
 tconstruct:tool_rod:0, Vibrant Tool Rod
@@ -15184,6 +15452,7 @@ tconstruct:tool_rod:0, Dark Tool Rod
 tconstruct:tool_rod:0, Souled Tool Rod
 tconstruct:tool_rod:0, Tool Rod of the End
 tconstruct:tool_rod:0, Fake-Iron Tool Rod
+tconstruct:tool_rod:0, Wooden Tool Rod
 tconstruct:tool_rod:0, Stone Tool Rod
 tconstruct:tool_rod:0, Flint Tool Rod
 tconstruct:tool_rod:0, Cactus Tool Rod
@@ -15393,15 +15662,14 @@ tconstruct:tool_rod:0, Supercharged Kunzite Tool Rod
 tconstruct:tool_rod:0, Supercharged Rose Quartz Tool Rod
 tconstruct:tool_rod:0, Supercharged Tektite Tool Rod
 tconstruct:tool_rod:0, Supercharged Pearl Tool Rod
-tconstruct:tool_rod:0, Wyvern Tool Rod
-tconstruct:tool_rod:0, Awakened Tool Rod
-tconstruct:tool_rod:0, Chaotic Tool Rod
-tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tool_rod:0, Bloodwood Tool Rod
 tconstruct:tool_rod:0, Fusewood Tool Rod
 tconstruct:tool_rod:0, Ghostwood Tool Rod
 tconstruct:tool_rod:0, Darkwood Tool Rod
-tconstruct:tool_rod:0, Wooden Tool Rod
+tconstruct:tool_rod:0, Wyvern Tool Rod
+tconstruct:tool_rod:0, Awakened Tool Rod
+tconstruct:tool_rod:0, Chaotic Tool Rod
+tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tough_tool_rod:0, Electrical Tough Tool Rod
 tconstruct:tough_tool_rod:0, Energetic Tough Tool Rod
 tconstruct:tough_tool_rod:0, Vibrant Tough Tool Rod
@@ -15412,6 +15680,7 @@ tconstruct:tough_tool_rod:0, Dark Tough Tool Rod
 tconstruct:tough_tool_rod:0, Souled Tough Tool Rod
 tconstruct:tough_tool_rod:0, Tough Tool Rod of the End
 tconstruct:tough_tool_rod:0, Fake-Iron Tough Tool Rod
+tconstruct:tough_tool_rod:0, Wooden Tough Tool Rod
 tconstruct:tough_tool_rod:0, Stone Tough Tool Rod
 tconstruct:tough_tool_rod:0, Flint Tough Tool Rod
 tconstruct:tough_tool_rod:0, Cactus Tough Tool Rod
@@ -15621,15 +15890,14 @@ tconstruct:tough_tool_rod:0, Supercharged Kunzite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Supercharged Rose Quartz Tough Tool Rod
 tconstruct:tough_tool_rod:0, Supercharged Tektite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Supercharged Pearl Tough Tool Rod
-tconstruct:tough_tool_rod:0, Wyvern Tough Tool Rod
-tconstruct:tough_tool_rod:0, Awakened Tough Tool Rod
-tconstruct:tough_tool_rod:0, Chaotic Tough Tool Rod
-tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:tough_tool_rod:0, Bloodwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Fusewood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ghostwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Darkwood Tough Tool Rod
-tconstruct:tough_tool_rod:0, Wooden Tough Tool Rod
+tconstruct:tough_tool_rod:0, Wyvern Tough Tool Rod
+tconstruct:tough_tool_rod:0, Awakened Tough Tool Rod
+tconstruct:tough_tool_rod:0, Chaotic Tough Tool Rod
+tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:binding:0, Electrical Binding
 tconstruct:binding:0, Energetic Binding
 tconstruct:binding:0, Vibrant Binding
@@ -15640,6 +15908,7 @@ tconstruct:binding:0, Dark Binding
 tconstruct:binding:0, Souled Binding
 tconstruct:binding:0, Binding of the End
 tconstruct:binding:0, Fake-Iron Binding
+tconstruct:binding:0, Wooden Binding
 tconstruct:binding:0, Stone Binding
 tconstruct:binding:0, Flint Binding
 tconstruct:binding:0, Cactus Binding
@@ -15849,15 +16118,14 @@ tconstruct:binding:0, Supercharged Kunzite Binding
 tconstruct:binding:0, Supercharged Rose Quartz Binding
 tconstruct:binding:0, Supercharged Tektite Binding
 tconstruct:binding:0, Supercharged Pearl Binding
-tconstruct:binding:0, Wyvern Binding
-tconstruct:binding:0, Awakened Binding
-tconstruct:binding:0, Chaotic Binding
-tconstruct:binding:0, Emerald Binding
 tconstruct:binding:0, Bloodwood Binding
 tconstruct:binding:0, Fusewood Binding
 tconstruct:binding:0, Ghostwood Binding
 tconstruct:binding:0, Darkwood Binding
-tconstruct:binding:0, Wooden Binding
+tconstruct:binding:0, Wyvern Binding
+tconstruct:binding:0, Awakened Binding
+tconstruct:binding:0, Chaotic Binding
+tconstruct:binding:0, Emerald Binding
 tconstruct:tough_binding:0, Electrical Tough Binding
 tconstruct:tough_binding:0, Energetic Tough Binding
 tconstruct:tough_binding:0, Vibrant Tough Binding
@@ -15868,6 +16136,7 @@ tconstruct:tough_binding:0, Dark Tough Binding
 tconstruct:tough_binding:0, Souled Tough Binding
 tconstruct:tough_binding:0, Tough Binding of the End
 tconstruct:tough_binding:0, Fake-Iron Tough Binding
+tconstruct:tough_binding:0, Wooden Tough Binding
 tconstruct:tough_binding:0, Stone Tough Binding
 tconstruct:tough_binding:0, Flint Tough Binding
 tconstruct:tough_binding:0, Cactus Tough Binding
@@ -16077,15 +16346,14 @@ tconstruct:tough_binding:0, Supercharged Kunzite Tough Binding
 tconstruct:tough_binding:0, Supercharged Rose Quartz Tough Binding
 tconstruct:tough_binding:0, Supercharged Tektite Tough Binding
 tconstruct:tough_binding:0, Supercharged Pearl Tough Binding
-tconstruct:tough_binding:0, Wyvern Tough Binding
-tconstruct:tough_binding:0, Awakened Tough Binding
-tconstruct:tough_binding:0, Chaotic Tough Binding
-tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:tough_binding:0, Bloodwood Tough Binding
 tconstruct:tough_binding:0, Fusewood Tough Binding
 tconstruct:tough_binding:0, Ghostwood Tough Binding
 tconstruct:tough_binding:0, Darkwood Tough Binding
-tconstruct:tough_binding:0, Wooden Tough Binding
+tconstruct:tough_binding:0, Wyvern Tough Binding
+tconstruct:tough_binding:0, Awakened Tough Binding
+tconstruct:tough_binding:0, Chaotic Tough Binding
+tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:wide_guard:0, Electrical Wide Guard
 tconstruct:wide_guard:0, Energetic Wide Guard
 tconstruct:wide_guard:0, Vibrant Wide Guard
@@ -16096,6 +16364,7 @@ tconstruct:wide_guard:0, Dark Wide Guard
 tconstruct:wide_guard:0, Souled Wide Guard
 tconstruct:wide_guard:0, Wide Guard of the End
 tconstruct:wide_guard:0, Fake-Iron Wide Guard
+tconstruct:wide_guard:0, Wooden Wide Guard
 tconstruct:wide_guard:0, Stone Wide Guard
 tconstruct:wide_guard:0, Flint Wide Guard
 tconstruct:wide_guard:0, Cactus Wide Guard
@@ -16305,15 +16574,14 @@ tconstruct:wide_guard:0, Supercharged Kunzite Wide Guard
 tconstruct:wide_guard:0, Supercharged Rose Quartz Wide Guard
 tconstruct:wide_guard:0, Supercharged Tektite Wide Guard
 tconstruct:wide_guard:0, Supercharged Pearl Wide Guard
-tconstruct:wide_guard:0, Wyvern Wide Guard
-tconstruct:wide_guard:0, Awakened Wide Guard
-tconstruct:wide_guard:0, Chaotic Wide Guard
-tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:wide_guard:0, Bloodwood Wide Guard
 tconstruct:wide_guard:0, Fusewood Wide Guard
 tconstruct:wide_guard:0, Ghostwood Wide Guard
 tconstruct:wide_guard:0, Darkwood Wide Guard
-tconstruct:wide_guard:0, Wooden Wide Guard
+tconstruct:wide_guard:0, Wyvern Wide Guard
+tconstruct:wide_guard:0, Awakened Wide Guard
+tconstruct:wide_guard:0, Chaotic Wide Guard
+tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:hand_guard:0, Electrical Hand Guard
 tconstruct:hand_guard:0, Energetic Hand Guard
 tconstruct:hand_guard:0, Vibrant Hand Guard
@@ -16324,6 +16592,7 @@ tconstruct:hand_guard:0, Dark Hand Guard
 tconstruct:hand_guard:0, Souled Hand Guard
 tconstruct:hand_guard:0, Hand Guard of the End
 tconstruct:hand_guard:0, Fake-Iron Hand Guard
+tconstruct:hand_guard:0, Wooden Hand Guard
 tconstruct:hand_guard:0, Stone Hand Guard
 tconstruct:hand_guard:0, Flint Hand Guard
 tconstruct:hand_guard:0, Cactus Hand Guard
@@ -16533,15 +16802,14 @@ tconstruct:hand_guard:0, Supercharged Kunzite Hand Guard
 tconstruct:hand_guard:0, Supercharged Rose Quartz Hand Guard
 tconstruct:hand_guard:0, Supercharged Tektite Hand Guard
 tconstruct:hand_guard:0, Supercharged Pearl Hand Guard
-tconstruct:hand_guard:0, Wyvern Hand Guard
-tconstruct:hand_guard:0, Awakened Hand Guard
-tconstruct:hand_guard:0, Chaotic Hand Guard
-tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:hand_guard:0, Bloodwood Hand Guard
 tconstruct:hand_guard:0, Fusewood Hand Guard
 tconstruct:hand_guard:0, Ghostwood Hand Guard
 tconstruct:hand_guard:0, Darkwood Hand Guard
-tconstruct:hand_guard:0, Wooden Hand Guard
+tconstruct:hand_guard:0, Wyvern Hand Guard
+tconstruct:hand_guard:0, Awakened Hand Guard
+tconstruct:hand_guard:0, Chaotic Hand Guard
+tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:cross_guard:0, Electrical Cross Guard
 tconstruct:cross_guard:0, Energetic Cross Guard
 tconstruct:cross_guard:0, Vibrant Cross Guard
@@ -16552,6 +16820,7 @@ tconstruct:cross_guard:0, Dark Cross Guard
 tconstruct:cross_guard:0, Souled Cross Guard
 tconstruct:cross_guard:0, Cross Guard of the End
 tconstruct:cross_guard:0, Fake-Iron Cross Guard
+tconstruct:cross_guard:0, Wooden Cross Guard
 tconstruct:cross_guard:0, Stone Cross Guard
 tconstruct:cross_guard:0, Flint Cross Guard
 tconstruct:cross_guard:0, Cactus Cross Guard
@@ -16761,15 +17030,14 @@ tconstruct:cross_guard:0, Supercharged Kunzite Cross Guard
 tconstruct:cross_guard:0, Supercharged Rose Quartz Cross Guard
 tconstruct:cross_guard:0, Supercharged Tektite Cross Guard
 tconstruct:cross_guard:0, Supercharged Pearl Cross Guard
-tconstruct:cross_guard:0, Wyvern Cross Guard
-tconstruct:cross_guard:0, Awakened Cross Guard
-tconstruct:cross_guard:0, Chaotic Cross Guard
-tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:cross_guard:0, Bloodwood Cross Guard
 tconstruct:cross_guard:0, Fusewood Cross Guard
 tconstruct:cross_guard:0, Ghostwood Cross Guard
 tconstruct:cross_guard:0, Darkwood Cross Guard
-tconstruct:cross_guard:0, Wooden Cross Guard
+tconstruct:cross_guard:0, Wyvern Cross Guard
+tconstruct:cross_guard:0, Awakened Cross Guard
+tconstruct:cross_guard:0, Chaotic Cross Guard
+tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:large_plate:0, Electrical Large Plate
 tconstruct:large_plate:0, Energetic Large Plate
 tconstruct:large_plate:0, Vibrant Large Plate
@@ -16780,6 +17048,7 @@ tconstruct:large_plate:0, Dark Large Plate
 tconstruct:large_plate:0, Souled Large Plate
 tconstruct:large_plate:0, Large Plate of the End
 tconstruct:large_plate:0, Fake-Iron Large Plate
+tconstruct:large_plate:0, Wooden Large Plate
 tconstruct:large_plate:0, Stone Large Plate
 tconstruct:large_plate:0, Flint Large Plate
 tconstruct:large_plate:0, Cactus Large Plate
@@ -16989,15 +17258,14 @@ tconstruct:large_plate:0, Supercharged Kunzite Large Plate
 tconstruct:large_plate:0, Supercharged Rose Quartz Large Plate
 tconstruct:large_plate:0, Supercharged Tektite Large Plate
 tconstruct:large_plate:0, Supercharged Pearl Large Plate
-tconstruct:large_plate:0, Wyvern Large Plate
-tconstruct:large_plate:0, Awakened Large Plate
-tconstruct:large_plate:0, Chaotic Large Plate
-tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:large_plate:0, Bloodwood Large Plate
 tconstruct:large_plate:0, Fusewood Large Plate
 tconstruct:large_plate:0, Ghostwood Large Plate
 tconstruct:large_plate:0, Darkwood Large Plate
-tconstruct:large_plate:0, Wooden Large Plate
+tconstruct:large_plate:0, Wyvern Large Plate
+tconstruct:large_plate:0, Awakened Large Plate
+tconstruct:large_plate:0, Chaotic Large Plate
+tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:knife_blade:0, Electrical Knife Blade
 tconstruct:knife_blade:0, Energetic Knife Blade
 tconstruct:knife_blade:0, Vibrant Knife Blade
@@ -17008,6 +17276,7 @@ tconstruct:knife_blade:0, Dark Knife Blade
 tconstruct:knife_blade:0, Souled Knife Blade
 tconstruct:knife_blade:0, Knife Blade of the End
 tconstruct:knife_blade:0, Fake-Iron Knife Blade
+tconstruct:knife_blade:0, Wooden Knife Blade
 tconstruct:knife_blade:0, Stone Knife Blade
 tconstruct:knife_blade:0, Flint Knife Blade
 tconstruct:knife_blade:0, Cactus Knife Blade
@@ -17217,15 +17486,14 @@ tconstruct:knife_blade:0, Supercharged Kunzite Knife Blade
 tconstruct:knife_blade:0, Supercharged Rose Quartz Knife Blade
 tconstruct:knife_blade:0, Supercharged Tektite Knife Blade
 tconstruct:knife_blade:0, Supercharged Pearl Knife Blade
-tconstruct:knife_blade:0, Wyvern Knife Blade
-tconstruct:knife_blade:0, Awakened Knife Blade
-tconstruct:knife_blade:0, Chaotic Knife Blade
-tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:knife_blade:0, Bloodwood Knife Blade
 tconstruct:knife_blade:0, Fusewood Knife Blade
 tconstruct:knife_blade:0, Ghostwood Knife Blade
 tconstruct:knife_blade:0, Darkwood Knife Blade
-tconstruct:knife_blade:0, Wooden Knife Blade
+tconstruct:knife_blade:0, Wyvern Knife Blade
+tconstruct:knife_blade:0, Awakened Knife Blade
+tconstruct:knife_blade:0, Chaotic Knife Blade
+tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:bow_limb:0, Electrical Bowlimb
 tconstruct:bow_limb:0, Energetic Bowlimb
 tconstruct:bow_limb:0, Vibrant Bowlimb
@@ -17236,6 +17504,7 @@ tconstruct:bow_limb:0, Dark Bowlimb
 tconstruct:bow_limb:0, Souled Bowlimb
 tconstruct:bow_limb:0, Bowlimb of the End
 tconstruct:bow_limb:0, Fake-Iron Bowlimb
+tconstruct:bow_limb:0, Wooden Bowlimb
 tconstruct:bow_limb:0, Stone Bowlimb
 tconstruct:bow_limb:0, Flint Bowlimb
 tconstruct:bow_limb:0, Cactus Bowlimb
@@ -17443,15 +17712,14 @@ tconstruct:bow_limb:0, Supercharged Kunzite Bowlimb
 tconstruct:bow_limb:0, Supercharged Rose Quartz Bowlimb
 tconstruct:bow_limb:0, Supercharged Tektite Bowlimb
 tconstruct:bow_limb:0, Supercharged Pearl Bowlimb
-tconstruct:bow_limb:0, Wyvern Bowlimb
-tconstruct:bow_limb:0, Awakened Bowlimb
-tconstruct:bow_limb:0, Chaotic Bowlimb
-tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_limb:0, Bloodwood Bowlimb
 tconstruct:bow_limb:0, Fusewood Bowlimb
 tconstruct:bow_limb:0, Ghostwood Bowlimb
 tconstruct:bow_limb:0, Darkwood Bowlimb
-tconstruct:bow_limb:0, Wooden Bowlimb
+tconstruct:bow_limb:0, Wyvern Bowlimb
+tconstruct:bow_limb:0, Awakened Bowlimb
+tconstruct:bow_limb:0, Chaotic Bowlimb
+tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_string:0, Souled Bowstring
 tconstruct:bow_string:0, String Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
@@ -17470,6 +17738,7 @@ tconstruct:arrow_head:0, Dark Arrow Head
 tconstruct:arrow_head:0, Souled Arrow Head
 tconstruct:arrow_head:0, Arrow Head of the End
 tconstruct:arrow_head:0, Fake-Iron Arrow Head
+tconstruct:arrow_head:0, Wooden Arrow Head
 tconstruct:arrow_head:0, Stone Arrow Head
 tconstruct:arrow_head:0, Flint Arrow Head
 tconstruct:arrow_head:0, Cactus Arrow Head
@@ -17679,15 +17948,15 @@ tconstruct:arrow_head:0, Supercharged Kunzite Arrow Head
 tconstruct:arrow_head:0, Supercharged Rose Quartz Arrow Head
 tconstruct:arrow_head:0, Supercharged Tektite Arrow Head
 tconstruct:arrow_head:0, Supercharged Pearl Arrow Head
-tconstruct:arrow_head:0, Wyvern Arrow Head
-tconstruct:arrow_head:0, Awakened Arrow Head
-tconstruct:arrow_head:0, Chaotic Arrow Head
-tconstruct:arrow_head:0, Emerald Arrow Head
 tconstruct:arrow_head:0, Bloodwood Arrow Head
 tconstruct:arrow_head:0, Fusewood Arrow Head
 tconstruct:arrow_head:0, Ghostwood Arrow Head
 tconstruct:arrow_head:0, Darkwood Arrow Head
-tconstruct:arrow_head:0, Wooden Arrow Head
+tconstruct:arrow_head:0, Wyvern Arrow Head
+tconstruct:arrow_head:0, Awakened Arrow Head
+tconstruct:arrow_head:0, Chaotic Arrow Head
+tconstruct:arrow_head:0, Emerald Arrow Head
+tconstruct:arrow_shaft:0, Wooden Arrow Shaft
 tconstruct:arrow_shaft:0, Bone Arrow Shaft
 tconstruct:arrow_shaft:0, Blazerod Arrow Shaft
 tconstruct:arrow_shaft:0, Reeds Arrow Shaft
@@ -17793,12 +18062,12 @@ tconstruct:arrow_shaft:0, Supercharged Kunzite Arrow Shaft
 tconstruct:arrow_shaft:0, Supercharged Rose Quartz Arrow Shaft
 tconstruct:arrow_shaft:0, Supercharged Tektite Arrow Shaft
 tconstruct:arrow_shaft:0, Supercharged Pearl Arrow Shaft
-tconstruct:arrow_shaft:0, Wooden Arrow Shaft
 tconstruct:fletching:0, Feather Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Leaf Fletching
+tconstruct:bolt_core:0, Wood-Iron Bolt Core
 tconstruct:bolt_core:0, Bone-Iron Bolt Core
 tconstruct:bolt_core:0, Blazerod-Iron Bolt Core
 tconstruct:bolt_core:0, Reeds-Iron Bolt Core
@@ -17904,9 +18173,7 @@ tconstruct:bolt_core:0, Supercharged Kunzite-Iron Bolt Core
 tconstruct:bolt_core:0, Supercharged Rose Quartz-Iron Bolt Core
 tconstruct:bolt_core:0, Supercharged Tektite-Iron Bolt Core
 tconstruct:bolt_core:0, Supercharged Pearl-Iron Bolt Core
-tconstruct:bolt_core:0, Wood-Iron Bolt Core
 tconstruct:tooltables:0, Crafting Station
-tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
@@ -18209,84 +18476,84 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Bowstring Cast
 tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -18375,6 +18642,7 @@ conarm:helmet_core:0, Dark Helmet Core
 conarm:helmet_core:0, Souled Helmet Core
 conarm:helmet_core:0, Helmet Core of the End
 conarm:helmet_core:0, Fake-Iron Helmet Core
+conarm:helmet_core:0, Wooden Helmet Core
 conarm:helmet_core:0, Stone Helmet Core
 conarm:helmet_core:0, Flint Helmet Core
 conarm:helmet_core:0, Cactus Helmet Core
@@ -18584,15 +18852,14 @@ conarm:helmet_core:0, Supercharged Kunzite Helmet Core
 conarm:helmet_core:0, Supercharged Rose Quartz Helmet Core
 conarm:helmet_core:0, Supercharged Tektite Helmet Core
 conarm:helmet_core:0, Supercharged Pearl Helmet Core
-conarm:helmet_core:0, Wyvern Helmet Core
-conarm:helmet_core:0, Awakened Helmet Core
-conarm:helmet_core:0, Chaotic Helmet Core
-conarm:helmet_core:0, Emerald Helmet Core
 conarm:helmet_core:0, Bloodwood Helmet Core
 conarm:helmet_core:0, Fusewood Helmet Core
 conarm:helmet_core:0, Ghostwood Helmet Core
 conarm:helmet_core:0, Darkwood Helmet Core
-conarm:helmet_core:0, Wooden Helmet Core
+conarm:helmet_core:0, Wyvern Helmet Core
+conarm:helmet_core:0, Awakened Helmet Core
+conarm:helmet_core:0, Chaotic Helmet Core
+conarm:helmet_core:0, Emerald Helmet Core
 conarm:armor_trim:0, Electrical Armor Trim
 conarm:armor_trim:0, Energetic Armor Trim
 conarm:armor_trim:0, Vibrant Armor Trim
@@ -18603,6 +18870,7 @@ conarm:armor_trim:0, Dark Armor Trim
 conarm:armor_trim:0, Souled Armor Trim
 conarm:armor_trim:0, Armor Trim of the End
 conarm:armor_trim:0, Fake-Iron Armor Trim
+conarm:armor_trim:0, Wooden Armor Trim
 conarm:armor_trim:0, Stone Armor Trim
 conarm:armor_trim:0, Flint Armor Trim
 conarm:armor_trim:0, Cactus Armor Trim
@@ -18812,15 +19080,14 @@ conarm:armor_trim:0, Supercharged Kunzite Armor Trim
 conarm:armor_trim:0, Supercharged Rose Quartz Armor Trim
 conarm:armor_trim:0, Supercharged Tektite Armor Trim
 conarm:armor_trim:0, Supercharged Pearl Armor Trim
-conarm:armor_trim:0, Wyvern Armor Trim
-conarm:armor_trim:0, Awakened Armor Trim
-conarm:armor_trim:0, Chaotic Armor Trim
-conarm:armor_trim:0, Emerald Armor Trim
 conarm:armor_trim:0, Bloodwood Armor Trim
 conarm:armor_trim:0, Fusewood Armor Trim
 conarm:armor_trim:0, Ghostwood Armor Trim
 conarm:armor_trim:0, Darkwood Armor Trim
-conarm:armor_trim:0, Wooden Armor Trim
+conarm:armor_trim:0, Wyvern Armor Trim
+conarm:armor_trim:0, Awakened Armor Trim
+conarm:armor_trim:0, Chaotic Armor Trim
+conarm:armor_trim:0, Emerald Armor Trim
 conarm:armor_plate:0, Electrical Armor Plates
 conarm:armor_plate:0, Energetic Armor Plates
 conarm:armor_plate:0, Vibrant Armor Plates
@@ -18831,6 +19098,7 @@ conarm:armor_plate:0, Dark Armor Plates
 conarm:armor_plate:0, Souled Armor Plates
 conarm:armor_plate:0, Armor Plates of the End
 conarm:armor_plate:0, Fake-Iron Armor Plates
+conarm:armor_plate:0, Wooden Armor Plates
 conarm:armor_plate:0, Stone Armor Plates
 conarm:armor_plate:0, Flint Armor Plates
 conarm:armor_plate:0, Cactus Armor Plates
@@ -19040,15 +19308,14 @@ conarm:armor_plate:0, Supercharged Kunzite Armor Plates
 conarm:armor_plate:0, Supercharged Rose Quartz Armor Plates
 conarm:armor_plate:0, Supercharged Tektite Armor Plates
 conarm:armor_plate:0, Supercharged Pearl Armor Plates
-conarm:armor_plate:0, Wyvern Armor Plates
-conarm:armor_plate:0, Awakened Armor Plates
-conarm:armor_plate:0, Chaotic Armor Plates
-conarm:armor_plate:0, Emerald Armor Plates
 conarm:armor_plate:0, Bloodwood Armor Plates
 conarm:armor_plate:0, Fusewood Armor Plates
 conarm:armor_plate:0, Ghostwood Armor Plates
 conarm:armor_plate:0, Darkwood Armor Plates
-conarm:armor_plate:0, Wooden Armor Plates
+conarm:armor_plate:0, Wyvern Armor Plates
+conarm:armor_plate:0, Awakened Armor Plates
+conarm:armor_plate:0, Chaotic Armor Plates
+conarm:armor_plate:0, Emerald Armor Plates
 conarm:chest_core:0, Electrical Chestplate Core
 conarm:chest_core:0, Energetic Chestplate Core
 conarm:chest_core:0, Vibrant Chestplate Core
@@ -19059,6 +19326,7 @@ conarm:chest_core:0, Dark Chestplate Core
 conarm:chest_core:0, Souled Chestplate Core
 conarm:chest_core:0, Chestplate Core of the End
 conarm:chest_core:0, Fake-Iron Chestplate Core
+conarm:chest_core:0, Wooden Chestplate Core
 conarm:chest_core:0, Stone Chestplate Core
 conarm:chest_core:0, Flint Chestplate Core
 conarm:chest_core:0, Cactus Chestplate Core
@@ -19268,15 +19536,14 @@ conarm:chest_core:0, Supercharged Kunzite Chestplate Core
 conarm:chest_core:0, Supercharged Rose Quartz Chestplate Core
 conarm:chest_core:0, Supercharged Tektite Chestplate Core
 conarm:chest_core:0, Supercharged Pearl Chestplate Core
-conarm:chest_core:0, Wyvern Chestplate Core
-conarm:chest_core:0, Awakened Chestplate Core
-conarm:chest_core:0, Chaotic Chestplate Core
-conarm:chest_core:0, Emerald Chestplate Core
 conarm:chest_core:0, Bloodwood Chestplate Core
 conarm:chest_core:0, Fusewood Chestplate Core
 conarm:chest_core:0, Ghostwood Chestplate Core
 conarm:chest_core:0, Darkwood Chestplate Core
-conarm:chest_core:0, Wooden Chestplate Core
+conarm:chest_core:0, Wyvern Chestplate Core
+conarm:chest_core:0, Awakened Chestplate Core
+conarm:chest_core:0, Chaotic Chestplate Core
+conarm:chest_core:0, Emerald Chestplate Core
 conarm:leggings_core:0, Electrical Leggings Core
 conarm:leggings_core:0, Energetic Leggings Core
 conarm:leggings_core:0, Vibrant Leggings Core
@@ -19287,6 +19554,7 @@ conarm:leggings_core:0, Dark Leggings Core
 conarm:leggings_core:0, Souled Leggings Core
 conarm:leggings_core:0, Leggings Core of the End
 conarm:leggings_core:0, Fake-Iron Leggings Core
+conarm:leggings_core:0, Wooden Leggings Core
 conarm:leggings_core:0, Stone Leggings Core
 conarm:leggings_core:0, Flint Leggings Core
 conarm:leggings_core:0, Cactus Leggings Core
@@ -19496,15 +19764,14 @@ conarm:leggings_core:0, Supercharged Kunzite Leggings Core
 conarm:leggings_core:0, Supercharged Rose Quartz Leggings Core
 conarm:leggings_core:0, Supercharged Tektite Leggings Core
 conarm:leggings_core:0, Supercharged Pearl Leggings Core
-conarm:leggings_core:0, Wyvern Leggings Core
-conarm:leggings_core:0, Awakened Leggings Core
-conarm:leggings_core:0, Chaotic Leggings Core
-conarm:leggings_core:0, Emerald Leggings Core
 conarm:leggings_core:0, Bloodwood Leggings Core
 conarm:leggings_core:0, Fusewood Leggings Core
 conarm:leggings_core:0, Ghostwood Leggings Core
 conarm:leggings_core:0, Darkwood Leggings Core
-conarm:leggings_core:0, Wooden Leggings Core
+conarm:leggings_core:0, Wyvern Leggings Core
+conarm:leggings_core:0, Awakened Leggings Core
+conarm:leggings_core:0, Chaotic Leggings Core
+conarm:leggings_core:0, Emerald Leggings Core
 conarm:boots_core:0, Electrical Boots Core
 conarm:boots_core:0, Energetic Boots Core
 conarm:boots_core:0, Vibrant Boots Core
@@ -19515,6 +19782,7 @@ conarm:boots_core:0, Dark Boots Core
 conarm:boots_core:0, Souled Boots Core
 conarm:boots_core:0, Boots Core of the End
 conarm:boots_core:0, Fake-Iron Boots Core
+conarm:boots_core:0, Wooden Boots Core
 conarm:boots_core:0, Stone Boots Core
 conarm:boots_core:0, Flint Boots Core
 conarm:boots_core:0, Cactus Boots Core
@@ -19724,15 +19992,14 @@ conarm:boots_core:0, Supercharged Kunzite Boots Core
 conarm:boots_core:0, Supercharged Rose Quartz Boots Core
 conarm:boots_core:0, Supercharged Tektite Boots Core
 conarm:boots_core:0, Supercharged Pearl Boots Core
-conarm:boots_core:0, Wyvern Boots Core
-conarm:boots_core:0, Awakened Boots Core
-conarm:boots_core:0, Chaotic Boots Core
-conarm:boots_core:0, Emerald Boots Core
 conarm:boots_core:0, Bloodwood Boots Core
 conarm:boots_core:0, Fusewood Boots Core
 conarm:boots_core:0, Ghostwood Boots Core
 conarm:boots_core:0, Darkwood Boots Core
-conarm:boots_core:0, Wooden Boots Core
+conarm:boots_core:0, Wyvern Boots Core
+conarm:boots_core:0, Awakened Boots Core
+conarm:boots_core:0, Chaotic Boots Core
+conarm:boots_core:0, Emerald Boots Core
 conarm:helmet, Helmet
 conarm:chestplate, Chestplate
 conarm:leggings, Leggings
@@ -19769,6 +20036,7 @@ conarm:polishing_kit:0, Dark Polishing Kit
 conarm:polishing_kit:0, Souled Polishing Kit
 conarm:polishing_kit:0, Polishing Kit of the End
 conarm:polishing_kit:0, Fake-Iron Polishing Kit
+conarm:polishing_kit:0, Wooden Polishing Kit
 conarm:polishing_kit:0, Stone Polishing Kit
 conarm:polishing_kit:0, Flint Polishing Kit
 conarm:polishing_kit:0, Cactus Polishing Kit
@@ -19978,15 +20246,14 @@ conarm:polishing_kit:0, Supercharged Kunzite Polishing Kit
 conarm:polishing_kit:0, Supercharged Rose Quartz Polishing Kit
 conarm:polishing_kit:0, Supercharged Tektite Polishing Kit
 conarm:polishing_kit:0, Supercharged Pearl Polishing Kit
-conarm:polishing_kit:0, Wyvern Polishing Kit
-conarm:polishing_kit:0, Awakened Polishing Kit
-conarm:polishing_kit:0, Chaotic Polishing Kit
-conarm:polishing_kit:0, Emerald Polishing Kit
 conarm:polishing_kit:0, Bloodwood Polishing Kit
 conarm:polishing_kit:0, Fusewood Polishing Kit
 conarm:polishing_kit:0, Ghostwood Polishing Kit
 conarm:polishing_kit:0, Darkwood Polishing Kit
-conarm:polishing_kit:0, Wooden Polishing Kit
+conarm:polishing_kit:0, Wyvern Polishing Kit
+conarm:polishing_kit:0, Awakened Polishing Kit
+conarm:polishing_kit:0, Chaotic Polishing Kit
+conarm:polishing_kit:0, Emerald Polishing Kit
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
@@ -20771,6 +21038,7 @@ plustic:pipe_piece:0, Dark Pipe Piece
 plustic:pipe_piece:0, Souled Pipe Piece
 plustic:pipe_piece:0, Pipe Piece of the End
 plustic:pipe_piece:0, Fake-Iron Pipe Piece
+plustic:pipe_piece:0, Wooden Pipe Piece
 plustic:pipe_piece:0, Stone Pipe Piece
 plustic:pipe_piece:0, Flint Pipe Piece
 plustic:pipe_piece:0, Cactus Pipe Piece
@@ -20980,15 +21248,14 @@ plustic:pipe_piece:0, Supercharged Kunzite Pipe Piece
 plustic:pipe_piece:0, Supercharged Rose Quartz Pipe Piece
 plustic:pipe_piece:0, Supercharged Tektite Pipe Piece
 plustic:pipe_piece:0, Supercharged Pearl Pipe Piece
-plustic:pipe_piece:0, Wyvern Pipe Piece
-plustic:pipe_piece:0, Awakened Pipe Piece
-plustic:pipe_piece:0, Chaotic Pipe Piece
-plustic:pipe_piece:0, Emerald Pipe Piece
 plustic:pipe_piece:0, Bloodwood Pipe Piece
 plustic:pipe_piece:0, Fusewood Pipe Piece
 plustic:pipe_piece:0, Ghostwood Pipe Piece
 plustic:pipe_piece:0, Darkwood Pipe Piece
-plustic:pipe_piece:0, Wooden Pipe Piece
+plustic:pipe_piece:0, Wyvern Pipe Piece
+plustic:pipe_piece:0, Awakened Pipe Piece
+plustic:pipe_piece:0, Chaotic Pipe Piece
+plustic:pipe_piece:0, Emerald Pipe Piece
 plustic:laser_medium:0, Stone Laser Medium
 plustic:laser_medium:0, Prismarine Laser Medium
 plustic:laser_medium:0, Blazerod Laser Medium
@@ -21459,24 +21726,99 @@ silentgems:boots, Gem Boots
 silentgems:toolrenderhelper, item.silentgems.toolrenderhelper.name
 silentgems:guide_book, Silent's Gems Manual
 morphtool:tool, item.tool.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:witch_hat, item.witch_hat.name
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern, tile.paper_lantern.name
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:candle:0, White Candle
+quark:candle:1, Orange Candle
+quark:candle:2, Magenta Candle
+quark:candle:3, Light Blue Candle
+quark:candle:4, Yellow Candle
+quark:candle:5, Lime Candle
+quark:candle:6, Pink Candle
+quark:candle:7, Gray Candle
+quark:candle:8, Light Gray Candle
+quark:candle:9, Cyan Candle
+quark:candle:10, Purple Candle
+quark:candle:11, Blue Candle
+quark:candle:12, Brown Candle
+quark:candle:13, Green Candle
+quark:candle:14, Red Candle
+quark:candle:15, Black Candle
+quark:tallow, item.tallow.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:glass_item_frame, item.glass_item_frame.name
 quark:glowstone_dust_block, tile.glowstone_dust_block.name
 quark:gunpowder_block, tile.gunpowder_block.name
 quark:arrow_ender, item.arrow_ender.name
@@ -21509,6 +21851,33 @@ quark:parrot_egg:2, Green Parrot Egg
 quark:parrot_egg:3, Cyan Parrot Egg
 quark:parrot_egg:4, Gray Parrot Egg
 quark:enderdragon_scale, item.enderdragon_scale.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:witch_hat, item.witch_hat.name
 quark:pirate_hat, item.pirate_hat.name
 quark:marble:0, Marble
 quark:marble:1, Polished Marble
@@ -21855,108 +22224,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern, tile.paper_lantern.name
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:candle:0, White Candle
-quark:candle:1, Orange Candle
-quark:candle:2, Magenta Candle
-quark:candle:3, Light Blue Candle
-quark:candle:4, Yellow Candle
-quark:candle:5, Lime Candle
-quark:candle:6, Pink Candle
-quark:candle:7, Gray Candle
-quark:candle:8, Light Gray Candle
-quark:candle:9, Cyan Candle
-quark:candle:10, Purple Candle
-quark:candle:11, Blue Candle
-quark:candle:12, Brown Candle
-quark:candle:13, Green Candle
-quark:candle:14, Red Candle
-quark:candle:15, Black Candle
-quark:tallow, item.tallow.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
 bhc:red_heart, Red Heart
 bhc:orange_heart, Orange Heart
 bhc:green_heart, Green Heart
@@ -27922,12 +28189,6 @@ infernomobs:gorgertreat, Gorger Treat
 junglemobs:quickweb, Quickweb
 shadowmobs:spectralboltcharge, Spectral Bolt Charge
 demonmobs:doomfire, Doomfire
-arcticmobs:arcticspawn:0, Spawn Arix
-arcticmobs:arcticspawn:0, Spawn Wendigo
-arcticmobs:arcticspawn:0, Spawn Maug
-arcticmobs:arcticspawn:0, Spawn Serpix
-arcticmobs:arcticspawn:0, Spawn Yeti
-arcticmobs:arcticspawn:0, Spawn Frostweaver
 infernomobs:soulstoneinferno, Inferno Soulstone
 lycanitesmobs:summoningstaff, Summoning Staff
 demonmobs:demonstonechiseled, Chiseled Demonstone
@@ -27937,24 +28198,9 @@ lycanitesmobs:equipmentforge_stone, Stone Equipment Forge (Level 2)
 demonmobs:devillasagna, Devil Lasagna
 demonmobs:hellfire, Hellfire
 demonmobs:pinkymeatraw, Raw Pinky Meat
-forestmobs:forestspawn:0, Spawn Arisaur
-forestmobs:forestspawn:0, Spawn Warg
-forestmobs:forestspawn:0, Spawn Shambler
-forestmobs:forestspawn:0, Spawn Treant
-forestmobs:forestspawn:0, Spawn Calpod
-forestmobs:forestspawn:0, Spawn Ent
 swampmobs:lurkertreat, Lurker Treat
 shadowmobs:shadowstone_slab_double, Double Shadowstone Slab
 mountainmobs:yalemeatraw, Raw Yale Meat
-swampmobs:swampspawn:0, Spawn Ghoul Zombie
-swampmobs:swampspawn:0, Spawn Aglebemu
-swampmobs:swampspawn:0, Spawn Eyewig
-swampmobs:swampspawn:0, Spawn Ettin
-swampmobs:swampspawn:0, Spawn Lurker
-swampmobs:swampspawn:0, Spawn Aspid
-swampmobs:swampspawn:0, Spawn Dweller
-swampmobs:swampspawn:0, Spawn Remobra
-swampmobs:swampspawn:0, Spawn Triffid
 elementalmobs:aquapulsescepter, Aqua Pulse Scepter
 shadowmobs:shadowstonechiseled, Chiseled Shadowstone
 arcticmobs:icefire, Icefire
@@ -28005,12 +28251,6 @@ arcticmobs:blizzardscepter, Blizzard Scepter
 saltwatermobs:ikameatraw, Raw Ika Meat
 mountainmobs:arcanelaserstormcharge, Arcane Laser Storm Charge
 saltwatermobs:seashellmaki, Seashell Maki
-mountainmobs:mountainspawn:0, Spawn Barghest
-mountainmobs:mountainspawn:0, Spawn Jabberwock
-mountainmobs:mountainspawn:0, Spawn Beholder
-mountainmobs:mountainspawn:0, Spawn Troll
-mountainmobs:mountainspawn:0, Spawn Wildkin
-mountainmobs:mountainspawn:0, Spawn Yale
 plainsmobs:ventoraptorskull, Ventoraptor Skull
 shadowmobs:bloodleechscepter, Bloodleech Scepter
 shadowmobs:chupacabrameatcooked, Cooked Chupacabra Meat
@@ -28034,27 +28274,6 @@ elementalmobs:frostboltscepter, Frostbolt Scepter
 shadowmobs:chupacabratreat, Chupacabra Treat
 shadowmobs:soulstoneshadow, Shadow Soulstone
 forestmobs:entarm, Ent Arm
-elementalmobs:elementalspawn:0, Spawn Spriggan
-elementalmobs:elementalspawn:0, Spawn Reiver
-elementalmobs:elementalspawn:0, Spawn Djinn
-elementalmobs:elementalspawn:0, Spawn Eechetik
-elementalmobs:elementalspawn:0, Spawn Nymph
-elementalmobs:elementalspawn:0, Spawn Spectre
-elementalmobs:elementalspawn:0, Spawn Zephyr
-elementalmobs:elementalspawn:0, Spawn Tremor
-elementalmobs:elementalspawn:0, Spawn Geonach
-elementalmobs:elementalspawn:0, Spawn Wraith
-elementalmobs:elementalspawn:0, Spawn Vapula
-elementalmobs:elementalspawn:0, Spawn Grue
-elementalmobs:elementalspawn:0, Spawn Wisp
-elementalmobs:elementalspawn:0, Spawn Cinder
-elementalmobs:elementalspawn:0, Spawn Banshee
-elementalmobs:elementalspawn:0, Spawn Aegis
-elementalmobs:elementalspawn:0, Spawn Sylph
-elementalmobs:elementalspawn:0, Spawn Volcan
-elementalmobs:elementalspawn:0, Spawn Jengu
-elementalmobs:elementalspawn:0, Spawn Xaphan
-elementalmobs:elementalspawn:0, Spawn Argus
 desertmobs:mudshotcharge, Mudshot Charge
 saltwatermobs:hermatreat, Herma Treat
 junglemobs:poopscepter, Poop Scepter
@@ -28067,15 +28286,6 @@ desertmobs:scythescepter, Scythe Scepter
 demonmobs:cacodemontreat, Cacodemon Treat
 swampmobs:mosspie, Moss Pie
 arcticmobs:tundracharge, Tundra Charge
-plainsmobs:plainsspawn:0, Spawn Kobold
-plainsmobs:plainsspawn:0, Spawn Maka Alpha
-plainsmobs:plainsspawn:0, Spawn Zoataur
-plainsmobs:plainsspawn:0, Spawn Morock
-plainsmobs:plainsspawn:0, Spawn Quillbeast
-plainsmobs:plainsspawn:0, Spawn Roc
-plainsmobs:plainsspawn:0, Spawn Ventoraptor
-plainsmobs:plainsspawn:0, Spawn Maka
-plainsmobs:plainsspawn:0, Spawn Feradon
 freshwatermobs:ioraytreat, Ioray Treat
 swampmobs:verdantvenomaxeblade, Verdant Venom Axeblade
 elementalmobs:cinderfallsword, Cinderfall Sword
@@ -28083,14 +28293,6 @@ lycanitesmobs:soulstone, Soulstone
 junglemobs:poopcloud, Poop Cloud
 swampmobs:aspidmeatcooked, Cooked Aspid Meat
 arcticmobs:ooze, Ooze
-saltwatermobs:saltwaterspawn:0, Spawn Lacedon
-saltwatermobs:saltwaterspawn:0, Spawn Skylus
-saltwatermobs:saltwaterspawn:0, Spawn Abtu
-saltwatermobs:saltwaterspawn:0, Spawn Ika
-saltwatermobs:saltwaterspawn:0, Spawn Herma
-saltwatermobs:saltwaterspawn:0, Spawn Raiko
-saltwatermobs:saltwaterspawn:0, Spawn Quetzodracl
-saltwatermobs:saltwaterspawn:0, Spawn Roa
 demonmobs:demonstone_stairs, Demonstone Stairs
 lycanitesmobs:summoningpedestal, Summoning Pedestal
 arcticmobs:yetimeatcooked, Cooked Yeti Meat
@@ -28107,15 +28309,6 @@ lycanitesmobs:woodenrod, item.woodenrod.name
 plainsmobs:makameatraw, Raw Maka Meat
 swampmobs:poisoncloud, Poison Cloud
 saltwatermobs:quetzodracltreat, Quetzodracl Treat
-desertmobs:desertspawn:0, Spawn Crusk
-desertmobs:desertspawn:0, Spawn Manticore
-desertmobs:desertspawn:0, Spawn Joust Alpha
-desertmobs:desertspawn:0, Spawn Joust
-desertmobs:desertspawn:0, Spawn Gorgomite
-desertmobs:desertspawn:0, Spawn Clink
-desertmobs:desertspawn:0, Spawn Sutiramu
-desertmobs:desertspawn:0, Spawn Erepede
-desertmobs:desertspawn:0, Spawn Crypt Zombie
 shadowmobs:shadowstone_slab:0, Shadowstone Slab
 shadowmobs:shadowstonetile, Shadowstone Tile
 swampmobs:aspidmeatraw, Raw Aspid Meat
@@ -28143,16 +28336,6 @@ elementalmobs:geonachfist, Geonach Fist
 arcticmobs:icefirescepter, Icefire Scepter
 lycanitesmobs:woodenpaxel, item.woodenpaxel.name
 demonmobs:demonstonetile_slab:0, Demonstone Tile Slab
-junglemobs:junglespawn:0, Spawn Vespid Queen
-junglemobs:junglespawn:0, Spawn Uvaraptor
-junglemobs:junglespawn:0, Spawn Concapede
-junglemobs:junglespawn:0, Spawn Vespid
-junglemobs:junglespawn:0, Spawn Dawon
-junglemobs:junglespawn:0, Spawn Geken
-junglemobs:junglespawn:0, Spawn Concapede Segment
-junglemobs:junglespawn:0, Spawn Cockatrice
-junglemobs:junglespawn:0, Spawn Conba
-junglemobs:junglespawn:0, Spawn Tarantula
 shadowmobs:shadowstonebrick_slab:0, Shadowstone Brick Slab
 swampmobs:poisonrayscepter, Poison Ray Scepter
 shadowmobs:shadowstonepolished, Polished Shadowstone
@@ -28167,26 +28350,12 @@ demonmobs:demoniclightningscepter, Demonic Lightning Scepter
 elementalmobs:chaosorbcharge, Chaos Orb Charge
 plainsmobs:roctreat, Roc Treat
 shadowmobs:shadowstonepillar, Shadowstone Pillar
-shadowmobs:shadowspawn:0, Spawn Chupacabra
-shadowmobs:shadowspawn:0, Spawn Geist
-shadowmobs:shadowspawn:0, Spawn Shade
-shadowmobs:shadowspawn:0, Spawn Phantom
-shadowmobs:shadowspawn:0, Spawn Darkling
-shadowmobs:shadowspawn:0, Spawn Epion
-shadowmobs:shadowspawn:0, Spawn Wraamon
 junglemobs:concapedemeatcooked, Cooked Concapede Meat
 forestmobs:arisaurmeatcooked, Cooked Arisaur Meat
 arcticmobs:maugtreat, Maug Treat
 plainsmobs:ventoraptortreat, Ventoraptor Treat
 lycanitesmobs:soulgazer, Soulgazer
 elementalmobs:vapulacrystal, Vapula Crystal
-infernomobs:infernospawn:0, Spawn Khalk
-infernomobs:infernospawn:0, Spawn Afrit
-infernomobs:infernospawn:0, Spawn Lobber
-infernomobs:infernospawn:0, Spawn Gorger
-infernomobs:infernospawn:0, Spawn Salamander
-infernomobs:infernospawn:0, Spawn Cephignis
-infernomobs:infernospawn:0, Spawn Ignibus
 arcticmobs:icefirecharge, Icefire Charge
 mountainmobs:soulstonemountain, Mountain Soulstone
 arcticmobs:blizzardcharge, Blizzard Charge
@@ -28194,14 +28363,6 @@ demonmobs:demonstonetile, Demonstone Tile
 junglemobs:uvaraptortreat, Uvaraptor Treat
 desertmobs:joustmeatraw, Raw Joust Meat
 shadowmobs:spectralboltscepter, Spectral Bolt Scepter
-demonmobs:demonspawn:0, Spawn Cacodemon
-demonmobs:demonspawn:0, Spawn Astaroth
-demonmobs:demonspawn:0, Spawn Asmodeus
-demonmobs:demonspawn:0, Spawn Behemoth
-demonmobs:demonspawn:0, Spawn Pinky
-demonmobs:demonspawn:0, Spawn Trite
-demonmobs:demonspawn:0, Spawn Belph
-demonmobs:demonspawn:0, Spawn Rahovart
 elementalmobs:lifedrainscepter, Life Drain Scepter
 demonmobs:demonstone_slab_double, Double Demonstone Slab
 arcticmobs:frostwebscepter, Frostweb Scepter
@@ -28215,11 +28376,6 @@ shadowmobs:shadowstonebrick_wall, Shadowstone Brick Wall
 mountainmobs:wildkintreat, Wildkin Treat
 saltwatermobs:raikotreat, Raiko Treat
 demonmobs:demonstonebrick, Demonstone Brick
-freshwatermobs:freshwaterspawn:0, Spawn Thresher
-freshwatermobs:freshwaterspawn:0, Spawn Strider
-freshwatermobs:freshwaterspawn:0, Spawn Silex
-freshwatermobs:freshwaterspawn:0, Spawn Ioray
-freshwatermobs:freshwaterspawn:0, Spawn Abaia
 junglemobs:veswax, Veswax
 shadowmobs:shadetreat, Shade Treat
 arcticmobs:palesoup, Pale Soup
