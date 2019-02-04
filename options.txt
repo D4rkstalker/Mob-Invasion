@@ -4,14 +4,14 @@ mouseSensitivity:0.5
 fov:1.0
 gamma:1000.0
 saturation:0.0
-renderDistance:2
+renderDistance:8
 guiScale:2
 particles:2
 bobView:true
 anaglyph3d:false
 maxFps:60
 fboEnable:true
-difficulty:0
+difficulty:3
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -106,16 +106,17 @@ key_pe.key.armor_toggle:45
 key_pe.key.charge:47
 key_pe.key.extra_function:46
 key_pe.key.fire_projectile:19
-key_pe.key.mode:34
-key_key.conarm.toggle_helm.desc:34
+key_pe.key.mode:0
+key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:35
-key_key.conarm.toggle_leg.desc:36
+key_key.conarm.toggle_leg.desc:0
 key_key.xu2.searchforitems:20
 key_veinminer.key.enable:210
 key_Toggle Special:46:SHIFT
 key_Toggle Chaos Gem (First):210
 key_Toggle Chaos Gem (All):210
 key_Use Return Home Charm:210
+key_quark.keybind.toggleAutojump:210
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -134,7 +135,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:210
 key_quark.keybind.lockBuilding:210
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:210
@@ -159,10 +159,10 @@ key_key.ironbackpacks.equip:210
 key_key.ironbackpacks.open:210
 key_Jet Pack Lift:0
 key_Jet Pack Hover:35
-key_Creepssile Launch:34
+key_Creepssile Launch:0
 key_key.mount.ability:45
 key_key.mount.inventory:0
-key_key.index:34
+key_key.index:0
 key_key.beastiary:0
 key_key.pets:0
 key_key.summoning:0
@@ -238,7 +238,7 @@ key_key.effortlessbuilding.creative.desc:62
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.dragon_fireAttack:19
-key_key.dragon_strike:34
+key_key.dragon_strike:0
 key_key.dragon_down:45
 key_key.dragon_change_view:65
 key_key.categories.naming:210

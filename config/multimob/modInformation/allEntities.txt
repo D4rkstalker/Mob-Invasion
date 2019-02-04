@@ -109,7 +109,6 @@ plustic:supremeleader
 plustic:blindbandit
 enderzoo:entityowlegg
 enderzoo:entityprimedcharge
-quark:seat
 quark:flat_item_frame
 quark:colored_item_frame
 quark:glass_item_frame
@@ -117,6 +116,7 @@ quark:pirate
 quark:wraith
 quark:dweller
 quark:ashen
+quark:seat
 quark:arrow_ender
 quark:arrow_explosive
 quark:arrow_torch
