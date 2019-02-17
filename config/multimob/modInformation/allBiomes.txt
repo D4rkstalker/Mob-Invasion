@@ -133,6 +133,7 @@ biomesoplenty:fungi_forest
 biomesoplenty:phantasmagoric_inferno
 biomesoplenty:undergarden
 biomesoplenty:visceral_heap
+randomthings:spectral
 appliedenergistics2:storage_biome
 creepingnether:creeping_nether
 creepingnether:purified_nether

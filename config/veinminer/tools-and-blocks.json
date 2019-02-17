@@ -184,6 +184,8 @@
         "natura:overworld_logs2",
         "natura:redwood_leaves",
         "natura:redwood_logs",
+        "randomthings:spectreleaf/0",
+        "randomthings:spectrelog/0",
         "tconstruct:slime_leaves"
       ]
     },
@@ -1030,6 +1032,7 @@
         "natura:overworld_leaves",
         "natura:overworld_leaves2",
         "natura:redwood_leaves",
+        "randomthings:spectreleaf/0",
         "tconstruct:slime_leaves"
       ]
     },
