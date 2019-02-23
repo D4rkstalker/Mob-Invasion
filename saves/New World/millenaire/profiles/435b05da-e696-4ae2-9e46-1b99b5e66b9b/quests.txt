@@ -1,2 +1,1 @@
-quest:lumbermanwine;step:0;startTime:56000;currentStepStartTime:56000;villager:startvillager,788300169883010602,497/102/943
-quest:fishingfrenzy;step:0;startTime:78000;currentStepStartTime:78000;villager:startvillager,6866733924000731100,-209/87/419;villager:wife,2486367955040082736,-209/87/419
+quest:architectwife;step:0;startTime:768000;currentStepStartTime:768000;villager:startvillager,4904871168610972155,209/67/159;villager:architect,3003031995886524725,209/67/159

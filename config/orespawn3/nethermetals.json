@@ -38,11 +38,11 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 2,
+				"size": 4,
 				"variation": 8,
 				"frequency": 12,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 100
 			},
 			"blocks": [
 				{
@@ -65,9 +65,9 @@
 			"parameters": {
 				"size": 4,
 				"variation": 8,
-				"frequency": 12,
+				"frequency": 8,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 75
 			},
 			"blocks": [
 				{
@@ -92,7 +92,7 @@
 				"variation": 8,
 				"frequency": 12,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 150
 			},
 			"blocks": [
 				{
@@ -317,7 +317,7 @@
 				"variation": 4,
 				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 100
 			},
 			"blocks": [
 				{
@@ -338,11 +338,11 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 2,
+				"size": 8,
 				"variation": 4,
-				"frequency": 10,
+				"frequency": 5,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 50
 			},
 			"blocks": [
 				{
@@ -517,7 +517,7 @@
 				"variation": 8,
 				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 50
 			},
 			"blocks": [
 				{
@@ -688,11 +688,11 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 4,
-				"variation": 4,
-				"frequency": 10,
+				"size": 8,
+				"variation": 8,
+				"frequency": 5,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 50
 			},
 			"blocks": [
 				{
@@ -715,9 +715,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 10,
+				"frequency": 5,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 50
 			},
 			"blocks": [
 				{
@@ -742,7 +742,7 @@
 				"variation": 4,
 				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 80
 			},
 			"blocks": [
 				{

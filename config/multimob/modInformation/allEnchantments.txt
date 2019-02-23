@@ -38,11 +38,11 @@ openblocks:explosive
 openblocks:last_stand
 openblocks:flim_flam
 randomthings:magnetic
-endercore:autosmelt
 endercore:xpboost
-enderio:soulbound
-enderio:witherweapon
+endercore:autosmelt
 enderio:shimmer
+enderio:witherweapon
+enderio:soulbound
 enderio:repellent
 enderio:witherarrow
 silentgems:lifesteal

@@ -1,14 +1,13 @@
-
-//; 
+//Current player gets controlled villages; When loading a single player world (including opened on LAN), have the single player use the current Millénaire profile and control all the world's controlled villages.
 auto_convert_profiles=false
 
-//; 
+//config.generate_travel_book_export.label; config.generate_travel_book_export.desc:
 generate_travel_book_export=false
 
-//; 
+//Travel Book Learning; Whether villagers, buildings etc descriptions in the Travel Book are revealed only after meeting the item in question.
 travel_book_learning=true
 
-//; 
+//Generate help data; Generates various data (colour sheet, goods list, infos on generic goals) useful to content makers
 generate_help_data=false
 
 //Unique random identifier to count unique players if statistics are enabled
@@ -18,6 +17,6 @@ random_uid=6433738002561635328
 advancements_creative=
 
 //Advancement completed for anonymous statistics
-advancements_survival=firstcontact
+advancements_survival=firstcontact,explorer,marcopolo
 
-validation=346190872
+validation=346190934

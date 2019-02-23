@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:60
 fboEnable:true
-difficulty:1
+difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -75,7 +75,7 @@ key_key.spectatorOutlines:0
 key_key.swapHands:33
 key_key.saveToolbarActivator:0
 key_key.loadToolbarActivator:0
-key_key.advancements:38
+key_key.advancements:0
 key_key.hotbar.1:2
 key_key.hotbar.2:3
 key_key.hotbar.3:4
@@ -117,6 +117,14 @@ key_Toggle Chaos Gem (First):0
 key_Toggle Chaos Gem (All):0
 key_Use Return Home Charm:0
 key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -135,14 +143,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
 key_key.next_item.desc:0
 key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
@@ -212,6 +212,7 @@ key_key.plustic_brown_magic.desc:24
 key_key.plustic_toggle_tool.desc:51:ALT
 key_key.plustic_fruit_salad.desc:12:ALT
 key_key.plustic_mots.desc:13:ALT
+key_Options Gui:23
 key_key.colytra.toggle.desc:0
 key_key.craftingtweaks.rotate:82
 key_key.craftingtweaks.rotate_counter_clockwise:0
@@ -250,7 +251,6 @@ key_justenoughbuttons.key.chunkoverlay:62
 key_justenoughbuttons.key.moboverlay:65
 key_jecalculation.key.gui_craft:0
 key_jecalculation.key.gui_math:0
-key_keywizard.keybind.openKeyboardWizard:0
 key_LevelUpGUI:38
 key_key.menu:50:SHIFT
 key_key.villages:47

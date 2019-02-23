@@ -8,7 +8,7 @@ village_list_key=V
 
 //Touche panneau d'information; Touche pour afficher le panneau d'information Millénaire. Défaut: M.
 //Info Panel Key; Key to display the Millénaire info pannel. Default: M.
-quest_list_key=M
+quest_list_key=J
 
 //Touche mode escortes; Touche pour changer le mode des escortes (agressif ou non). Défaut: G.
 //Agressive Escorts Key; Key to toggle hired villagers between agressive and defensive stances. Default: G.
@@ -60,15 +60,15 @@ generate_lone_buildings=true
 
 //Distance min entre villages; Distance minimale entre deux villages générés. Défaut: 600.
 //Min Village Distance; Minimum distance between two generated villages. Default: 600.
-min_village_distance=600
+min_village_distance=300
 
 //Distance min villages/bâtiments; Distance minimale entre villages et bâtiments isolés générés. Défaut: 300.
 //Min Village-Lone Building Distance; Minimum distance between generated villages and lone buildings. Default: 300.
-min_village_lonebuilding_distance=300
+min_village_lonebuilding_distance=150
 
 //Distance min entre bâtiments; Distance minimale entre deux bâtiments isolés générés. Défaut: 600.
 //Min Lone Building Distance; Minimum distance between lone buildings. Default: 600.
-min_lonebuilding_distance=600
+min_lonebuilding_distance=300
 
 //Rayon de protection spawn; Rayon autour du point d'apparition dans lequel Millénaire ne génère rien. Défaut: 150.
 //Spawn Protection Radius; Area around the Spawn Point where Millénaire will not generate buildings. Default: 150.
@@ -76,15 +76,15 @@ spawn_protection_radius=150
 
 //Progrès initial maximum; Progrès initial maximum (en %) qu'un village peut avoir si éloigné du point d'apparition. Défaut : 25.
 //Max Progress on Spawn; Maximum initial progress a village can have (in %) when generated far from the Spawn Point. Default: 25.
-village_spawn_completion_max_percentage=25
+village_spawn_completion_max_percentage=50
 
 //Distance minimum pour progrès; Distance minimum du point d'apparition à partir de laquelle les villages peuvent avoir un progrès initial. Défaut : 2000.
 //Minimum Distance for Progress; Minimum distance from the Spawn Point at which villages can start with some initial progress. Default: 2000.
-village_spawn_completion_min_distance=2000
+village_spawn_completion_min_distance=1000
 
 //Distance maximum pour progrès; Distance du point d'apparition à partir de laquelle les villages peuvent avoir le progrès initial maximum. Défaut : 10000.
 //Maximum Distance for Progress; Distance from the Spawn Point at which villages can reach the maximum initial progress. Default: 10000.
-village_spawn_completion_max_distance=10000
+village_spawn_completion_max_distance=5000
 
 //--------------------------------------------------------------------------------------------
 //       Réglages villages    -    Village Behaviour
@@ -120,7 +120,7 @@ bandit_raid_radius=1500
 
 //Chance de raid en %; Chance sur 100 qu'un village ou bâtiment de bandits tente un raid chaque nuit. Défaut: 20.
 //Raiding % Chance; Chance on 100 that a village/bandit building will attempt a raid each night. Default: 20.
-raiding_rate=20
+raiding_rate=25
 
 //--------------------------------------------------------------------------------------------
 //       Réglages système    -    System Settings

@@ -1,2 +1,9 @@
-Inuksuit;-9/99/102;inuksuit;inuits;
-Apomonomeno Boske Probaton;208/68/676;lonesheepfarm;byzantines;
+Asiguk Tupiq;-54/81/137;lonedislogcabin;inuits;
+Mono Paratiritio;232/111/-12;PineTower;byzantines;
+Mono Paratiritio;-280/110/-60;PineTower;byzantines;
+Apomonomeno Boske Probaton;-576/70/52;lonesheepfarm;byzantines;
+Apomonomeno Boske Probaton;-297/71/-414;lonesheepfarm;byzantines;
+Apomonomeno Boske Probaton;352/69/260;lonesheepfarm;byzantines;
+Asiguk Tupiq;72/82/429;lonedislogcabin2;inuits;
+Meunier solitaire;334/83/597;lonemill;norman;
+Mine abandonnée;543/60/-38;abandonedmine;norman;

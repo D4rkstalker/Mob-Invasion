@@ -11402,7 +11402,6 @@ appliedenergistics2:facade:0, Cable Facade - Chaos Ore
 appliedenergistics2:facade:0, Cable Facade - Block of Chaos Essence
 appliedenergistics2:facade:0, Cable Facade - Hardened Stone
 appliedenergistics2:facade:0, Cable Facade - Fluffy Block (White)
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
 appliedenergistics2:facade:0, Cable Facade - Marble
 appliedenergistics2:facade:0, Cable Facade - Limestone
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
@@ -11416,6 +11415,7 @@ appliedenergistics2:facade:0, Cable Facade - Basalt
 appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
 appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -13092,44 +13092,44 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Boots Core Pattern
 tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -13347,13 +13347,13 @@ tconstruct:shard:0, Supercharged Kunzite Shard
 tconstruct:shard:0, Supercharged Rose Quartz Shard
 tconstruct:shard:0, Supercharged Tektite Shard
 tconstruct:shard:0, Supercharged Pearl Shard
-tconstruct:shard:0, Wyvern Shard
-tconstruct:shard:0, Awakened Shard
-tconstruct:shard:0, Chaotic Shard
 tconstruct:shard:0, Bloodwood Shard
 tconstruct:shard:0, Fusewood Shard
 tconstruct:shard:0, Ghostwood Shard
 tconstruct:shard:0, Darkwood Shard
+tconstruct:shard:0, Wyvern Shard
+tconstruct:shard:0, Awakened Shard
+tconstruct:shard:0, Chaotic Shard
 tconstruct:shard:0, Emerald Shard
 tconstruct:sharpening_kit:0, Electrical Sharpening Kit
 tconstruct:sharpening_kit:0, Energetic Sharpening Kit
@@ -13572,13 +13572,13 @@ tconstruct:sharpening_kit:0, Supercharged Kunzite Sharpening Kit
 tconstruct:sharpening_kit:0, Supercharged Rose Quartz Sharpening Kit
 tconstruct:sharpening_kit:0, Supercharged Tektite Sharpening Kit
 tconstruct:sharpening_kit:0, Supercharged Pearl Sharpening Kit
-tconstruct:sharpening_kit:0, Wyvern Sharpening Kit
-tconstruct:sharpening_kit:0, Awakened Sharpening Kit
-tconstruct:sharpening_kit:0, Chaotic Sharpening Kit
 tconstruct:sharpening_kit:0, Bloodwood Sharpening Kit
 tconstruct:sharpening_kit:0, Fusewood Sharpening Kit
 tconstruct:sharpening_kit:0, Ghostwood Sharpening Kit
 tconstruct:sharpening_kit:0, Darkwood Sharpening Kit
+tconstruct:sharpening_kit:0, Wyvern Sharpening Kit
+tconstruct:sharpening_kit:0, Awakened Sharpening Kit
+tconstruct:sharpening_kit:0, Chaotic Sharpening Kit
 tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:pick_head:0, Electrical Pickaxe Head
 tconstruct:pick_head:0, Energetic Pickaxe Head
@@ -13797,13 +13797,13 @@ tconstruct:pick_head:0, Supercharged Kunzite Pickaxe Head
 tconstruct:pick_head:0, Supercharged Rose Quartz Pickaxe Head
 tconstruct:pick_head:0, Supercharged Tektite Pickaxe Head
 tconstruct:pick_head:0, Supercharged Pearl Pickaxe Head
-tconstruct:pick_head:0, Wyvern Pickaxe Head
-tconstruct:pick_head:0, Awakened Pickaxe Head
-tconstruct:pick_head:0, Chaotic Pickaxe Head
 tconstruct:pick_head:0, Bloodwood Pickaxe Head
 tconstruct:pick_head:0, Fusewood Pickaxe Head
 tconstruct:pick_head:0, Ghostwood Pickaxe Head
 tconstruct:pick_head:0, Darkwood Pickaxe Head
+tconstruct:pick_head:0, Wyvern Pickaxe Head
+tconstruct:pick_head:0, Awakened Pickaxe Head
+tconstruct:pick_head:0, Chaotic Pickaxe Head
 tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:shovel_head:0, Electrical Shovel Head
 tconstruct:shovel_head:0, Energetic Shovel Head
@@ -14022,13 +14022,13 @@ tconstruct:shovel_head:0, Supercharged Kunzite Shovel Head
 tconstruct:shovel_head:0, Supercharged Rose Quartz Shovel Head
 tconstruct:shovel_head:0, Supercharged Tektite Shovel Head
 tconstruct:shovel_head:0, Supercharged Pearl Shovel Head
-tconstruct:shovel_head:0, Wyvern Shovel Head
-tconstruct:shovel_head:0, Awakened Shovel Head
-tconstruct:shovel_head:0, Chaotic Shovel Head
 tconstruct:shovel_head:0, Bloodwood Shovel Head
 tconstruct:shovel_head:0, Fusewood Shovel Head
 tconstruct:shovel_head:0, Ghostwood Shovel Head
 tconstruct:shovel_head:0, Darkwood Shovel Head
+tconstruct:shovel_head:0, Wyvern Shovel Head
+tconstruct:shovel_head:0, Awakened Shovel Head
+tconstruct:shovel_head:0, Chaotic Shovel Head
 tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:axe_head:0, Electrical Axe Head
 tconstruct:axe_head:0, Energetic Axe Head
@@ -14247,13 +14247,13 @@ tconstruct:axe_head:0, Supercharged Kunzite Axe Head
 tconstruct:axe_head:0, Supercharged Rose Quartz Axe Head
 tconstruct:axe_head:0, Supercharged Tektite Axe Head
 tconstruct:axe_head:0, Supercharged Pearl Axe Head
-tconstruct:axe_head:0, Wyvern Axe Head
-tconstruct:axe_head:0, Awakened Axe Head
-tconstruct:axe_head:0, Chaotic Axe Head
 tconstruct:axe_head:0, Bloodwood Axe Head
 tconstruct:axe_head:0, Fusewood Axe Head
 tconstruct:axe_head:0, Ghostwood Axe Head
 tconstruct:axe_head:0, Darkwood Axe Head
+tconstruct:axe_head:0, Wyvern Axe Head
+tconstruct:axe_head:0, Awakened Axe Head
+tconstruct:axe_head:0, Chaotic Axe Head
 tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:broad_axe_head:0, Electrical Broad Axe Head
 tconstruct:broad_axe_head:0, Energetic Broad Axe Head
@@ -14472,13 +14472,13 @@ tconstruct:broad_axe_head:0, Supercharged Kunzite Broad Axe Head
 tconstruct:broad_axe_head:0, Supercharged Rose Quartz Broad Axe Head
 tconstruct:broad_axe_head:0, Supercharged Tektite Broad Axe Head
 tconstruct:broad_axe_head:0, Supercharged Pearl Broad Axe Head
-tconstruct:broad_axe_head:0, Wyvern Broad Axe Head
-tconstruct:broad_axe_head:0, Awakened Broad Axe Head
-tconstruct:broad_axe_head:0, Chaotic Broad Axe Head
 tconstruct:broad_axe_head:0, Bloodwood Broad Axe Head
 tconstruct:broad_axe_head:0, Fusewood Broad Axe Head
 tconstruct:broad_axe_head:0, Ghostwood Broad Axe Head
 tconstruct:broad_axe_head:0, Darkwood Broad Axe Head
+tconstruct:broad_axe_head:0, Wyvern Broad Axe Head
+tconstruct:broad_axe_head:0, Awakened Broad Axe Head
+tconstruct:broad_axe_head:0, Chaotic Broad Axe Head
 tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:sword_blade:0, Electrical Sword Blade
 tconstruct:sword_blade:0, Energetic Sword Blade
@@ -14697,13 +14697,13 @@ tconstruct:sword_blade:0, Supercharged Kunzite Sword Blade
 tconstruct:sword_blade:0, Supercharged Rose Quartz Sword Blade
 tconstruct:sword_blade:0, Supercharged Tektite Sword Blade
 tconstruct:sword_blade:0, Supercharged Pearl Sword Blade
-tconstruct:sword_blade:0, Wyvern Sword Blade
-tconstruct:sword_blade:0, Awakened Sword Blade
-tconstruct:sword_blade:0, Chaotic Sword Blade
 tconstruct:sword_blade:0, Bloodwood Sword Blade
 tconstruct:sword_blade:0, Fusewood Sword Blade
 tconstruct:sword_blade:0, Ghostwood Sword Blade
 tconstruct:sword_blade:0, Darkwood Sword Blade
+tconstruct:sword_blade:0, Wyvern Sword Blade
+tconstruct:sword_blade:0, Awakened Sword Blade
+tconstruct:sword_blade:0, Chaotic Sword Blade
 tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:large_sword_blade:0, Electrical Large Sword Blade
 tconstruct:large_sword_blade:0, Energetic Large Sword Blade
@@ -14922,13 +14922,13 @@ tconstruct:large_sword_blade:0, Supercharged Kunzite Large Sword Blade
 tconstruct:large_sword_blade:0, Supercharged Rose Quartz Large Sword Blade
 tconstruct:large_sword_blade:0, Supercharged Tektite Large Sword Blade
 tconstruct:large_sword_blade:0, Supercharged Pearl Large Sword Blade
-tconstruct:large_sword_blade:0, Wyvern Large Sword Blade
-tconstruct:large_sword_blade:0, Awakened Large Sword Blade
-tconstruct:large_sword_blade:0, Chaotic Large Sword Blade
 tconstruct:large_sword_blade:0, Bloodwood Large Sword Blade
 tconstruct:large_sword_blade:0, Fusewood Large Sword Blade
 tconstruct:large_sword_blade:0, Ghostwood Large Sword Blade
 tconstruct:large_sword_blade:0, Darkwood Large Sword Blade
+tconstruct:large_sword_blade:0, Wyvern Large Sword Blade
+tconstruct:large_sword_blade:0, Awakened Large Sword Blade
+tconstruct:large_sword_blade:0, Chaotic Large Sword Blade
 tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:hammer_head:0, Electrical Hammer Head
 tconstruct:hammer_head:0, Energetic Hammer Head
@@ -15147,13 +15147,13 @@ tconstruct:hammer_head:0, Supercharged Kunzite Hammer Head
 tconstruct:hammer_head:0, Supercharged Rose Quartz Hammer Head
 tconstruct:hammer_head:0, Supercharged Tektite Hammer Head
 tconstruct:hammer_head:0, Supercharged Pearl Hammer Head
-tconstruct:hammer_head:0, Wyvern Hammer Head
-tconstruct:hammer_head:0, Awakened Hammer Head
-tconstruct:hammer_head:0, Chaotic Hammer Head
 tconstruct:hammer_head:0, Bloodwood Hammer Head
 tconstruct:hammer_head:0, Fusewood Hammer Head
 tconstruct:hammer_head:0, Ghostwood Hammer Head
 tconstruct:hammer_head:0, Darkwood Hammer Head
+tconstruct:hammer_head:0, Wyvern Hammer Head
+tconstruct:hammer_head:0, Awakened Hammer Head
+tconstruct:hammer_head:0, Chaotic Hammer Head
 tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:excavator_head:0, Electrical Excavator Head
 tconstruct:excavator_head:0, Energetic Excavator Head
@@ -15372,13 +15372,13 @@ tconstruct:excavator_head:0, Supercharged Kunzite Excavator Head
 tconstruct:excavator_head:0, Supercharged Rose Quartz Excavator Head
 tconstruct:excavator_head:0, Supercharged Tektite Excavator Head
 tconstruct:excavator_head:0, Supercharged Pearl Excavator Head
-tconstruct:excavator_head:0, Wyvern Excavator Head
-tconstruct:excavator_head:0, Awakened Excavator Head
-tconstruct:excavator_head:0, Chaotic Excavator Head
 tconstruct:excavator_head:0, Bloodwood Excavator Head
 tconstruct:excavator_head:0, Fusewood Excavator Head
 tconstruct:excavator_head:0, Ghostwood Excavator Head
 tconstruct:excavator_head:0, Darkwood Excavator Head
+tconstruct:excavator_head:0, Wyvern Excavator Head
+tconstruct:excavator_head:0, Awakened Excavator Head
+tconstruct:excavator_head:0, Chaotic Excavator Head
 tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:kama_head:0, Electrical Kama Head
 tconstruct:kama_head:0, Energetic Kama Head
@@ -15597,13 +15597,13 @@ tconstruct:kama_head:0, Supercharged Kunzite Kama Head
 tconstruct:kama_head:0, Supercharged Rose Quartz Kama Head
 tconstruct:kama_head:0, Supercharged Tektite Kama Head
 tconstruct:kama_head:0, Supercharged Pearl Kama Head
-tconstruct:kama_head:0, Wyvern Kama Head
-tconstruct:kama_head:0, Awakened Kama Head
-tconstruct:kama_head:0, Chaotic Kama Head
 tconstruct:kama_head:0, Bloodwood Kama Head
 tconstruct:kama_head:0, Fusewood Kama Head
 tconstruct:kama_head:0, Ghostwood Kama Head
 tconstruct:kama_head:0, Darkwood Kama Head
+tconstruct:kama_head:0, Wyvern Kama Head
+tconstruct:kama_head:0, Awakened Kama Head
+tconstruct:kama_head:0, Chaotic Kama Head
 tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:scythe_head:0, Electrical Scythe Head
 tconstruct:scythe_head:0, Energetic Scythe Head
@@ -15822,13 +15822,13 @@ tconstruct:scythe_head:0, Supercharged Kunzite Scythe Head
 tconstruct:scythe_head:0, Supercharged Rose Quartz Scythe Head
 tconstruct:scythe_head:0, Supercharged Tektite Scythe Head
 tconstruct:scythe_head:0, Supercharged Pearl Scythe Head
-tconstruct:scythe_head:0, Wyvern Scythe Head
-tconstruct:scythe_head:0, Awakened Scythe Head
-tconstruct:scythe_head:0, Chaotic Scythe Head
 tconstruct:scythe_head:0, Bloodwood Scythe Head
 tconstruct:scythe_head:0, Fusewood Scythe Head
 tconstruct:scythe_head:0, Ghostwood Scythe Head
 tconstruct:scythe_head:0, Darkwood Scythe Head
+tconstruct:scythe_head:0, Wyvern Scythe Head
+tconstruct:scythe_head:0, Awakened Scythe Head
+tconstruct:scythe_head:0, Chaotic Scythe Head
 tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:pan_head:0, Electrical Pan
 tconstruct:pan_head:0, Energetic Pan
@@ -16047,13 +16047,13 @@ tconstruct:pan_head:0, Supercharged Kunzite Pan
 tconstruct:pan_head:0, Supercharged Rose Quartz Pan
 tconstruct:pan_head:0, Supercharged Tektite Pan
 tconstruct:pan_head:0, Supercharged Pearl Pan
-tconstruct:pan_head:0, Wyvern Pan
-tconstruct:pan_head:0, Awakened Pan
-tconstruct:pan_head:0, Chaotic Pan
 tconstruct:pan_head:0, Bloodwood Pan
 tconstruct:pan_head:0, Fusewood Pan
 tconstruct:pan_head:0, Ghostwood Pan
 tconstruct:pan_head:0, Darkwood Pan
+tconstruct:pan_head:0, Wyvern Pan
+tconstruct:pan_head:0, Awakened Pan
+tconstruct:pan_head:0, Chaotic Pan
 tconstruct:pan_head:0, Emerald Pan
 tconstruct:sign_head:0, Electrical Sign Plate
 tconstruct:sign_head:0, Energetic Sign Plate
@@ -16272,13 +16272,13 @@ tconstruct:sign_head:0, Supercharged Kunzite Sign Plate
 tconstruct:sign_head:0, Supercharged Rose Quartz Sign Plate
 tconstruct:sign_head:0, Supercharged Tektite Sign Plate
 tconstruct:sign_head:0, Supercharged Pearl Sign Plate
-tconstruct:sign_head:0, Wyvern Sign Plate
-tconstruct:sign_head:0, Awakened Sign Plate
-tconstruct:sign_head:0, Chaotic Sign Plate
 tconstruct:sign_head:0, Bloodwood Sign Plate
 tconstruct:sign_head:0, Fusewood Sign Plate
 tconstruct:sign_head:0, Ghostwood Sign Plate
 tconstruct:sign_head:0, Darkwood Sign Plate
+tconstruct:sign_head:0, Wyvern Sign Plate
+tconstruct:sign_head:0, Awakened Sign Plate
+tconstruct:sign_head:0, Chaotic Sign Plate
 tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:tool_rod:0, Electrical Tool Rod
 tconstruct:tool_rod:0, Energetic Tool Rod
@@ -16497,13 +16497,13 @@ tconstruct:tool_rod:0, Supercharged Kunzite Tool Rod
 tconstruct:tool_rod:0, Supercharged Rose Quartz Tool Rod
 tconstruct:tool_rod:0, Supercharged Tektite Tool Rod
 tconstruct:tool_rod:0, Supercharged Pearl Tool Rod
-tconstruct:tool_rod:0, Wyvern Tool Rod
-tconstruct:tool_rod:0, Awakened Tool Rod
-tconstruct:tool_rod:0, Chaotic Tool Rod
 tconstruct:tool_rod:0, Bloodwood Tool Rod
 tconstruct:tool_rod:0, Fusewood Tool Rod
 tconstruct:tool_rod:0, Ghostwood Tool Rod
 tconstruct:tool_rod:0, Darkwood Tool Rod
+tconstruct:tool_rod:0, Wyvern Tool Rod
+tconstruct:tool_rod:0, Awakened Tool Rod
+tconstruct:tool_rod:0, Chaotic Tool Rod
 tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tough_tool_rod:0, Electrical Tough Tool Rod
 tconstruct:tough_tool_rod:0, Energetic Tough Tool Rod
@@ -16722,13 +16722,13 @@ tconstruct:tough_tool_rod:0, Supercharged Kunzite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Supercharged Rose Quartz Tough Tool Rod
 tconstruct:tough_tool_rod:0, Supercharged Tektite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Supercharged Pearl Tough Tool Rod
-tconstruct:tough_tool_rod:0, Wyvern Tough Tool Rod
-tconstruct:tough_tool_rod:0, Awakened Tough Tool Rod
-tconstruct:tough_tool_rod:0, Chaotic Tough Tool Rod
 tconstruct:tough_tool_rod:0, Bloodwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Fusewood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ghostwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Darkwood Tough Tool Rod
+tconstruct:tough_tool_rod:0, Wyvern Tough Tool Rod
+tconstruct:tough_tool_rod:0, Awakened Tough Tool Rod
+tconstruct:tough_tool_rod:0, Chaotic Tough Tool Rod
 tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:binding:0, Electrical Binding
 tconstruct:binding:0, Energetic Binding
@@ -16947,13 +16947,13 @@ tconstruct:binding:0, Supercharged Kunzite Binding
 tconstruct:binding:0, Supercharged Rose Quartz Binding
 tconstruct:binding:0, Supercharged Tektite Binding
 tconstruct:binding:0, Supercharged Pearl Binding
-tconstruct:binding:0, Wyvern Binding
-tconstruct:binding:0, Awakened Binding
-tconstruct:binding:0, Chaotic Binding
 tconstruct:binding:0, Bloodwood Binding
 tconstruct:binding:0, Fusewood Binding
 tconstruct:binding:0, Ghostwood Binding
 tconstruct:binding:0, Darkwood Binding
+tconstruct:binding:0, Wyvern Binding
+tconstruct:binding:0, Awakened Binding
+tconstruct:binding:0, Chaotic Binding
 tconstruct:binding:0, Emerald Binding
 tconstruct:tough_binding:0, Electrical Tough Binding
 tconstruct:tough_binding:0, Energetic Tough Binding
@@ -17172,13 +17172,13 @@ tconstruct:tough_binding:0, Supercharged Kunzite Tough Binding
 tconstruct:tough_binding:0, Supercharged Rose Quartz Tough Binding
 tconstruct:tough_binding:0, Supercharged Tektite Tough Binding
 tconstruct:tough_binding:0, Supercharged Pearl Tough Binding
-tconstruct:tough_binding:0, Wyvern Tough Binding
-tconstruct:tough_binding:0, Awakened Tough Binding
-tconstruct:tough_binding:0, Chaotic Tough Binding
 tconstruct:tough_binding:0, Bloodwood Tough Binding
 tconstruct:tough_binding:0, Fusewood Tough Binding
 tconstruct:tough_binding:0, Ghostwood Tough Binding
 tconstruct:tough_binding:0, Darkwood Tough Binding
+tconstruct:tough_binding:0, Wyvern Tough Binding
+tconstruct:tough_binding:0, Awakened Tough Binding
+tconstruct:tough_binding:0, Chaotic Tough Binding
 tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:wide_guard:0, Electrical Wide Guard
 tconstruct:wide_guard:0, Energetic Wide Guard
@@ -17397,13 +17397,13 @@ tconstruct:wide_guard:0, Supercharged Kunzite Wide Guard
 tconstruct:wide_guard:0, Supercharged Rose Quartz Wide Guard
 tconstruct:wide_guard:0, Supercharged Tektite Wide Guard
 tconstruct:wide_guard:0, Supercharged Pearl Wide Guard
-tconstruct:wide_guard:0, Wyvern Wide Guard
-tconstruct:wide_guard:0, Awakened Wide Guard
-tconstruct:wide_guard:0, Chaotic Wide Guard
 tconstruct:wide_guard:0, Bloodwood Wide Guard
 tconstruct:wide_guard:0, Fusewood Wide Guard
 tconstruct:wide_guard:0, Ghostwood Wide Guard
 tconstruct:wide_guard:0, Darkwood Wide Guard
+tconstruct:wide_guard:0, Wyvern Wide Guard
+tconstruct:wide_guard:0, Awakened Wide Guard
+tconstruct:wide_guard:0, Chaotic Wide Guard
 tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:hand_guard:0, Electrical Hand Guard
 tconstruct:hand_guard:0, Energetic Hand Guard
@@ -17622,13 +17622,13 @@ tconstruct:hand_guard:0, Supercharged Kunzite Hand Guard
 tconstruct:hand_guard:0, Supercharged Rose Quartz Hand Guard
 tconstruct:hand_guard:0, Supercharged Tektite Hand Guard
 tconstruct:hand_guard:0, Supercharged Pearl Hand Guard
-tconstruct:hand_guard:0, Wyvern Hand Guard
-tconstruct:hand_guard:0, Awakened Hand Guard
-tconstruct:hand_guard:0, Chaotic Hand Guard
 tconstruct:hand_guard:0, Bloodwood Hand Guard
 tconstruct:hand_guard:0, Fusewood Hand Guard
 tconstruct:hand_guard:0, Ghostwood Hand Guard
 tconstruct:hand_guard:0, Darkwood Hand Guard
+tconstruct:hand_guard:0, Wyvern Hand Guard
+tconstruct:hand_guard:0, Awakened Hand Guard
+tconstruct:hand_guard:0, Chaotic Hand Guard
 tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:cross_guard:0, Electrical Cross Guard
 tconstruct:cross_guard:0, Energetic Cross Guard
@@ -17847,13 +17847,13 @@ tconstruct:cross_guard:0, Supercharged Kunzite Cross Guard
 tconstruct:cross_guard:0, Supercharged Rose Quartz Cross Guard
 tconstruct:cross_guard:0, Supercharged Tektite Cross Guard
 tconstruct:cross_guard:0, Supercharged Pearl Cross Guard
-tconstruct:cross_guard:0, Wyvern Cross Guard
-tconstruct:cross_guard:0, Awakened Cross Guard
-tconstruct:cross_guard:0, Chaotic Cross Guard
 tconstruct:cross_guard:0, Bloodwood Cross Guard
 tconstruct:cross_guard:0, Fusewood Cross Guard
 tconstruct:cross_guard:0, Ghostwood Cross Guard
 tconstruct:cross_guard:0, Darkwood Cross Guard
+tconstruct:cross_guard:0, Wyvern Cross Guard
+tconstruct:cross_guard:0, Awakened Cross Guard
+tconstruct:cross_guard:0, Chaotic Cross Guard
 tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:large_plate:0, Electrical Large Plate
 tconstruct:large_plate:0, Energetic Large Plate
@@ -18072,13 +18072,13 @@ tconstruct:large_plate:0, Supercharged Kunzite Large Plate
 tconstruct:large_plate:0, Supercharged Rose Quartz Large Plate
 tconstruct:large_plate:0, Supercharged Tektite Large Plate
 tconstruct:large_plate:0, Supercharged Pearl Large Plate
-tconstruct:large_plate:0, Wyvern Large Plate
-tconstruct:large_plate:0, Awakened Large Plate
-tconstruct:large_plate:0, Chaotic Large Plate
 tconstruct:large_plate:0, Bloodwood Large Plate
 tconstruct:large_plate:0, Fusewood Large Plate
 tconstruct:large_plate:0, Ghostwood Large Plate
 tconstruct:large_plate:0, Darkwood Large Plate
+tconstruct:large_plate:0, Wyvern Large Plate
+tconstruct:large_plate:0, Awakened Large Plate
+tconstruct:large_plate:0, Chaotic Large Plate
 tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:knife_blade:0, Electrical Knife Blade
 tconstruct:knife_blade:0, Energetic Knife Blade
@@ -18297,13 +18297,13 @@ tconstruct:knife_blade:0, Supercharged Kunzite Knife Blade
 tconstruct:knife_blade:0, Supercharged Rose Quartz Knife Blade
 tconstruct:knife_blade:0, Supercharged Tektite Knife Blade
 tconstruct:knife_blade:0, Supercharged Pearl Knife Blade
-tconstruct:knife_blade:0, Wyvern Knife Blade
-tconstruct:knife_blade:0, Awakened Knife Blade
-tconstruct:knife_blade:0, Chaotic Knife Blade
 tconstruct:knife_blade:0, Bloodwood Knife Blade
 tconstruct:knife_blade:0, Fusewood Knife Blade
 tconstruct:knife_blade:0, Ghostwood Knife Blade
 tconstruct:knife_blade:0, Darkwood Knife Blade
+tconstruct:knife_blade:0, Wyvern Knife Blade
+tconstruct:knife_blade:0, Awakened Knife Blade
+tconstruct:knife_blade:0, Chaotic Knife Blade
 tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:bow_limb:0, Electrical Bowlimb
 tconstruct:bow_limb:0, Energetic Bowlimb
@@ -18520,13 +18520,13 @@ tconstruct:bow_limb:0, Supercharged Kunzite Bowlimb
 tconstruct:bow_limb:0, Supercharged Rose Quartz Bowlimb
 tconstruct:bow_limb:0, Supercharged Tektite Bowlimb
 tconstruct:bow_limb:0, Supercharged Pearl Bowlimb
-tconstruct:bow_limb:0, Wyvern Bowlimb
-tconstruct:bow_limb:0, Awakened Bowlimb
-tconstruct:bow_limb:0, Chaotic Bowlimb
 tconstruct:bow_limb:0, Bloodwood Bowlimb
 tconstruct:bow_limb:0, Fusewood Bowlimb
 tconstruct:bow_limb:0, Ghostwood Bowlimb
 tconstruct:bow_limb:0, Darkwood Bowlimb
+tconstruct:bow_limb:0, Wyvern Bowlimb
+tconstruct:bow_limb:0, Awakened Bowlimb
+tconstruct:bow_limb:0, Chaotic Bowlimb
 tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_string:0, Souled Bowstring
 tconstruct:bow_string:0, String Bowstring
@@ -18753,13 +18753,13 @@ tconstruct:arrow_head:0, Supercharged Kunzite Arrow Head
 tconstruct:arrow_head:0, Supercharged Rose Quartz Arrow Head
 tconstruct:arrow_head:0, Supercharged Tektite Arrow Head
 tconstruct:arrow_head:0, Supercharged Pearl Arrow Head
-tconstruct:arrow_head:0, Wyvern Arrow Head
-tconstruct:arrow_head:0, Awakened Arrow Head
-tconstruct:arrow_head:0, Chaotic Arrow Head
 tconstruct:arrow_head:0, Bloodwood Arrow Head
 tconstruct:arrow_head:0, Fusewood Arrow Head
 tconstruct:arrow_head:0, Ghostwood Arrow Head
 tconstruct:arrow_head:0, Darkwood Arrow Head
+tconstruct:arrow_head:0, Wyvern Arrow Head
+tconstruct:arrow_head:0, Awakened Arrow Head
+tconstruct:arrow_head:0, Chaotic Arrow Head
 tconstruct:arrow_head:0, Emerald Arrow Head
 tconstruct:arrow_shaft:0, Wooden Arrow Shaft
 tconstruct:arrow_shaft:0, Bone Arrow Shaft
@@ -19284,84 +19284,84 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Boots Core Cast
 tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Bowstring Cast
 tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
 tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
 tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -19657,13 +19657,13 @@ conarm:helmet_core:0, Supercharged Kunzite Helmet Core
 conarm:helmet_core:0, Supercharged Rose Quartz Helmet Core
 conarm:helmet_core:0, Supercharged Tektite Helmet Core
 conarm:helmet_core:0, Supercharged Pearl Helmet Core
-conarm:helmet_core:0, Wyvern Helmet Core
-conarm:helmet_core:0, Awakened Helmet Core
-conarm:helmet_core:0, Chaotic Helmet Core
 conarm:helmet_core:0, Bloodwood Helmet Core
 conarm:helmet_core:0, Fusewood Helmet Core
 conarm:helmet_core:0, Ghostwood Helmet Core
 conarm:helmet_core:0, Darkwood Helmet Core
+conarm:helmet_core:0, Wyvern Helmet Core
+conarm:helmet_core:0, Awakened Helmet Core
+conarm:helmet_core:0, Chaotic Helmet Core
 conarm:helmet_core:0, Emerald Helmet Core
 conarm:armor_trim:0, Electrical Armor Trim
 conarm:armor_trim:0, Energetic Armor Trim
@@ -19882,13 +19882,13 @@ conarm:armor_trim:0, Supercharged Kunzite Armor Trim
 conarm:armor_trim:0, Supercharged Rose Quartz Armor Trim
 conarm:armor_trim:0, Supercharged Tektite Armor Trim
 conarm:armor_trim:0, Supercharged Pearl Armor Trim
-conarm:armor_trim:0, Wyvern Armor Trim
-conarm:armor_trim:0, Awakened Armor Trim
-conarm:armor_trim:0, Chaotic Armor Trim
 conarm:armor_trim:0, Bloodwood Armor Trim
 conarm:armor_trim:0, Fusewood Armor Trim
 conarm:armor_trim:0, Ghostwood Armor Trim
 conarm:armor_trim:0, Darkwood Armor Trim
+conarm:armor_trim:0, Wyvern Armor Trim
+conarm:armor_trim:0, Awakened Armor Trim
+conarm:armor_trim:0, Chaotic Armor Trim
 conarm:armor_trim:0, Emerald Armor Trim
 conarm:armor_plate:0, Electrical Armor Plates
 conarm:armor_plate:0, Energetic Armor Plates
@@ -20107,13 +20107,13 @@ conarm:armor_plate:0, Supercharged Kunzite Armor Plates
 conarm:armor_plate:0, Supercharged Rose Quartz Armor Plates
 conarm:armor_plate:0, Supercharged Tektite Armor Plates
 conarm:armor_plate:0, Supercharged Pearl Armor Plates
-conarm:armor_plate:0, Wyvern Armor Plates
-conarm:armor_plate:0, Awakened Armor Plates
-conarm:armor_plate:0, Chaotic Armor Plates
 conarm:armor_plate:0, Bloodwood Armor Plates
 conarm:armor_plate:0, Fusewood Armor Plates
 conarm:armor_plate:0, Ghostwood Armor Plates
 conarm:armor_plate:0, Darkwood Armor Plates
+conarm:armor_plate:0, Wyvern Armor Plates
+conarm:armor_plate:0, Awakened Armor Plates
+conarm:armor_plate:0, Chaotic Armor Plates
 conarm:armor_plate:0, Emerald Armor Plates
 conarm:chest_core:0, Electrical Chestplate Core
 conarm:chest_core:0, Energetic Chestplate Core
@@ -20332,13 +20332,13 @@ conarm:chest_core:0, Supercharged Kunzite Chestplate Core
 conarm:chest_core:0, Supercharged Rose Quartz Chestplate Core
 conarm:chest_core:0, Supercharged Tektite Chestplate Core
 conarm:chest_core:0, Supercharged Pearl Chestplate Core
-conarm:chest_core:0, Wyvern Chestplate Core
-conarm:chest_core:0, Awakened Chestplate Core
-conarm:chest_core:0, Chaotic Chestplate Core
 conarm:chest_core:0, Bloodwood Chestplate Core
 conarm:chest_core:0, Fusewood Chestplate Core
 conarm:chest_core:0, Ghostwood Chestplate Core
 conarm:chest_core:0, Darkwood Chestplate Core
+conarm:chest_core:0, Wyvern Chestplate Core
+conarm:chest_core:0, Awakened Chestplate Core
+conarm:chest_core:0, Chaotic Chestplate Core
 conarm:chest_core:0, Emerald Chestplate Core
 conarm:leggings_core:0, Electrical Leggings Core
 conarm:leggings_core:0, Energetic Leggings Core
@@ -20557,13 +20557,13 @@ conarm:leggings_core:0, Supercharged Kunzite Leggings Core
 conarm:leggings_core:0, Supercharged Rose Quartz Leggings Core
 conarm:leggings_core:0, Supercharged Tektite Leggings Core
 conarm:leggings_core:0, Supercharged Pearl Leggings Core
-conarm:leggings_core:0, Wyvern Leggings Core
-conarm:leggings_core:0, Awakened Leggings Core
-conarm:leggings_core:0, Chaotic Leggings Core
 conarm:leggings_core:0, Bloodwood Leggings Core
 conarm:leggings_core:0, Fusewood Leggings Core
 conarm:leggings_core:0, Ghostwood Leggings Core
 conarm:leggings_core:0, Darkwood Leggings Core
+conarm:leggings_core:0, Wyvern Leggings Core
+conarm:leggings_core:0, Awakened Leggings Core
+conarm:leggings_core:0, Chaotic Leggings Core
 conarm:leggings_core:0, Emerald Leggings Core
 conarm:boots_core:0, Electrical Boots Core
 conarm:boots_core:0, Energetic Boots Core
@@ -20782,13 +20782,13 @@ conarm:boots_core:0, Supercharged Kunzite Boots Core
 conarm:boots_core:0, Supercharged Rose Quartz Boots Core
 conarm:boots_core:0, Supercharged Tektite Boots Core
 conarm:boots_core:0, Supercharged Pearl Boots Core
-conarm:boots_core:0, Wyvern Boots Core
-conarm:boots_core:0, Awakened Boots Core
-conarm:boots_core:0, Chaotic Boots Core
 conarm:boots_core:0, Bloodwood Boots Core
 conarm:boots_core:0, Fusewood Boots Core
 conarm:boots_core:0, Ghostwood Boots Core
 conarm:boots_core:0, Darkwood Boots Core
+conarm:boots_core:0, Wyvern Boots Core
+conarm:boots_core:0, Awakened Boots Core
+conarm:boots_core:0, Chaotic Boots Core
 conarm:boots_core:0, Emerald Boots Core
 conarm:helmet, Helmet
 conarm:chestplate, Chestplate
@@ -21033,13 +21033,13 @@ conarm:polishing_kit:0, Supercharged Kunzite Polishing Kit
 conarm:polishing_kit:0, Supercharged Rose Quartz Polishing Kit
 conarm:polishing_kit:0, Supercharged Tektite Polishing Kit
 conarm:polishing_kit:0, Supercharged Pearl Polishing Kit
-conarm:polishing_kit:0, Wyvern Polishing Kit
-conarm:polishing_kit:0, Awakened Polishing Kit
-conarm:polishing_kit:0, Chaotic Polishing Kit
 conarm:polishing_kit:0, Bloodwood Polishing Kit
 conarm:polishing_kit:0, Fusewood Polishing Kit
 conarm:polishing_kit:0, Ghostwood Polishing Kit
 conarm:polishing_kit:0, Darkwood Polishing Kit
+conarm:polishing_kit:0, Wyvern Polishing Kit
+conarm:polishing_kit:0, Awakened Polishing Kit
+conarm:polishing_kit:0, Chaotic Polishing Kit
 conarm:polishing_kit:0, Emerald Polishing Kit
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
@@ -22033,13 +22033,13 @@ plustic:pipe_piece:0, Supercharged Kunzite Pipe Piece
 plustic:pipe_piece:0, Supercharged Rose Quartz Pipe Piece
 plustic:pipe_piece:0, Supercharged Tektite Pipe Piece
 plustic:pipe_piece:0, Supercharged Pearl Pipe Piece
-plustic:pipe_piece:0, Wyvern Pipe Piece
-plustic:pipe_piece:0, Awakened Pipe Piece
-plustic:pipe_piece:0, Chaotic Pipe Piece
 plustic:pipe_piece:0, Bloodwood Pipe Piece
 plustic:pipe_piece:0, Fusewood Pipe Piece
 plustic:pipe_piece:0, Ghostwood Pipe Piece
 plustic:pipe_piece:0, Darkwood Pipe Piece
+plustic:pipe_piece:0, Wyvern Pipe Piece
+plustic:pipe_piece:0, Awakened Pipe Piece
+plustic:pipe_piece:0, Chaotic Pipe Piece
 plustic:pipe_piece:0, Emerald Pipe Piece
 plustic:laser_medium:0, Stone Laser Medium
 plustic:laser_medium:0, Prismarine Laser Medium
@@ -22511,47 +22511,6 @@ silentgems:boots, Gem Boots
 silentgems:toolrenderhelper, item.silentgems.toolrenderhelper.name
 silentgems:guide_book, Silent's Gems Manual
 morphtool:tool, item.tool.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:glowstone_dust_block, tile.glowstone_dust_block.name
-quark:gunpowder_block, tile.gunpowder_block.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
 quark:pirate_hat, item.pirate_hat.name
 quark:marble:0, Marble
 quark:marble:1, Polished Marble
@@ -22604,7 +22563,6 @@ quark:stone_basalt_slab:0, Basalt Slab
 quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
 quark:basalt_wall, tile.basalt_wall.name
 quark:smoker, Smoker
-quark:witch_hat, item.witch_hat.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -22698,6 +22656,33 @@ quark:jungle_button, tile.jungle_button.name
 quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
 quark:glass_item_frame, item.glass_item_frame.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:witch_hat, item.witch_hat.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -22992,23 +22977,38 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
+quark:glowstone_dust_block, tile.glowstone_dust_block.name
+quark:gunpowder_block, tile.gunpowder_block.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
 bhc:red_heart, Red Heart
 bhc:orange_heart, Orange Heart
 bhc:green_heart, Green Heart
@@ -23343,11 +23343,11 @@ bibliocraft:biblioglasses:2, Monocle
 bibliocraft:bibliodrill, Screw Gun
 bibliocraft:bibliocreativelock, Lock and Key
 bibliocraft:biblioclipboard, Clipboard
-catwalks:blowtorch, Blowtorch
 catwalks:cable, Classic Support Cables
 catwalks:catwalk, tile.catwalks.catwalk.name
 catwalks:ladder, Classic Ladder
 catwalks:stair, WORK IN PROGRESS
+catwalks:blowtorch, Blowtorch
 colytra:elytra_bauble, Elytra
 cookingforblockheads:cooking_table, Cooking Table
 cookingforblockheads:oven, Oven
@@ -24248,61 +24248,6 @@ icbmclassic:circuit:2, Elite Circuit
 icbmclassic:wire:0, Copper Wire
 icbmclassic:wire:1, Gold Wire
 icbmclassic:battery:0, Battery
-iceandfire:lectern, Lectern
-iceandfire:podium:0, Oak Podium
-iceandfire:podium:1, Spruce Podium
-iceandfire:podium:2, Birch Podium
-iceandfire:podium:3, Jungle Podium
-iceandfire:podium:4, Acacia Podium
-iceandfire:podium:5, Dark Oak Podium
-iceandfire:fire_lily, Fire Lily
-iceandfire:frost_lily, Frost Lily
-iceandfire:goldpile, Pile of Gold
-iceandfire:silverpile, Pile of Silver
-iceandfire:silver_ore, Silver Ore
-iceandfire:sapphire_ore, Sapphire Ore
-iceandfire:silver_block, Silver Block
-iceandfire:sapphire_block, Sapphire Block
-iceandfire:chared_dirt, Charred Dirt
-iceandfire:chared_grass, Charred Grass
-iceandfire:chared_stone, Charred Stone
-iceandfire:chared_cobblestone, Charred Cobblestone
-iceandfire:chared_gravel, Charred Gravel
-iceandfire:chared_grass_path, Charred Grass Path
-iceandfire:ash, Ash
-iceandfire:frozen_dirt, Frozen Dirt
-iceandfire:frozen_grass, Frozen Grass
-iceandfire:frozen_stone, Frozen Stone
-iceandfire:frozen_cobblestone, Frozen Cobblestone
-iceandfire:frozen_gravel, Frozen Gravel
-iceandfire:frozen_grass_path, Frozen Grass Path
-iceandfire:frozen_splinters, Frozen Splinters
-iceandfire:dragon_ice, Dragon Ice
-iceandfire:dragon_ice_spikes, Dragon Ice Spikes
-iceandfire:nest, Dragon Nest
-iceandfire:egginice, Frozen Dragon Egg
-iceandfire:pixie_house:0, tile.iceandfire.pixie_house.name
-iceandfire:pixie_house:1, tile.iceandfire.pixie_house.name
-iceandfire:pixie_house:2, tile.iceandfire.pixie_house.name
-iceandfire:pixie_house:3, tile.iceandfire.pixie_house.name
-iceandfire:pixie_house:4, tile.iceandfire.pixie_house.name
-iceandfire:pixie_house:5, tile.iceandfire.pixie_house.name
-iceandfire:jar_empty, Jar
-iceandfire:jar_pixie:0, Pixie Jar
-iceandfire:jar_pixie:1, Pixie Jar
-iceandfire:jar_pixie:2, Pixie Jar
-iceandfire:jar_pixie:3, Pixie Jar
-iceandfire:jar_pixie:4, Pixie Jar
-iceandfire:myrmex_resin, tile.iceandfire.myrmex_resin.name
-iceandfire:myrmex_resin_sticky, tile.iceandfire.myrmex_resin_sticky.name
-iceandfire:desert_myrmex_cocoon, Desert Myrmex Cocoon
-iceandfire:jungle_myrmex_cocoon, Jungle Myrmex Cocoon
-iceandfire:myrmex_desert_biolight, Desert Myrmex Bioluminescence
-iceandfire:myrmex_jungle_biolight, Jungle Myrmex Bioluminescence
-iceandfire:myrmex_desert_resin_block, Hardened Desert Myrmex Resin
-iceandfire:myrmex_jungle_resin_block, Hardened Jungle Myrmex Resin
-iceandfire:myrmex_desert_resin_glass, Desert Myrmex Resin Glass
-iceandfire:myrmex_jungle_resin_glass, Jungle Myrmex Resin Glass
 iceandfire:bestiary, Bestiary
 iceandfire:manuscript, Manuscript
 iceandfire:sapphire_gem, Sapphire
@@ -24508,6 +24453,61 @@ iceandfire:mountain_troll_leather_helmet, Mountain Troll Leather Helmet
 iceandfire:mountain_troll_leather_chestplate, Mountain Troll Leather Chestplate
 iceandfire:mountain_troll_leather_leggings, Mountain Troll Leather Leggings
 iceandfire:mountain_troll_leather_boots, Mountain Troll Leather Boots
+iceandfire:lectern, Lectern
+iceandfire:podium:0, Oak Podium
+iceandfire:podium:1, Spruce Podium
+iceandfire:podium:2, Birch Podium
+iceandfire:podium:3, Jungle Podium
+iceandfire:podium:4, Acacia Podium
+iceandfire:podium:5, Dark Oak Podium
+iceandfire:fire_lily, Fire Lily
+iceandfire:frost_lily, Frost Lily
+iceandfire:goldpile, Pile of Gold
+iceandfire:silverpile, Pile of Silver
+iceandfire:silver_ore, Silver Ore
+iceandfire:sapphire_ore, Sapphire Ore
+iceandfire:silver_block, Silver Block
+iceandfire:sapphire_block, Sapphire Block
+iceandfire:chared_dirt, Charred Dirt
+iceandfire:chared_grass, Charred Grass
+iceandfire:chared_stone, Charred Stone
+iceandfire:chared_cobblestone, Charred Cobblestone
+iceandfire:chared_gravel, Charred Gravel
+iceandfire:chared_grass_path, Charred Grass Path
+iceandfire:ash, Ash
+iceandfire:frozen_dirt, Frozen Dirt
+iceandfire:frozen_grass, Frozen Grass
+iceandfire:frozen_stone, Frozen Stone
+iceandfire:frozen_cobblestone, Frozen Cobblestone
+iceandfire:frozen_gravel, Frozen Gravel
+iceandfire:frozen_grass_path, Frozen Grass Path
+iceandfire:frozen_splinters, Frozen Splinters
+iceandfire:dragon_ice, Dragon Ice
+iceandfire:dragon_ice_spikes, Dragon Ice Spikes
+iceandfire:nest, Dragon Nest
+iceandfire:egginice, Frozen Dragon Egg
+iceandfire:pixie_house:0, tile.iceandfire.pixie_house.name
+iceandfire:pixie_house:1, tile.iceandfire.pixie_house.name
+iceandfire:pixie_house:2, tile.iceandfire.pixie_house.name
+iceandfire:pixie_house:3, tile.iceandfire.pixie_house.name
+iceandfire:pixie_house:4, tile.iceandfire.pixie_house.name
+iceandfire:pixie_house:5, tile.iceandfire.pixie_house.name
+iceandfire:jar_empty, Jar
+iceandfire:jar_pixie:0, Pixie Jar
+iceandfire:jar_pixie:1, Pixie Jar
+iceandfire:jar_pixie:2, Pixie Jar
+iceandfire:jar_pixie:3, Pixie Jar
+iceandfire:jar_pixie:4, Pixie Jar
+iceandfire:myrmex_resin, tile.iceandfire.myrmex_resin.name
+iceandfire:myrmex_resin_sticky, tile.iceandfire.myrmex_resin_sticky.name
+iceandfire:desert_myrmex_cocoon, Desert Myrmex Cocoon
+iceandfire:jungle_myrmex_cocoon, Jungle Myrmex Cocoon
+iceandfire:myrmex_desert_biolight, Desert Myrmex Bioluminescence
+iceandfire:myrmex_jungle_biolight, Jungle Myrmex Bioluminescence
+iceandfire:myrmex_desert_resin_block, Hardened Desert Myrmex Resin
+iceandfire:myrmex_jungle_resin_block, Hardened Jungle Myrmex Resin
+iceandfire:myrmex_desert_resin_glass, Desert Myrmex Resin Glass
+iceandfire:myrmex_jungle_resin_glass, Jungle Myrmex Resin Glass
 immersivepetroleum:metal_device:0, Automatic Lubricator
 immersivepetroleum:metal_device:1, Portable Generator
 immersivepetroleum:stone_decoration, tile.immersivepetroleum.stone_decoration.name
@@ -24539,6 +24539,8 @@ ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
 jecalculation:item_calculator:0, Crafting Calculator
 jecalculation:item_calculator:1, Math Calculator
+lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
+lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
 lcrdrfs:robo_dino_part, T-R3X 1000 Part
 lcrdrfs:jetpack_spider_part, ARTHR0-BORG JETLINER 2000 Part
 lcrdrfs:robo_dino_control_module, T-R3X Control Module
@@ -24580,8 +24582,6 @@ lcrdrfs:creepssile_bazookoid, Creepssile Bazookoid
 lcrdrfs:bazookoid_chamber, Bazookoid Chamber
 lcrdrfs:bazookoid_grip, Bazookoid Grip
 lcrdrfs:bazookoid_ignition, Bazookoid Ignition
-lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
-lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
 levelup2:respecbook, Book of Specialization Change
 mekanismgenerators:solarpanel, Solar Panel
 mekanismgenerators:hohlraum, Hohlraum
@@ -25192,6 +25192,9 @@ sgextraparts:genericitem:8, Polished Stone
 sgextraparts:genericitem:0, Reinforced Obsidian
 snad:snad:0, Snad
 snad:snad:1, Red Snad
+spiceoflife:bookfoodjournal, Food Journal
+spiceoflife:lunchbox, Lunch Box
+spiceoflife:lunchbag, Lunch Bag
 storagedrawers:upgrade_template, Upgrade Template
 storagedrawers:upgrade_storage:0, Storage Upgrade (I)
 storagedrawers:upgrade_storage:1, Storage Upgrade (II)
@@ -25671,6 +25674,80 @@ woot:upgradeb:11, EvilCraft Blood Tank III Upgrade
 woot:upgradeb:12, Blood Magic Crystal I Upgrade
 woot:upgradeb:13, Blood Magic Crystal II Upgrade
 woot:upgradeb:14, Blood Magic Crystal III Upgrade
+matteroverdrive:dilithium_ore, Dilithium Ore
+matteroverdrive:tritanium_ore, Tritanium Ore
+matteroverdrive:tritanium_block, Tritanium Block
+matteroverdrive:machine_hull, Machine Hull
+matteroverdrive:decomposer, Matter Decomposer
+matteroverdrive:matter_recycler, Matter Recycler
+matteroverdrive:replicator, Matter Replicator
+matteroverdrive:matter_pipe, Matter Transport Pipe
+matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
+matteroverdrive:network_pipe, Matter Network Cable
+matteroverdrive:network_router, Matter Network Router
+matteroverdrive:matter_analyzer, Matter Analyzer
+matteroverdrive:pattern_monitor, Pattern Monitor
+matteroverdrive:pattern_storage, Pattern Storage
+matteroverdrive:network_switch, Matter Network Switch
+matteroverdrive:solar_panel, Solar Panel
+matteroverdrive:gravitational_anomaly, Gravitational Anomaly
+matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
+matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
+matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
+matteroverdrive:fusion_reactor_io, Fusion Reactor IO
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Tritanium Crate
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Molecular Inscriber
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Rogue Android Spawner
+matteroverdrive:spacetime_accelerator, Space-Time Accelerator
+matteroverdrive:pylon, Dimensional Pylon
+matteroverdrive:transporter, Transporter
+matteroverdrive:star_map, Star Map
+matteroverdrive:holo_sign, Holographic Sign
+matteroverdrive:weapon_station, Weapon Station
+matteroverdrive:android_station, Android Station
+matteroverdrive:charging_station, Charging Station
+matteroverdrive:decorative.stripes, Yellow Stripes
+matteroverdrive:decorative.coils, Coils
+matteroverdrive:decorative.clean, Tritanium Smooth Plate
+matteroverdrive:decorative.vent.dark, Dark Vent
+matteroverdrive:decorative.vent.bright, Vent
+matteroverdrive:decorative.holo_matrix, Holographic Matrix
+matteroverdrive:decorative.tritanium_plate, Tritanium Plate
+matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
+matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
+matteroverdrive:decorative.matter_tube, Matter Tube
+matteroverdrive:decorative.beams, Tritanium Grate
+matteroverdrive:decorative.floor_tiles, Floor Tiles
+matteroverdrive:decorative.floor_tile_white, White Floor Tiles
+matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
+matteroverdrive:decorative.floor_noise, Linoleum Floor
+matteroverdrive:decorative.white_plate, Soft Wall Plates
+matteroverdrive:decorative.separator, Tritanium Rail
+matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
+matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Microwave
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Bounding Block
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -25769,80 +25846,6 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
-matteroverdrive:dilithium_ore, Dilithium Ore
-matteroverdrive:tritanium_ore, Tritanium Ore
-matteroverdrive:tritanium_block, Tritanium Block
-matteroverdrive:machine_hull, Machine Hull
-matteroverdrive:decomposer, Matter Decomposer
-matteroverdrive:matter_recycler, Matter Recycler
-matteroverdrive:replicator, Matter Replicator
-matteroverdrive:matter_pipe, Matter Transport Pipe
-matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
-matteroverdrive:network_pipe, Matter Network Cable
-matteroverdrive:network_router, Matter Network Router
-matteroverdrive:matter_analyzer, Matter Analyzer
-matteroverdrive:pattern_monitor, Pattern Monitor
-matteroverdrive:pattern_storage, Pattern Storage
-matteroverdrive:network_switch, Matter Network Switch
-matteroverdrive:solar_panel, Solar Panel
-matteroverdrive:gravitational_anomaly, Gravitational Anomaly
-matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
-matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
-matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
-matteroverdrive:fusion_reactor_io, Fusion Reactor IO
-matteroverdrive:matter_plasma, tile.null.name
-matteroverdrive:molten_tritanium, tile.null.name
-matteroverdrive:tritanium_crate, Tritanium Crate
-matteroverdrive:tritanium_crate_white, White Tritanium Crate
-matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
-matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
-matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
-matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
-matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
-matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
-matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
-matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
-matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
-matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
-matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
-matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
-matteroverdrive:tritanium_crate_green, Green Tritanium Crate
-matteroverdrive:tritanium_crate_red, Red Tritanium Crate
-matteroverdrive:tritanium_crate_black, Black Tritanium Crate
-matteroverdrive:inscriber, Molecular Inscriber
-matteroverdrive:contract_market, Contract Market
-matteroverdrive:android_spawner, Rogue Android Spawner
-matteroverdrive:spacetime_accelerator, Space-Time Accelerator
-matteroverdrive:pylon, Dimensional Pylon
-matteroverdrive:transporter, Transporter
-matteroverdrive:star_map, Star Map
-matteroverdrive:holo_sign, Holographic Sign
-matteroverdrive:weapon_station, Weapon Station
-matteroverdrive:android_station, Android Station
-matteroverdrive:charging_station, Charging Station
-matteroverdrive:decorative.stripes, Yellow Stripes
-matteroverdrive:decorative.coils, Coils
-matteroverdrive:decorative.clean, Tritanium Smooth Plate
-matteroverdrive:decorative.vent.dark, Dark Vent
-matteroverdrive:decorative.vent.bright, Vent
-matteroverdrive:decorative.holo_matrix, Holographic Matrix
-matteroverdrive:decorative.tritanium_plate, Tritanium Plate
-matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
-matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
-matteroverdrive:decorative.matter_tube, Matter Tube
-matteroverdrive:decorative.beams, Tritanium Grate
-matteroverdrive:decorative.floor_tiles, Floor Tiles
-matteroverdrive:decorative.floor_tile_white, White Floor Tiles
-matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
-matteroverdrive:decorative.floor_noise, Linoleum Floor
-matteroverdrive:decorative.white_plate, Soft Wall Plates
-matteroverdrive:decorative.separator, Tritanium Rail
-matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
-matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
-matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
-matteroverdrive:microwave, Microwave
-matteroverdrive:industrial_glass, Industrial Glass
-matteroverdrive:bounding_box, Bounding Block
 actuallyadditions:block_canola_oil, Canola Oil
 actuallyadditions:block_refined_canola_oil, Refined Canola Oil
 actuallyadditions:block_crystal_oil, Crystallized Oil
