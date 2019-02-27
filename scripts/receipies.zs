@@ -3,12 +3,12 @@ mods.thermalexpansion.InductionSmelter.addRecipe(<woot:stygianironingot>, <minec
 mods.thermalexpansion.Pulverizer.addRecipe(<woot:soulsanddust>*2, <minecraft:soul_sand>, 2000, <woot:stygianirondust>, 20);
 mods.thermalexpansion.Pulverizer.addRecipe(<betternether:cincinnasite>*2, <betternether:cincinnasite_ore>, 2000, <minecraft:glowstone_dust>, 20);
 mods.thermalexpansion.Pulverizer.addRecipe(<betternether:cincinnasite>*4, <betternether:cincinnasite_block>, 2000);
-mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:glowstone_dust>*4, <ore:blockCincinnasite>, 2000, <ore:itemCinnabar>, 20);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:glowstone_dust>, <betternether:cincinnasite>, 2000, <minecraft:glowstone_dust>, 20);
 mods.thermalexpansion.Pulverizer.addRecipe(<woot:stygianirondust>*2, <woot:stygianironore>, 2000, <woot:stygianirondust>, 50);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:pyrotheum>* 1000, <nex:netherrack:0>, 10000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:cryotheum>* 1000, <nex:netherrack:1>, 10000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:experience>* 500, <nex:netherrack:3>, 10000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:coal>* 100, <minecraft:coal>, 2000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:pyrotheum>* 100, <nex:netherrack:0>, 1000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:cryotheum>* 100, <nex:netherrack:1>, 1000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:experience>* 50, <nex:netherrack:3>, 1000);
 mods.thermalexpansion.Crucible.addRecipe(<liquid:mushroom_stew>* 1000, <nex:netherrack:2>, 5000);
 mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:0>, <modernmetals:chromium_ingot>, 1500);
 mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:1>, <modernmetals:tungsten_ingot>, 1500);
@@ -18,7 +18,7 @@ mods.thermalexpansion.Compactor.addPressRecipe(<matteroverdrive:tritanium_plate>
 mods.nuclearcraft.ingot_former.addRecipe([<liquid:corium> * 4000 , <nuclearcraft:alloy:1>]);
 mods.thermalexpansion.InductionSmelter.addRecipe(<nuclearcraft:alloy:1>, <nuclearcraft:ingot:6>, <nuclearcraft:alloy:6>, 2000);
 mods.thermalexpansion.InductionSmelter.addRecipe(<nuclearcraft:alloy:6>, <nuclearcraft:ingot:5>, <thermalfoundation:material:160>, 2000);
-
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:glowstone_dust>*4, <betternether:cincinnasite_forged>, 2000, <thermalfoundation:material>, 20);
 
 var gem = <ore:gemIonite>;
 gem.add(<environmentaltech:ionite_crystal>);

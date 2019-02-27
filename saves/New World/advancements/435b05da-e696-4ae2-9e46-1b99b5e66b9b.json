@@ -607,6 +607,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2019-02-26 15:47:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
@@ -1147,9 +1153,21 @@
     },
     "done": true
   },
+  "nuclearcraft:food/smore": {
+    "criteria": {
+      "has_item": "2019-02-24 15:06:24 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/tanzanite": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2019-02-24 15:48:24 +0800"
     },
     "done": true
   },
@@ -1645,6 +1663,13 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "silicon": "2019-02-26 15:47:02 +0800",
+      "logic": "2019-02-26 15:47:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
@@ -1749,6 +1774,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "taiga_cold_hills": "2019-02-24 15:38:54 +0800",
       "forest": "2019-02-18 16:31:25 +0800",
       "forest_hills": "2019-02-18 16:31:39 +0800",
       "savanna": "2019-02-18 16:32:03 +0800",
@@ -2163,6 +2189,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2019-02-26 15:47:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
@@ -2449,6 +2481,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_cpu": {
+    "criteria": {
+      "c64k": "2019-02-26 15:48:15 +0800"
     },
     "done": true
   },
@@ -2777,6 +2815,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/p2p": {
+    "criteria": {
+      "certus": "2019-02-24 15:47:49 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/cherry_door": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
@@ -3073,6 +3117,12 @@
   "immersiveengineering:main/craft_pump": {
     "criteria": {
       "craft_hammer": "2019-02-23 12:38:19 +0800"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/melter": {
+    "criteria": {
+      "has_item": "2019-02-26 13:13:37 +0800"
     },
     "done": true
   },
@@ -3550,6 +3600,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2019-02-26 15:48:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
@@ -3559,6 +3615,12 @@
   "silentgems:get_chaosore": {
     "criteria": {
       "get_item": "2019-02-22 15:07:42 +0800"
+    },
+    "done": true
+  },
+  "nuclearcraft:fission/rtg_uranium": {
+    "criteria": {
+      "has_item": "2019-02-26 14:42:36 +0800"
     },
     "done": true
   },
@@ -3722,6 +3784,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2019-02-26 15:48:07 +0800"
     },
     "done": true
   },
@@ -4121,6 +4189,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/ingot_former": {
+    "criteria": {
+      "has_item": "2019-02-26 13:27:12 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
@@ -4152,6 +4226,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/facade": {
+    "criteria": {
+      "facade": "2019-02-26 15:48:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2019-02-18 14:55:51 +0800"
@@ -4173,6 +4253,18 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-02-18 21:38:53 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network2": {
+    "criteria": {
+      "cable": "2019-02-24 15:55:55 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2019-02-24 15:51:22 +0800"
     },
     "done": true
   },

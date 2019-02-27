@@ -116,15 +116,6 @@ key_Toggle Special:46:SHIFT
 key_Toggle Chaos Gem (First):0
 key_Toggle Chaos Gem (All):0
 key_Use Return Home Charm:0
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.toggleAutojump:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -143,13 +134,22 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.toggleAutojump:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:0
 key_key.next_item.desc:0
 key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
 key_key.davincis.up:45
 key_key.davincis.down:44
 key_key.davincis.brake:46
-key_key.davincis.align:13
+key_key.davincis.align:0
 key_key.davincis.decompile:43
 key_key.davincis.shipinv:37
 key_key.exchanger_range_switch:51
@@ -167,6 +167,7 @@ key_key.beastiary:0
 key_key.pets:0
 key_key.summoning:0
 key_key.minions:19
+key_key.open_menu:19
 key_Open MPS Keybind GUI:-1
 key_Go Down (MPS Flight Control):44
 key_Cycle Tool Backward (MPS):-1
@@ -210,10 +211,12 @@ key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
 key_key.plustic_brown_magic.desc:24
 key_key.plustic_toggle_tool.desc:51:ALT
-key_key.plustic_fruit_salad.desc:12:ALT
-key_key.plustic_mots.desc:13:ALT
+key_key.plustic_fruit_salad.desc:0
+key_key.plustic_mots.desc:0
 key_Options Gui:23
 key_key.colytra.toggle.desc:0
+key_Command Key: /help:0
+key_Command Key: /weather thunder:0
 key_key.craftingtweaks.rotate:82
 key_key.craftingtweaks.rotate_counter_clockwise:0
 key_key.craftingtweaks.balance:0
@@ -251,7 +254,6 @@ key_justenoughbuttons.key.chunkoverlay:62
 key_justenoughbuttons.key.moboverlay:65
 key_jecalculation.key.gui_craft:0
 key_jecalculation.key.gui_math:0
-key_LevelUpGUI:38
 key_key.menu:50:SHIFT
 key_key.villages:47
 key_key.escorts:34
@@ -289,8 +291,6 @@ key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
 key_Profile GUI:55
-key_Command Key: /help:0
-key_Command Key: /weather thunder:0
 soundCategory_master:0.50993377
 soundCategory_music:0.0
 soundCategory_record:1.0

@@ -29,8 +29,8 @@ recipes.remove(<mekanism:controlcircuit:2>);
 recipes.remove(<mekanism:controlcircuit:1>);
 //Don't touch me!
 //#Add
-recipes.addShapeless(<techguns:basicore:4> * 4, [[<elementalmobs:xaphanspine>, null, null],[null, null, null], [null, null, null]]);
-recipes.addShapeless(<appliedenergistics2:material:1> * 4, [[<elementalmobs:vapulacrystal>, null, null],[null, null, null], [null, null, null]]);
+recipes.addShapeless(<techguns:basicore:4> * 4, [<elementalmobs:xaphanspine>]);
+recipes.addShapeless(<appliedenergistics2:material:1> * 4, [<elementalmobs:vapulacrystal>]);
 recipes.addShaped(<tconstruct:materials:17>, [[<darkutils:material>, <darkutils:material>, <darkutils:material>],[<darkutils:material>, <minecraft:bone>, <darkutils:material>], [<darkutils:material>, <darkutils:material>, <darkutils:material>]]);
 recipes.addShaped(<mekanism:basicblock:8>, [[<enderio:item_alloy_ingot>, <thermalfoundation:material:134>, <enderio:item_alloy_ingot>],[<mekanism:ingot:1>, <enderio:item_alloy_ingot:3>, <mekanism:ingot:1>], [<modernmetals:tungsten_ingot>, <thermalfoundation:material:134>, <modernmetals:tungsten_ingot>]]);
 recipes.addShaped(<extrautils2:resonator>, [[<ore:ingotPewter>, <immersiveengineering:stone_decoration:3>, <ore:ingotPewter>],[<enderio:item_alloy_endergy_ingot>, <extrautils2:ingredients>, <ore:ingotPewter>], [<enderio:item_alloy_ingot:9>, <basemetals:redstone_ingot>, <ore:ingotPewter>]]);

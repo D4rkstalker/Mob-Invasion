@@ -43,8 +43,8 @@ endercore:autosmelt
 enderio:shimmer
 enderio:witherweapon
 enderio:soulbound
-enderio:repellent
 enderio:witherarrow
+enderio:repellent
 silentgems:lifesteal
 silentgems:magicdamage
 silentgems:gravity

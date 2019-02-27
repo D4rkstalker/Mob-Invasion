@@ -1,5 +1,4 @@
 {
-  "levelup2": "${version}",
   "blockdrops": "1.4.0",
   "draconicevolution": "2.3.18",
   "projecte": "1.12-PE1.3.2h",
@@ -121,9 +120,10 @@
   "recipehandler": "0.12",
   "tweakersconstruct": "1.12.2-1.2.0",
   "spatialservermod": "1.3",
-  "spiceoflife": "1.3.12",
+  "minemenu": "1.6.4",
   "mountainmobs": "1.20.5.2 - MC 1.12.2",
   "pulver": "@VERSION@",
+  "tombmanygraves": "1.12-4.2.0",
   "p455w0rdslib": "2.0.36",
   "enderiointegrationforestry": "5.0.39",
   "universalmodifiers": "1.12.2-1.0.16.1",
