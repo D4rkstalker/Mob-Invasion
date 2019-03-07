@@ -151,34 +151,29 @@
       "id": "OD:oreMithril"
     },
     {
-      "target": "light_blue",
-      "weight": 203,
-      "id": "OD:oreOsmium"
-    },
-    {
       "target": "black",
       "weight": 128,
-      "id": "OD:oreFluidCrudeOilSand"
+      "id": "OD:oreClathrateOilSand"
     },
     {
       "target": "black",
       "weight": 120,
-      "id": "OD:oreFluidCrudeOilShale"
+      "id": "OD:oreClathrateOilShale"
     },
     {
       "target": "green",
       "weight": 118,
-      "id": "OD:oreFluidEnder"
+      "id": "OD:oreClathrateEnder"
     },
     {
       "target": "yellow",
       "weight": 145,
-      "id": "OD:oreFluidGlowstone"
+      "id": "OD:oreClathrateGlowstone"
     },
     {
       "target": "red",
       "weight": 137,
-      "id": "OD:oreFluidRedstone"
+      "id": "OD:oreClathrateRedstone"
     },
     {
       "target": "yellow",
@@ -213,7 +208,7 @@
     {
       "target": "purple",
       "weight": 142,
-      "id": "OD:oreDraconium"
+      "id": "draconicevolution:draconium_ore"
     },
     {
       "target": "black",
@@ -266,7 +261,7 @@
       "id": "OD:oreTungsten"
     },
     {
-      "target": "silver",
+      "target": "light_blue",
       "weight": 251,
       "id": "OD:oreOsmium"
     },
@@ -291,9 +286,69 @@
       "id": "OD:oreProsperity"
     },
     {
+      "target": "blue",
+      "weight": 414,
+      "id": "OD:oreElectrotine"
+    },
+    {
       "target": "lime",
       "weight": 223,
       "id": "OD:oreBrainstone"
+    },
+    {
+      "target": "white",
+      "weight": 111,
+      "id": "thaumcraft:crystal_ordo"
+    },
+    {
+      "target": "yellow",
+      "weight": 111,
+      "id": "thaumcraft:crystal_air"
+    },
+    {
+      "target": "orange",
+      "weight": 111,
+      "id": "thaumcraft:crystal_fire"
+    },
+    {
+      "target": "black",
+      "weight": 111,
+      "id": "thaumcraft:crystal_perditio"
+    },
+    {
+      "target": "purple",
+      "weight": 111,
+      "id": "thaumcraft:crystal_vitium"
+    },
+    {
+      "target": "blue",
+      "weight": 111,
+      "id": "thaumcraft:crystal_aqua"
+    },
+    {
+      "target": "green",
+      "weight": 111,
+      "id": "thaumcraft:crystal_terra"
+    },
+    {
+      "target": "lime",
+      "weight": 223,
+      "id": "OD:oreBrainstone"
+    },
+    {
+      "target": "white",
+      "weight": 223,
+      "id": "OD:oreTitaniumIron"
+    },
+    {
+      "target": "purple",
+      "weight": 333,
+      "id": "OD:oreSilicon"
+    },
+    {
+      "target": "white",
+      "weight": 95,
+      "id": "astralsorcery:blockcustomore:0"
     },
     {
       "target": "red",

@@ -1,10 +1,4 @@
 player_name=D4rkstalker
 donation_mode=false
-culture_reputation=byzantines,1
-culture_language=byzantines,1
-village_reputations=-297/71/-414,8
-village_diplomacy=516/70/110,5
-village_diplomacy=72/74/594,5
-village_diplomacy=-129/72/-125,5
-village_diplomacy=209/67/159,5
-village_diplomacy=-527/70/-209,5
+village_diplomacy=20/71/-262,5
+village_diplomacy=-262/71/-11,5

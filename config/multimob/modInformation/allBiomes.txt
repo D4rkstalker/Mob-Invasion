@@ -143,3 +143,5 @@ nex:fungi_forest
 nex:torrid_wasteland
 nex:arctic_abyss
 nuclearcraft:nuclear_wasteland
+scp:gas_mask
+scp:vanqar

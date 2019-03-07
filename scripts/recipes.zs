@@ -29,6 +29,7 @@ recipes.remove(<mekanism:controlcircuit:2>);
 recipes.remove(<mekanism:controlcircuit:1>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<minecraft:paper>, [[<scp:paper_scrap>, <scp:paper_scrap>, <scp:paper_scrap>],[<scp:paper_scrap>, <scp:paper_scrap>, <scp:paper_scrap>], [<scp:paper_scrap>, <scp:paper_scrap>, <scp:paper_scrap>]]);
 recipes.addShapeless(<techguns:basicore:4> * 4, [<elementalmobs:xaphanspine>]);
 recipes.addShapeless(<appliedenergistics2:material:1> * 4, [<elementalmobs:vapulacrystal>]);
 recipes.addShaped(<tconstruct:materials:17>, [[<darkutils:material>, <darkutils:material>, <darkutils:material>],[<darkutils:material>, <minecraft:bone>, <darkutils:material>], [<darkutils:material>, <darkutils:material>, <darkutils:material>]]);
@@ -37,7 +38,7 @@ recipes.addShaped(<extrautils2:resonator>, [[<ore:ingotPewter>, <immersiveengine
 recipes.addShaped(<appliedenergistics2:grindstone>, [[<minecraft:cobblestone>, <enderio:item_material:10>, <minecraft:cobblestone>],[<appliedenergistics2:material>, <enderio:item_alloy_endergy_ingot>, <appliedenergistics2:material>], [<minecraft:cobblestone>, <appliedenergistics2:material>, <minecraft:cobblestone>]]);
 recipes.addShaped(<extrautils2:machine>, [[<basemetals:redstone_ingot>, <minecraft:iron_ingot>, <basemetals:redstone_ingot>],[<minecraft:iron_ingot>, <matteroverdrive:dilithium_crystal>, <minecraft:iron_ingot>], [<basemetals:redstone_ingot>, <minecraft:iron_ingot>, <basemetals:redstone_ingot>]]);
 recipes.addShaped(<rftools:machine_frame>, [[<ore:ingotTitanium>, <ore:ingotRedstone>, <ore:ingotTitanium>],[<minecraft:gold_ingot>, <draconicevolution:draconic_core>, <minecraft:gold_ingot>], [<ore:ingotConstructionAlloy>, <ore:ingotRedstone>, <ore:ingotConstructionAlloy>]]);
-recipes.addShaped(<draconicevolution:draconic_core>, [[<draconicevolution:draconium_ingot>, <matteroverdrive:dilithium_crystal>, <draconicevolution:draconium_ingot>],[<ore:ingotTungsten>, <thermalfoundation:material:136>, <ore:ingotTungsten>], [<draconicevolution:draconium_ingot>, <matteroverdrive:dilithium_crystal>, <draconicevolution:draconium_ingot>]]);
+recipes.addShaped(<draconicevolution:draconic_core>, [[<draconicevolution:draconium_ingot>, <matteroverdrive:dilithium_crystal>, <draconicevolution:draconium_ingot>],[<thermalfoundation:material:135>, <thermalfoundation:material:136>, <thermalfoundation:material:135>], [<draconicevolution:draconium_ingot>, <matteroverdrive:dilithium_crystal>, <draconicevolution:draconium_ingot>]]);
 recipes.addShaped(<techguns:scatterbeamrifle>, [[<techguns:lasergun:*>.anyDamage(), <techguns:itemshared:30>, <techguns:itemshared:30>],[<techguns:lasergun:*>.anyDamage(), <techguns:itemshared:59>, <techguns:itemshared:53>], [null, null, <techguns:itemshared:36>]]);
 recipes.addShaped(<minecraft:skull:1>, [[<quark:black_ash>, <quark:black_ash>, <quark:black_ash>],[<extrautils2:ingredients:10>, <ore:boneWithered>, <extrautils2:ingredients:10>], [<quark:black_ash>, <quark:black_ash>, <quark:black_ash>]]);
 recipes.addShaped(<harvestcraft:windygarden>, [[<actuallyadditions:item_fertilizer>, <environmentaltech:litherite_crystal>, <actuallyadditions:item_fertilizer>],[<silentgems:craftingmaterial:1>, <ore:gemPeridot>, <silentgems:craftingmaterial:1>], [<actuallyadditions:item_fertilizer>, <environmentaltech:litherite_crystal>, <actuallyadditions:item_fertilizer>]]);

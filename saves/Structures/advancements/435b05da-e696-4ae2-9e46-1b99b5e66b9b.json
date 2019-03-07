@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-03-06 18:03:49 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -992,6 +998,12 @@
   "biomesoplenty:recipes/misc/red_dye_from_rose": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "millenaire:explorer": {
+    "criteria": {
+      "explorer": "2019-03-06 20:20:35 +0800"
     },
     "done": true
   },
@@ -2382,6 +2394,12 @@
     },
     "done": true
   },
+  "millenaire:recipes/timberframe": {
+    "criteria": {
+      "has_item": "2019-03-06 20:25:49 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/pine_door": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -3338,6 +3356,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2019-03-06 15:37:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -3353,6 +3377,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-03-06 15:40:52 +0800"
     },
     "done": true
   },
@@ -3485,6 +3515,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "silentgems:root": {
+    "criteria": {
+      "get_item": "2019-03-06 15:37:17 +0800"
     },
     "done": true
   },
@@ -3782,6 +3818,12 @@
     },
     "done": true
   },
+  "millenaire:firstcontact": {
+    "criteria": {
+      "firstcontact": "2019-03-06 20:21:22 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -3807,6 +3849,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/facade": {
+    "criteria": {
+      "facade": "2019-03-06 17:55:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -3822,6 +3870,18 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network2": {
+    "criteria": {
+      "cable": "2019-03-06 16:05:45 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2019-03-06 16:05:39 +0800"
     },
     "done": true
   },

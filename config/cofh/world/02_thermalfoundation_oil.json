@@ -10,7 +10,7 @@
 					"minecraft:sandstone",
 					"minecraft:stone"
 				],
-				"cluster-size": 16
+				"cluster-size": 8
 			},
 			"cluster-count": 1,
 			"chunk-chance": 1,
@@ -50,7 +50,7 @@
 					"minecraft:sandstone",
 					"minecraft:stone"
 				],
-				"cluster-size": 50
+				"cluster-size": 25
 			},
 			"cluster-count": 1,
 			"chunk-chance": 1,

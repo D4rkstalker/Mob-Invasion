@@ -1,6 +1,2 @@
-Drerosto hephaisto;209/67/159;military;byzantines;
-Biannoslimne;-527/70/-209;military;byzantines;
-Gayogohono;516/70/110;religiousvillage;inuits;
-Lissoslimne;72/74/594;ortodox;byzantines;
-Saga;-129/72/-125;gunji;japanese;
-Attikamekw;329/65/-169;huntingvillage;inuits;
+Arkadeslimne;-262/71/-11;emporikos;byzantines;
+Chigasaki;20/71/-262;nogyo;japanese;

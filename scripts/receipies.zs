@@ -10,9 +10,9 @@ mods.thermalexpansion.Crucible.addRecipe(<liquid:pyrotheum>* 100, <nex:netherrac
 mods.thermalexpansion.Crucible.addRecipe(<liquid:cryotheum>* 100, <nex:netherrack:1>, 1000);
 mods.thermalexpansion.Crucible.addRecipe(<liquid:experience>* 50, <nex:netherrack:3>, 1000);
 mods.thermalexpansion.Crucible.addRecipe(<liquid:mushroom_stew>* 1000, <nex:netherrack:2>, 5000);
-mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:0>, <modernmetals:chromium_ingot>, 1500);
+mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:0>, <modernmetals:galvanizedsteel_ingot>, 1500);
 mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:1>, <modernmetals:tungsten_ingot>, 1500);
-mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:2>, <modernmetals:galvanizedsteel_ingot>, 1500);
+mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:2>, <thermalfoundation:material:136>, 1500);
 mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:3>, <modernmetals:titanium_ingot>, 1500);
 mods.thermalexpansion.Compactor.addPressRecipe(<matteroverdrive:tritanium_plate>, <matteroverdrive:tritanium_ingot>, 1500);
 mods.nuclearcraft.ingot_former.addRecipe([<liquid:corium> * 4000 , <nuclearcraft:alloy:1>]);
@@ -20,6 +20,8 @@ mods.thermalexpansion.InductionSmelter.addRecipe(<nuclearcraft:alloy:1>, <nuclea
 mods.thermalexpansion.InductionSmelter.addRecipe(<nuclearcraft:alloy:6>, <nuclearcraft:ingot:5>, <thermalfoundation:material:160>, 2000);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:glowstone_dust>*4, <betternether:cincinnasite_forged>, 2000, <thermalfoundation:material>, 20);
 
+var iron = <ore:ingotIron>;
+iron.add(<enderio:item_alloy_ingot:9>);
 var gem = <ore:gemIonite>;
 gem.add(<environmentaltech:ionite_crystal>);
 gem = <ore:gemAethium>;
