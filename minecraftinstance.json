@@ -13,12 +13,13 @@
     "versionJson": "{\r\n  \"id\": \"forge-14.23.5.2807\",\r\n  \"time\": \"2019-01-10T11:11:15Z\",\r\n  \"releaseTime\": \"1960-01-01T07:00:00Z\",\r\n  \"type\": \"release\",\r\n  \"minecraftArguments\": \"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge\",\r\n  \"minimumLauncherVersion\": 0,\r\n  \"inheritsFrom\": \"1.12.2\",\r\n  \"jar\": \"forge-14.23.5.2807\",\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.12.2-14.23.5.2807\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\"\r\n    },\r\n    {\r\n      \"name\": \"net.minecraft:launchwrapper:1.12\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.ow2.asm:asm-all:5.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.jline:jline:3.5.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"net.java.dev.jna:jna:4.4.0\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe.akka:akka-actor_2.11:2.3.3\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe:config:1.2.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-compiler:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-library:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-reflect:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-swing_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-xml_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"lzma:lzma:0.0.1\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.jopt-simple:jopt-simple:5.0.3\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"java3d:vecmath:1.5.2\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.trove4j:trove4j:3.0.3\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.apache.maven:maven-artifact:3.5.3\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    }\r\n  ],\r\n  \"mainClass\": \"net.minecraft.launchwrapper.Launch\"\r\n}",
     "librariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.12.2-14.23.5.2807",
     "minecraftVersion": "1.12.2",
-    "additionalFilesJson": null
+    "additionalFilesJson": null,
+    "installProfileJson": null
   },
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-03-07T07:16:49.513112Z",
+  "lastPlayed": "2019-03-30T03:57:52.3867563Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -327,21 +328,6 @@
       "queryTimestamp": "2019-03-06T03:27:52.7597351Z",
       "fileCount": 1,
       "fileSize": 96658
-    },
-    {
-      "folderName": "MekanismGenerators-1.12.2-9.4.13.349.jar",
-      "fingerprint": 2665929069,
-      "fileDateHash": 738662069,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2665929069
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:48.1469262Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:56.3489339Z",
-      "queryTimestamp": "2019-03-06T03:27:52.7607322Z",
-      "fileCount": 1,
-      "fileSize": 338984
     },
     {
       "folderName": "QuickLeafDecay-MC1.12.1-1.2.4.jar",
@@ -1120,21 +1106,6 @@
       "queryTimestamp": "2019-03-06T03:27:52.7836714Z",
       "fileCount": 1,
       "fileSize": 609733
-    },
-    {
-      "folderName": "Mekanism-1.12.2-9.4.13.349.jar",
-      "fingerprint": 3880367956,
-      "fileDateHash": 738662069,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3880367956
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:48.0539824Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:56.3489339Z",
-      "queryTimestamp": "2019-03-06T03:27:52.7836714Z",
-      "fileCount": 1,
-      "fileSize": 16020358
     },
     {
       "folderName": "effortlessbuilding-1.12.2-2.3.jar",
@@ -2779,21 +2750,6 @@
       "queryTimestamp": "2019-03-06T03:27:52.8016554Z",
       "fileCount": 1,
       "fileSize": 394175
-    },
-    {
-      "folderName": "MekanismTools-1.12.2-9.4.13.349.jar",
-      "fingerprint": 4041764100,
-      "fileDateHash": 1440078166,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4041764100
-      ],
-      "status": 1,
-      "timestamp": "2019-01-29T10:51:48.1489307Z",
-      "lastWriteTimeUtc": "2019-01-29T10:31:56.364553Z",
-      "queryTimestamp": "2019-03-06T03:27:52.8016554Z",
-      "fileCount": 1,
-      "fileSize": 161142
     },
     {
       "folderName": "VanillaFix-1.0.10-99.jar",
@@ -5533,7 +5489,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6744937Z",
       "dateUpdated": "2019-01-14T14:57:20.0320647Z",
       "dateLastUpdateAttempted": "2019-01-14T14:57:20.0320647Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5679,7 +5635,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6805085Z",
       "dateUpdated": "2019-01-14T14:57:24.6416715Z",
       "dateLastUpdateAttempted": "2019-01-14T14:57:24.6416715Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6025,7 +5981,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6624669Z",
       "dateUpdated": "2019-02-27T08:57:44.8885515Z",
       "dateLastUpdateAttempted": "2019-02-27T08:57:44.8885515Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6461,7 +6417,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6865241Z",
       "dateUpdated": "2018-10-02T13:18:58.5593924Z",
       "dateLastUpdateAttempted": "2018-10-02T13:18:58.5593924Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6519,7 +6475,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6734907Z",
       "dateUpdated": "2019-02-27T09:02:12.4678731Z",
       "dateLastUpdateAttempted": "2019-02-27T09:02:12.4678731Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6644,7 +6600,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6594593Z",
       "dateUpdated": "2019-02-27T09:10:18.9797038Z",
       "dateLastUpdateAttempted": "2019-02-27T09:10:18.9797038Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7087,7 +7043,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6835165Z",
       "dateUpdated": "2019-02-27T09:09:38.1769232Z",
       "dateLastUpdateAttempted": "2019-02-27T09:09:38.1769232Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7407,7 +7363,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6564525Z",
       "dateUpdated": "2019-02-27T09:08:46.2036674Z",
       "dateLastUpdateAttempted": "2019-02-27T09:08:46.2036674Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7723,7 +7679,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6584586Z",
       "dateUpdated": "2018-10-02T13:21:37.7136225Z",
       "dateLastUpdateAttempted": "2018-10-02T13:21:37.7136225Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8313,7 +8269,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6654749Z",
       "dateUpdated": "2019-02-27T08:56:59.204126Z",
       "dateLastUpdateAttempted": "2019-02-27T08:56:59.204126Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9582,7 +9538,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6855218Z",
       "dateUpdated": "2017-05-13T05:11:26.6855218Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10194,7 +10150,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6775041Z",
       "dateUpdated": "2019-02-27T09:00:17.8494352Z",
       "dateLastUpdateAttempted": "2019-02-27T09:00:17.8494352Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10489,7 +10445,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6785036Z",
       "dateUpdated": "2019-02-27T08:56:52.098546Z",
       "dateLastUpdateAttempted": "2019-02-27T08:56:52.098546Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11154,7 +11110,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6765022Z",
       "dateUpdated": "2019-01-17T14:56:27.04854Z",
       "dateLastUpdateAttempted": "2019-01-17T14:56:27.04854Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11291,7 +11247,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6825158Z",
       "dateUpdated": "2019-02-27T09:00:25.4545275Z",
       "dateLastUpdateAttempted": "2019-02-27T09:00:25.4545275Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11757,67 +11713,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 268567,
-      "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
-      "installedFile": {
-        "id": 2572884,
-        "fileName": "MekanismTools-1.12.2-9.4.13.349.jar",
-        "fileNameOnDisk": "MekanismTools-1.12.2-9.4.13.349.jar",
-        "fileDate": "2018-06-15T10:04:54.38",
-        "fileLength": 161142,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2572/884/MekanismTools-1.12.2-9.4.13.349.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "addonId": 268560,
-            "type": 1
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 2464251221
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 841492828
-          },
-          {
-            "folderName": "mekanism",
-            "fimgerprint": 3648591152
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 3481359847
-          }
-        ],
-        "packageFingerprint": 4041764100,
-        "gameVersion": [
-          "1.12.2",
-          "1.12.1",
-          "1.12"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-05-13T05:11:26.6584586Z",
-      "dateUpdated": "2018-10-02T13:20:06.2869488Z",
-      "dateLastUpdateAttempted": "2018-10-02T13:20:06.2869488Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 220954,
       "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
       "installedFile": {
@@ -11865,7 +11760,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6604619Z",
       "dateUpdated": "2019-02-27T09:02:37.089176Z",
       "dateLastUpdateAttempted": "2019-02-27T09:02:37.089176Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11948,7 +11843,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6654749Z",
       "dateUpdated": "2018-11-10T14:37:42.2413437Z",
       "dateLastUpdateAttempted": "2018-11-10T14:37:42.2413437Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12074,67 +11969,6 @@
       "dateInstalled": "2018-05-13T05:11:26.6704866Z",
       "dateUpdated": "2018-11-10T14:38:19.9685106Z",
       "dateLastUpdateAttempted": "2018-11-10T14:38:19.9685106Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 268566,
-      "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
-      "installedFile": {
-        "id": 2572883,
-        "fileName": "MekanismGenerators-1.12.2-9.4.13.349.jar",
-        "fileNameOnDisk": "MekanismGenerators-1.12.2-9.4.13.349.jar",
-        "fileDate": "2018-06-15T10:04:52.69",
-        "fileLength": 338984,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2572/883/MekanismGenerators-1.12.2-9.4.13.349.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "addonId": 268560,
-            "type": 1
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 2464251221
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 1151899355
-          },
-          {
-            "folderName": "mekanism",
-            "fimgerprint": 1556753433
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 790118002
-          }
-        ],
-        "packageFingerprint": 2665929069,
-        "gameVersion": [
-          "1.12.2",
-          "1.12.1",
-          "1.12"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-05-13T05:11:26.6714889Z",
-      "dateUpdated": "2018-10-02T13:20:04.6672485Z",
-      "dateLastUpdateAttempted": "2018-10-02T13:20:04.6672485Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -12319,66 +12153,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 268560,
-      "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
-      "installedFile": {
-        "id": 2572881,
-        "fileName": "Mekanism-1.12.2-9.4.13.349.jar",
-        "fileNameOnDisk": "Mekanism-1.12.2-9.4.13.349.jar",
-        "fileDate": "2018-06-15T10:04:50.38",
-        "fileLength": 16020358,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2572/881/Mekanism-1.12.2-9.4.13.349.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 2217931071
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 641303111
-          },
-          {
-            "folderName": "mekanism",
-            "fimgerprint": 3038373151
-          },
-          {
-            "folderName": "pack.mcmeta",
-            "fimgerprint": 141643309
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 1956315272
-          }
-        ],
-        "packageFingerprint": 3880367956,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-05-13T05:11:26.6765022Z",
-      "dateUpdated": "2018-10-02T13:19:55.1045588Z",
-      "dateLastUpdateAttempted": "2018-10-02T13:19:55.1045588Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 245480,
       "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
       "installedFile": {
@@ -12425,7 +12199,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6775041Z",
       "dateUpdated": "2019-01-14T15:02:10.4715567Z",
       "dateLastUpdateAttempted": "2019-01-14T15:02:10.4715567Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12524,7 +12298,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6785036Z",
       "dateUpdated": "2019-02-27T09:08:32.1274117Z",
       "dateLastUpdateAttempted": "2019-02-27T09:08:32.1274117Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12704,7 +12478,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6805085Z",
       "dateUpdated": "2019-01-14T15:02:44.3954927Z",
       "dateLastUpdateAttempted": "2019-01-14T15:02:44.3954927Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12829,7 +12603,7 @@
       "dateInstalled": "2018-05-13T05:11:26.6835165Z",
       "dateUpdated": "2019-01-14T14:58:56.3091188Z",
       "dateLastUpdateAttempted": "2019-01-14T14:58:56.3091188Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13368,7 +13142,7 @@
       "dateInstalled": "2018-10-02T13:30:56.7059436Z",
       "dateUpdated": "2018-10-02T13:30:57.1379494Z",
       "dateLastUpdateAttempted": "2018-10-02T13:30:57.1379494Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14484,7 +14258,7 @@
       "dateInstalled": "2018-10-06T03:31:07.5016103Z",
       "dateUpdated": "2018-10-06T03:31:07.6273441Z",
       "dateLastUpdateAttempted": "2018-10-06T03:31:07.6273441Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14551,7 +14325,7 @@
       "dateInstalled": "2018-10-21T07:42:04.8928132Z",
       "dateUpdated": "2019-02-27T09:00:22.5456502Z",
       "dateLastUpdateAttempted": "2019-02-27T09:00:22.5456502Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -15068,7 +14842,7 @@
       "dateInstalled": "2019-01-17T14:42:16.4251113Z",
       "dateUpdated": "2019-02-27T08:57:02.1115886Z",
       "dateLastUpdateAttempted": "2019-02-27T08:57:02.1115886Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -15766,7 +15540,7 @@
       "dateInstalled": "2019-01-17T14:48:40.2406656Z",
       "dateUpdated": "2019-01-17T14:56:51.9073426Z",
       "dateLastUpdateAttempted": "2019-01-17T14:56:51.9073426Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16003,7 +15777,7 @@
       "dateInstalled": "2019-01-17T14:48:40.2416639Z",
       "dateUpdated": "2019-01-17T15:07:35.9999857Z",
       "dateLastUpdateAttempted": "2019-01-17T15:07:35.9999857Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16363,7 +16137,7 @@
       "dateInstalled": "2019-01-17T14:55:54.4898311Z",
       "dateUpdated": "2019-01-17T14:55:54.4928497Z",
       "dateLastUpdateAttempted": "2019-01-17T14:55:54.4928497Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16422,7 +16196,7 @@
       "dateInstalled": "2019-01-17T14:55:57.8741483Z",
       "dateUpdated": "2019-01-17T14:55:57.8821538Z",
       "dateLastUpdateAttempted": "2019-01-17T14:55:57.8821538Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16926,7 +16700,7 @@
       "dateInstalled": "2019-01-19T08:09:50.5988482Z",
       "dateUpdated": "2019-02-27T09:02:23.4828242Z",
       "dateLastUpdateAttempted": "2019-02-27T09:02:23.4828242Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17304,7 +17078,7 @@
       "dateInstalled": "2019-01-29T10:52:19.6315938Z",
       "dateUpdated": "2019-01-29T10:52:19.636826Z",
       "dateLastUpdateAttempted": "2019-01-29T10:52:19.636826Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17886,7 +17660,7 @@
       "dateInstalled": "2019-02-16T13:06:22.7034954Z",
       "dateUpdated": "2019-02-16T13:06:25.0450643Z",
       "dateLastUpdateAttempted": "2019-02-16T13:06:25.0450643Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -18077,7 +17851,7 @@
       "dateInstalled": "2019-02-16T13:07:41.1418819Z",
       "dateUpdated": "2019-02-16T13:07:41.1430354Z",
       "dateLastUpdateAttempted": "2019-02-16T13:07:41.1430354Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -18139,7 +17913,7 @@
       "dateInstalled": "2019-02-16T13:08:46.3667802Z",
       "dateUpdated": "2019-02-16T13:08:48.7116147Z",
       "dateLastUpdateAttempted": "2019-02-16T13:08:48.7116147Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -18661,7 +18435,7 @@
       "dateInstalled": "2019-02-16T13:17:00.3793424Z",
       "dateUpdated": "2019-02-16T13:17:00.3949545Z",
       "dateLastUpdateAttempted": "2019-02-16T13:17:00.3949545Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -18727,7 +18501,7 @@
       "dateInstalled": "2019-02-16T13:21:36.981769Z",
       "dateUpdated": "2019-02-16T13:21:36.9857765Z",
       "dateLastUpdateAttempted": "2019-02-16T13:21:36.9857765Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19188,7 +18962,7 @@
       "dateInstalled": "2019-02-23T12:58:27.0672536Z",
       "dateUpdated": "2019-02-23T12:58:27.0682223Z",
       "dateLastUpdateAttempted": "2019-02-23T12:58:27.0682223Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19308,6 +19082,242 @@
       "dateInstalled": "2019-03-06T05:07:52.6146811Z",
       "dateUpdated": "2019-03-06T05:07:52.6186634Z",
       "dateLastUpdateAttempted": "2019-03-06T05:07:52.6186634Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 315844,
+      "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
+      "installedFile": {
+        "id": 2691355,
+        "fileName": "mekanica-1.12.2-1.1.2.jar",
+        "fileNameOnDisk": "mekanica-1.12.2-1.1.2.jar",
+        "fileDate": "2019-03-24T20:48:36.94",
+        "fileLength": 8139436,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2691/355/mekanica-1.12.2-1.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1697497689
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 4200572519
+          },
+          {
+            "folderName": "mekanism",
+            "fimgerprint": 384616765
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 141643309
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2322370044
+          }
+        ],
+        "packageFingerprint": 2384445478,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-03-28T08:00:07.9804339Z",
+      "dateUpdated": "2019-03-28T08:00:08.0462927Z",
+      "dateLastUpdateAttempted": "2019-03-28T08:00:08.0462927Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 315908,
+      "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
+      "installedFile": {
+        "id": 2691356,
+        "fileName": "mekanica-generators-1.12.2-1.1.2.jar",
+        "fileNameOnDisk": "mekanica-generators-1.12.2-1.1.2.jar",
+        "fileDate": "2019-03-24T20:48:38.283",
+        "fileLength": 345049,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2691/356/mekanica-generators-1.12.2-1.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 315844,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2464251221
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1151899355
+          },
+          {
+            "folderName": "mekanism",
+            "fimgerprint": 2500900302
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2692620297
+          }
+        ],
+        "packageFingerprint": 39954863,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-03-28T08:00:11.1711599Z",
+      "dateUpdated": "2019-03-28T08:00:11.1741509Z",
+      "dateLastUpdateAttempted": "2019-03-28T08:00:11.1741509Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 315907,
+      "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
+      "installedFile": {
+        "id": 2691357,
+        "fileName": "mekanica-tools-1.12.2-1.1.2.jar",
+        "fileNameOnDisk": "mekanica-tools-1.12.2-1.1.2.jar",
+        "fileDate": "2019-03-24T20:48:39.033",
+        "fileLength": 165030,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2691/357/mekanica-tools-1.12.2-1.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 315844,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2464251221
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2315388075
+          },
+          {
+            "folderName": "mekanism",
+            "fimgerprint": 2242975560
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1449411865
+          }
+        ],
+        "packageFingerprint": 19551466,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-03-28T08:00:23.0993953Z",
+      "dateUpdated": "2019-03-28T08:00:23.10139Z",
+      "dateLastUpdateAttempted": "2019-03-28T08:00:23.10139Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 257244,
+      "gameInstanceID": "87fcfeb2-2908-45a1-8828-bde42938bf11",
+      "installedFile": {
+        "id": 2679312,
+        "fileName": "hostileworlds_invasions-1.12.1-1.1.9.jar",
+        "fileNameOnDisk": "hostileworlds_invasions-1.12.1-1.1.9.jar",
+        "fileDate": "2019-02-23T21:55:55.66",
+        "fileLength": 50498,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2679/312/hostileworlds_invasions-1.12.1-1.1.9.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 237749,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1869161770
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 2291332876
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3914241145
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1107261243
+          }
+        ],
+        "packageFingerprint": 220444674,
+        "gameVersion": [
+          "1.12.2",
+          "1.12.1"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-03-28T08:01:11.0379111Z",
+      "dateUpdated": "2019-03-28T08:01:11.0399291Z",
+      "dateLastUpdateAttempted": "2019-03-28T08:01:11.0399291Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

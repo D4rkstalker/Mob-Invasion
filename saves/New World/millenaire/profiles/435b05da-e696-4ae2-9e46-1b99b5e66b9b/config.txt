@@ -1,4 +1,8 @@
 player_name=D4rkstalker
 donation_mode=false
+village_diplomacy=333/65/-170,5
+village_diplomacy=92/74/497,5
 village_diplomacy=20/71/-262,5
+village_diplomacy=-142/71/444,5
+village_diplomacy=272/106/334,5
 village_diplomacy=-262/71/-11,5

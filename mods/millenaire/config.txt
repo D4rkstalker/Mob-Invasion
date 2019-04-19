@@ -60,15 +60,15 @@ generate_lone_buildings=true
 
 //Distance min entre villages; Distance minimale entre deux villages générés. Défaut: 600.
 //Min Village Distance; Minimum distance between two generated villages. Default: 600.
-min_village_distance=300
+min_village_distance=600
 
 //Distance min villages/bâtiments; Distance minimale entre villages et bâtiments isolés générés. Défaut: 300.
 //Min Village-Lone Building Distance; Minimum distance between generated villages and lone buildings. Default: 300.
-min_village_lonebuilding_distance=150
+min_village_lonebuilding_distance=300
 
 //Distance min entre bâtiments; Distance minimale entre deux bâtiments isolés générés. Défaut: 600.
 //Min Lone Building Distance; Minimum distance between lone buildings. Default: 600.
-min_lonebuilding_distance=300
+min_lonebuilding_distance=600
 
 //Rayon de protection spawn; Rayon autour du point d'apparition dans lequel Millénaire ne génère rien. Défaut: 150.
 //Spawn Protection Radius; Area around the Spawn Point where Millénaire will not generate buildings. Default: 150.
@@ -120,7 +120,7 @@ bandit_raid_radius=1500
 
 //Chance de raid en %; Chance sur 100 qu'un village ou bâtiment de bandits tente un raid chaque nuit. Défaut: 20.
 //Raiding % Chance; Chance on 100 that a village/bandit building will attempt a raid each night. Default: 20.
-raiding_rate=25
+raiding_rate=30
 
 //--------------------------------------------------------------------------------------------
 //       Réglages système    -    System Settings

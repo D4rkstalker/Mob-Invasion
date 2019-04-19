@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_dieselgenerator": {
+    "criteria": {
+      "form_blastfurnace": "2019-03-09 15:48:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -281,9 +287,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2019-03-09 13:55:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
+    },
+    "done": true
+  },
+  "enderio:gears/g3_iron_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-03-09 16:06:01 +0800"
     },
     "done": true
   },
@@ -697,9 +715,19 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2019-03-10 12:18:20 +0800",
       "shrubland": "2019-03-07 17:35:04 +0800",
+      "alps_foothills": "2019-03-09 16:10:38 +0800",
+      "phantasmagoric_inferno": "2019-03-09 13:59:15 +0800",
+      "chaparral": "2019-03-10 12:09:50 +0800",
+      "cold_desert": "2019-03-09 16:11:38 +0800",
+      "orchard": "2019-03-30 12:07:50 +0800",
       "coniferous_forest": "2019-03-07 17:09:15 +0800",
+      "lush_desert": "2019-03-30 12:35:01 +0800",
       "redwood_forest": "2019-03-07 17:33:17 +0800",
+      "visceral_heap": "2019-03-09 14:05:30 +0800",
+      "snowy_forest": "2019-03-09 18:25:22 +0800",
+      "grassland": "2019-03-10 12:15:45 +0800",
       "grove": "2019-03-07 16:12:50 +0800"
     },
     "done": false
@@ -761,6 +789,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-03-10 12:04:09 +0800"
     },
     "done": true
   },
@@ -1108,6 +1142,12 @@
   "biomesoplenty:recipes/misc/tanzanite": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2019-03-09 18:59:57 +0800"
     },
     "done": true
   },
@@ -1675,8 +1715,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "taiga_cold_hills": "2019-03-09 16:09:48 +0800",
+      "forest_hills": "2019-03-30 12:19:14 +0800",
       "plains": "2019-03-07 17:34:45 +0800",
+      "savanna": "2019-03-30 12:32:46 +0800",
+      "taiga": "2019-03-09 18:28:11 +0800",
       "taiga_cold": "2019-03-07 17:05:57 +0800",
+      "extreme_hills": "2019-03-09 16:06:18 +0800",
+      "roofed_forest": "2019-03-10 12:19:46 +0800",
       "river": "2019-03-07 17:06:10 +0800"
     },
     "done": false
@@ -2199,6 +2245,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-03-09 13:59:07 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -2347,6 +2399,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_cpu": {
+    "criteria": {
+      "c64k": "2019-03-09 18:59:31 +0800"
     },
     "done": true
   },
@@ -2503,6 +2561,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "has_item": "2019-03-09 13:49:44 +0800"
     },
     "done": true
   },
@@ -2830,6 +2894,12 @@
     },
     "done": true
   },
+  "enderio:gears/g1_wooden_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-03-09 16:06:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -2939,6 +3009,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-03-09 13:59:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -3044,6 +3120,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2019-03-07 17:07:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-03-09 13:55:23 +0800"
     },
     "done": true
   },
@@ -3311,6 +3393,12 @@
     },
     "done": true
   },
+  "enderio:gears/g5_vibrant_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-03-10 12:26:41 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/black_dye_from_deathbloom": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -3499,6 +3587,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-03-09 13:34:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -3565,6 +3659,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-03-09 14:01:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -3580,6 +3680,12 @@
   "biomesoplenty:recipes/misc/coal_from_ash": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2019-03-09 13:49:59 +0800"
     },
     "done": true
   },
@@ -3622,6 +3728,12 @@
   "biomesoplenty:recipes/decorations/dead_terrarium": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2019-03-09 13:49:59 +0800"
     },
     "done": true
   },
@@ -3715,9 +3827,21 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/pattern_terminal": {
+    "criteria": {
+      "certus": "2019-03-09 18:59:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
+    },
+    "done": true
+  },
+  "millenaire:marcopolo": {
+    "criteria": {
+      "marcopolo": "2019-03-09 15:59:58 +0800"
     },
     "done": true
   },
@@ -3913,6 +4037,12 @@
     },
     "done": true
   },
+  "millenaire:firstcontact": {
+    "criteria": {
+      "firstcontact": "2019-03-30 12:23:21 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -3938,6 +4068,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/facade": {
+    "criteria": {
+      "facade": "2019-03-09 18:59:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2019-03-07 16:12:41 +0800"
@@ -3959,6 +4095,18 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-03-07 16:22:52 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network2": {
+    "criteria": {
+      "cable": "2019-03-09 13:33:24 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2019-03-09 13:33:08 +0800"
     },
     "done": true
   },

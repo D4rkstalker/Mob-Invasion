@@ -11,13 +11,13 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:0
 renderClouds:false
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:192.168.1.135:51018
+lastServer:localhost
 lang:en_us
 chatVisibility:0
 chatColors:true
@@ -120,6 +120,7 @@ key_Toggle Special:46:SHIFT
 key_Toggle Chaos Gem (First):0
 key_Toggle Chaos Gem (All):0
 key_Use Return Home Charm:0
+key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -138,7 +139,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -146,7 +146,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_key.next_item.desc:0
 key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
@@ -209,7 +209,6 @@ key_key.toggleDislocator:0
 key_Mekanism Item Mode Switch:15
 key_Mekanism Armor Mode Switch:210
 key_Mekanism Feet Mode Switch:210
-key_Mekanism Voice:210
 key_key.plustic_release_entity.desc:11
 key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
@@ -295,7 +294,7 @@ key_key.journeymap.fullscreen.west:203
 key_Profile GUI:55
 key_Command Key: /help:0
 key_Command Key: /weather thunder:0
-soundCategory_master:0.50993377
+soundCategory_master:0.5066225
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

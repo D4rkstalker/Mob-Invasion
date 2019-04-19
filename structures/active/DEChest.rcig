@@ -3,9 +3,9 @@
   "inventoryGeneratorID": "DEChest",
   "items": [
     {
-      "weight": 1.0,
+      "weight": 0.5889394283294678,
       "min": 1,
-      "max": 16,
+      "max": 8,
       "item": {
         "id": "draconicevolution:draconic_core",
         "damage": 0,
@@ -15,7 +15,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 64,
+      "max": 32,
       "item": {
         "id": "draconicevolution:draconium_dust",
         "damage": 0,
@@ -23,7 +23,7 @@
       }
     },
     {
-      "weight": 1.0,
+      "weight": 0.5354365706443787,
       "min": 1,
       "max": 1,
       "item": {
@@ -43,9 +43,9 @@
       }
     },
     {
-      "weight": 1.0,
+      "weight": 0.0403180830180645,
       "min": 1,
-      "max": 16,
+      "max": 8,
       "item": {
         "id": "draconicevolution:wyvern_energy_core",
         "damage": 0,

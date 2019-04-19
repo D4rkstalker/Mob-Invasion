@@ -568,3 +568,225 @@
 7.1.2 07-03-2019 18:14:56 Starting new session. Mods: examplemod 
 7.1.2 07-03-2019 18:18:00 MAJOR: null: Loading language: en_us
 7.1.2 07-03-2019 18:18:09 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 07-03-2019 21:21:01 Starting new session. Mods: examplemod 
+7.1.2 07-03-2019 21:23:20 MAJOR: null: Loading language: en_us
+7.1.2 07-03-2019 21:23:27 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 08-03-2019 11:50:17 Starting new session. Mods: examplemod 
+7.1.2 08-03-2019 11:53:23 MAJOR: null: Loading language: en_us
+7.1.2 08-03-2019 11:53:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 08-03-2019 13:43:45 Starting new session. Mods: examplemod 
+7.1.2 08-03-2019 13:46:21 MAJOR: null: Loading language: en_us
+7.1.2 08-03-2019 13:46:22 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 08-03-2019 15:06:36 Starting new session. Mods: examplemod 
+7.1.2 08-03-2019 15:09:24 MAJOR: null: Loading language: en_us
+7.1.2 08-03-2019 15:09:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 08-03-2019 15:31:14 Starting new session. Mods: examplemod 
+7.1.2 08-03-2019 15:33:33 MAJOR: null: Loading language: en_us
+7.1.2 08-03-2019 15:33:35 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 09-03-2019 13:26:13 Starting new session. Mods: examplemod 
+7.1.2 09-03-2019 13:28:39 MAJOR: null: Loading language: en_us
+7.1.2 09-03-2019 13:28:45 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 09-03-2019 13:32:38 Error when checking version:
+7.1.2 09-03-2019 13:32:38 java.io.IOException: Server returned HTTP response code: 403 for URL: http://millenaire.org/lastversion/1.12.2.txt
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivileged(AccessController.java:713)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+	at java.net.URL.openStream(URL.java:1038)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:204)
+
+7.1.2 09-03-2019 14:03:20 Error when checking version:
+7.1.2 09-03-2019 14:03:20 java.io.IOException: Server returned HTTP response code: 403 for URL: http://millenaire.org/lastversion/1.12.2.txt
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivileged(AccessController.java:713)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+	at java.net.URL.openStream(URL.java:1038)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:204)
+
+7.1.2 09-03-2019 14:07:38 Error when checking version:
+7.1.2 09-03-2019 14:07:38 java.io.IOException: Server returned HTTP response code: 403 for URL: http://millenaire.org/lastversion/1.12.2.txt
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivileged(AccessController.java:713)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+	at java.net.URL.openStream(URL.java:1038)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:204)
+
+7.1.2 09-03-2019 15:15:20 Starting new session. Mods: examplemod 
+7.1.2 09-03-2019 15:17:45 MAJOR: null: Loading language: en_us
+7.1.2 09-03-2019 15:17:53 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 09-03-2019 15:35:17 Error when checking version:
+7.1.2 09-03-2019 15:35:17 java.io.IOException: Server returned HTTP response code: 403 for URL: http://millenaire.org/lastversion/1.12.2.txt
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivileged(AccessController.java:713)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+	at java.net.URL.openStream(URL.java:1038)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:204)
+
+7.1.2 09-03-2019 18:08:08 Starting new session. Mods: examplemod 
+7.1.2 09-03-2019 18:10:04 MAJOR: null: Loading language: en_us
+7.1.2 09-03-2019 18:10:05 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 09-03-2019 18:22:11 Error when checking version:
+7.1.2 09-03-2019 18:22:11 java.io.IOException: Server returned HTTP response code: 403 for URL: http://millenaire.org/lastversion/1.12.2.txt
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivileged(AccessController.java:713)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+	at java.net.URL.openStream(URL.java:1038)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:204)
+
+7.1.2 10-03-2019 11:42:52 Starting new session. Mods: examplemod 
+7.1.2 10-03-2019 11:45:19 MAJOR: null: Loading language: en_us
+7.1.2 10-03-2019 11:45:26 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 23-03-2019 14:41:07 Starting new session. Mods: examplemod 
+7.1.2 23-03-2019 14:43:33 MAJOR: null: Loading language: en_us
+7.1.2 23-03-2019 14:43:43 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 23-03-2019 21:05:19 Starting new session. Mods: examplemod 
+7.1.2 23-03-2019 21:07:52 MAJOR: null: Loading language: en_us
+7.1.2 23-03-2019 21:08:00 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 25-03-2019 16:26:46 Starting new session. Mods: examplemod 
+7.1.2 25-03-2019 16:29:32 MAJOR: null: Loading language: en_us
+7.1.2 25-03-2019 16:29:39 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 25-03-2019 21:47:32 Starting new session. Mods: examplemod 
+7.1.2 25-03-2019 21:50:02 MAJOR: null: Loading language: en_us
+7.1.2 25-03-2019 21:50:10 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 26-03-2019 10:50:49 Starting new session. Mods: examplemod 
+7.1.2 26-03-2019 10:53:20 MAJOR: null: Loading language: en_us
+7.1.2 26-03-2019 10:53:26 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 26-03-2019 11:14:16 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@218c96c0: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@2f4b7d59
+7.1.2 26-03-2019 12:06:40 ERROR: Ingvald Didrik/boy/4783110995367208492/-223/4/-311: Villager is far away from village. Despawning him.
+7.1.2 26-03-2019 21:09:04 Starting new session. Mods: examplemod 
+7.1.2 26-03-2019 21:11:33 MAJOR: null: Loading language: en_us
+7.1.2 26-03-2019 21:11:40 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 26-03-2019 21:48:31 ERROR: Wilhelm Froward/boy/4849487466114749631/-209/4/-258: Villager is far away from village. Despawning him.
+7.1.2 26-03-2019 21:51:27 ERROR: Norbert Froward/boy/3659239027610906328/-209/4/-260: Villager is far away from village. Despawning him.
+7.1.2 27-03-2019 10:53:42 Starting new session. Mods: examplemod 
+7.1.2 27-03-2019 10:56:24 MAJOR: null: Loading language: en_us
+7.1.2 27-03-2019 10:56:31 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 27-03-2019 11:10:24 Exception while calculating a path:
+7.1.2 27-03-2019 11:10:24 java.lang.ArrayIndexOutOfBoundsException: 1630
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.get(Long2ObjectOpenHashMap.java:449)
+	at net.minecraft.world.gen.ChunkProviderServer.func_186026_b(ChunkProviderServer.java:76)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:95)
+	at net.minecraft.world.gen.ChunkProviderServer.func_186028_c(ChunkProviderServer.java:89)
+	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:135)
+	at net.minecraft.world.World.func_72964_e(World.java:310)
+	at net.minecraft.world.World.func_175726_f(World.java:305)
+	at net.minecraft.world.World.func_180495_p(World.java:911)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlock(ThreadSafeUtilities.java:39)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isViable(AStarStatic.java:239)
+	at org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS.getGroundNodeHeight(AStarWorkerJPS.java:280)
+	at org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS.findNeighbours(AStarWorkerJPS.java:159)
+	at org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS.identifySuccessors(AStarWorkerJPS.java:355)
+	at org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS.getPath(AStarWorkerJPS.java:317)
+	at org.millenaire.common.pathing.atomicstryker.AStarWorker.run(AStarWorker.java:256)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+7.1.2 27-03-2019 11:12:46 Starting new session. Mods: examplemod 
+7.1.2 27-03-2019 11:14:44 MAJOR: null: Loading language: en_us
+7.1.2 27-03-2019 11:14:46 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 27-03-2019 11:42:35 ERROR: Norbert Froward/boy/3659239027610906328/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 28-03-2019 17:54:02 Starting new session. Mods: examplemod 
+7.1.2 28-03-2019 17:56:30 MAJOR: null: Loading language: en_us
+7.1.2 28-03-2019 17:56:38 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 28-03-2019 18:16:05 Starting new session. Mods: examplemod 
+7.1.2 28-03-2019 18:18:02 MAJOR: null: Loading language: en_us
+7.1.2 28-03-2019 18:18:03 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 28-03-2019 19:41:42 Starting new session. Mods: examplemod 
+7.1.2 28-03-2019 19:44:14 MAJOR: null: Loading language: en_us
+7.1.2 28-03-2019 19:44:22 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 29-03-2019 17:28:05 Starting new session. Mods: examplemod 
+7.1.2 29-03-2019 17:30:38 MAJOR: null: Loading language: en_us
+7.1.2 29-03-2019 17:30:45 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 29-03-2019 17:45:10 Starting new session. Mods: examplemod 
+7.1.2 29-03-2019 17:47:12 MAJOR: null: Loading language: en_us
+7.1.2 29-03-2019 17:47:14 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 29-03-2019 20:10:06 Starting new session. Mods: examplemod 
+7.1.2 29-03-2019 20:12:40 MAJOR: null: Loading language: en_us
+7.1.2 29-03-2019 20:12:46 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 29-03-2019 20:17:50 ERROR: Alfgard Froward/girl/4683122094081680293/-209/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:17:54 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:17:58 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:02 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:06 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:10 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:15 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:20 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:25 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:31 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:35 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:40 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:45 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:50 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:18:55 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:00 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:05 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:10 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:16 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:20 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:25 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:30 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:35 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:40 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:45 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:50 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:19:55 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:01 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:05 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:10 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:15 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:20 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:25 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:30 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:35 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:40 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:45 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:50 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:20:55 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:00 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:05 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:10 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:15 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:20 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:25 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:30 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:35 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:40 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:45 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:50 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:21:55 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:22:00 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:22:05 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:22:10 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:22:15 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:22:20 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:22:30 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:22:34 ERROR: Alfgard Froward/girl/4683122094081680293/39/4/-592: Villager is far away from village. Despawning him.
+7.1.2 29-03-2019 20:22:39 ERROR: Alfgard Froward/girl/4683122094081680293/-196/4/-259: Villager is far away from village. Despawning him.
+7.1.2 30-03-2019 12:00:23 Starting new session. Mods: examplemod 
+7.1.2 30-03-2019 12:02:49 MAJOR: null: Loading language: en_us
+7.1.2 30-03-2019 12:02:56 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.1.2 30-03-2019 17:26:23 Starting new session. Mods: examplemod 
+7.1.2 30-03-2019 17:28:24 MAJOR: null: Loading language: en_us
+7.1.2 30-03-2019 17:28:26 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning

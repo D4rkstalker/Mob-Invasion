@@ -1,0 +1,2 @@
+player_name=D3rpY_g33k__
+donation_mode=false

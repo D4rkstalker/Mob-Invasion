@@ -7,7 +7,6 @@ scp:goo_wyvern
 scp:gunk_wyvern
 scp:ooze_drake
 scp:slimy_belly
-scp:dragon_egg
 scp:scp966
 scp:plague_doctor
 scp:black_shuck
@@ -23,9 +22,6 @@ scp:deviant
 scp:homunculus
 scp:pink_flamingo
 scp:shy_guy
-scp:rat
-scp:mouse
-scp:vermin_god
 scp:allosaurus
 scp:pterodactyl
 scp:absent_shark

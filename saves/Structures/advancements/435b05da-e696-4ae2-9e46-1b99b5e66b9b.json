@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "rftools:specialores": {
+    "criteria": {
+      "find_ores": "2019-03-25 17:45:18 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -740,6 +746,12 @@
   "biomesoplenty:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-03-23 15:39:02 +0800"
     },
     "done": true
   },
@@ -1395,6 +1407,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/storage_bus": {
+    "criteria": {
+      "part": "2019-03-27 11:25:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -1894,6 +1912,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2019-03-25 16:52:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -2297,6 +2321,12 @@
     },
     "done": true
   },
+  "nuclearcraft:fission/fission_controller": {
+    "criteria": {
+      "has_item": "2019-03-25 18:02:18 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/magic_stairs": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -2529,6 +2559,12 @@
   "biomesoplenty:recipes/misc/topaz": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "nuclearcraft:fusion/fusion_core": {
+    "criteria": {
+      "has_item": "2019-03-25 22:03:56 +0800"
     },
     "done": true
   },
@@ -2995,6 +3031,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_floodlight": {
+    "criteria": {
+      "place_floodlight": "2019-03-25 16:48:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -3440,6 +3482,18 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2019-03-27 11:37:33 +0800"
+    },
+    "done": true
+  },
+  "nuclearcraft:fusion/active_cooler": {
+    "criteria": {
+      "has_item": "2019-03-25 18:36:47 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
@@ -3461,6 +3515,12 @@
   "biomesoplenty:recipes/misc/coal_from_ash": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2019-03-25 16:49:25 +0800"
     },
     "done": true
   },
@@ -3503,6 +3563,12 @@
   "biomesoplenty:recipes/decorations/dead_terrarium": {
     "criteria": {
       "has_the_recipe": "2019-01-20 20:20:18 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2019-03-25 16:48:56 +0800"
     },
     "done": true
   },

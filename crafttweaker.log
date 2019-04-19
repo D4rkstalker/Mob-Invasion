@@ -46,7 +46,7 @@
 [INITIALIZATION][CLIENT][INFO] Adding Chunk of Flesh to ore dictionary entry listAllmeatraw
 [INITIALIZATION][CLIENT][INFO] Adding Bitumen to ore dictionary entry crystalCrudeOil
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 693ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 594ms
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dark Steel Armor Plating with name ct_shaped448154969
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux-Infused Chestplate Assembly with name ct_shaped510989015
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Conductive Iron Armor Plating with name ct_shaped-1364022346

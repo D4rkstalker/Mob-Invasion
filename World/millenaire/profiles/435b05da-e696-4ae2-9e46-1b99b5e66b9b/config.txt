@@ -1,0 +1,3 @@
+player_name=D4rkstalker
+donation_mode=false
+village_diplomacy=-143/68/-142,5
