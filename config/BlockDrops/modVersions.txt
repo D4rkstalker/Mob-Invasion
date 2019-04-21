@@ -1,5 +1,6 @@
 {
   "blockdrops": "1.4.0",
+  "prefab": "1.3.0.26",
   "draconicevolution": "2.3.20",
   "projecte": "1.12.2-PE1.4.0",
   "betternether": "0.1.8.2",
@@ -94,6 +95,7 @@
   "quickleafdecay": "1.2.4",
   "uncraftingtable": "1.8-beta6",
   "erosion": "2.2.1",
+  "phosphor-lighting": "1.12.2-0.2.0",
   "infernalmobs": "1.7.5",
   "smarthud": "2.0.2",
   "minecraft": "1.12.2",
@@ -140,6 +142,7 @@
   "plainsmobs": "1.20.5.2 - MC 1.12.2",
   "neid": "1.5.4.3",
   "ae2stuff": "0.7.0.4",
+  "valkyrienwarfare": "0.9_prerelease_5",
   "bookshelf": "2.3.574",
   "ironbackpacks": "1.12.2-3.0.8-12",
   "wct": "3.11.88",

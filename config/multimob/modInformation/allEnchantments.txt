@@ -40,11 +40,11 @@ openblocks:flim_flam
 randomthings:magnetic
 endercore:autosmelt
 endercore:xpboost
-enderio:shimmer
-enderio:witherarrow
-enderio:witherweapon
 enderio:soulbound
 enderio:repellent
+enderio:witherweapon
+enderio:witherarrow
+enderio:shimmer
 silentgems:lifesteal
 silentgems:magicdamage
 silentgems:gravity
