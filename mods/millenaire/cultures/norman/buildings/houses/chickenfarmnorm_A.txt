@@ -2,14 +2,13 @@
 building.length=8
 building.width=13
 building.buildingorientation=3
-building.mindistance=0.5
 building.version=2
 building.icon=egg
 
 
 //Parameters for initial construction
 initial.startlevel=-1
-initial.nativename=Ovin elevage
+initial.nativename=Elevage de volailles
 initial.priority=1000
 initial.male=shepherd
 initial.female=shepherdf

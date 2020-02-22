@@ -1,5 +1,5 @@
 //Parameters for the building as a whole
-building.length=6
+building.length=8
 building.width=11
 building.buildingorientation=3
 building.max=0

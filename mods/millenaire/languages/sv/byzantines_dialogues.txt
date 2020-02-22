@@ -29,13 +29,13 @@ v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / Det �
 v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / Detta är vårat hem nu, Det är bara att aceptera det.
 v1;120;Aftó eínai to spíti mas tóra, aftí i syzítisi me ékane na to syneiditopoiíso. / Detta är vårat hem nu, Denna konversationen fick mig att inse det.
 
-newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farmbyzantine,building:vineyardbyzantine,notbuilding:tavernbyzantine,weigth:24
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,notbuilding:taverna,weigth:24
 v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Vårat vete och druvor har vuxit bra detta år.
 v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Ja, Bönderna har rappoterat rekord skörd och har du testat vinet...
 v1;60;Den échoume tavérna gia na kánoume krasí ... / Um, vi har inget värdshus där vi kan göra vin...
 v2;120;O ..., tóte ti épaiza chthes ?!/ uh..., Vad var det jag drack igår?! uh...,
 
-newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farmbyzantine,building:vineyardbyzantine,building:tavernbyzantine,weigth:14
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,building:taverna,weigth:14
 v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Vårat vete och druvor har vuxit bra detta år.
 v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Ja, Bönderna har rappoterat rekord skörd och har du testat vinet...
 v1;60;Echo! To exairetikó romaïkó mas krasí échei kalýteri géfsi apó poté!/ Jag har! vårat fina romerska vin smakar bättre än nånsin!
@@ -43,7 +43,7 @@ v2;90;Xéro, den eínai katapliktikó? Eícha pénte olóklira boukália chthes.
 v1;120;Pénte olóklira boukália? Prépei na epivradýneis ton ánthropo! Akómi kai an eínai mia exairetikí epochí, kindynéveis na gíneis methysménos me aftó to polý krasí!/ Fem hela flaskor? Du borde ta det lungt med drickandet! Även om det är en bra säsong, så riskerar du att bli ett fyllo när du dricker så mycket vin!
 v2;150;Tha eímai kalá ótan o ponokéfalos aftós enkataleiftheí ... / Jag kommer att må bättre när min huvudvärk försvinner...
 
-newchat;key:cider,v1:adult,v2:adult,notbuilding:tavernbyzantine,weigth:2
+newchat;key:cider,v1:adult,v2:adult,notbuilding:taverna,weigth:2
 v1;0;Chreiazómaste mia tavérna gia na ftiáxoume to krasí polý sýntoma. / Vi behöver ett värdshus till att få igång vin produktionen snart.
 v2;30;Ti? Giatí? Sígoura, to krasí eínai kaló, allá éna olókliro ktírio gia to krasí? Prépei na váloume proteraiótites stis proteraiótités sas! / Vad? varför? Visst, vin är gott, men en hel byggnad bara för vin? vi måste börja få prioritera rätt!
 v1;60;Dokímasa lígo chymó Norman chtes. Ítan friktó! Pós oi ágrioi san aftó? / Jag testade norrmansk cider igår. Det var hemskt! Hur kan de där vildarna gilla det?
@@ -106,7 +106,7 @@ v2;30;Posimou mazí eínai pio diaskedastiko! / Att dricka tillsammans är rolig
 v1;50;Cheers gia to krasí! / Tackar för vinet!
 v2;70;Cheers! / Skål!
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
 v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / Jag kommer snart att vara byns ledare!, gammling!
 v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / Var inte så uppnosig, lilla pojk. annars kommer du att få en örfil!
 v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / Och jag kommer örfila dig!
@@ -304,7 +304,7 @@ v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Ja, det g�
 v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / Tacka smederna och hantverkarna, som har skapat dessa verktyg!
 v2;90;Nai! Gi 'afto mou arései na Romaïkí. / Ja! Det är deför jag gillar att vara romare.
 
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
 v1;0;Eímai ziliáris afton ton plousíon. / Jag är avensjuk på de rika människorna.
 v1;20;Échoun tétoia oraía roúcha apo metáxi! / De har så fina siden kläder!
 v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / Det är verkligen inte rättvist. De gör inget och får de bästa sakerna.
@@ -326,13 +326,13 @@ v2;110;Ego na mantépsete akrivos san stratiotes. / Jag antar du gillar soldater
 v2;140;Allá échete énan ántra! / Men du har en man!
 v1;170;Allá énas tempélis kai sychná methysménos éna! / Ja men en lat och ofta full en!
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
 v1;0;Xérete tin omorfiá sto geitoniko chorio? / Känner du till den vackra i grannbyn?
 v2;30;Fysiká, eínai polý charitoméno. / Naturligtvis, Hon är verkligen vacker.
 v1;60;Ti tha gínei me tin epískepsi tis? / Vad sägs om att besöka henne?
 v2;90;Xérete oti i gynaíka sas tha trelatho tote! / Du vet att din fru skulle bli galen!
 
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
 v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / Hantverkarens fru är vacker, vad tycker du?
 v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Ja, Hon är inte ful. Tyvärr så är hon redan gift!
 v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Visst, ja. Det skulle inte vara rättvist mot honom.
@@ -361,7 +361,7 @@ v1;120;Err, eícha. Échei kápos chatheí! / Ehh, jag hade. Det har på någotv
 v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / VA? du hade sådana verktyg och tappart bort det?
 v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / JA... Nu är de bara ett minne...
 
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
 v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Boom! Jag testade den nya spikklubban!
 v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Ja! Det är ett häftigt vapen! Som får fienden att stöta bort fienden en bit!
 v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Imponerande, eh? Detta romerska mästerverk kan inte bli jämfört med något i denna värld.
@@ -466,31 +466,31 @@ v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai
 v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / Va inte så ohövlig! Det var faktiskt du som startade konflikten.
 v2;110;Tha ítan methysménos! / Du var full!
 
-newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, min son, Jag har inte sett dig be idag!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / Far $targetlastname, Det har jag gjort lovar.
 
-newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, min dotter, Jag har inte sett dig be idag!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / Far $targetlastname, Det har jag gjort lovar.
 
 //Orange's Changes: Needs Translation, I used google translate
 
-newchat;key:religious3,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious3,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / $targetfirstname, min dotter, har du frid i ditt sinne?
 v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Fader $targetlastname, Jag har ingen frid sedan jag anlände här det känns som något är annorlunda.
 v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Mitt barn, många av oss känner som att det är något annorlunda här.
 v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Men vad kan jag göra? Mitt liv kommer alltid att vara annorlunda här.
 v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Allt vi kan göra är att be för att gud har alltid en plan för oss.
 
-newchat;key:religious4,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:religious4,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / $targetfirstname, min son, har du frid i ditt sinne?
 v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Fader $targetlastname, Jag har ingen frid sedan jag anlände här det känns som något är annorlunda.
 v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Mitt barn, många av oss känner som att det är något annorlunda här.
 v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Men vad kan jag göra? Mitt liv kommer alltid att vara annorlunda här.
 v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Allt vi kan göra är att be för att gud har alltid en plan för oss.
 
-newchat;key:ticlon,v1:notvtype:pastor_byzantine-patriarch_byzantine,v2:vtype:pastor_byzantine-patriarch_byzantine,weigth:1
+newchat;key:ticlon,v1:notvtype:pastor_byzantine-metropolit_byzantine,v2:vtype:pastor_byzantine-metropolit_byzantine,weigth:1
 v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ Far $targetlastname, när jag bad så såg jag märkliga symboler.
 v2;30;Paidí, ti sou édeixe o Theós?/ Mitt barn vad visade gud dig?
 v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / Fader, symbolerna var "Ticlon". vet du vad det betyder? 
@@ -506,7 +506,7 @@ v1;120;Échoume akóma tous Normandoús na antimetopísoun. / Vi har fortfarande
 v2;150;Loipón, eímaste Romaíoi! Boroúme éfkola na nikísoume tétoious epidromeís, sti Rómi! / Nåja, vi är romare! Vi kan lätt besegra dessa anfallare, Till Rom!
 v1;165;Sti Rómi! / Till Rom!
 
-newchat;key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weigth:15
+newchat;key:noBakery,building:farm,notbuilding:windmill,v1:adult,v2:adult,weigth:15
 v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / Ah, vem vill inte ha färskt, gott bröd direkt från gården?
 v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / Du vet väll att vi behöver ett bageri för att kunna få vete till bröd?
 v1;60;Prépei na me gelás. Tóra tha petháno. / Du måste skämta, Nu kommer jag att svälta.
@@ -556,7 +556,7 @@ v1;180;Óloi moirástikan ta pánta exísou. Ékane polý dýskoli ti diapragmá
 v2;210;Kakí émporos. Touláchiston eínai píso sti Romaïkí Aftokratoría, makriá apó aftoús tous várvarous. / Stakars köpman. Han är åtminstonde tilbaka i det romerska riket, långt ifrån de barbarerna. 
 v1;240;I Romaïkí Aftokratoría eínai i kalýteri gi gia empório! / Det romerska riket är det bästa landet att köpslå i!
 
-newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:tavernbyzantine,weigth:20
+newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:taverna,weigth:20
 v1;0;Geiá sou! Den faínetai na eíste polý efcharistiménoi símera / Hej! du verkar inte alltför glad i dag.
 v2;30;Nai, den ypárchei tavérna gia na pioúme. / Ja, det är inget värdshus för oss att dricka i.
 v1;60;Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / Jag önskar det fanns ett värdshus. Då kunde vi dricka romerskt vin.

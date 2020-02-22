@@ -1,6 +1,11 @@
 {
   "name": "remobra",
-  "class": "com.lycanitesmobs.swampmobs.entity.EntityRemobra",
+  "creatureType": "dragon",
+  "groups": [
+    "opportunist"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRemobra",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelRemobra",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,10 +45,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#440066",
   "eggForeColor": "#DD00FF",
@@ -60,10 +65,16 @@
     }
   ],
   "element": "poison",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 0,
   "drops": [
@@ -74,7 +85,13 @@
       "chance": 0.5
     },
     {
-      "item": "swampmobs:poisongland",
+      "item": "lycanitesmobs:venomshotcharge",
+      "minAmount": 1,
+      "maxAmount": 3,
+      "chance": 1
+    },
+    {
+      "item": "lycanitesmobs:poisongland",
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 1

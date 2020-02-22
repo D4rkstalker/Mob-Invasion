@@ -1,7 +1,8 @@
+
+
 newchat;key:rain,tag:notraining,weigth:10
 v1;0;Je sens qu'il va pleuvoir. / Я чувствую, что будет дождь.
 v2;30;Il pleut toujours en Normandie. / Он всегда в Нормандии...
-
 
 newchat;key:beautifulvillage,weigth:10
 v1;0;Il est beau notre village, tu ne trouve pas? / Наша деревня красивая, тебе не кажется?
@@ -22,8 +23,6 @@ v2;30;Il paraît qu'ils sont très bizarres. / Люди говорят, что �
 v1;60;J'ai même entendu dire que leur nourriture brûle! / Вероятно их еда обжигает!
 v2;100;Comme du calva? / Как кальва?
 v1;120;Non, pire! / Нет, хуже!
-
-
 
 newchat;key:byzantines,v1:adult,v2:adult,weigth:5
 v1;0;Ces byzantins m'énervent! / Византийцы действуют мне на нервы!
@@ -79,7 +78,6 @@ v2;30;Il y a des vaches, des moutons et des cochons. / Есть коровы, о
 v2;60;Que faudrait-il de plus? / Что еще нужно?
 v1;60;Des chevaux? Et des poneys! / Лошади? И пони!
 v2;90;Parce que tu veux un poney, maintenant? / Потому что сейчас ты хочешь пони?
-
 
 newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
 v1;0;Les tripes, ça c'est un plat d'homme. / Рубец, теперь это блюдо мужчины.
@@ -148,11 +146,10 @@ v1;140;Peur? Elle? Quelle blague! / Испугался? Её? Ты шутишь!
 v2;160;Ha! / Ха!
 
 newchat;key:frerejacques,v1:child,v2:child,weigth:10
-v1;0;Frère Jacques, frère Jacques / Брат Джон, брат Джон
-v2;30;Dormez-vous? Dormez-vous? / Ты спишь, ты спишь?
-v1;60;Sonnez les matines! Sonnez les matines! / Звонить в колокола утром! Звонить в колокола утром!
+v1;0;Frère Jacques, frère Jacques / Братец Якоб, братец Якоб!
+v2;30;Dormez-vous? Dormez-vous? / Ты не спишь? Ты не спишь?
+v1;60;Sonnez les matines! Sonnez les matines! / Слышишь колокольный звон? Слышишь колокольный звон?
 v2;100;Ding, daing, dong. Ding, daing, dong! / Дин, дин, дон. Дин, дин, дон!
-
 
 newchat;key:alouette,v1:child,v2:child,weigth:10
 v1;0;Alouette, gentille alouette, / Маленький жаворонок, прекрасный маленький жаворонок,
@@ -165,7 +162,6 @@ v1;90;Et la tête! Et la tête! / С твоей головы!
 v2;90;Et la tête! Et la tête! / С твоей головы!
 v1;120;Pauvre alouette quand même... / Плохой жаворонок...
 v2;160;Pourquoi? C'est drôle! / Почему? Это весело!
-
 
 newchat;key:loupyesttu,v1:child,v2:child,weigth:10
 v1;0;Promenons-nous dans les bois, / Давайте ходить в лес,
@@ -183,11 +179,10 @@ v2;150;Il nous mangera pas... / Он не будет есть нас...
 v2;180;Euh, tu es sûr? / Эм, ты уверен?
 v1;200;Lâche! / Трус!
 
-
 newchat;key:dagobert,v1:child,v2:child,weigth:10
 v1;0;Le bon roi Dagobert / Добрый король Дагоберт
 v1;30;A mis sa culotte à l'envers / Были у него штаны наизнанку.
-v1;60;Le grand saint Éloi / Великий святой Елоу
+v1;60;Le grand saint Éloi / Великий святой Элигий
 v1;90;Lui dit : Ô mon roi ! / Сказал ему : О мой король!
 v1;120;Votre Majesté / Ваше Величество
 v1;150;Est mal culottée. / Плохие штаны.
@@ -203,7 +198,6 @@ v2;40;Mais mon Père, je n'ai pas péché! / Но отец, я не грешил
 v1;70;Tout le monde pèche dans ce bas monde. / Все грешат в этом падшем мире.
 v2;110;Même vous, mon père? / Даже вы, святой отец?
 v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / Какая наглость! Вы должны сказать десять Отче Наш в покаянии!
-
 
 newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
 v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / Моя дочь, ты давно не исповедовалась.
@@ -235,10 +229,9 @@ newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
 v1;0;Quand j'étais jeune, j'étais un apprenti très prometteur. / Когда я был молодым, я был очень перспективным учеником.
 v1;40;Guillaume Vif-Argent lui-même s'intéressait à moi! / Сам Гийом Виф-Аргент был заинтересован во мне!
 v1;80;Et maintenant je suis coincé ici. / А теперь я застрял здесь.
-v1;110;A m'occuper d'abrutis. / Уход за идиотами.
+v1;110;A m'occuper d'abrutis. / А я вожусь с идиотами.
 v2;130;Hein, quoi? / Эм, что?
 v1;150;*soupir* / *взгляд*
-
 
 newchat;key:knight,v1:vtype:knight,weigth:10
 v1;0;Regarde mon château! Une vraie forteresse! / Посмотрите на мой замок! Реальная крепость!
@@ -313,13 +306,11 @@ v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / Истин
 v2;40;Et donc leurs forgerons? / И, следовательно, в их кузнецах?
 v1;60;Voilà! / В самом деле!
 
-
 newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
 v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Почему всегда одна женщина в здание?
 v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / Если это беспокоит тебя, я буду заботиться о следующем.
 v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Действительно? Это так мило! Таким образом, в отношении, шторы не забудьте...
 v2;120;En fait non, je vais te laisser faire. / На самом деле нет, я думаю, что я позволю тебе сделать это.
-
 
 newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
 v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / Я шел вчера перед передней частью мастерской алхимика.
@@ -346,19 +337,24 @@ v1;0;Notre église est vraiment superbe. / Наша церковь действ�
 v2;30;Elle montre que nous sommes un village pieux. / Это показывает, что мы благочестливая деревня.
 v1;60;Et elle est plus grande que celle du village voisin! / И она больше, чем в деревне по соседству!
 
-
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Теперь у нас есть гостиница, мы можем торговать!
 v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / Иными словами, торговцы, проходя мимо помогут сами нашим ресурсам.
 v1;80;Tu as toujours été cynique. / Ты всегда был циничным.
-
 
 newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;J'adore le marché! Tellement de marchandises superbes! / Я люблю рынок! Так много прекрасных товаров!
 v2;40;On se sent moins isolé maintenant. / Мы чувствуем себя менее изолированными теперь, когда он есть.
 v2;80;Mais pas plus riches... / Но не богаче...
 
-
 newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
 v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / Таверна, безусловно, лучшее, что мы строим в деревне.
 v2;40;Personne ici ne dira le contraire! / Здесь никто не будет оспаривать это!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / Хахаха! Мы непобедимы. Наши впечатляющие корабли и доблестные рыцари вселяют страх!
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / И кто же наши враги? Кучка римских обманщиков и любители камней?
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / Не забудьте о снежных дураках, у которых даже нет концепции денег!
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / Хахаха! Нормандская жизнь - лучшая во всём мире! Прекрасный сидр, лучшие инструменты. Ах, это наша золотая эра.
+v1;160;Et nous arrivons à le partager! / И нам есть что показать!
+v2;200;Hahaha! / Хахаха!

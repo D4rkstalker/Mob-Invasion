@@ -1,6 +1,11 @@
 {
   "name": "aglebemu",
-  "class": "com.lycanitesmobs.swampmobs.entity.EntityAglebemu",
+  "creatureType": "aquatic",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAglebemu",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelAglebemu",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,10 +47,10 @@
   "damage": 2,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 10,
-  "amplifier": 1,
+  "effectDuration": 10,
+  "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#047f0a",
   "eggForeColor": "#c3a85b",
@@ -62,10 +67,16 @@
     }
   ],
   "element": "poison",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 1,
   "drops": [
@@ -76,7 +87,7 @@
       "chance": 0.5
     },
     {
-      "item": "swampmobs:poisongland",
+      "item": "lycanitesmobs:poisongland",
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 1

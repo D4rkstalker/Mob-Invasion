@@ -62,7 +62,7 @@ v2;30;Posimou mazi einai pio diaskedastiko! / 一緒に飲めばもっと美味�
 v1;50;Cheers gia to krasi! / ありがとう、さぁ乾杯だ! 
 v2;70;Cheers! / 乾杯! 
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
 v1;0;Tha eimai o archigos tou choriou argotera, oldie! / 僕は未来の村長だ。じじい! 
 v2;30;Min eisai toso thrasys, agoraki. I tha parei ena chastouki! / 生意気を言うもんじゃない、ちっさいの。それとも平手打ちを食らいたいのか! 
 v1;60;Kai ego tha sas parei sti synecheia chastoukise! / やりかえしてやるからね! 
@@ -260,7 +260,7 @@ v2;30;Nai, kanei to mageirema toso efkolo! Einai diaskedastiko! / ほんとね�
 v1;60;Efcharisto pigainei stous Smiths kai technites, oi opoioi skeftei tetoia pragmata! / この技術を考えた、鍛冶屋さんと職人さんに感謝ね!
 v2;90;Nai! Gi 'afto mou aresei na Romaiki. / 確かに! これだからローマ人は好きなのよね。
 
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
 v1;0;Eimai ziliaris afton ton plousion. / お金持ちはうらやましいわね。
 v1;20;Echoun tetoia oraia roucha apo metaxi! / 上等の絹の服を着てるし!
 v2;50;Afto den einai pragmatika dikaios. Den kanoun tipota kai na parete ta kalytera pragmata pou outos i allos. / ほんと不公平よ。何もしないくせにいい物ばかり持ってるんだから。
@@ -282,13 +282,13 @@ v2;110;Ego na mantepsete akrivos san stratiotes. / あなたは戦士が好き�
 v2;140;Alla echete enan antra! / でも旦那さんがいるでしょ!
 v1;170;Alla enas tempelis kai sychna methysmenos ena! / 怠け者でよく酔っぱらってるのが一人ね!
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
 v1;0;Xerete tin omorfia sto geitoniko chorio? / 近くの村の美女をしってるか?
 v2;30;Fysika, einai poly charitomeno. / もちろんさ、彼女すっごいかわいいよな!
 v1;60;Ti tha ginei me tin episkepsi tis? / 会いに行ってみないか?
 v2;90;Xerete oti i gynaika sas tha trelatho tote! / そんなことしたらお前の嫁さんの雷が落ちるの知ってるだろ?
 
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
 v1;0;Syzygos tou techniti einai poly omorfos, ti nomizete? / 建築家の奥さんって美しいと思わないか?
 v2;40;Nai, den einai kako. Dystychos afti einai idi pantremeni! / ああ、きれいだよな。でも悲しいかな結婚してるけども。
 v1;70;Kala nai. Kai den tha itan dikaii gia afton. / ほんとにな。不公平だよまったく。
@@ -317,7 +317,7 @@ v1;120;Err, eicha. Echei kapos chathei! / あぁ、以前はな。どこをど�
 v2;140;TI? Eiches ena tetoio ergaleio kai na to chasei? / 何だって?そんな道具を持ってて無くしただって? 
 v1;170;Nai ... Tora yparchoun mono anamniseis aristera ... / あぁ... 今じゃ思い出しかないがね...
 
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
 v1;0;Boom! Imoun molis einai se thesi na elenxei exo ti nea ropalo! / どうだ! 今ちょうどこの新しいメイスが仕上がったんだ!
 v2;30;Nai! Prokeitai gia ena fovero oplo! Einai chtypa tous echthrous makria! / おぉ! これは素晴らしいな! 敵はふっ飛んじまうな!
 v1;60;Entyposiako, e? Afto to aristourgima Romaiki den borei na synkrithei me otidipote allo se afto ton kosmo. / すごいだろ、な? このローマの傑作は他じゃお目にかかれやしないぞ。
@@ -422,10 +422,10 @@ v1;60;Kai tora to onoma sas einai $targetlastname. $targetlastname! Akougetai to
 v2;90;Hey! Min simainei etsi! Itan eseis pou xekinise i synkrousi. / ちょっと! そんなに意地悪を言わないでちょうだい! 敵視しだしたのはあなたのほうよ。
 v2;110;Tha itan methysmenos! / 姉さんは酔ってただろ!
 
-newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, o gios mou, ego den eida na prosefchetai simera! / $targetfirstnameや、今日はお前がお祈りしたのを見てないな!
 v2;30;Pateras $targetlastname, ego sigoura ekane. / $targetlastname父さん、もちろんしたさ。
 
-newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kori mou, ego den eida na prosefchetai simera! / $targetfirstnameや、今日はお前がお祈りしたのを見てないな!
 v2;30;Pateras $targetlastname, ego sigoura ekane. / $targetlastname父さん、もちろんしたわよ。

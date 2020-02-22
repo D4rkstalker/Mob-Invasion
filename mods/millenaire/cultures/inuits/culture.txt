@@ -3,6 +3,8 @@ knownHuntingDrop=seafood_raw
 knownHuntingDrop=wolfmeat_raw
 icon=wolfmeat_raw
 
+cultureBanner={BlockEntityTag:{Base:3,Patterns:[{Pattern:inu,Color:15}]}}
+
 travelBookVillagerCategory=villager
 travelBookVillagerCategory=lonevillager
 travelBookVillagerCategory=visitor

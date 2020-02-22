@@ -1,6 +1,11 @@
 {
   "name": "vespid",
-  "class": "com.lycanitesmobs.junglemobs.entity.EntityVespid",
+  "creatureType": "arthropod",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVespid",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelVespid",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,10 +45,10 @@
   "damage": 1,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#112200",
   "eggForeColor": "#998800",
@@ -60,6 +65,11 @@
     }
   ],
   "element": "arbour",
+  "diets": [
+    "carnivore",
+    "insectivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -74,18 +84,24 @@
       "chance": 1
     },
     {
-      "item": "junglemobs:propolis",
+      "item": "lycanitesmobs:propolis",
       "minAmount": 1,
       "maxAmount": 4,
       "chance": 0.5
     },
     {
-      "item": "junglemobs:veswax",
+      "item": "lycanitesmobs:veswax",
       "minAmount": 1,
       "maxAmount": 4,
       "chance": 0.5
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "hiveBuilding",
+      "value": true
+    }
+  ]
 }

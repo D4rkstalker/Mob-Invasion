@@ -12,6 +12,7 @@ initial.nativename=Wayib
 initial.priority=750
 initial.pathlevel=1
 initial.tag=pathnode
+initial.tag=leasure
 
 //Parameters for specific upgrades
 upgrade1.priority=70

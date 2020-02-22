@@ -1,9 +1,9 @@
 //Parameters for the building as a whole
-building.length=5
-building.width=11
+building.length=10
+building.width=10
 building.buildingorientation=3
 building.icon=iron
-
+building.version=2
 
 //Parameters for initial construction
 initial.startlevel=-1

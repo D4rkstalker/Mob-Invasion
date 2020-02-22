@@ -27,6 +27,8 @@ biome=Forested Hills
 biome=Autumnal Wooded Hills
 biome= Birch Forested Hills
 
+outerwallType=borderposts
+
 //starting buildings=
 centre=japanesefarmbig
 start=japaneselmh
@@ -70,3 +72,9 @@ never=japanesefort
 never=japanesepagoda
 never=japanesearmyforge
 never=bath
+
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:jaa,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:jaa,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:jaa,Color:15}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:jaa,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:jaa,Color:15}]}}

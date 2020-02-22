@@ -61,7 +61,7 @@ v2; 30; Posimou mazí eínai pio diaskedastiko! / Пити разом весел
 v1; 50; Cheers gia to krasí! / Ваше здоров'я!
 v2; 70; Cheers! / Ваше здоров'я!
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
 v1; 0; Tha eímai o archigos tou chorioú argotera, oldie! / Я стану главою села, дідок!
 v2; 30; Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / Не будь таким нахабним, хлопчик. Або отримаєш ляпаса!
 v1; 60; Kai ego tha sas párei sti synécheia chastoúkise! / Тоді і я дам тобі ляпас!
@@ -259,7 +259,7 @@ v2; 30; Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Так, 
 v1; 60; Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / Дякую ковалям і ремісникам, хто придумав такі речі!
 v2; 90; Nai! Gi 'afto mou arései na Romaïkí. / Так! Ось чому я люблю бути Візантійкой.
 
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
 v1; 0; Eímai ziliáris afton ton plousíon. / Я заздрю багатим людям.
 v1; 20; Échoun tétoia oraía roúcha apo metáxi! / У них є така красива шовкова одяг!
 v2; 50; Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / Це дійсно несправедливо. Вони нічого не роблять і отримують кращі речі в будь-якому випадку.
@@ -281,13 +281,13 @@ v2; 110; Ego na mantépsete akrivos san stratiotes. / Я думаю ти так�
 v2; 140; Allá échete énan ántra! / Але у тебе є чоловік!
 v1; 170; Allá énas tempélis kai sychná methysménos éna! / Але він ледачий і часто п'є!
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
 v1; 0; Xérete tin omorfiá sto geitoniko chorio? / Чи знаєш ти, що за краса в сусідньому селі?
 v2; 30; Fysiká, eínai polý charitoméno. / Звичайно, вона дуже мила.
 v1; 60; Ti tha gínei me tin epískepsi tis? / Як щодо відвідати її?
 v2; 90; Xérete oti i gynaíka sas tha trelatho tote! / Ти знаєш, що тоді твоя дружина буде сходити з розуму!
 
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
 v1; 0; Sýzygos tou techníti eínai polý omorfos, ti nomízete? / Дружина ремісника дуже красива, що думаєш?
 v2; 40; Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Так, вона не погана. На жаль, вона вже заміжня!
 v1; 70; Kalá nai. Kai den tha ítan díkaii gia afton. / Ну да. І це було б несправедливо по відношенню до нього.
@@ -316,7 +316,7 @@ v1; 120; Err, eícha. Échei kápos chatheí! / Ем, У мене були. Во
 v2; 140; TI? Eíches éna tétoio ergaleío kai na to chásei? / ЩО? У тебе був такий інструмент і ти його втратив?
 v1; 170; Nai ... Tora ypárchoun mono anamníseis aristerá ... / Так ... Зараз вони просто спогади ...
 
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
 v1; 0; Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Бум! Я тільки перевірив перевірив нову булаву!
 v2; 30; Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Так! Це грізна зброя! Воно відкидає ворогів далеко!
 v1; 60; Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Вражає, чи не так? Цей римський шедевр не може зрівнятися ні з чим іншим у цьому світі.
@@ -421,10 +421,10 @@ v1; 60; Kai tora to onomá sas eínai $ targetlastname. $ Targetlastname! Akoúg
 v2; 90; Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / Гей! Не будь таким! Це був ти, хто почав конфлікт.
 v2; 110; Tha ítan methysménos! / Ти п'яна!
 
-newchat; key: religious1, v1: vtype: patriarch_byzantine-pastor_byzantine, v2: male, weigth: 10
+newchat; key: religious1, v1: vtype: metropolit_byzantine-pastor_byzantine, v2: male, weigth: 10
 v1; 0; $ targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $ Targetfirstname, мій син, я не бачив як ти молилася сьогодні!
 v2; 30; Patéras $ targetlastname, ego sígoura ékane. / Батько $ targetlastname, Я молився.
 
-newchat; key: religious2, v1: vtype: patriarch_byzantine-pastor_byzantine, v2: female, weigth: 10
+newchat; key: religious2, v1: vtype: metropolit_byzantine-pastor_byzantine, v2: female, weigth: 10
 v1; 0; $ targetfirstname, kori mou, ego den eída na proséfchetai símera! / $ Targetfirstname, моя дочка, я не бачив як ти молилася сьогодні!
 v2; 30; Patéras $ targetlastname, ego sígoura ékane. / Батько $ targetlastname, Я молилася.

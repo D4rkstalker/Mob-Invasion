@@ -14,7 +14,7 @@
   "triggers": [
     {
       "type": "mix",
-      "chance": 0.05
+      "chance": 0.1
     }
   ],
   "locations": [
@@ -35,7 +35,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:xaphan",
+      "mobId": "lycanitesmobs:xaphan",
       "weight": 8
     }
   ]

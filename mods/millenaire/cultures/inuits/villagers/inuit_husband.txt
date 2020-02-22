@@ -78,6 +78,7 @@ goal=bringBackResourcesHome
 toolneededclass=armour
 toolneededclass=toolssword
 toolneededclass=rangedweapons
+toolneededclass=shovels
 
 baseAttackStrength=7
 tag=helpInAttacks

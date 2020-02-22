@@ -1,3 +1,6 @@
+//* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+//* First half of the line (till the /) is in the villagers' language and must be kept as-is, second part should be translated
+
 newchat;key:rain,tag:notraining,weigth:10
 v1;0;kisu qanniqtuq? / Is it snowing?
 v2;30;aamai qiuvit?? / It looks like snow, but doesn't seem to be cold.

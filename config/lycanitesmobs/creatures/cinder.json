@@ -1,6 +1,11 @@
 {
   "name": "cinder",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityCinder",
+  "creatureType": "elemental",
+  "groups": [
+    "inferno"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCinder",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelCinder",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,10 +37,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#FF9900",
   "eggForeColor": "#FFFF00",
@@ -72,10 +77,10 @@
       "chance": 0.1
     },
     {
-      "item": "elementalmobs:embercharge",
+      "item": "lycanitesmobs:embercharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

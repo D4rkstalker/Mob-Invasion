@@ -1,6 +1,11 @@
 {
   "name": "clink",
-  "class": "com.lycanitesmobs.desertmobs.entity.EntityClink",
+  "creatureType": "imp",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityClink",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelClink",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -20,7 +25,8 @@
       "sandy",
       "wasteland",
       "mesa",
-      "-cold"
+      "-cold",
+      "-snowy"
     ],
     "spawnWeight": 6,
     "dungeonWeight": 200,
@@ -43,10 +49,10 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.5,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#FFAAAA",
   "eggForeColor": "#999999",
@@ -62,7 +68,11 @@
       "type": "uncommon"
     }
   ],
-  "element": "crystal",
+  "element": "gravity",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
@@ -77,7 +87,7 @@
       "chance": 0.5
     },
     {
-      "item": "desertmobs:throwingscythe",
+      "item": "lycanitesmobs:throwingscythecharge",
       "minAmount": 2,
       "maxAmount": 7,
       "chance": 1

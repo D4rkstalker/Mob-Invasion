@@ -2,8 +2,8 @@
 building.length=10
 building.width=10
 building.buildingorientation=3
-building.icon=indianstatue
-
+building.icon=ochre_sandstone_carved
+building.version=2
 
 //Parameters for initial construction
 initial.startlevel=-1

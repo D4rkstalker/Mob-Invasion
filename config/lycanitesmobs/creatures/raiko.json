@@ -1,6 +1,11 @@
 {
   "name": "raiko",
-  "class": "com.lycanitesmobs.saltwatermobs.entity.EntityRaiko",
+  "creatureType": "avian",
+  "groups": [
+    "opportunist"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRaiko",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelRaiko",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -39,8 +44,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0,
@@ -59,6 +64,11 @@
     }
   ],
   "element": "earth",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

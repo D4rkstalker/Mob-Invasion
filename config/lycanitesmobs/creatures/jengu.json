@@ -1,6 +1,11 @@
 {
   "name": "jengu",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityJengu",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJengu",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelJengu",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -34,17 +39,17 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#000099",
   "eggForeColor": "#4444FF",
   "subspecies": [
     {
       "index": 1,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     },
     {
@@ -62,10 +67,10 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "elementalmobs:aquapulsecharge",
+      "item": "lycanitesmobs:aquapulsecharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

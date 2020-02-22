@@ -40,8 +40,6 @@ tconstruct:momentum
 tconstruct:dot
 tconstruct:splinter
 conarm:superhotpotion
-silentgems:freezing
-silentgems:shocking
 quark:curse
 quark:danger_sight
 dungeonmobs:potionaddle
@@ -89,14 +87,6 @@ lycanitesmobs:smouldering
 lycanitesmobs:rejuvenation
 lycanitesmobs:fear
 lycanitesmobs:swiftswimming
-scp:black_shuck_curse
-scp:sleep_deprivation
-scp:aggression
-scp:anxiety
-scp:guilt
-scp:paranoia
-scp:long_damage
-scp:hydrophobia
 hungeroverhaul:wellfed
 extrautils2:effect.xu2.doom
 extrautils2:effect.xu2.gravity

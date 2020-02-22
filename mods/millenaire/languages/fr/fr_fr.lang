@@ -153,6 +153,8 @@ tile.millenaire.japanese_stone_tiles.name=Tuiles japonaises mixes
 tile.millenaire.byzantine_tiles.name=Tuiles byzantines
 tile.millenaire.byzantine_tiles_slab.name=Dalle de tuiles byzantines
 tile.millenaire.byzantine_stone_tiles.name=Tuiles byzantines mixes
+tile.millenaire.byzantine_mosaic_red.name=Mosaïque byzantine rouge
+tile.millenaire.byzantine_mosaic_blue.name=Mosaïque byzantine bleue
 item.millenaire.grapes.name=Raisin
 item.millenaire.vine.name=Vigne
 item.millenaire.winefancy.name=Vin Malvasia
@@ -356,6 +358,10 @@ advancements.greathunter.desc=Apprenez auprès des inuits à manger de nouvelles
 
 advancements.friendindeed.name=Un vrai ami
 advancements.friendindeed.desc=Atteignez la réputation "ami du village" dans un village
+
+advancements.rainbow.name=She's like a rainbow
+advancements.rainbow.desc=Utilisez un seau de peinture à la chaux pour repeindre des briques indiennes
+
 
 advancements.rep_norman.name=Amis pour la vie
 advancements.rep_norman.desc=Atteignez la réputation "un des nôtres" dans un village normand

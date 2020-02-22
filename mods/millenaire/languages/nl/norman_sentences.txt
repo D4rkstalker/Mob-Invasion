@@ -1,5 +1,5 @@
 villager.greeting=Bonjour, $name! / Hallo, $name!                  
-villager.greeting=Belle journée, n'est pas? / Mooie dag nietwaar?
+villager.greeting=Belle journée, n'est ce pas? / Mooie dag nietwaar?
 villager.greeting=Il va pleuvoir, je le sens /  Het gaat regenen. Ik kan het voelen
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Ik kan mijn Normandië zo niet herinneren.
 guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Je lijkt wat angstig, $name. Ik zal je beschermen als je in de problemen komt.

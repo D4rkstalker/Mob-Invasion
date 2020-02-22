@@ -26,6 +26,8 @@ goal=makeleather
 goal=plantpotato
 goal=harvestpotato
 goal=makepotatostew
+goal=maketannedhide
+goal=makehidehanging
 
 goal=tendfurnacetownhall
 

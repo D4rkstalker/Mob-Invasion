@@ -9,18 +9,21 @@ weaponHandToHandPriority=steelsword,80
 weaponHandToHandPriority=stonesword,70
 
 weaponHandToHandPriority=normanaxe,80
+weaponHandToHandPriority=byzantineaxe,80
 weaponHandToHandPriority=diamondaxe,80
 weaponHandToHandPriority=mayanaxe,70
 weaponHandToHandPriority=steelaxe,70
 weaponHandToHandPriority=stoneaxe,60
 
 weaponHandToHandPriority=normanpickaxe,60
+weaponHandToHandPriority=byzantinepickaxe,60
 weaponHandToHandPriority=diamondpickaxe,60
 weaponHandToHandPriority=mayanpickaxe,55
 weaponHandToHandPriority=steelpickaxe,55
 weaponHandToHandPriority=stonepickaxe,50
 
 weaponHandToHandPriority=normanhoe,40
+weaponHandToHandPriority=byzantinehoe,40
 weaponHandToHandPriority=diamondhoe,40
 weaponHandToHandPriority=mayanhoe,35
 weaponHandToHandPriority=steelhoe,35
@@ -28,6 +31,7 @@ weaponHandToHandPriority=stonehoe,30
 weaponHandToHandPriority=woodhoe,20
 
 weaponHandToHandPriority=normanshovel,30
+weaponHandToHandPriority=byzantineshovel,30
 weaponHandToHandPriority=diamondshovel,30
 weaponHandToHandPriority=steelshovel,25
 weaponHandToHandPriority=mayanshovel,25
@@ -51,18 +55,21 @@ toolSwordPriority=steelsword,80
 toolSwordPriority=stonesword,70
 
 toolAxePriority=normanaxe,85
+toolAxePriority=byzantineaxe,85
 toolAxePriority=diamondaxe,80
 toolAxePriority=mayanaxe,70
 toolAxePriority=steelaxe,70
 toolAxePriority=stoneaxe,60
 
 toolPickaxePriority=normanpickaxe,65
+toolPickaxePriority=byzantinepickaxe,65
 toolPickaxePriority=diamondpickaxe,60
 toolPickaxePriority=mayanpickaxe,55
 toolPickaxePriority=steelpickaxe,55
 toolPickaxePriority=stonepickaxe,50
 
 toolHoePriority=normanhoe,45
+toolHoePriority=byzantinehoe,45
 toolHoePriority=diamondhoe,40
 toolHoePriority=mayanhoe,35
 toolHoePriority=steelhoe,35
@@ -70,6 +77,7 @@ toolHoePriority=stonehoe,30
 toolHoePriority=woodhoe,20
 
 toolShovelPriority=normanshovel,30
+toolShovelPriority=byzantineshovel,30
 toolShovelPriority=diamondshovel,30
 toolShovelPriority=steelshovel,25
 toolShovelPriority=mayanshovel,25
@@ -168,3 +176,4 @@ foodConceptionValue=cookie,1
 foodConceptionValue=bearmeat_cooked,4
 foodConceptionValue=wolfmeat_cooked,2
 foodConceptionValue=inuitbearstew,4
+foodConceptionValue=oliveoil,2

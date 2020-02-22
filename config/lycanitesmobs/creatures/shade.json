@@ -1,6 +1,11 @@
 {
   "name": "shade",
-  "class": "com.lycanitesmobs.shadowmobs.entity.EntityShade",
+  "creatureType": "aberration",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityShade",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelShade",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,10 +41,10 @@
   "damage": 3,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.5,
   "eggBackColor": "#000402",
   "eggForeColor": "#102336",
@@ -56,6 +61,11 @@
     }
   ],
   "element": "void",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

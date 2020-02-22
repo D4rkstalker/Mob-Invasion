@@ -13,3 +13,5 @@ duration=30000
 reoccurdelay=600000
 
 leasure=true
+
+sprint=false

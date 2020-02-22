@@ -6,7 +6,7 @@ Ze leven in religieuze, militaire of imperiele dorpen. Ze zijn te herkennen aan 
 <darkblue>Unieke objecten en blokken
 
 -Ze verbouwen rijst. De speler kan de leider vragen hem te leren om dat gewas te verbouwen.
--Zoals de Normandiërs kunnen ze met frames gebouwen maken.
+-Zoals de NormandiÃŽrs kunnen ze met frames gebouwen maken.
 -In handelsdorpen produceren de brouwers sake uit rijst.
 -Ze gebruiken veel thatch blokken gemaakt van graan
 -Hun ijzersmeden smeden geweldige tachi zwaarden en yumi bogen, daarnaast ook nog 3 typen effectief pantser.

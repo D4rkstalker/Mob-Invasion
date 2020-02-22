@@ -1,3 +1,4 @@
+
 startup.loadproblem=There was an error when trying to load <0>.
 startup.checkload=Check that the cultures directory is in the millenaire directory in the minecraft directory.
 startup.millenaireloaded=<0> is loaded. Explore and press '<1>' to locate villages.
@@ -7,7 +8,6 @@ startup.devmode1=Developer mode is active. This mode is designed to test Millén
 startup.devmode2=To disable it, go to millenaire-custom and remove the "devmode" line.
 startup.outdatedversion=You are using version <0> of Millénaire. Version <1> is available, with changes like <2>. You can download it on www.millenaire.org.
 startup.outdatedversiondev=You are using test version <0> of Millénaire. Test version <1> is available, with changes like <2>. You can download it on www.millenaire.org.
-
 command.nogenerate=<0> will no longer generate villages on new chunks in this world.
 command.willgenerate=<0>  will now generate villages on new chunks in this world.
 command.astarpathing=Using A* pathing
@@ -25,26 +25,16 @@ command.newvillagefound=New village located: <0> of type <1> and culture <2> is 
 command.newvillagefoundtranslated=New village located: <0> of type <1> (<5>) and culture <2> is <3> metres <4>.
 command.newlonebuildingfound=New building located: <0> is <1> metres <2>.
 command.pathrebuild=The map and the pathing of <0> have been rebuilt.
-
-
 command.renamevillage_notification=<0> renamed village <1> to <2>.
-
 command.listactivevillages_list=Village <0> is active. It knows <1> villagers (<2> in the archives). Within the last 20 ticks, it took <3> microseconds to handle buildings and <4> microseconds to handle villagers. Kept alive by: <5>.
-
 command.tp_nomatchingvillage=No matching village found.
 command.tp_multiplematchingvillages=<0> matching villages found.
-
 command.giverep_notification=<0> has given <2> reputation to <1> with village <3>.
-
 command.importculture_importingbuilding=Importing building <0>
-
 command.spawnvillage_unknownvillage=Unknown village type: <0>
-
 command.switchcontrol_notcontrolled=Village <0> is not a controlled village.
 command.switchcontrol_playernotfound=Cannot find player <0>. He needs to have joined this world at least once before you can switch a village to his control.
 command.switchcontrol_notification=<0> switched the control of village <3> from player <1> to player <2>.
-
-//Text used in various UI parts, in no specific order:
 ui.lockedchest=Locked chest
 ui.largelockedchest=Large locked chest
 ui.unlockedchest=Unlocked chest
@@ -61,8 +51,6 @@ ui.donatinggoods=Giving away
 ui.repgain=Reputation gain: <0>
 ui.trade_donation=Give away goods (no payment, large reputation boost)
 ui.trade_buying=Sell goods (payment, small reputation boost)
-
-
 ui.buybuilding=Buy <0> (<1>)
 ui.buybonusbuilding=Request bonus: <0>
 ui.sellercoming=<0>: I'll be right there, $name!
@@ -91,6 +79,7 @@ ui.clicktorequest=Click to request
 ui.scrollbought=<0>: You are now entrusted with our village's parchment!
 ui.housebought=<0>: The construction of your <1> will start shortly!
 ui.inhabitantof=Inhabitant of <0>
+ui.resources=Resources
 ui.inconstruction=In Construction
 ui.nospace=Not enough space
 ui.reservedforvillager1=Reserved
@@ -111,19 +100,22 @@ ui.goalscompleted2=goals completed
 ui.project=Project
 ui.noconstruction1=No construction
 ui.noconstruction2=in progress
-ui.xconstructions=<0> constructions IP
+ui.xconstructions=<0> in progress
 ui.planinconstruction=Bld <0>
 ui.planupgrading=Upg <0> (<1>)
-
 ui.upgrading=Upgrading (<0>)
-ui.construction=Construction <0>:
+ui.progress=Progress: <0>%
+ui.progressnopercent=In Progress
 ui.population=Population:
 ui.populationnumber=Population: <0>
+ui.borderpost_visitorswelcome=Visits welcome
+ui.borderpost_constructionforbidden=No building
 ui.adults=Adults: <0> (<1>/<2>)
 ui.teens=Youth: <0> (<1>/<2>)
 ui.children=Children: <0> (<1>/<2>)
 ui.villagemap=Village Map
 ui.nbbuildings=<0> buildings
+ui.nbwalls=<0> wall segments
 ui.wandwrongblock=This wand only works on an obsidian block for a random village or on the following blocks:
 ui.wandblocklist=<0> for a <1>
 ui.wandblocklistcontrolled=<0> for a <1> (requires leadership in this culture)
@@ -139,6 +131,7 @@ ui.buildingskey=Key buildings
 ui.buildingssecondary=Secondary buildings
 ui.buildingsextra=Extra buildings
 ui.buildingcustom=Custom buildings
+ui.buildingswall=Walls
 ui.worldnotgenerated=The area around is not fully generated. Walk around and come back.
 ui.tooclosetospawn=You are not allowed to generate a village so close to the spawn point.
 ui.generatenotenoughspace=Could not find space for the Town Hall.
@@ -166,7 +159,7 @@ ui.projectadded=The project has been added to the list
 ui.problemat=Problem at <0>: <1>
 ui.constructionforbidden=construction forbidden
 ui.locationclash=clash with an other building
-ui.outsideradius=outside village radius 
+ui.outsideradius=outside village radius
 ui.wrongelevation=outside allowed altitude
 ui.danger=dangerous block
 ui.notreachable=unreachable area
@@ -202,9 +195,7 @@ ui.villagerelationsnobutton=You must have points and a positive reputation to in
 ui.relationhelp=Relations help<ret><ret>Relations between villages determines whether those villages will cooperate or not.<ret><ret>Local trade (merchants carrying resources) will happen between villages with good relations of the same culture or excellent relations of different cultures.<ret><ret>Villages of different cultures with very good relations that both have markets will host merchants from the other culture.<ret><ret>Villages of the same culture with excellent relations will accept each others' teenagers if they have jobs available.<ret><ret>Relations between villages start at excellent for hamlets of a parent village, good for villages of the same culture, and neutral otherwise.<ret><ret>Each day, a player gets five diplomatic points with which to influence villages' relations. The effectiveness of the praise or slander depends on his reputation in that village.
 ui.relationfriendly=Recent developments between the villages of <0> and <1> have improved relations between them. They are now <2>.
 ui.relationunfriendly=Recent clashes between the villages of <0> and <1> have worsened relations between them. They are now <2>.
-
 ui.cropplantingknowledge=You do not know how to plant this crop. You need to ask a village leader.
-
 ui.cropsknown=Crops known to this culture
 ui.cropknown=You have learned how to plant <0>.
 ui.cropinsufficientreputation=Your reputation is too low for the village to teach you how to plant <0>.
@@ -212,7 +203,6 @@ ui.cropnotenoughmoney=You need <1> more to be able to afford learning how to pla
 ui.cropoktolearn=The village can teach you to plant <0>.
 ui.croplearn=Learn (<0>)
 ui.croplearned=<0>: You have been revealed the mysteries of the cultivation of <1>!
-
 ui.huntingdropsknown=Hunting techniques known to this culture
 ui.huntingdropknown=You have learned how to gather <0>.
 ui.huntingdropinsufficientreputation=Your reputation is too low for the village to teach you how to gather <0>.
@@ -222,14 +212,12 @@ ui.huntingdroplearn=Learn (<0>)
 ui.huntingdroplearned=<0>: You have been taught how to gather <1> drops!
 ui.huntingdrop.seafood_raw=seafood
 ui.huntingdrop.wolfmeat_raw=wolf meat
-
 ui.crop.rice=rice
 ui.crop.turmeric=turmeric
 ui.crop.maize=maize
 ui.crop.grapes=grapes
 ui.crop.sapling_appletree=apple trees
 ui.raider=Raider
-
 ui.communicationexplanations=To communicate with the villagers, do a right-click. If an action is possible with the villager in question (trading, discussing with the head of the village, hiring him temporarily, starting a quest) a window will open.
 ui.helpbutton=Millénaire Help
 ui.chunkbutton=Map of chunks
@@ -237,7 +225,6 @@ ui.configbutton=Settings
 ui.travelbookbutton=Travel Book
 ui.serverimportforbidden=Only admin users can import buildings on a server.
 ui.inhabitants=Inhabitants
-
 ui.controldiplomacy=Diplomacy
 ui.raidinprogress=Raid in progress!
 ui.otherraidinprogress=Other raid in progress.
@@ -248,7 +235,6 @@ ui.relgood=Excellent
 ui.relneutral=Neutral
 ui.relbad=Conflict
 ui.raid=Plan a raid
-
 ui.custombuilding_confirm=Confirm the creation of a custom building: <0>
 ui.custombuilding_cantconfirm=Impossible to create custom building: <0>
 ui.custombuilding_edit=Update the custom building: <0>
@@ -259,23 +245,22 @@ ui.custombuilding_signnumber=Note: you can specify the order in which the signs 
 ui.custombuilding_radius=Resources are identify within a radius of <0> blocks (<1> blocks vertically)
 ui.close=Close
 ui.confirm=Continue
-
 ui.paneldonations1=Donations
 ui.paneldonations2=<0> donation(s)
 ui.paneldonations3=by <0> village(s)
-
 ui.panelmarvelres1=Required
 ui.panelmarvelres2=Resources
 ui.panelmarvelrescount=<0>/<1>
-
 ui.panelmarvelprojects=Marvel Parts
 ui.panelmarvelprojectsdone=Done: <0>
 ui.panelmarvelprojectstotal=Total: <0>
-
+ui.panelwalls=Village Walls
+ui.panelwallscomplete=Complete
+ui.panelwallnowalls=This village has no walls.
+ui.panelwallslevel=Level <0>: <1>/<2>
 ui.uluexplanations=An ulu can be used for two tasks: on snow and ice blocks to carve out bricks, or with planks and coarse dirt in your inventory to create sod planks blocks.
 ui.ulunoplanks=You have no planks left in your inventory.
 ui.ulunodirt=You have no coarse dirt left in your inventory.
-
 custombuilding.chest=chest
 custombuilding.craft=crafting table
 custombuilding.sign=wall sign
@@ -291,8 +276,6 @@ custombuilding.fishing=light blue wool (will be destroyed; shows where villagers
 custombuilding.silk=white wool (will be destroyed; shows where silk worm blocks will be)
 custombuilding.squid=blue wool (will be destroyed; shows where squids will spawn; must be surrounded by water)
 custombuilding.cacao=cocoa pod
-
-
 help.tab_1=Generalities on villages
 help.tab_2=Trading
 help.tab_3=Reputation & village chief
@@ -306,8 +289,6 @@ help.tab_10=The Mayas
 help.tab_11=The Japanese
 help.tab_12=The Byzantines
 help.tab_13=FAQ
-
-
 quest.obtained=Obtained
 quest.lackingcondition=You are lacking:
 quest.lackinghiddengoods=You do not have the goods needed for this task.
@@ -322,20 +303,14 @@ quest.hours=hour(s)
 quest.noquestsvisible=No listable quests in process
 quest.questlist=Quests in progress
 quest.reputationlost=reputation lost
-
 quest.creationqueststatus=Creation Quest status
 quest.creationqueststatusshort=Creation Quest:
-
 quest.cqchaptersadhu=The Sadhu
 quest.cqsadhustartexplanation=Find a villager able to guide you in an Indian village where you have "Friend of the village" reputation for the first mission.
-
 quest.cqchapteralchemist=The Alchemist
 quest.cqalchemiststartexplanation=Find a villager able to guide you in a Norman village where you have at least "Friend of the village" as reputation.
-
 quest.cqchapterfallenking=The Fallen King
 quest.cqfallenkingstartexplanation=Find a shaman that can guide you in a Maya village where you have at least "Friend of the village" as reputation.
-
-
 quest.cqallcompleted=Congratulations, you have completed all the Creation Quest missions currently available!
 quest.cqcheckforupdates=Check www.millenaire.org for future updates with more missions.
 quest.cqchapternotstarted=You have not started the chapter "<0>".
@@ -345,17 +320,9 @@ quest.cqchapternotstartedshort=Chapter "<0>": not started.
 quest.cqchapterinprogressshort=Chapter "<0>": <1>/<2>.
 quest.cqchaptercompletedshort=Chapter "<0>": completed.
 quest.cqcheckquestlistandhelp=Press '<0>' for more information or to access the Millénaire help.
-
-
-
 error.unknownitem=Unknown Item Name
 error.backwardtime=World time has gone from <0> to <1>! Moving the time backward (using "/time set" for example) will break Millénaire.
-
-
-//Errors
-ui.updateEntity=Error in TileEntityBuilding.updateEntity(). Check millenaire.log.
-
-//Panels & parchments
+ui.updateentity=Error in TileEntityBuilding.updateEntity(). Check millenaire.log.
 panels.notextfound=No text found for this book: <0>
 panels.invalidid=Invalid village ID.
 panels.toofar=The village is too far to load its records.
@@ -393,6 +360,7 @@ panels.goodstraded=Goods traded in this village
 panels.goodsimported=Imported from other villages
 panels.goodsexported=Exported to other villages
 panels.innvisitors=Visitors to this <0>
+panels.mapwarning=Warning: building on the village's land is risky! Villagers will try and avoid destroying player constructions, but this is not foolproof. Please buy a plot of land from the village to do your own constructions.
 panels.mappurple=Purple: construction in progress.
 panels.mapblue=Blue: other buildings.
 panels.mapgreen=Green: suitable building areas.
@@ -442,129 +410,129 @@ panels.nameand=<0> and
 panels.buildingproject=Current project:
 panels.currentconstruction=Current construction:
 panels.villagesummary=Key information
-
 panels.marveldonationstitle=Donations to <0>
 panels.marveldonation=<0> gave the following: <1>
 panels.marvelresources=Resources needed for the marvel:
-
-//Goals (text displayed above the villager when he is doing it)
+panels.walls=Village Wall
+panels.wallslevel=Current Level: <0>, <1>/<2> segments completed
+panels.wallsres=Resources required for the current level:
+panels.wallssegments=Wall segments:
 goal.gorest=Resting
 goal.godrink=Off for a drink
 goal.gopray=Off to pray
-goal.GatherGoods=Gathering goods
-goal.BringBackResourcesHome=Bringing resources back
-goal.GetTool=Getting a tool
-goal.huntMonster=Fighting a creature
-goal.getGoodsHousehold=Getting goods for the household
-goal.DeliverGoodsHousehold=Delivering goods for the household
-goal.GetHouseTHResources=Taking resources from home
-goal.DeliverResourcesShop=Delivering resources
+goal.gathergoods=Gathering goods
+goal.bringbackresourceshome=Bringing resources back
+goal.gettool=Getting a tool
+goal.huntmonster=Fighting a creature
+goal.getgoodshousehold=Getting goods for the household
+goal.delivergoodshousehold=Delivering goods for the household
+goal.gethousethresources=Taking resources from home
+goal.deliverresourcesshop=Delivering resources
 goal.raidvillage=Raiding village
 goal.defendvillage=Defending the village
 goal.hide=Taking shelter
 goal.tendfurnace=Tending furnace
-
-goal.CollectCrop=Collecting crops
-goal.PlantSeeds=Planting seeds
-goal.ChopTrees=Chopping wood
-goal.PlantSaplings=Planting saplings
-goal.GetResourcesForBuild=Getting resources for a construction
-goal.MakeBread=Making bread
+goal.takefrombuilding=Picking up goods from building
+goal.collectcrop=Collecting crops
+goal.plantseeds=Planting seeds
+goal.choptrees=Chopping wood
+goal.plantsaplings=Planting saplings
+goal.getresourcesforbuild=Getting resources for a construction
+goal.makebread=Making bread
 goal.makecake=Making cake
 goal.makesugar=Making sugar
-goal.BeSeller=Selling to the player
-goal.MakeCider=Making cider
-goal.MakeCalva=Making calva
-goal.Construction=Building
-goal.GoPlay=Playing
-goal.BecomeAdult=Moving in
+goal.beseller=Selling to the player
+goal.makecider=Making cider
+goal.makecalva=Making calva
+goal.construction=Building
+goal.goplay=Playing
+goal.becomeadult=Moving in
 goal.childobserve=Observing adult
 goal.childeatgrapes=Eating grapes
 goal.childeatsugarcane=Eating sugar cane
 goal.childeatapple=Eating an apple
 goal.childeatcacaobeans=Eating cacao beans
-
 goal.makenormanaxe=Forging a Norman axe
 goal.makenormanhoe=Forging a Norman hoe
 goal.makenormanpickaxe=Forging a Norman pickaxe
 goal.makenormanshovel=Forging a Norman shovel
-
 goal.makenormanboots=Forging Norman boots
-goal.makenormanhelmet=Forging a Norman helmet 
+goal.makenormanhelmet=Forging a Norman helmet
 goal.makenormanlegs=Forging Norman leggings
 goal.makenormanplate=Forging a Norman chestplate
 goal.makenormansword=Forging a Norman sword
-
-goal.Patrol=Patrolling
-goal.Butcher=Butchering
-goal.MakeBoudin=Making boudin
-goal.MakeTripes=Making tripes
+goal.patrol=Patrolling
+goal.butcher=Butchering
+goal.makeboudin=Making boudin
+goal.maketripes=Making tripes
 goal.mineclay=Gathering clay
 goal.minegravel=Gathering gravel
 goal.minesand=Gathering sand
 goal.minesandstone=Mining sandstone
+goal.mineredsandstone=Mining red sandstone
 goal.minestone=Mining stone
 goal.minesnowbricks=Carving snow bricks
 goal.minesnowpaths=Making snow paths
 goal.mineicebricks=Carving ice bricks
-goal.Cooking=Cooking resources
-goal.MakeBooks=Making parchments
-goal.MakeTapestry=Making tapestries
-goal.VisitInn=Going to the inn
-goal.VisitBuilding=Going to a shop
-goal.MakeAmulet=Making an amulet
-goal.KeepStall=Holding a stall
-goal.MakeTimberFrame=Making timber frames
-
-goal.DryBrick=Setting bricks to dry
-goal.GatherBrick=Gathering dried bricks
-goal.CookBrick=Cooking bricks
-goal.PlantRice=Planting rice
-goal.HarvestRice=Harvesting rice
-goal.PlantTurmeric=Planting turmeric
-goal.HarvestTurmeric=Harvesting turmeric
-goal.SlaughterChicken=Slaughtering chicken
-goal.PlantSugarCane=Planting sugar cane
-goal.HarvestSugarCane=Harvesting sugar cane
-goal.MakeRasgulla=Making rasgullas
-goal.Makesteelaxe=Crafting a steel axe
-goal.Makesteelpickaxe=Crafting a steel pickaxe
-goal.Makesteelshovel=Crafting a steel shovel
-goal.Makesteelhoe=Crafting a steel hoe
-goal.Makesteelsword=Crafting a steel sword
+goal.cooking=Cooking resources
+goal.makebooks=Making parchments
+goal.maketapestry=Making tapestries
+goal.visitinn=Going to the inn
+goal.visitbuilding=Going to a shop
+goal.makeamulet=Making an amulet
+goal.keepstall=Holding a stall
+goal.maketimberframe=Making timber frames
+goal.drybrick=Setting bricks to dry
+goal.gatherbrick=Gathering dried bricks
+goal.cookbrick=Cooking bricks
+goal.plantrice=Planting rice
+goal.harvestrice=Harvesting rice
+goal.plantturmeric=Planting turmeric
+goal.harvestturmeric=Harvesting turmeric
+goal.slaughterchicken=Slaughtering chicken
+goal.plantsugarcane=Planting sugar cane
+goal.harvestsugarcane=Harvesting sugar cane
+goal.makerasgulla=Making rasgullas
+goal.makesteelaxe=Crafting a steel axe
+goal.makesteelpickaxe=Crafting a steel pickaxe
+goal.makesteelshovel=Crafting a steel shovel
+goal.makesteelhoe=Crafting a steel hoe
+goal.makesteelsword=Crafting a steel sword
 goal.makecauldron=Crafting a cauldron
-
-
 goal.makesteelchest=Crafting a steel chestplate
 goal.makesteelhelmet=Crafting a steel helmet
 goal.makesteellegs=Crafting steel leggings
 goal.makesteelboots=Crafting steel boots
-
 goal.makeindianstatue=Carving statue
 goal.performpujas=Performing a puja
 goal.bepujaperformer=Available for pujas
 goal.performsacrifices=Making a sacrifice
 goal.besacrificeperformer=Available for sacrifices
-
-goal.PlantMaize=Planting maize
-goal.HarvestMaize=Harvesting maize
-goal.makemayanGoldBlock=Making gold ornaments
+goal.makecharpoybed=Crafting a Charpoy bed
+goal.makedecoratedbricks=Painting bricks
+goal.makepaintedbucketwhite=Making whitewash
+goal.makewoodenbars=Crafting wooden bars
+goal.makewoodenbarsindian=Carving a window
+goal.makewoodenbarsrosette=Carving a window
+goal.plantmaize=Planting maize
+goal.harvestmaize=Harvesting maize
+goal.makemayangoldblock=Making gold ornaments
 goal.makemayanstatue=Carving statue
-goal.Makewoodenaxe=Crafting a wooden axe
-goal.Makewoodenpickaxe=Crafting a wooden pickaxe
-goal.Makewoodenshovel=Crafting a wooden shovel
-goal.Makewoodenhoe=Crafting a wooden hoe
-goal.Makewoodensword=Crafting a wooden sword
-goal.Makewoodenaxeinuit=Crafting a wooden axe
-goal.Makewoodenpickaxeinuit=Crafting a wooden pickaxe
-goal.Makewoodenshovelinuit=Crafting a wooden shovel
-goal.Makewoodenhoeinuit=Crafting a wooden hoe
-goal.Makewoodenswordinuit=Crafting a wooden sword
-goal.Makestoneaxe=Crafting a stone axe
-goal.Makestonepickaxe=Crafting a stone pickaxe
-goal.Makestoneshovel=Crafting a stone shovel
-goal.Makestonehoe=Crafting a stone hoe
-goal.Makestonesword=Crafting a stone sword
+goal.makewoodenaxe=Crafting a wooden axe
+goal.makewoodenpickaxe=Crafting a wooden pickaxe
+goal.makewoodenshovel=Crafting a wooden shovel
+goal.makewoodenhoe=Crafting a wooden hoe
+goal.makewoodensword=Crafting a wooden sword
+goal.makewoodenaxeinuit=Crafting a wooden axe
+goal.makewoodenpickaxeinuit=Crafting a wooden pickaxe
+goal.makewoodenshovelinuit=Crafting a wooden shovel
+goal.makewoodenhoeinuit=Crafting a wooden hoe
+goal.makewoodenswordinuit=Crafting a wooden sword
+goal.makestoneaxe=Crafting a stone axe
+goal.makestonepickaxe=Crafting a stone pickaxe
+goal.makestoneshovel=Crafting a stone shovel
+goal.makestonehoe=Crafting a stone hoe
+goal.makestonesword=Crafting a stone sword
 goal.makeleatherboots=Crafting leather boots
 goal.makeleatherchest=Crafting a leather chest
 goal.makeleatherhelmet=Crafting a leather helmet
@@ -586,7 +554,6 @@ goal.makeobsidianflake=Breaking obsidian into flakes
 goal.harvestcocoa=Picking cocoa
 goal.plantcocoa=Planting cocoa
 goal.makecacauhaa=Preparing cacauhaa
-
 goal.fish=Fishing
 goal.fishinuit=Fishing
 goal.makethatch=Making thatch
@@ -617,35 +584,31 @@ goal.makemeatstew7=Preparing meat stew
 goal.makemeatstew8=Preparing meat stew
 goal.makepotatostew=Preparing potato stew
 goal.makebone=Carving bone
-
 goal.shoveldirt=Shoveling Dirt
 goal.makecarving=Carving Statue
 goal.makeinuitcarving=Carving Statue
 goal.packsnow=Layering Snow
-goal.packOakSod=Packing Oak Sod
-goal.packSpruceSod=Packing Spruce Sod
-goal.packBirchSod=Packing Birch Sod
+goal.packoaksod=Packing Oak Sod
+goal.packsprucesod=Packing Spruce Sod
+goal.packbirchsod=Packing Birch Sod
 goal.packsodspruce=Packing Spruce Sod
 goal.packsodbirch=Packing Birch Sod
-goal.packJungleSod=Packing Jungle Sod
-goal.plantPotatoHome=Planting Potatos
-goal.plantPotato=Planting Potatos
-goal.plantWheatHome=Planting Wheat
-goal.plantWheat=Planting Wheat
-goal.cookPotato=Cooking Potato
-goal.harvestPotatoHome=Harvesting Potato
-goal.harvestPotato=Harvesting Potato
-goal.harvestWheatHome=Harvesting Wheat
-goal.harvestWheat=Harvesting Wheat
+goal.packjunglesod=Packing Jungle Sod
+goal.plantpotatohome=Planting Potatos
+goal.plantpotato=Planting Potatos
+goal.plantwheathome=Planting Wheat
+goal.plantwheat=Planting Wheat
+goal.cookpotato=Cooking Potato
+goal.harvestpotatohome=Harvesting Potato
+goal.harvestpotato=Harvesting Potato
+goal.harvestwheathome=Harvesting Wheat
+goal.harvestwheat=Harvesting Wheat
 goal.packsnowblock=Packing Snow
 goal.carveice=Carving Ice
-
-
 goal.brewpotions=Brewing potions
 goal.harvestwarts=Harvesting warts
 goal.makeglassbottles=Making glass bottles
 goal.plantwarts=Planting warts
-
 goal.plantvines=Planting vines
 goal.harvestvines=Harvesting grapes
 goal.gathersilk=Gathering silk
@@ -667,12 +630,10 @@ goal.makebyzantinechest=Crafting Byzantine chestplate
 goal.makebyzantinelegs=Crafting Byzantine leggings
 goal.makebyzantinehelmet=Crafting Byzantine helmet
 goal.makebyzantineboots=Crafting Byzantine boots
-
 goal.maketannedhide=Tanning some hide
 goal.maketannedhide2=Tanning some hide
 goal.makeleather=Preparing some leather
 goal.makehidehanging=Treating a hide hanging
-
 goal.makebow=Crafting a bow
 goal.makeinuitbow=Crafting pitiksi
 goal.makebowinuit=Crafting a bow
@@ -680,16 +641,11 @@ goal.makespear=Crafting kakivak
 goal.makerottenflesh=Making rotten flesh
 goal.makearrow=Crafting arrows
 goal.makearrowinuit=Crafting arrows
-
 goal.makewolfsteak=Preparing wolf steak
 goal.makefirepit=Making a firepit
 goal.makedirtwallinuit=Making dirt walls
-
-
 goal.sleep=Sleeping
 goal.sleep_travelling=Off to sleep
-
-
 goal.makeclothes_byz_wool=Weaving clothes
 goal.makemasa=Preparing masa
 goal.slaughterpig=Slaughtering a pig
@@ -699,39 +655,29 @@ goal.makecurry=Preparing a vegetarian curry
 goal.makeclothes_byz_silk=Weaving silk clothes
 goal.slaughtersheep=Slaughtering a sheep
 goal.slaughtercow=Slaughtering a cow
-goal.slaughtercowInuit=Slaughtering a cow
-goal.slaughtercownorman=Slaughtering a cow
 goal.breed=Breeding animals
 goal.shearsheep=Shearing a sheep
 goal.makemurgh=Preparing a chicken curry
 goal.getitemtokeep=Picking up an item
-
 goal.buildpath=Marking a path
 goal.clearoldpath=Clearing an old path
-
 goal.gosocialise=Off to chat
 goal.chat=Chatting
-
 goal.makedirtwall=Crafting dirt wall blocks
 goal.makepath=Crafting path blocks
-
 goal.makechiseledstone=Chiselling stones
 goal.makestainedglass=Making stained glass
-
 goal.makecarpet=Weaving carpet
 goal.makebonemeal=Making bone meal
 goal.collectflowers=Collecting flowers
 goal.dyewool=Dyeing wool
 goal.plantflowers=Planting flowers
 goal.makestrawbed=Making a thatch bed
-
 goal.inspectconstruction=Inspecting a construction
 goal.goonpilgrimage=On a pilgrimage
-
 goal.goholdaservice=Holding a service
 goal.goplayorgan=Playing the organ
 goal.gopreachonpulpit=Preaching
-
 goal.makethatchbed=Crafting a straw bed
 goal.makeinuitbed=Crafting bedding
 goal.maketools=Making Tools
@@ -739,11 +685,50 @@ goal.cook_potato=Cooking Potatoes
 goal.makespade=Making a Spade
 goal.makestonecauldron=Making a Cauldron
 goal.makefire_pit=Making a Fire Pit
-
 goal.plantsaplingappletree=Planting an apple tree
 goal.gatherciderapples=Gathering cider apples
+goal.makeredsandstonecarved=Carving Red Sandstone
+goal.makesandstonecarved=Carving Sandstone
+goal.makeochresandstonecarved=Carving Ochre Sandstone
+goal.mining=Mining
+goal.harvestcotton=Harvesting Cotton
+goal.plantcotton=Planting Cotton
+goal.makewoolfromcotton=Weaving Cotton
+goal.makebanner=Crafting a banner
+//Byzantine Refresh
+goal.gathersand=Gathering sand
+goal.gathergravel=Gathering gravel
+goal.gatherclay=Gathering clay
+goal.makesandstone=Making sandstone
+goal.makemosaic=Making a mosaic
+goal.polishdiorite=Polishing diorite
+goal.makequartz=Refining quartz
+goal.makebookfancy=Writing their autobiography
+goal.makeiconfancy=Crafting an icon
+goal.makeclothessilk=Weaving silk clothes
+goal.makeclotheswool=Weaving wool clothes
+goal.minediorite=Mining diorite
+goal.minestone2=Mining stone
+goal.plantfloweryellow=Planting dandelions
+goal.givespeech=Giving a speech
+goal.listentospeech=Listening to a speech
+goal.teach=Teaching
+goal.attendclass=Attending class
+goal.gardeningByz=Gardening
+goal.stealflower=Stealing a flower
+goal.gatherolives=Gathering olives
+goal.makeoliveoil=Pressing olive oil
+goal.makefresco=Painting a fresco
+goal.makebyzantineaxe=Forging a Byzantine axe
+goal.makebyzantinehoe=Forging a Byzantine hoe
+goal.makebyzantinepickaxe=Forging a Byzantine pickaxe
+goal.makebyzantineshovel=Forging a Byzantine shovel
+goal.mineiron2=Mining iron
 
-//other
+goal.makeironbyzworkshop=Crafting Iron Ingots
+goal.makeironbyz=Crafting Iron Ingots
+goal.mineiron2=Finding Iron Nuggets
+
 other.west=West
 other.east=East
 other.north=North
@@ -752,7 +737,6 @@ other.north-west=North-West
 other.south=South
 other.south-east=South-East
 other.south-west=South-West
-
 other.tothewest=to the West
 other.totheeast=to the East
 other.tothenorth=to the North
@@ -761,34 +745,23 @@ other.tothenorth-west=to the North-West
 other.tothesouth=to the South
 other.tothesouth-east=to the South-East
 other.tothesouth-west=to the South-West
-
 other.west_short=W
 other.east_short=E
 other.north_short=N
 other.south_short=S
 other.shortdistancedirection=<0>m <1>
-
 other.metre=metres
 other.kilometre=kilometres
 other.andhalf=and a half
-
 other.directionshort=<1> <0>
 other.exploredbuilding=You have explored a building: <0>.
-
 other.malevillager=Millénaire villager
 other.femalevillager=Millénaire villager
-
 other.buildinghealing=<0> is healing you.
-
-
 other.localmerchantinteract=This merchant is a local merchant. He transports goods from villages to villages. You cannot interact with him.
-
 other.chattosomeone=<0> to <1>
-
 other.villagerattackinglabel=Attacking <0>
-
 other.largebuildinggeneration=Millénaire is generating a large building: <0>. This may freeze the game for a few seconds.
-
 hire.health=Health
 hire.strength=Strength
 hire.cost=Cost (per day)
@@ -806,51 +779,35 @@ hire.hireover=The hiring of <0> has ended. He is returning to his village.
 hire.hiredied=<0> has died. He will respawn in his village, his hiring cancelled.
 hire.hiredbyotherplayer=<0> has already been hired by <1>.
 hire.hiredby=Hired by <0>
-
 actions.forest_success=You have successfully explored the forest.
 actions.forest_continue=You have completed <0>% of your exploration of the forest.
-
 actions.desert_success=You have successfully explored the desert.
 actions.desert_continue=You have completed <0>% of your exploration of the desert.
-
 actions.mountain_success=You have successfully explored the mountains.
 actions.mountain_continue=You have completed <0>% of your exploration of the mountains.
-
 actions.underwaterglass_success=You have successfully built a deep-sea observation window.
 actions.underwaterglass_notdeepenough=The sea is not deep enough at this point.
-
 actions.underwaterdive_success=You have successfully dived deep in the ocean.
-
 actions.bottomoftheworld_success=It seems you can dig no further down. This must be the root of the world!
-
 actions.topoftheworld_success=It seems you cannot rise any further. Surely this is the top of the sky.
-
 actions.borehole_nblineok=<0> bedrock blocks are successfully exposed to the sky. You need 25 in a 5x5 square.
 actions.borehole_success=You have succeeded in digging the borehole!
-
 actions.boreholetnt_success=Enough TNT has been placed. You can detonate it.
 actions.boreholetnt_nbtnt=<0> TNT blocks have been placed and covered in obsidian. You need 20 in total.
-
 actions.boreholetntlit_success=You have lit the TNT. Observe the result and report it to the Alchemist.
-
 actions.thevoid_success=You have peered into the Void!
-
 actions.enchantmenttable_success=You have built an enchantment table close to the Sadhu.
-
 actions.mayan_siege_start=The pyramid is under attack! <0> ghasts, <1> blazes and <2> skeletons are attacking. Destroy them.
 actions.mayan_siege_success=You have defeated the forces attacking the pyramid!
 actions.mayan_siege_update=<0> ghast(s), <1> blaze(s) and <2> skeleton(s) are left.
-
 actions.normanmarvel_locationset=You have set the location of the Norman marvel! Return to see the Knight to start the construction, or use the wand elsewhere to pick another location instead.
 actions.normanmarvel_villagetooclose=You cannot generate the Norman marvel within <0> metres of a village or lone building. There is one <1> metres away.
 actions.normanmarvel_generated=The construction of the Norman marvel of Notre Dame has started!
 actions.normanmarvel_notgenerated=The spot you picked could not accomodate the marvel. Please try and pick an area with more room for a large building.
-
 info.culturetitle=Cultures
 info.culture=<0> Culture
 info.culturereputation=Reputation: <0>
 info.culturelanguage=Language level: <0>
-
 culturereputation.scourgeofgod=Scourge of God
 culturereputation.dreadful=Dreadful
 culturereputation.bad=Bad
@@ -859,35 +816,27 @@ culturereputation.excellent=Excellent
 culturereputation.good=Good
 culturereputation.decent=Decent
 culturereputation.neutral=Neutral
-
 culturelanguage.fluent=Fluent
 culturelanguage.moderate=Moderate
 culturelanguage.beginner=Beginner
 culturelanguage.minimal=Minimal
-
-
 weapon.criticalstrike=Critical strike! <0>x damage!
-
 negationwand.villagelocked=The <0> is still locked. You need to kill all its adult men before you can destroy it.
 negationwand.confirmmessage=Are you sure you want to destroy the <0>? If you do, the buildings will remain, but all villagers will be permanently gone.
 negationwand.confirm=Confirm
 negationwand.cancel=Cancel
 negationwand.destroyed=The <0> has been destroyed! Its buildings are now empty shells and no villager will come back to them.
-
 relation.excellent=Excellent
 relation.verygood=Very Good
 relation.good=Good
 relation.decent=Decent
 relation.fair=Fair
-
 relation.openconflict=Open Conflict
 relation.atrocious=Atrocious
 relation.verybad=Very Bad
 relation.bad=Bad
 relation.chilly=Chilly
-
 relation.neutral=Neutral
-
 raid.planningstarted=<0> is thought to have started planning a raid on <1>.
 raid.started=<0> has started its raid on <1>! <2> fighter(s) have joined in.
 raid.raidsuccesfull=<0> has successfully raided <1>, stealing <2> goods!
@@ -897,9 +846,12 @@ raid.historysuccess=Successfully raided <0>. Bounty: <1>
 raid.historyraided=Raided by <0>. Bounty: <1>
 raid.historyfailure=A raid on <0> failed.
 raid.historydefended=Successfully defeated a raid by <0>.
-
 hof.hof=Hall of Fame
 hof.modcreator=Mod Creator
+hof.creatorofnorman1=Creator of the
+hof.creatorofnorman2=Norman culture
+hof.creatorofindian1=Creator of the
+hof.creatorofindian2=Indian culture
 hof.creatorofmayan1=Creator of the
 hof.creatorofmayan2=Maya culture
 hof.creatorofjapanese1=Creator of the
@@ -910,7 +862,18 @@ hof.creatorofinuits1=Creator of the
 hof.creatorofinuits2=Inuit culture
 hof.creatorofindianskins1=Creator of the
 hof.creatorofindianskins2=Indian skins
-
+hof.reserved1=Reserved for a
+hof.reserved2=future culture
+hof.dedication1=A celebration
+hof.dedication2=of everyone who
+hof.dedication3=contributed
+hof.dedication4=to this mod
+hof.inscription1=Modeled after
+hof.inscription2=the Panthéon
+hof.inscription3=in Paris
+hof.redesigner=Redesigner
+hof.inscription4=March 9, AD 2019
+hof.inscription5=April 17, AD 2019
 hof.skinmaker=Skin maker
 hof.buildingmaker=Building maker
 hof.wikiadmin=Wiki admin
@@ -942,11 +905,22 @@ hof.gradlebuild2=Gradle Build
 hof.112testing=Testing for 1.12
 hof.communitywork=Community Work
 hof.development=Development
-
-
+hof.securityadvice=Security Advice
+hof.normtap=Norman Tapestry
+hof.byzicon=Byzantine Icon
+hof.hindustatues=Hindu Statues
+hof.mayanstatue=Mayan Statue
+hof.inuithide1=Inuit
+hof.inuithide2=Hanging Hide
+hof.donate1=Your name
+hof.donate2=could be here
+hof.donate3=Donate today!
+hof.contribute1=Contribute to
+hof.contribute2=Millénaire
+hof.contribute3=Join our Discord
+hof.contribute4=nCXjd4s
 marvel.norman.marvelbuilt=A great Cathedral has been built by the Normans! Such a triumph of engineering had never been seen in this new world!
 marvel.norman.morningbells=The bells of <0> ring in the distance. This going to be a lucky day!
-
 pujas.invanme=Pujas
 pujas.panditfee=Pandit's fee
 pujas.offering=Offering
@@ -959,38 +933,28 @@ pujas.offeringslot=Put an offering to the Gods.
 pujas.offeringslot2=They will not accept everything. Experiment.
 pujas.moneyslot=Put money for the pandit.
 pujas.toolslot=Put the tool to be enchanted.
-
 sacrifices.priestcoming=<0>: You need to have a sacrifice performed? It is wise to appease the Gods.
 sacrifices.panditfee=For the shaman
 sacrifices.offering=Sacrifice
-
 mayan.god0=To Ah Puch - for survival
 mayan.god1=To K'inich Ajaw - for flames
 mayan.god2=To Cabrakan - for impacts
 mayan.god3=To Ah Tabai - for arrows
 mayan.god4=To Cum Hau - for vengeance
-
 mayan.god5=To Uqux Cho - for the caiman's breath
 mayan.god6=To Uqux Palo - for work under the waves
-
 mayan.god7=To Alom - for lightness
-
 mayan.god8=To Buluc Chabtan - for violence
 mayan.god9=To Ah Puch - for fighting the dead
 mayan.god10=To Cum Hau - for fighting creatures
-
 mayan.god11=To Huracan - for the strong breath
 mayan.god12=To K'inich Ajaw - for the flame
 mayan.god13=To Ek Chuah - for fortune
-
 mayan.god14=To Buluc Chabtan - for violence
 mayan.god15=To Huracan - for the strong breath
 mayan.god16=To K'inich Ajaw - for the flame
 mayan.god17=To Ek Chuah - for fortune
-
 mayan.god18=To Witz - for toughness
-
-
 export.errornoname=You must give the building plan's name on the first line.
 export.errornoendsigneast=Could not find the closure sign to the east. It must be in a straight line from the starting one within 256 blocks.
 export.errornoendsignsouth=Could not find the closure sign to the south. It must be in a straight line from the starting one within 256 blocks.
@@ -1001,7 +965,6 @@ export.defaultstartinglevel=No starting level specified, defaulting to -1.
 export.errorunknownblockid=Unknown block type: <0>
 export.buildingexported=Exported building as <0>.
 export.northfacingonly=Only buildings imported facing north can be exported.
-
 import.notonserver=Importing buildings is not possible on a server.
 import.errornoname=You must give the building plan's name on the first line.
 import.errornotfound=The building requested is not present in millenaire-custom/exports.
@@ -1014,14 +977,14 @@ import.buildinglevel=Building level: <0>
 import.errorunknownwoodtype=Unknown wood type: <0>
 import.copyingfrom=Copying building from <0> to millenaire-custom/exports/
 import.missingmockblock=Missing "Mock Block" for special type <0>. This building will not export properly. If you don't want to use mock blocks, add "nomock" to the last line of the sign.
-
 effect.towncentre=Village Centre
 effect.shop=Shop: <0>
 effect.irrigation=Irrigation: <0>% extra crops
 effect.pujalocation=Pujas held
 effect.sacrificeslocation=Sacrifices held
 effect.healing=Heals Player
-
+effect.extraconstructionslot=<0> extra construction slots
+effect.extrawallconstructionslot=<0> extra wall construction slots
 chunk.chunkmap=Map of chunks
 chunk.caption=Caption
 chunk.captiongeneral=Each chunk is displayed as a 2x2 pixels square
@@ -1035,9 +998,6 @@ chunk.explanations=Millénaire villages are only active if all their chunks are 
 chunk.chunkcoords=Chunk: <0>
 chunk.village=<0>
 chunk.chunkforced=Force-loaded
-
-
-
 config.pagetitle=Millénaire Settings
 config.page.uisettings=UI Settings
 config.page.worldgeneration=World Generation
@@ -1045,133 +1005,88 @@ config.page.worldgeneration.desc=Those settings apply to world generation in loc
 config.page.villagebehaviour=Village Behaviour
 config.page.villagebehaviour.desc=Those settings apply to villages in local worlds only (not servers you might connect to).
 config.page.devtools=Dev Tools
-
 config.village_list_key.label=Village List Key
 config.village_list_key.desc=Key to display the list of surrounding villages. Default: <0>.
-
 config.quest_list_key.label=Info Panel Key
 config.quest_list_key.desc=Key to display the Millénaire info panel. Default: <0>.
-
 config.escort_key.label=Aggressive Escorts Key
 config.escort_key.desc=Key to toggle hired villagers between aggressive and defensive stances. Default: <0>.
-
-
 config.fallback_language.label=Fallback Language
 config.fallback_language.desc=Secondary game language, used when the main one is not available.
-
 config.hd_textures.label=HD Textures
 config.hd_textures.desc=Use HD (64x64) textures (requires restarting Minecraft).
-
 config.language_learning.label=Language Learning
 config.language_learning.desc=Whether languages need to be "learned" (translations will only appear after the player interacts enough with a culture).
-
 config.travel_book_learning.label=Travel Book Learning
 config.travel_book_learning.desc=Whether villagers, buildings etc descriptions in the Travel Book are revealed only after meeting the item in question.
-
 config.load_all_languages.label=Load All Languages
 config.load_all_languages.desc=Whether to load all available languages, in order to provide translations to clients if needed.
-
 config.display_start.label=Display Starting Text
 config.display_start.desc=Display the Millénaire version and Creation Quest status at startup.
-
 config.display_names.label=Display Villager Names
 config.display_names.desc=Display names, occupations and current task above villagers' heads.
-
 config.villagers_names_distance.label=Name Display Distance
 config.villagers_names_distance.desc=Distance from which names are visible. Default: <0>.
-
 config.auto_convert_profiles.label=Current player gets controlled villages
 config.auto_convert_profiles.desc=When loading a single player world (including opened on LAN), have the single player use the current Millénaire profile and control all the world's controlled villages.
-
 config.villagers_sentence_in_chat_distance_client.label=Sentences In Chat (MP)
 config.villagers_sentence_in_chat_distance_client.desc=How far villagers must be to display their sentences in the chat box in multi player. Default: <0>.
-
 config.villagers_sentence_in_chat_distance_sp.label=Sentences In Chat (SP)
 config.villagers_sentence_in_chat_distance_sp.desc=How far villagers must be to display their sentences in the chat box in single player. Default: <0>.
-
 config.generate_villages.label=Generate villages
 config.generate_villages.desc=Whether to generate Millénaire villages in new chunks.
-
 config.generate_lone_buildings.label=Generate lone buildings
 config.generate_lone_buildings.desc=Whether to generate Millénaire lone buildings in new chunks.
-
 config.keep_active_radius.label=Chunk Loaded Radius
 config.keep_active_radius.desc=Radius around the player in which Millénaire will attempt to keep villages' chunks loaded. Default: <0>.
-
 config.min_village_distance.label=Min Village Distance
 config.min_village_distance.desc=Minimum distance between two generated villages. Default: <0>.
-
 config.min_village_lonebuilding_distance.label=Min Village-Lone Building Distance
 config.min_village_lonebuilding_distance.desc=Minimum distance between generated villages and lone buildings. Default: <0>.
-
 config.min_lonebuilding_distance.label=Min Lone Building Distance
 config.min_lonebuilding_distance.desc=Minimum distance between lone buildings. Default: <0>.
-
 config.spawn_protection_radius.label=Spawn Protection Radius
 config.spawn_protection_radius.desc=Area around the Spawn Point where Millénaire will not generate buildings. Default: <0>.
-
 config.village_spawn_completion_max_percentage.label=Max Progress on Spawn
 config.village_spawn_completion_max_percentage.desc=Maximum initial progress a village can have (in %) when generated far from the Spawn Point. Default: <0>.
-
 config.village_spawn_completion_min_distance.label=Minimum Distance for Progress
 config.village_spawn_completion_min_distance.desc=Minimum distance from the Spawn Point at which villages can start with some initial progress. Default: <0>.
-
 config.village_spawn_completion_max_distance.label=Maximum Distance for Progress
 config.village_spawn_completion_max_distance.desc=Distance from the Spawn Point at which villages can reach the maximum initial progress. Default: <0>.
-
 config.village_radius.label=Radius of Villages
 config.village_radius.desc=Radius of normal villages (not hamlets). Default: <0>.
-
 config.min_distance_between_buildings.label=Min Distance Between Buildings
 config.min_distance_between_buildings.desc=Minimal distance between two buildings in a village. Default: <0>.
-
 config.village_paths.label=Build Village Paths
 config.village_paths.desc=Generate paths in new villages and have the villagers upgrade them.
-
 config.max_children_number.label=Max Children Number
 config.max_children_number.desc=Maximum number of children a village can have. Default: <0>.
-
 config.background_radius.label=Village Relation Radius
-config.background_radius.desc=Radius within which villages will have relations with each others (diplomacy, trade, raids). Default: <0>. 
-
+config.background_radius.desc=Radius within which villages will have relations with each others (diplomacy, trade, raids). Default: <0>.
 config.bandit_raid_radius.label=Bandit Raid Radius
 config.bandit_raid_radius.desc=Radius within which bandits will raid villages. Default: <0>.
-
 config.raiding_rate.label=Raiding % Chance
 config.raiding_rate.desc=Chance on 100 that a village/bandit building will attempt a raid each night. Default: <0>.
-
-
 config.generate_building_res.label=Generate resource list
 config.generate_building_res.desc=Generate the list of resources required for every building.
-
 config.generate_translation_gap.label=Generate translation gap
 config.generate_translation_gap.desc=Generate for each loaded languages a report with the list of lacking text.
-
 config.generate_help_data.label=Generate help data
 config.generate_help_data.desc=Generates various data (colour sheet, goods list, infos on generic goals) useful to content makers
-
 config.valuetrue=True
 config.valuefalse=False
-
 config.page.bonus=Contributor Bonus
 config.page.bonus.desc=Bonus for people who worked on Millénaire (translations, building plans, dialogues, textures, contributions to the wiki ect.) or donated: a free small house available from the Village Chief.
-
 config.bonus_code.label=Bonus Code
 config.bonus_code.desc=Code to enable the bonus. Fetched from internet automatically if a connection is possible.
-
 config.validbonuscode=Valid code! Bonus activated.
 config.invalidbonuscode=Invalid code. Please check.
-
 config.page.system=System Settings
 config.page.system.desc=General settings regarding Millénaire
-
 config.send_statistics.label=Statistics
 config.send_statistics.desc=Whether to authorize the sending of anonymous statistics (version, language...) to the Millénaire servers.
-
 config.send_advancement_login.label=Advancements Page
 config.send_advancement_login.desc=Whether to send your Minecraft login to the Millénaire server, to allow your advancements to be visible on millenaire.org.
-
-
 tradehelp.title=<0> - Trading
 tradehelp.goodssold=Goods Sold
 tradehelp.goodsbought=Goods Bought
@@ -1179,7 +1094,6 @@ tradehelp.buyingprice=Purchase:
 tradehelp.sellingprice=Sale:
 tradehelp.helptitle=Generalities on Trading
 tradehelp.helptext=In each store you can buy goods that the village has in stock. Apart from a few "free" blocks (such as paths) or special items (the wands), the proposed goods were produced by the village and the village"loses" the items if you buy them, unlike when trading with Minecraft villages.<ret><ret>Villagers produce most of the goods they need, but selling some to them often helps accelerate the development of the village.
-
 tradehelp.freeblock=These types of blocks are made for "free" by the village and are therefore available in unlimited quantities.
 tradehelp.wood=The villagers produce wood in groves. They use it to build.
 tradehelp.stone=The villagers produce stone and glass in quarries. If the village does not have one, it is entirely dependent on you for their needs.
@@ -1196,7 +1110,6 @@ tradehelp.genericweapon=Weapons and armour of different levels make villagers mo
 tradehelp.purse=Bourses à deniers can store deniers and keep track of your funds. They are always available.
 tradehelp.wand=The wand of summoning allows you to create villages. They are always available.
 tradehelp.parchments=Parchments provide information about Millénaire. They are always available.
-
 tradehelp.normanwhitewool=White wool is used in some buildings and is needed to make tapestries in Norman forts.
 tradehelp.normantapestrywool=Grey, light grey, black, and brown wools are required by the lady to make tapestries.
 tradehelp.normanleather=Norman monks use leather to make books.
@@ -1208,7 +1121,6 @@ tradehelp.normantripesboudin=Normans produce tripes and boudins from cows and pi
 tradehelp.normantapestry=Ladies produce these decorative tapestries from white, grey, light grey, brown, and black wool.
 tradehelp.normantimberframes=Norman carpenters produce these timber frames from wood.
 tradehelp.normanwheat=Norman villagers make bread and feed their livestock with wheat.
-
 tradehelp.byzantinetools=Byzantine smiths use iron and leather to produce iron tools and Byzantine armours.
 tradehelp.byzantinefeta=The Byzantines produce feta cheeses from sheep milk. These cheeses heal and regenerate the player and help the villagers to have children.
 tradehelp.byzantinebooks=The Byzantines produce books from wood and leather.
@@ -1219,7 +1131,6 @@ tradehelp.byzantine_tiles=The Byzantines produce tiles from stone and clay.
 tradehelp.byzantinefood=The Byzantines cook the lamb chops and mix them with their feta cheeses to make delicious souvlakis. These foods nourish the player and help children grow. Souvlakis also give back health.
 tradehelp.byzantineweapons=Byzantine blacksmiths produce solid, formidable armour from iron and leather.
 tradehelp.byzantinewheat=The Byzantine villagers make bread and feed their livestock with wheat.
-
 tradehelp.indiantools=Indian smiths use iron to produce tools and armour.
 tradehelp.indiangenericfood=Access to different types of food helps children grow faster. Warning: Indians do not eat beef or pork.
 tradehelp.indiangenericfoodsweet=Desserts increase help villagers conceive children. Warning: Indian villagers do not drink alcohol.
@@ -1227,7 +1138,6 @@ tradehelp.indianrasgulla=The Indians produce delicious rasgullas from sugar. The
 tradehelp.indiancurry=The Indians cook vegetarian curries with rice and turmeric as well as chicken curries by adding a chicken. These foods nourish the player and help children grow. Chicken curries also provides a temporary "Fire resistance" bonus.
 tradehelp.indianbricks=The Indians leave wet mud bricks in the sun to cook to make dry bricks. You can make them yourself by buying a mould.
 tradehelp.indianstatue=Indian sculptors produce these bas-relief of Hindu gods for adorning Indian temples.
-
 tradehelp.japanesegold=The Japanese use gold to decorate some buildings.
 tradehelp.japaneseudon=The Japanese cook udons from wheat and chicken. They nourish the player and help children grow.
 tradehelp.japanesetools=Japanese smiths use iron and leather to produce iron tools and Japanese armour.
@@ -1239,21 +1149,18 @@ tradehelp.japanesewheat=The Japanese cook wheat to make udons.
 tradehelp.japanesethatch=Japanese produce blocks from wheat.
 tradehelp.japanesesake=Japanese sake brewers use rice to brew sake. Sake heals and regenerates the player and helps the villagers have children. It also provides a temporary "Jump Boost" bonus.
 tradehelp.japaneseikayaki=The Japanse raise squids and grill them to make ikayakis. They nourish the player and help children grow. They also provide a temporary "Water Breathing" bonus.
-
 tradehelp.mayangold=Maya artisans need gold to produce decorative blocks. They require players to provide the gold for them.
 tradehelp.mayanfood=The Maya people grow corn and make masa (maize tortillas) and wah (by adding chicken) from it. They nourish the player and help children grow. Wah also provide a temporary "Haste" bonus.
 tradehelp.mayanobsidian=Maya artisans produce tools with obsidian sold by the player. These tools are not very effective, but can be enchanted easily.
 tradehelp.mayanstonetools=Maya artisans produce tools and swords from stone as basic tools in the absence of obsidian.
 tradehelp.mayanweapons=Maya artisans make stone swords and leather armour. Obsidian craftsmen can make them more powerful and very enchantable obsidian maces.
 tradehelp.mayancocoa=Maya cocoa farmers harvest cocoa pods and use them to prepare cacauhaa, a chocolate drink. Cacauhaa heals and regenerate the player and helps increase the number of villagers who will have children. It also provides a temporary "Night Vision" bonus.
-
-tradehelp.Inuitodding=Inuit use spades to sod coarse dirt into planks to make sure the planks are fully sealed and will keep warmth in.
+tradehelp.inuitodding=Inuit use spades to sod coarse dirt into planks to make sure the planks are fully sealed and will keep warmth in.
 tradehelp.leather=Leather is used by vaious cultures to help produce tools, armor, and other things.
 tradehelp.inuitfurarmor=Furriers produce special armor to help protect against the elements and are protected by helpful spirits.
 tradehelp.inuitgenericfoodraw=Though the Inuit find raw foods quite tasty, these can be cooked in various ways to make them more nutritious.
 tradehelp.inuitgenericfood=Specially prepared food that can satiate in much better ways than its raw form.
 tradehelp.inuitblock=The Inuit can produce items from nature to better suit their general housing needs.
-
 importtable.title=Importing Table
 importtable.importfromculture=Import from culture
 importtable.nocurrentplan=No active Building Plan
@@ -1273,23 +1180,20 @@ importtable.importedbuildingplan=Imported building plan <0>.
 importtable.back=Back
 importtable.exportcost=Export cost
 importtable.costexported=Exported the plan's cost to <0>.
-
 importtable.length=Length: <0>
 importtable.width=Width: <0>
 importtable.clearground=Clear ground: <0>
 importtable.create=Create
-
 importtable.orientation=Building orientation: <0>
 importtable.startinglevel=Starting ground level: <0>
 importtable.exportsnow=Export snow layers: <0>
+importtable.exportregularchests=Export chests as regular (non-locked) chests: <0>
 importtable.importmockblocks=Import mock blocks: <0>
 importtable.converttopreserveground=Convert grass and sand to Preserve Ground: <0>
 importtable.minus=Decrease
 importtable.plus=Increase
-
 travelbook.reference_button=View Travel Book entry for <0>
 travelbook.reference_button_export=<0>
-
 travelbook.title=Travel Book
 travelbook.culture_unlocked=You know <0> of <1> cultures.
 travelbook.contentlocked=Millénaire is set to display informations only about content (villagers, buildings...) that you have met.
@@ -1323,20 +1227,16 @@ travelbook.basicdata=Building information
 travelbook.building_size=Size of the plot
 travelbook.village_biomes=Biomes: <0>
 travelbook.villageswithbuilding=Villages with building
-
 travelbook.villageslist_unlocked=You know <0> of <1> <2> village types.
 travelbook.villagerslist_unlocked=You know <0> of <1> <2> villagers.
 travelbook.tradegoodslist_unlocked=You know <0> of <1> <2> trade goods.
 travelbook.buildingslist_unlocked=You know <0> of <1> <2> buildings.
-
 travelbook.villagerslistcategory_unlocked=You know <0> of <1> villagers in this category.
 travelbook.tradegoodslistcategory_unlocked=You know <0> of <1> trade goods in this category.
 travelbook.buildingslistcategory_unlocked=You know <0> of <1> buildings in this category.
-
 travelbook.startinggoods=Starting goods
 travelbook.startingsubbuildings=Starting sub-buildings
 travelbook.subbuildings=Sub-buildings
-
 travelbook.nbblocks=Number of blocks
 travelbook.nbchests=Number of chests
 travelbook.plantingspot=Planting spot for <0>
@@ -1345,7 +1245,6 @@ travelbook.spawnspot=Animal spawn point
 travelbook.nbfurnaces=Number of furnaces
 travelbook.nbfirepits=Number of fire pits
 travelbook.nbfishingspot=Number of fishing spots
-
 travelbook.specialbehaviours=Special capacities
 travelbook.specialbehaviours.chief=Village chief
 travelbook.specialbehaviours.chief.desc=This villager is the village's chief. Speak with him to buy a house and other special interactions.
@@ -1364,7 +1263,6 @@ travelbook.specialbehaviours.archer.desc=This villager can fire arrows if equipp
 travelbook.health=Health of the villager
 travelbook.attackstrength=Damage caused by this villager's attack (without weapons)
 travelbook.hirecost=Cost per day of hiring this villager
-
 travelbook.specialbuildingtag.archives=Archives
 travelbook.specialbuildingtag.archives.desc=This building contains an archive of every villager and their occupation.
 travelbook.specialbuildingtag.leasure=Social Centre
@@ -1375,7 +1273,6 @@ travelbook.specialbuildingtag.hof=Hall of Fame
 travelbook.specialbuildingtag.hof.desc=This building displays the list of Millénaire contributors and donors.
 travelbook.specialbuildingtag.sacrifices=Maya Sacrifices
 travelbook.specialbuildingtag.sacrifices.desc=Once unlocked in the creation quest, Maya sacrifices can be held here.
-
 travelbook.villageslist=<0> Villages
 travelbook.village_townhall=Town Hall
 travelbook.customvillagecentre=This village has a custom Town Hall
@@ -1388,7 +1285,6 @@ travelbook.village_weight=Spawning weight (the higher the more likely to spawn)
 travelbook.village_radius=Village radius
 travelbook.village_hamlets=Hamlets around this village
 travelbook.village_rescost=Total resources needed by the village
-
 travelbook.tradegoods=Trade goods
 travelbook.tradegoodslist=<0> Trade Goods
 travelbook.tradegoodslistcategory=<0> Category
@@ -1410,7 +1306,6 @@ travelbook.trade_good_craftingvillagers=Crafted by
 travelbook.trade_good_harvestingvillagers=Harvested by
 travelbook.trade_good_gatheringvillagers=Gathered by
 travelbook.trade_good_usingvillagers=Required by
-
 travelbook.trade_good_foodhealamount=Hunger: <0>
 travelbook.trade_good_foodhealamount.desc=Amount of hunger this food restores.
 travelbook.trade_good_foodsaturation=Saturation: <0>
@@ -1438,12 +1333,10 @@ travelbook.trade_good_conceptionfood.desc=Extra conception chances adults get wh
 travelbook.trade_good_weapon=Attack boost: <0>
 travelbook.trade_good_weapon.desc=Attack strength increase when used as a weapon by a villager.
 travelbook.trade_good_armour.desc=Armour rating when worn by a villager.
-
 travelbook.trade_good_buyingbuildings=Bought at
 travelbook.trade_good_sellingbuildings=Sold at
 travelbook.trade_good_tradingbuildings=Bought and sold at
 travelbook.trade_good_marketmerchants=Market Merchants
-
 travelbook.neededitems=Needed Items
 travelbook.toolscategory.toolsaxe=Axes
 travelbook.toolscategory.toolsaxe.desc=This villager will try and get the best axe available.
@@ -1467,36 +1360,30 @@ travelbook.toolscategory.weaponsranged=Bows
 travelbook.toolscategory.weaponsranged.desc=This villager will try and get the best bow available.
 travelbook.residesin=Resides in
 travelbook.residesinvillage=Can live in villages
-
 travelbook.unlockedvillager=<0> villagers: <1>/<2>
 travelbook.unlockedbuilding=<0> buildings: <1>/<2>
 travelbook.unlockedtradegood=<0> goods: <1>/<2>
 travelbook.unlockedvillage=<0> villages: <1>/<2>
-
 travelbook.unlockedvillager_first=You have met a villager type for the first time! Information about it is available in the Travel Book within the Millénaire menu.
 travelbook.unlockedbuilding_first=You have visited a building for the first time! Information about it is available in the Travel Book within the Millénaire menu.
 travelbook.unlockedtradegood_first=You have traded a good for the first time! Information about it is available in the Travel Book within the Millénaire menu.
 travelbook.unlockedvillage_first=You have visited a village type for the first time! Information about it is available in the Travel Book within the Millénaire menu.
-
-
 travelbook.unknownvillager=You have not yet met this villager.
 travelbook.unknownvillage=You have not visited this village type.
 travelbook.unknownbuilding=You have not visited this building.
 travelbook.unknowntradegood=You have not traded this good with this culture.
-
 travelbook_category.villager=Villagers
 travelbook_category.lonevillager=Lone residents
 travelbook_category.visitor=Visitors
 travelbook_category.leader=Leaders
 travelbook_category.marvelvillager=Marvel
-
 travelbook_category.townhall=Town Halls
 travelbook_category.house=Houses
 travelbook_category.othervillage=Others
 travelbook_category.lonebuilding=Lone
 travelbook_category.marvel=Marvel
 travelbook_category.playerbuilding=Player
-
+travelbook_category.wall=Village Walls
 travelbook_category.construction=Construction
 travelbook_category.agriculture=Food
 travelbook_category.crafting=Crafting

@@ -5,14 +5,14 @@
   "loadDefault": true,
   "changeTheme": false,
   "sizeMin": [
+    8,
+    6,
+    8
+  ],
+  "sizeMax": [
     16,
     9,
     16
-  ],
-  "sizeMax": [
-    32,
-    9,
-    32
   ],
   "floor": [
     {
@@ -26,6 +26,22 @@
     }
   ],
   "wall": [
+    {
+      "layer": -1,
+      "tileHorizontal": true,
+      "centerHorizontal": true,
+      "tileVertical": true,
+      "centerVertical": false,
+      "pattern": [
+        "3000000000000003",
+        "3000000000000003",
+        "3000000000000003",
+        "300T00T00T00T003",
+        "3000000000000003",
+        "3000000000000003",
+        "3000000000000003"
+      ]
+    },
     {
       "layer": 0,
       "tileHorizontal": true,

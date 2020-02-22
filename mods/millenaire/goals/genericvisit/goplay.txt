@@ -17,3 +17,5 @@ allowrandommoves=true
 leasure=true
 
 targetposition=leasure
+
+sprint=false

@@ -1,6 +1,11 @@
 {
   "name": "sylph",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntitySylph",
+  "creatureType": "elemental",
+  "groups": [
+    "guardian"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySylph",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSylph",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +41,8 @@
   "rangedDamage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
@@ -82,10 +87,10 @@
       "chance": 0.05
     },
     {
-      "item": "elementalmobs:aetherwavecharge",
+      "item": "lycanitesmobs:aetherwavecharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

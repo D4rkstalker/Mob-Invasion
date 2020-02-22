@@ -61,7 +61,7 @@ v2;30;Posimou mazí eínai pio diaskedastiko! / Koos joomine on palju lõbusam!
 v1;50;Cheers gia to krasí! / Veini Terviseks!
 v2;70;Cheers! / Terviseks!
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
 v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / Ma saan selle küla pealikuks hiljem, vanur sure!
 v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / Ära ole nii häbematu, poisike. Või saad laksu!
 v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / Ja ma annan sulle laksu siis!
@@ -259,7 +259,7 @@ v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Jah, see t
 v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / Tänud lähevad seppadele ja käsitöömeistritele, kes mõttlesid sellised asjad välja!
 v2;90;Nai! Gi 'afto mou arései na Romaïkí. / Jah! See pärast mulle meeldibki Roomlane olla.
 
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
 v1;0;Eímai ziliáris afton ton plousíon. / Ma olen kade nende rikaste inimeste peale.
 v1;20;Échoun tétoia oraía roúcha apo metáxi! / Neil on nii kenad siidjad riided!
 v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / See pole üldse aus. Nad ei tee mitte midagi ja saavad parimad asjad endale.
@@ -281,13 +281,13 @@ v2;110;Ego na mantépsete akrivos san stratiotes. / Ma arvan, et sulle meeldivad
 v2;140;Allá échete énan ántra! / Aga sul on abikaasa!
 v1;170;Allá énas tempélis kai sychná methysménos éna! / Aga laisk ja tihti purjus!
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
 v1;0;Xérete tin omorfiá sto geitoniko chorio? / Kas sa tead, iludust naaber külas?
 v2;30;Fysiká, eínai polý charitoméno. / Muidugi, ta on tõesti kena.
 v1;60;Ti tha gínei me tin epískepsi tis? / Oled sa mõelnud teda külastada?
 v2;90;Xérete oti i gynaíka sas tha trelatho tote! / Sa tead, et su naine läheb hulluks siis!
 
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
 v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / Selle käsitöölise naine on väga ilus, mida sa arvad?
 v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Jah, ta ei ole halb. Kahjuks ta on juba abielus!
 v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Nojah. Ja see ei oleks õiglane tema mehe suhtes.
@@ -316,7 +316,7 @@ v1;120;Err, eícha. Échei kápos chatheí! / Err, mul oli. Se läks kuidagi kad
 v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / MIDA? Sul oli selline tööriist ja sa kaotasid selle?
 v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / Jahh... Ja nüüd on ainult mälestused selest...
 
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
 v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Põmm! Ma sain just välja valitud uue nuia!
 v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Jah! See on äge relv! Lööb vastaseid matsust!
 v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Muljetavaldav, ah? Seda Roomlaste meistriteost pole võrrelda millegagi siin maapeal.
@@ -421,10 +421,10 @@ v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai
 v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / Kuule! Ära ole nii õel! Se olid sina kes alustas tülisid.
 v2;110;Tha ítan methysménos! / Sa olid purjus!
 
-newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, mu poeg, ma ei näinud sind täna palvetamas!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / Isa $targetlastname, ma juba tegin seda.
 
-newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, mu tütar, ma ei näinud sind täna palvetamas!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / Isa $targetlastname, ma juba tegin seda.

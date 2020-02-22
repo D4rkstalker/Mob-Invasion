@@ -1,6 +1,11 @@
 {
   "name": "dawon",
-  "class": "com.lycanitesmobs.junglemobs.entity.EntityDawon",
+  "creatureType": "beast",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityDawon",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelDawon",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,10 +45,10 @@
   "damage": 1,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#49e554",
   "eggForeColor": "#030601",
@@ -61,7 +66,11 @@
   ],
   "elements": [
     "frost",
-    "crystal"
+    "gravity"
+  ],
+  "diets": [
+    "carnivore",
+    "piscivore"
   ],
   "peaceful": false,
   "summonable": false,

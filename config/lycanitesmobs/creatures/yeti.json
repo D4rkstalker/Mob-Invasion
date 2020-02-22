@@ -1,6 +1,11 @@
 {
   "name": "yeti",
-  "class": "com.lycanitesmobs.arcticmobs.entity.EntityYeti",
+  "creatureType": "beast",
+  "groups": [
+    "animal"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityYeti",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelYeti",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -43,10 +48,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.5,
   "eggBackColor": "#EEEEFF",
   "eggForeColor": "#000099",
@@ -63,7 +68,12 @@
     }
   ],
   "element": "frost",
+  "diets": [
+    "herbivore",
+    "frugivore"
+  ],
   "peaceful": true,
+  "farmable": true,
   "summonable": true,
   "tameable": false,
   "mountable": false,
@@ -83,14 +93,14 @@
       "chance": 0.25
     },
     {
-      "item": "arcticmobs:yetimeatraw",
-      "burningItem": "arcticmobs:yetimeatcooked",
+      "item": "lycanitesmobs:raw_yeti_meat",
+      "burningItem": "lycanitesmobs:cooked_yeti_meat",
       "minAmount": 2,
       "maxAmount": 5,
       "chance": 1
     },
     {
-      "item": "arcticmobs:frostyfur",
+      "item": "lycanitesmobs:frostyfur",
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 0.25

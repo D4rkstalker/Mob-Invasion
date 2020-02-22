@@ -5,7 +5,7 @@ building.areatoclear=6
 building.buildingorientation=3
 building.farfromtag=leasure,30
 building.icon=purse
-
+building.version=2
 
 //Parameters for initial construction
 initial.startlevel=-1

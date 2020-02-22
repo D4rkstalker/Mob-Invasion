@@ -1,6 +1,11 @@
 {
   "name": "tarantula",
-  "class": "com.lycanitesmobs.junglemobs.entity.EntityTarantula",
+  "creatureType": "arthropod",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTarantula",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelTarantula",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,7 +22,8 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "jungle"
+      "jungle",
+      "swamp"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,
@@ -40,10 +46,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#1e5015",
   "eggForeColor": "#66be60",
@@ -60,6 +66,10 @@
     }
   ],
   "element": "arbour",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,

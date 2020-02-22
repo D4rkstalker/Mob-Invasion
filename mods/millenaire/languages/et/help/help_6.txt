@@ -1,14 +1,14 @@
 version:3.4
-<darkblue>Külade loomine
+<darkblue>KÂ¸lade loomine
 
-Sa saad luua külasid mis iganes tüüpi sa tahad ja mis kohta sa tahad loomise võlukeppiga,mille sa saad osta külalt kui sul on küllat hea reputatsioon.Selle võlukeppi kasutamiseks pane kulne plokk kuhu sa tahad,et küla tuleks ja parema hiire klõpsuga vajuta sellele võlukeppiga. Järgnev ekraan laseb sul valida mis tüüpi kula sa tahad.
+Sa saad luua kÂ¸lasid mis iganes tÂ¸Â¸pi sa tahad ja mis kohta sa tahad loomise vÄ±lukeppiga,mille sa saad osta kÂ¸lalt kui sul on kÂ¸llat hea reputatsioon.Selle vÄ±lukeppi kasutamiseks pane kulne plokk kuhu sa tahad,et kÂ¸la tuleks ja parema hiire klÄ±psuga vajuta sellele vÄ±lukeppiga. Jâ€°rgnev ekraan laseb sul valida mis tÂ¸Â¸pi kula sa tahad.
 
-<darkblue>Küla või üksildase ehitise hävitamine
+<darkblue>KÂ¸la vÄ±i Â¸ksildase ehitise hâ€°vitamine
 
-Külaelanikud või ehitise elanikud taassünnivad iga õhtu isegi kui sa hävitad kõik ehitised külas. Selle ärahoidmiseks (näiteks kui sa tahad okupeerida ehitised endale), sa pead kasutama <darkblue>Läbiraakimise võlukeppi<black>: sa leiad selle pea hoone kirstust kui kõik elanikud on surnud. Pane tähele,et küla hävitamine on tühistamattu.
+KÂ¸laelanikud vÄ±i ehitise elanikud taassÂ¸nnivad iga Ä±htu isegi kui sa hâ€°vitad kÄ±ik ehitised kÂ¸las. Selle â€°rahoidmiseks (nâ€°iteks kui sa tahad okupeerida ehitised endale), sa pead kasutama <darkblue>Lâ€°biraakimise vÄ±lukeppi<black>: sa leiad selle pea hoone kirstust kui kÄ±ik elanikud on surnud. Pane tâ€°hele,et kÂ¸la hâ€°vitamine on tÂ¸histamattu.
 
-<darkblue>Mängija kontrollitud külad
+<darkblue>Mâ€°ngija kontrollitud kÂ¸lad
 
-On võimalikd teha küla kus sina oled juht,kus sa saad ise valida ehitiste asukohad.Selle tegemiseks sa pead olema tunnustatud juhina selle küla kultuuris või tee ära Loomise Ülesanne(vaata ülesannete sektsiooni), või saa enda reputatsioon ´´naturaalne juht'' külas ja räägi selle juhiga. Saa siis näed valikut,et teha mängija kontrollitud külad kui kasutad loomise võlukeppi kuldsel plokkil.
+On vÄ±imalikd teha kÂ¸la kus sina oled juht,kus sa saad ise valida ehitiste asukohad.Selle tegemiseks sa pead olema tunnustatud juhina selle kÂ¸la kultuuris vÄ±i tee â€°ra Loomise â€¹lesanne(vaata Â¸lesannete sektsiooni), vÄ±i saa enda reputatsioon Â¥Â¥naturaalne juht'' kÂ¸las ja râ€°â€°gi selle juhiga. Saa siis nâ€°ed valikut,et teha mâ€°ngija kontrollitud kÂ¸lad kui kasutad loomise vÄ±lukeppi kuldsel plokkil.
 
-Mängija kontrollitud külades sa saad korraltada uues ehitise ehitamist kastuatdes võlukeppi soovitud koha peal. Ekraan avaneb mis laseb sul valida soovitud ehitis. Sa saad ka lubada või peatada uuendusi olemasolevatele ehitistele ´´projektid´´ paneeli kaudu. Resursside kauplemine teiste küladega ei ole vajalik selles külas - lihtsalt pane asjad kirstutesse.
+Mâ€°ngija kontrollitud kÂ¸lades sa saad korraltada uues ehitise ehitamist kastuatdes vÄ±lukeppi soovitud koha peal. Ekraan avaneb mis laseb sul valida soovitud ehitis. Sa saad ka lubada vÄ±i peatada uuendusi olemasolevatele ehitistele Â¥Â¥projektidÂ¥Â¥ paneeli kaudu. Resursside kauplemine teiste kÂ¸ladega ei ole vajalik selles kÂ¸las - lihtsalt pane asjad kirstutesse.

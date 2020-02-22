@@ -23,8 +23,10 @@ goal=deliverResourcesShop
 bringBackHomeGood=rottenflesh
 
 goal=maketannedhide
+goal=makehidehanging
 goal=makeleather
 goal=makeinuitbow
+goal=makebannerleather
 
 requiredGood=leather,10
 baseAttackStrength=6

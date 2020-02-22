@@ -1,6 +1,11 @@
 {
   "name": "trite",
-  "class": "com.lycanitesmobs.demonmobs.entity.EntityTrite",
+  "creatureType": "aberration",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTrite",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelTrite",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -13,12 +18,14 @@
     ],
     "disableSubspecies": false,
     "dimensionIds": [
-      -1
+      -1,
+      1
     ],
     "dimensionListType": "whitelist",
     "ignoreBiome": true,
     "biomes": [
-      "nether"
+      "nether",
+      "end"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,
@@ -41,10 +48,10 @@
   "damage": 1,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 3,
-  "amplifier": 0,
+  "effectDuration": 3,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#FFFF88",
   "eggForeColor": "#000000",
@@ -56,15 +63,79 @@
     },
     {
       "index": 2,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
+    },
+    {
+      "index": 4,
+      "skin": "void",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelTriteVoid",
+      "type": "common",
+      "priority": 1,
+      "elements": [
+        "void"
+      ],
+      "conditions": [
+        {
+          "type": "world",
+          "dimensionIds": [
+            1
+          ],
+          "dimensionListType": "whitelist"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "skin": "void",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelTriteVoid",
+      "color": "ashen",
+      "type": "uncommon",
+      "priority": 1,
+      "elements": [
+        "void"
+      ],
+      "conditions": [
+        {
+          "type": "world",
+          "dimensionIds": [
+            1
+          ],
+          "dimensionListType": "whitelist"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "skin": "void",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelTriteVoid",
+      "color": "azure",
+      "type": "uncommon",
+      "priority": 1,
+      "elements": [
+        "void"
+      ],
+      "conditions": [
+        {
+          "type": "world",
+          "dimensionIds": [
+            1
+          ],
+          "dimensionListType": "whitelist"
+        }
+      ]
     }
   ],
   "element": "nether",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 1,
   "drops": [

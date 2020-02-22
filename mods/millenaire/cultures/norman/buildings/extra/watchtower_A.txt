@@ -6,6 +6,7 @@ building.version=2
 building.mindistance=0.8
 building.farfromtag=patrol,50
 building.icon=torch
+building.max=0
 
 //Parameters for initial construction
 initial.startlevel=-1

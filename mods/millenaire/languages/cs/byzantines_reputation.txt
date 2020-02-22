@@ -1,10 +1,21 @@
-0;Cizinec;Uvítáme u nás každého obchodníka, ale důvěru si musí získat.
-4*64;Známá tvář;V poslední době si tu vidět velmi často.
-16*64;Pravidelný návštěvník;Xaire, $name! Je pěkné tě vidět. Jak se daří?
-64*64;Oblíbený obchodník;Všichni jsou rádi ze tě vidí. Máš něco na výměnu?
-2*64*64;Přítel vesnice;Věříme ti. Stal ses součástí naší vesnice $name!
-8*64*64;Jeden z nás;Pro nás si Římský občan $name. Možná ses mezi námi nenarodil, ale teď se můžeš hrdě nazývat pravým  Římanem.
-32*64*64;Přirozený vůdce;$name, získal si důvěru a respekt Římanů. Budou tě následovat kamkoliv.
--64;Protiva;Nejsi zrovna počestný, $name. Kontroluj se!
--4*64;Nepříjemný outsider;Sneseme obchodníky, ale ne lidi jako ty! Dávej si pozor.
--16*64;Veřejný nepřítel;Je poněkud trapné, ze tě celá Římská říše nechala žít. Pokud máš rád svůj život, odejdi a nikdy se nevracej.
+//*    Neopravovat na diakritiku
+//* 
+//* 
+//* 
+
+
+0;Cizinec;Uvitame u nas kazdeho obchodnika, ale musi si u nas ziskat duveru.
+4*64;Znamost;V posledni dobe jsi tu videt velmi casto.
+8*64;Znama tvar;Ostatni Rimane si te zacali vsimat a mluvi o tobe jenom v dobrem. Nakonec preci jen nebudes barbar.
+16*64;Pravidelny navstevnik;Xaire, $name! Je pekne te videt. Jak se dari?
+32*64;Clen spolecnosti;Je hezke videt ze i lide mimo Rimskou risi se mohou chovat civilizovane jednou za cas stejne tak jako my.
+64*64;Oblibeny obchodnik;Vsichni jsou radi ze te vidi, mas neco na vymenu?
+2*64*64;Pritel vesnice;Verime ti. Stal ses soucasti nasi vesnice $name!
+4*64*64;Respektovany spojenec; Gratuluji $name! Ziskal jsi si nas respekt. Je obtizne pro lidi z venku byti prately s Rimskou risi, natož respektován. Ale TY jsi dokazal opak!
+8*64*64;Jeden z nas;Pro nas si Rimsky obcan $name. Mozna ses mezi nami nenarodil, ale ted se muzes hrde nazyvat pravym  Rimanem.
+32*64*64;Prirozeny vudce;$name, ziskal si duveru a respekt Rimanu. Budou te nasledovat kamkoliv.
+4*32*64*64;Prísti Caesar; Vy budete dalsi Caesar! Tolik prace co jste udelal pro tuto vesnici je nepeedstavitelne a my vas za to budeme nasledovat. Slava $name!
+-64;Protiva;Nejsi zrovna pocestny, $name. Kontroluj se!
+-4*64;Neprijemny outsider;Sneseme obchodniky, ale ne lidi jako ty! Davej si pozor.
+-16*64;Verejny nepritel;Je ponekud trapne, ze te cela Rimská rise nechala zit. Pokud mas rad svuj zivot, odejdi a nikdy se nevracej.
+-64*64;Zdanlivy Barbar; Rozumis nam? Dobre tedy, zkusime neco jineho: BAR BAR BAR, BAR BAR, BAR BARRRR!

@@ -5,11 +5,11 @@ pathgravel,2,0,0,0,0,false,,0,construction
 pathslabs,4,0,0,0,0,false,,0,construction
 wood,2,1,128,1024,0,false,,0,construction
 wood_pine,2,1,64,256,0,false,,0,construction
-wood_birch,2,1,64,256,0,false,,0,construction
+wood_birch,2,1,128,1024,0,false,,0,construction
 wood_jungle,2,1,0,64,0,false,,0,construction
 wood_acacia,2,1,0,64,0,false,,0,construction
-wood_darkoak,2,1,0,64,0,false,,0,construction
-wood_any,2,1,128,1024,0,false,,0,construction
+wood_darkoak,2,1,128,1024,0,false,,0,construction
+wood_any,2,1,128,2048,0,false,,0,construction
 cobblestone,2,1,128,1024,0,false,,0,construction
 stone,3,2,128,1024,0,false,,0,construction
 glass,5,3,64,512,0,false,,0,construction
@@ -155,6 +155,11 @@ mayanaxe,0,7*64,0,0, 0,false,,0,foreigntrade
 mayanshovel,0,7*64,0,0, 0,false,,0,foreigntrade
 mayanhoe,0,7*64,0,0, 0,false,,0,foreigntrade
 
+byzantinePickaxe,0,10*80,0,0,,,,0,foreigntrade
+byzantineAxe,0,10*80,0,0,,,,0,foreigntrade
+byzantineShovel,0,10*80,0,0,,,,0,foreigntrade
+byzantineHoe,0,10*80,0,0,,,,0,foreigntrade
+
 bookshelves,220,166,8,16, 0,false,,0,construction
 bottle,5,0,16,64, 0,false,,0,crafting
 netherwart,32,0,16,64, 0,false,,0,crafting
@@ -213,3 +218,5 @@ dye_blue,0,0,0,0,64,false,0,0,foreigntrade
 dye_brown,0,0,0,0,16*64,false,0,0,foreigntrade
 dye_black,0,0,0,0,8,false,0,0,foreigntrade
 
+banner_white,64,58,4,16,0,false,,0,construction
+norpattern,64,0,0,0,0,true,,8192,crafting

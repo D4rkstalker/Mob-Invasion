@@ -37,9 +37,13 @@ toolneededclass=hoes
 toolneededclass=shovels
 toolneededclass=pickaxes
 
+bringBackHomeGood=egg
+bringBackHomeGood=feather
+bringBackHomeGood=leather
+bringBackHomeGood=wool_white
 bringBackHomeGood=chickenmeat
+bringBackHomeGood=chickenmeatcooked
 bringBackHomeGood=maize
-
 
 tag=helpInAttacks
 defaultweapon=woodhoe

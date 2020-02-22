@@ -1,5 +1,5 @@
 ﻿villager.greeting=Bonjour, $name! / مرحبا, يا $name!.
-villager.greeting=Belle journée, n'est pas؟ / يوم جميل, اليس كذلك؟
+villager.greeting=Belle journée, n'est ce pas؟ / يوم جميل, اليس كذلك؟
 villager.greeting=Il va pleuvoir, je le sens / سوف تمطر ,اشعر بذلك.
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / لم اتذكر أن ايام النورمان هادئة مثل هذا اليوم.
 guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / تبدو متوترا بعض الشيئ,لاتقلق لن يحدث لك شيءيا $name ,لأني سوف احميك.

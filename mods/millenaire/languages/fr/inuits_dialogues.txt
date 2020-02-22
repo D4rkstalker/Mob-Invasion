@@ -1,3 +1,8 @@
+//*  Les lignes de dialogue commence par un code du style "v2;30;"  qui précise qui parle et à quel moment le dialogue peut être lu. S'il vous plait, recopier exactement ce code dans vos traductions.
+//*  La première moitié de la ligne (avant le /) est la langue d'origine des villageois et doit donc rester tel quel, et la seconde moitié doit être traduite.
+
+
+
 newchat;key:rain,tag:notraining,weigth:10
 v1;0;kisu qanniqtuq? / Est-ce qu'il neige ?
 v2;30;aamai qiuvit?? / Ca ressemble à de la neige, mais je n'ai pas l'impression que ce soit froid.
@@ -37,7 +42,7 @@ v1;120;inuillitiqtuq! / Est-ce mieux ? Maintenant il est forcé à vivre seul !
 
 newchat;key:kys,weigth:10
 v1;0;qarungu avasirngulik tuqutsiarivaa? / Quand est-ce que l'aînée va t-il mourir ?
-v2;30;aakka pirlajuq, suvallituq! / Je ne crois pas que nous avons besoin de faire ça ici, ce nouveau monde est bien plus accommodant ! 
+v2;30;aakka pirlajuq, suvallituq! / Je ne crois pas que nous avons besoin de faire ça ici, ce nouveau monde est bien plus accommodant !
 v1;60;aamai... uummangajuq / Je suppose... Mais c'est bizarre de toujours la voir en vie.
 
 newchat;key:visitors,weigth:10
@@ -104,11 +109,3 @@ v1;60;ua taamannak asianngutuq uuppaa. / Hey, j'aime bien ce goût !
 newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
 v1;0;umingmak kaszruruk mikiruk. / Beurk, regarde comment les bisons sont petits et chétifs ici.
 v2;42;tunisiruq, "immulivik..?" / Les marchands étrangers les appellent des , "vaches..?"
-
-//a shaman and another guy
-//alapittuk, muruaneq, qanir, aakka kikkitigaa? / Je ne comprends pas, il y a de la neige sur le sol et dans le ciel, pourquoi ne mourrons t-on pas de la morsure du froid ?
-//uqalaittuq unillarvik Sanna! / C'est vraiment la terre bénie de Sedna, j'en suis sûr !
-
-//a shaman0 and another guy
-//alapittuk, muruaneq, qanir, aakka kikkitigaa? / Je ne comprends pas, il y a de la neige sur le sol et dans le ciel, pourquoi ne mourrons t-on pas de la morsure du froid ?
-//uqalaittuq unillarvik Sanna! / C'est vraiment la terre bénie de Sedna, j'en suis sûr !

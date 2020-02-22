@@ -1,6 +1,11 @@
 {
   "name": "epion",
-  "class": "com.lycanitesmobs.shadowmobs.entity.EntityEpion",
+  "creatureType": "beast",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityEpion",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelEpion",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -27,7 +32,7 @@
     "despawnNatural": true,
     "despawnForced": false
   },
-  "width": 0.8,
+  "width": 1.8,
   "height": 0.8,
   "experience": 10,
   "health": 15,
@@ -37,10 +42,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#553300",
   "eggForeColor": "#FF22DD",
@@ -54,13 +59,23 @@
       "index": 2,
       "name": "russet",
       "type": "uncommon"
+    },
+    {
+      "index": 3,
+      "name": "crimson",
+      "type": "rare"
     }
   ],
   "element": "void",
+  "diets": [
+    "carnivore",
+    "insectivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
-  "tameable": false,
-  "mountable": false,
+  "tameable": true,
+  "mountable": true,
   "summonCost": 6,
   "dungeonLevel": 1,
   "drops": [
@@ -77,12 +92,25 @@
       "chance": 0.5
     },
     {
-      "item": "shadowmobs:bloodleechcharge",
+      "item": "lycanitesmobs:bloodleechcharge",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.25
+      "chance": 1
+    },
+    {
+      "item": "lycanitesmobs:soulstoneshadow",
+      "minAmount": 1,
+      "maxAmount": 1,
+      "chance": 1,
+      "subspecies": 3
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "griefing",
+      "value": true
+    }
+  ]
 }

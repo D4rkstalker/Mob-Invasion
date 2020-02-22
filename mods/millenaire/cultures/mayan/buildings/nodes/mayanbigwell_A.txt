@@ -13,4 +13,4 @@ initial.priority=1000
 initial.pathlevel=1
 initial.tag=pathnode
 initial.irrigation=10
-
+initial.tag=leasure

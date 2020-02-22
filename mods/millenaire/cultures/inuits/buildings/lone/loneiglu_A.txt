@@ -28,3 +28,4 @@ initial.nativename=Iglu
 initial.translatedname=name_en,snow igloo
 initial.priority=13
 initial.male=inuit_lonefisherman
+initial.shop=lonefisherman

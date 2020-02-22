@@ -39,7 +39,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:reiver",
+      "mobId": "lycanitesmobs:reiver",
       "weight": 8
     }
   ]

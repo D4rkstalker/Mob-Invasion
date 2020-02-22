@@ -1,6 +1,11 @@
 {
   "name": "joustalpha",
-  "class": "com.lycanitesmobs.desertmobs.entity.EntityJoustAlpha",
+  "creatureType": "arthropod",
+  "groups": [
+    "alpha"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJoustAlpha",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelJoustAlpha",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,7 +22,8 @@
       "sandy",
       "wasteland",
       "mesa",
-      "-cold"
+      "-cold",
+      "-snowy"
     ],
     "spawnWeight": 1,
     "dungeonWeight": 0,
@@ -40,10 +46,10 @@
   "damage": 3,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#FF0000",
   "eggForeColor": "#FFFF00",
@@ -60,6 +66,9 @@
     }
   ],
   "element": "quake",
+  "diets": [
+    "exudativore"
+  ],
   "peaceful": true,
   "summonable": false,
   "tameable": false,
@@ -68,8 +77,8 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "desertmobs:joustmeatraw",
-      "burningItem": "desertmobs:joustmeatcooked",
+      "item": "lycanitesmobs:raw_joust_meat",
+      "burningItem": "lycanitesmobs:cooked_joust_meat",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

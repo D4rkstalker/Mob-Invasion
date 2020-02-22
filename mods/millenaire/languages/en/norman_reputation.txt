@@ -1,3 +1,5 @@
+//* The part before the ";" is the title, after it the description
+
 0;Stranger;We are wary of strangers around here, newcomer. But deal fairly with us and you will find people here hospitable.
 4*64;Familiarity;We have seen you around before, and no chickens seem to have gone missing. Continue this and we will get along.
 8*64;Known Face;You seem to have made a good impression on many of us.

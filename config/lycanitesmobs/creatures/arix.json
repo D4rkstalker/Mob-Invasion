@@ -1,6 +1,11 @@
 {
   "name": "arix",
-  "class": "com.lycanitesmobs.arcticmobs.entity.EntityArix",
+  "creatureType": "imp",
+  "groups": [
+    "frozen"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityArix",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelArix",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -43,8 +48,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
@@ -63,10 +68,16 @@
     }
   ],
   "element": "frost",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 1,
   "drops": [
@@ -83,10 +94,10 @@
       "chance": 0.25
     },
     {
-      "item": "arcticmobs:icefirecharge",
+      "item": "lycanitesmobs:icefireballcharge",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.25
+      "chance": 1
     }
   ],
   "sizeScale": 1,

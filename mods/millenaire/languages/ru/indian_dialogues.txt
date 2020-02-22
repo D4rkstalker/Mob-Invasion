@@ -1,4 +1,5 @@
 
+
 newchat;key:sun,tag:notraining,weigth:10
 v1;0;Kitni Garmi Hai! / Как же тут жарко!
 v2;30;Main is garmi se pagal ho gaya hoon. / Жара сводит меня с ума.
@@ -34,7 +35,7 @@ v1;120;Lekin shayad woh swadisht hai...? / Но что если оно вкус�
 v2;180;Kya tum normandi ke jungli ho? / Ты нормандский варвар?
 
 newchat;key:rice,v1:child,v2:adult,weigth:10
-v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / Я хочу разгуллу. Я очень голодна! 
+v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / Я хочу разгулу. Я очень голодна!
 v2;60;Nahi. Tumhe sirf chawal khaana chahiye. / Нет. Ты должна есть только рис.
 v1;120;Lekin maine subhah hi ye khaya hai! / Но утром я уже ела!
 v1;180;Aur kal bhi, parson bhi... / И вчера, и позавчера...
@@ -53,7 +54,7 @@ v1;120;Lekin ye mujhe chota lagne laga hai. / Но мне он кажется м
 newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
 v1;0;Ek shaktishali qila hamare dushmanon ke khilaaf sabse accha bachaav hai. / Сильная крепость - лучшая защита от наших врагов.
 v2;60;Kaun se dushman, senapati? / Какие враги, генерал?
-v1;100;Ye Norman aur anya jungli log. / Норманы и прочие варвары.
+v1;100;Ye Norman aur anya jungli log. / Норманны и прочие варвары.
 
 newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
 v1;0;Mere pati amir aur prasidh hai. / Мой муж богат и уважаем.
@@ -64,7 +65,7 @@ v2;160;Kyon nahi? Kal hi unhone tumhare liye teen sariyaan laayi thi. / Поче
 newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
 v1;0;Aaj mere pati ne mere liye 50 tola sona kharida. / Мой муж купил сегодня 50 тол золота.
 v2;60;50 tola sona! Mere paas sirf 10 tola sona hai... / 50 тол золота! У меня только 10 тол...
-v1;120;Aasha hai ki sitaare tumhare paksh mein honge. / Будем надеяться, что звёзды выстрояться в Вашу милость.
+v1;120;Aasha hai ki sitaare tumhare paksh mein honge. / Будем надеяться, что звёзды выстроятся в Вашу милость.
 
 newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
 v1;0;Mujhe pratimaon banane ka achha mauka mila hai. / У меня есть отличная возможность сделать статуи.
@@ -122,3 +123,21 @@ v1;0;Mere paas bahut saare dost hai.         / У меня есть много �
 
 newchat;key:childoneliner3,v1:child,v2:child,weigth:10
 v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. / Моя мама не разрешает мне играть после наступления темноты.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Привет!
+v2;50;Kya tumane dekha? / Ты видел это?
+v1;100;Kya dekhoon? / Видел что?
+v2;150;Mainne dekha ... ek zombee! / Я видел... зомби!
+v1;200;Vaastav mein? / В самом деле?
+v2;250;Haan! Yah bahut daraavana tha! Usane mujhe yah bhee bataaya ki yah aapako khaega! / Да! Это было так страшно! Он даже сказал мне, что съест тебя!
+v1;300;Ahhhhh! Maan! Ek zombee mujhe khaane ja raha hai! / Ааааа! Мамочка! Зомби собирается съесть меня!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Привет!
+v2;50;Kya tumane dekha? / Ты видел это?
+v1;100;Kya dekhoon? / Видел что?
+v2;150;Mainne dekha ... ek creeper! / Я видел... крипера!
+v1;200;Vaastav mein? /  Правда?
+v2;250;Haan! Yah bahut daraavana tha! yah vahaan ek ped uda diya! / Да! Это было так страшно! Он взорвал дерево вон там!
+v1;300;Lekin ruko, mera pasandeeda ped vahaan par tha ... waaaaaaa / Но подожди, моё любимое дерево было как раз там... Ааааааа

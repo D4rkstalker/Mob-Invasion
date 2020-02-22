@@ -1,3 +1,4 @@
+
 startup.loadproblem=Es gab einen Fehler beim Versuch <0> zu laden.
 startup.checkload=Überprüfen Sie, das dass Kulturen Verzeichnis im Millenaire Verzeichnis unter dem Minecraft Verzeichnis liegt.
 startup.millenaireloaded=<0> wurde geladen. Erkunde die Welt und drücke '<1>' um Dörfer zu lokalisieren.
@@ -7,7 +8,6 @@ startup.devmode1=Entwickler Modus aktiv. Dieser Modus ist gedacht um Millénaire
 startup.devmode2=Um ihn zu deaktivieren, gehe in den "millenaire-custom" Ordner und entferne die zeile "devmode".
 startup.outdatedversion=Du spielst Version <0> von Millénaire. Version <1> ist verfügbar mit Änderungen wie <2>. Du kannst sie von www.millenaire.org herunterladen.
 startup.outdatedversiondev=Du spielst die Testversion <0> von Millénaire. Testversion <1> ist verfügbar, mit Änderungen wie <2>. Du kannst sie von www.millenaire.org herunterladen.
-
 command.nogenerate=<0> wird keine weiteren Dörfer in neuen Chunks in der Welt erstellen.
 command.willgenerate=<0> wird weitere Dörfer in neuen Chunks in der Welt erstellen.
 command.astarpathing=Nutze A* Wegfindung
@@ -25,16 +25,16 @@ command.newvillagefound=Neues Dorf entdeckt: <0> des Typs <1> vom Volk <2> ist <
 command.newvillagefoundtranslated=New village located: <0> des Typs <1> (<5>) und Kultur <2> ist <3> Meter <4>.
 command.newlonebuildingfound=Neues Gebäude entdeckt: <0> ist <1> Meter <2>.
 command.pathrebuild=Die Karte und die Wegfindung von <0> wurde neu geladen.
-
-command.renamevillage_explanations=Dieser Befehl benötigt den neuen Dorfnamen als erstes Argument und optional eine Kennzeichnung als zweites Argument.
-command.renamevillage_notplayer=Dieser Befehl muss von einem Admin ausgeführt werden (er wird auf das nächste Dorf angewendet).
-command.renamevillage_noclosevillage=Kein Dorf innerhalb 50 Metern gefunden.
 command.renamevillage_notification=<0> benannte Dorf <1> um in <2>.
-
 command.listactivevillages_list=Dorf <0> ist aktiv. Es kennt <1> Dorfbewohner (<2> in den Archiven). Innerhalb der letzten 20 Ticks, dauerte es <3> Mikrosekunden um Gebäude zu verarbeiten und <4> Mikrosekunden um Dorfbewohner zu verarbeiten. Aktivgehalten von: <5>.
-
-
-//Text used in various UI parts, in no specific order:
+command.tp_nomatchingvillage=Kein passendes Dorf gefunden.
+command.tp_multiplematchingvillages=<0> passende Dörfer gefunden.
+command.giverep_notification=<0> hat den Ruf von <1> in Dorf <3> um <2> verbessert.
+command.importculture_importingbuilding=Importiere Gebäude <0>
+command.spawnvillage_unknownvillage=Unbekannter Dorftyp: <0>
+command.switchcontrol_notcontrolled=Das Dorf <0> ist kein kontrolliertes Dorf.
+command.switchcontrol_playernotfound=Kann Spieler <0> nicht finden. Er muss dieser Welt mindestens einmal beigetreten sein bevor du ihm die Kontrolle über ein Dorf übergeben kannst.
+command.switchcontrol_notification=<0> hat die Kontrolle über das Dorf <3> von Spieler <1> an Spieler <2> übergeben.
 ui.lockedchest=Verschlossene Truhe
 ui.largelockedchest=Große verschlossene Truhe
 ui.unlockedchest=Geöffnete Truhe
@@ -47,6 +47,10 @@ ui.missingequipment=Fehlende Ausstattung
 ui.noneininventory=Du hast keins in Deinem Inventar.
 ui.selling=Verkauf
 ui.buying=Ankauf
+ui.donatinggoods=Verschenken
+ui.repgain=Ruf verbessert sich um <0>
+ui.trade_donation=Ware verschenken (keine Bezahlung, Ruf verbessert sich stark)
+ui.trade_buying=Ware verkaufen (Bezahlung, Ruf verbessert sich leicht)
 ui.buybuilding=Kauf <0> (<1>)
 ui.buybonusbuilding=Bonus anfordern: <0>
 ui.sellercoming=<0>: Ich bin gleich da, $name!
@@ -75,6 +79,7 @@ ui.clicktorequest=Klicken um anzufordern
 ui.scrollbought=<0>: Du bist jetzt vertraut mit der Schriftrolle unseres Dorfes!
 ui.housebought=<0>: Der Bau Deines <1> wird in Kürze beginnen!
 ui.inhabitantof=Einwohner von <0>
+ui.resources=Ressourcen
 ui.inconstruction=Im Bau
 ui.nospace=Nicht genug Platz
 ui.reservedforvillager1=reserviert
@@ -89,15 +94,17 @@ ui.exports=Exporte
 ui.import_total=Gesamt Importe: <0>
 ui.export_total=Gesamt Exporte: <0>
 ui.merchants=Händler:
+ui.visitors=Besucher:
 ui.goalscompleted1=Alle Gebäude
 ui.goalscompleted2=Ziele erreicht
 ui.project=Projekt
 ui.noconstruction1=Keine Konstruktion
 ui.noconstruction2=in Arbeit
+ui.xconstructions=<0> wird gebaut
 ui.upgrading=Erweitere (<0>)
-ui.construction=Konstruktion <0>:
 ui.population=Bevölkerung:
 ui.populationnumber=Bevölkerung: <0>
+ui.welcometo=Willkommen in
 ui.adults=Erwachsene: <0> (<1>/<2>)
 ui.teens=Jugendliche: <0> (<1>/<2>)
 ui.children=Kinder: <0> (<1>/<2>)
@@ -186,19 +193,20 @@ ui.cropnotenoughmoney=Um das Anpflanzen von <0> zu lernen, fehlt Dir <1>.
 ui.cropoktolearn=Die Dorfbewohner können Dich lehren, <0> anzupflanzen.
 ui.croplearn=Lerne (<0>)
 ui.croplearned=<0>: Dir wurden die Mysterien der Kultivierung von <1> enthüllt!
+ui.huntingdropsknown=Jagdtechniken, die dieser Kultur bekannt sind
+ui.huntingdrop.wolfmeat_raw=Wolfsfleisch
 ui.crop.rice=Reis
 ui.crop.turmeric=Gelbwurz
 ui.crop.maize=Mais
 ui.crop.grapes=Trauben
 ui.raider=Plünderer
-
 ui.communicationexplanations=Um mit den Dorfbewohnern zu sprechen, klicke sie mit der rechten Maustaste an. Wenn eine Interaktion mit dem Dorfbewohner möglich ist, (Handel, Diskussion mit dem Dorfoberhaupt, ihn zeitweilig anheuern oder eine Quest beginnen) öffnet sich ein Fenster.
 ui.helpbutton=Millénaire Hilfe
 ui.chunkbutton=Karte des Gebiets
 ui.configbutton=Einstellungen
+ui.travelbookbutton=Reisehandbuch
 ui.serverimportforbidden=Nur Administratoren können Gebäude auf einen Server importieren.
 ui.inhabitants=Einwohner
-
 ui.controldiplomacy=Diplomatie
 ui.raidinprogress=Überfall im Gange!
 ui.otherraidinprogress=Anderer Überfall im Gange.
@@ -209,7 +217,6 @@ ui.relgood=hervorragend
 ui.relneutral=neutral
 ui.relbad=Konflikt
 ui.raid=Planen einen Überfall
-
 ui.custombuilding_confirm=Bestätige die Erschaffung eines selbst erstellten Gebäudes: <0>
 ui.custombuilding_cantconfirm=Unmöglich selbst erstelltes Gebäude zu erschaffen: <0>
 ui.custombuilding_edit=Aktualisiere das selbst erstellte Gebäude: <0>
@@ -220,7 +227,8 @@ ui.custombuilding_signnumber=Notiz: Du kannst die Reihenfolge in der die Schilde
 ui.custombuilding_radius=Ressourcen sind innerhalb eines Radius von <0> Blöcken (<1> Blöcke vertikal)
 ui.close=Schliessen
 ui.confirm=Fortfahren
-
+ui.ulunoplanks=Du hast keine Holzbretter mehr in deinem Inventar.
+ui.ulunodirt=Du hast keine grobe Erde mehr in deinem Inventar.
 custombuilding.chest=Truhe
 custombuilding.craft=Werkbank
 custombuilding.sign=Schild
@@ -236,8 +244,6 @@ custombuilding.fishing=hellblaue Wolle (wird zerstört; zeigt an wo Dorfbewohner
 custombuilding.silk=weiße Wolle (wird zerstört; zeigt an wo Seidenraupenblöcke sein werden)
 custombuilding.squid=blue wool (wird zerstört; zeigt an wo Tintenfische spawnen; muss von Wasser umgeben sein)
 custombuilding.cacao=Kakaobohne
-
-
 help.tab_1=Allgemeines zu Dörfern
 help.tab_2=Handel
 help.tab_3=Ruf und Dorfoberhaupt
@@ -251,8 +257,6 @@ help.tab_10=Die Maya
 help.tab_11=Die Japaner
 help.tab_12=Die Byzantiner
 help.tab_13=FAQ (Häufig gestellte Fragen)
-
-
 quest.obtained=Erhalten
 quest.lackingcondition=Dir fehlt:
 quest.lackinghiddengoods=Du hast nicht die Materialien die Du für diese Aufgabe benötigst.
@@ -267,20 +271,14 @@ quest.hours=Stunde(n)
 quest.noquestsvisible=Keine auflistbaren Quests in Arbeit
 quest.questlist=Quests in Arbeit
 quest.reputationlost=Ruf verloren
-
 quest.creationqueststatus=Erschaffungs Quest Status
 quest.creationqueststatusshort=Erschaffungs Quest:
-
 quest.cqchaptersadhu=Der Sadhu
 quest.cqsadhustartexplanation=Finde einen Dorfbewohner der dich leiten kann, in einem indischen Dorf, in dem du wenigstens den Status "Freund des Dorfes" hast um diese Quest zu starten.
-
 quest.cqchapteralchemist=Der Alchemist
 quest.cqalchemiststartexplanation=Finde einen Dorfbewohner der dich leiten kann, in einem normannischen Dorf, in dem du wenigstens den Status "Freund des Dorfes" hast um diese Quest zu starten.
-
 quest.cqchapterfallenking=Der gestürzte König
 quest.cqfallenkingstartexplanation=Finde einen Schamanen der dich leiten kann, in einem Dorf der Maya, in dem du wenigstens den Status "Freund des Dorfes" hast um diese Quest zu starten.
-
-
 quest.cqallcompleted=Gratulation, Du hast alle verfügbaren Aufgaben der "Erschaffungs Quest" erfüllt!
 quest.cqcheckforupdates=Prüfe www.millenaire.org für zukünftige Updates mit mehr Aufgaben.
 quest.cqchapternotstarted=Du hast Kapitel "<0>" nicht begonnen.
@@ -290,17 +288,9 @@ quest.cqchapternotstartedshort=Kapitel "<0>": nicht gestartet.
 quest.cqchapterinprogressshort=Kapitel "<0>": <1>/<2>.
 quest.cqchaptercompletedshort=Kapitel "<0>": beendet.
 quest.cqcheckquestlistandhelp=Drücke '<0>' für weitere Informationen oder um die Millenaire Hilfe aufzurufen.
-
-
-
 error.unknownitem=Unbekannter Item Name
 error.backwardtime=Welt Zeit ist von <0> auf <1> gesetzt worden! Die zeit zurückzusetzten (beim nutzen von "/time set" z.B.) wird Millénaire zerstören.
-
-
-//Errors
-ui.updateEntity=Fehler in TileEntityBuilding.updateEntity(). Prüfe die millenaire.log.
-
-//Panels & parchments
+ui.updateentity=Fehler in TileEntityBuilding.updateEntity(). Prüfe die millenaire.log.
 panels.notextfound=Kein Text für dieses Buch gefunden: <0>
 panels.invalidid=Falsche Dorf ID.
 panels.toofar=Das Dorf ist zu weit weg um die Aufzeichnungen zu lesen.
@@ -348,6 +338,7 @@ panels.maplightblue=Hellblau: Wasser.
 panels.mapbrown=Braun: andere Bereiche (Außerhalb, Höhe, etc.)
 panels.unreachablebuilding=unerreichbar!
 panels.merchantlist=Händlerliste
+panels.visitorlist=Besucherliste
 panels.capacity=Kapazität
 panels.nbnightsin=In dem Dorf seit <0> Nacht / Nächten.
 panels.storedexports=<0> lagerte folgende Waren für den Export: <1>
@@ -385,100 +376,121 @@ panels.nameand=<0> und
 panels.buildingproject=Aktuelles Projekt:
 panels.currentconstruction=Aktueller Bau:
 panels.villagesummary=Wichtige Informationen
-
-//Goals (text displayed above the villager when he is doing it)
-goal.goonpilgrimage=Begibt sich auf Pilgerreise
 goal.gorest=Ruht sich aus
 goal.godrink=Trinkt etwas
 goal.gopray=Betet
-goal.GatherGoods=Sammelt Waren
-goal.BringBackResourcesHome=Bringt Rohstoffe nach Hause
-goal.GetTool=Holt Werkzeug
-goal.huntMonster=Bekämpft Monster
-goal.getGoodsHousehold=Holt Haushaltswaren
-goal.DeliverGoodsHousehold=Liefert Haushaltswaren
-goal.GetHouseTHResources=Holt Rohstoffe aus dem Haus
-goal.DeliverResourcesShop=Liefert Rohstoffe
+goal.gathergoods=Sammelt Waren
+goal.bringbackresourceshome=Bringt Rohstoffe nach Hause
+goal.gettool=Holt Werkzeug
+goal.huntmonster=Bekämpft Monster
+goal.getgoodshousehold=Holt Haushaltswaren
+goal.delivergoodshousehold=Liefert Haushaltswaren
+goal.gethousethresources=Holt Rohstoffe aus dem Haus
+goal.deliverresourcesshop=Liefert Rohstoffe
 goal.raidvillage=Überfällt ein Dorf
 goal.defendvillage=Verteidigt das Dorf
 goal.hide=Sucht Schutz
 goal.tendfurnace=Hütet Ofen
-
-goal.CollectCrop=Erntet
-goal.PlantSeeds=Pflanzt Samen
-goal.ChopTrees=Fällt Bäume
-goal.PlantSaplings=Pflanzt Setzlinge
-goal.GetResourcesForBuild=Holt Rohstoffe für Konstruktion
-goal.MakeBread=Backt Brot
-goal.BeSeller=Handelt mit dem Spieler
-goal.MakeCider=Keltert Cidre
-goal.MakeCalva=Brennt Calva
-goal.Construction=Baut
-goal.GoPlay=Geht spielen
-goal.BecomeAdult=Zieht ein
+goal.takefrombuilding=Hole Rohstoffe aus dem Haus
+goal.collectcrop=Erntet
+goal.plantseeds=Pflanzt Samen
+goal.choptrees=Fällt Bäume
+goal.plantsaplings=Pflanzt Setzlinge
+goal.getresourcesforbuild=Holt Rohstoffe für Konstruktion
+goal.makebread=Backt Brot
+goal.makecake=Backe Kuchen
+goal.makesugar=Stelle Zucker her
+goal.beseller=Handelt mit dem Spieler
+goal.makecider=Keltert Cidre
+goal.makecalva=Brennt Calva
+goal.construction=Baut
+goal.goplay=Geht spielen
+goal.becomeadult=Zieht ein
 goal.childobserve=Beobachtet Erwachsenen
 goal.childeatgrapes=Isst Weintrauben
 goal.childeatsugarcane=Isst Zuckerrohr
 goal.childeatapple=Isst einen Apfel
 goal.childeatcacaobeans=Isst Kakaobohnen
-
-goal.MakeNormanTools=Stellt Werkzeuge her
-goal.MakeNormanWeapons=Schmiedet Waffen
-goal.Patrol=Schiebt Wachdienst
-goal.Butcher=Schlachtet Tiere
-goal.MakeBoudin=Kocht Boudin
-goal.MakeTripes=Kocht Tripes
-goal.Mining=Schürft
-goal.Cooking=Brennt Rohstoffe
-goal.MakeBooks=Stellt Pergamente her
-goal.MakeTapestry=Knüpft Wandteppiche
-goal.VisitInn=Geht in die Schenke
-goal.VisitBuilding=Geht in einen Laden
-goal.MakeAmulet=Stellt ein Amulett her
-goal.KeepStall=Betreibt Marktstand
-goal.MakeTimberFrame=Stellt Fachwerk her
-
-goal.DryBrick=Ziegel zum trocknen herstellen
-goal.GatherBrick=sammelt trockene Ziegel
-goal.CookBrick=Brennt Ziegel
-goal.PlantRice=Pflanzt Reis an
-goal.HarvestRice=Erntet Reis
-goal.PlantTurmeric=Pflanzt Gelbwurz an
-goal.HarvestTurmeric=Erntet Gelbwurz
-goal.SlaughterChicken=Schlachtet Hühner
-goal.PlantSugarCane=Pflanzt Zuckerrohr
-goal.HarvestSugarCane=Erntet Zuckerrohr
-goal.MakeRasgulla=Kocht Rasgulla
-goal.Makesteelaxe=Schmiedet eine Stahlaxt
-goal.Makesteelpickaxe=Schmiedet eine Stahlspitzhacke
-goal.Makesteelshovel=Schmiedet eine Stahlschaufel
-goal.Makesteelhoe=Schmiedet eine Stahlhacke
-goal.Makesteelsword=Schmiedet ein Stahlschwert
-
+goal.makenormanaxe=Schmiede eine normannische Axt
+goal.makenormanhoe=Schmiede eine normannische Hacke
+goal.makenormanpickaxe=Schmiede eine normannische  Spitzhacke
+goal.makenormanshovel=Schmiede eine normannische Schaufel
+goal.makenormanboots=Schmiede normannische Stiefel
+goal.makenormanhelmet=Schmiede einen normannischen Helm
+goal.makenormanlegs=Schmiede einen normannischen Beinschutz
+goal.makenormanplate=Schmiede einen normannischen Brustpanzer
+goal.makenormansword=Schmiede ein normannisches Schwert
+goal.patrol=Schiebt Wachdienst
+goal.butcher=Schlachtet Tiere
+goal.makeboudin=Kocht Boudin
+goal.maketripes=Kocht Tripes
+goal.mineclay=Sammelt Ton
+goal.minegravel=Sammelt Kies
+goal.minesand=Sammelt Sand
+goal.minesandstone=Baut Sandstein ab
+goal.mineredsandstone=
+goal.minestone=Baut Stein ab
+goal.cooking=Brennt Rohstoffe
+goal.makebooks=Stellt Pergamente her
+goal.maketapestry=Knüpft Wandteppiche
+goal.visitinn=Geht in die Schenke
+goal.visitbuilding=Geht in einen Laden
+goal.makeamulet=Stellt ein Amulett her
+goal.keepstall=Betreibt Marktstand
+goal.maketimberframe=Stellt Fachwerk her
+goal.drybrick=Ziegel zum trocknen herstellen
+goal.gatherbrick=sammelt trockene Ziegel
+goal.cookbrick=Brennt Ziegel
+goal.plantrice=Pflanzt Reis an
+goal.harvestrice=Erntet Reis
+goal.plantturmeric=Pflanzt Gelbwurz an
+goal.harvestturmeric=Erntet Gelbwurz
+goal.slaughterchicken=Schlachtet Hühner
+goal.plantsugarcane=Pflanzt Zuckerrohr
+goal.harvestsugarcane=Erntet Zuckerrohr
+goal.makerasgulla=Kocht Rasgulla
+goal.makesteelaxe=Schmiedet eine Stahlaxt
+goal.makesteelpickaxe=Schmiedet eine Stahlspitzhacke
+goal.makesteelshovel=Schmiedet eine Stahlschaufel
+goal.makesteelhoe=Schmiedet eine Stahlhacke
+goal.makesteelsword=Schmiedet ein Stahlschwert
+goal.makecauldron=Stellt Kessel her
 goal.makesteelchest=Schmiedet einen Stahlbrustpanzer
 goal.makesteelhelmet=Schmiedet einen Stahlhelm
 goal.makesteellegs=Schmiedet stählerne Hosen
 goal.makesteelboots=Schmiedet stählerne Stiefel
-
 goal.makeindianstatue=Schnitzt eine Statue
 goal.performpujas=Praktiziere die Puja
 goal.bepujaperformer=Verfügbar für Pujas
 goal.performsacrifices=Bringt ein Opfer dar
 goal.besacrificeperformer=Verfügbar für Opferungen
-
-goal.PlantMaize=Pflanzt Mais
-goal.HarvestMaize=Erntet Mais
-goal.makemayanGoldBlock=Stellt Golddekor her
+goal.plantmaize=Pflanzt Mais
+goal.harvestmaize=Erntet Mais
+goal.makemayangoldblock=Stellt Golddekor her
 goal.makemayanstatue=Schnitzt eine Statue
-goal.Makestoneaxe=Baut eine Steinaxt
-goal.Makestonepickaxe=Baut eine Steinspitzhacke
-goal.Makestoneshovel=Baut eine Steinschaufel
-goal.Makestonehoe=Baut eine Steinhacke
-goal.Makestonesword=Baut ein Steinschwert
+goal.makewoodenaxe=Baut eine Holzaxt
+goal.makewoodenpickaxe=Baut eine Holzspitzhacke
+goal.makewoodenshovel=Baut eine Holzschaufel
+goal.makewoodenhoe=Baut eine Holzhacke
+goal.makewoodensword=Baut ein Holzschwert
+goal.makewoodenaxeinuit=Baut eine Holzaxt
+goal.makewoodenpickaxeinuit=Baut eine Holzspitzhacke
+goal.makewoodenshovelinuit=Baut eine Holzschaufel
+goal.makewoodenhoeinuit=Baut eine Holzhacke
+goal.makewoodenswordinuit=Baut ein Holzschwert
+goal.makestoneaxe=Baut eine Steinaxt
+goal.makestonepickaxe=Baut eine Steinspitzhacke
+goal.makestoneshovel=Baut eine Steinschaufel
+goal.makestonehoe=Baut eine Steinhacke
+goal.makestonesword=Baut ein Steinschwert
 goal.makeleatherboots=Stellt ein Paar Lederstiefel her
 goal.makeleatherchest=Stellt einen Lederbrustpanzer her
 goal.makeleatherhelmet=Stellt einen Lederhelm her
 goal.makeleatherlegs=Stellt Lederhosen her
+goal.makefurboots=Macht Fellschuhe
+goal.makefurplate=Macht einen Pelzmantel
+goal.makefurhelmet=Macht einen Pelzhut
+goal.makefurlegs=Macht Pelzhosen
 goal.makemayanaxe=Baut eine Obsidianaxt
 goal.makemayanpickaxe=Baut eine Obsidianspitzhacke
 goal.makemayanshovel=Baut eine Obsidianschaufel
@@ -488,8 +500,8 @@ goal.makeobsidianflake=Zerbricht Obsidian in Splitter
 goal.harvestcocoa=Pflückt Kakao
 goal.plantcocoa=Pflanzt Kakao
 goal.makecacauhaa=Bereitet Cacauhaa zu
-
 goal.fish=Angelt
+goal.fishinuit=Fischt
 goal.makethatch=Stellt Reet her
 goal.makepaper=Stellt Papier her
 goal.makepaperrice=Stellt Papier her
@@ -505,26 +517,22 @@ goal.maketachi=Schmiedet ein Tachi Schwert
 goal.makejapaneseweapons=Stellt Japanische Waffen her
 goal.makesake=Brennt Sake
 goal.slaughtersquid=Angelt Tintenfisch
-
 goal.shoveldirt=Schaufelt Erde
 goal.makecarving=Schnitzt Statue
 goal.packsnow=Schichtet Schnee
-goal.packOakSod=Verpackt Eichentorf
-goal.packSpruceSod=Verpackt Tannentorf
-goal.packBirchSod=Verpackt Brikentorf
-goal.packJungleSod=Verpackt Jungletorf
-goal.plantPotatoHome=Pflanzt Kartoffeln
-goal.cookPotato=Kocht Kartoffeln
-goal.harvestPotatoHome=Erntet Kartoffeln
+goal.packoaksod=Verpackt Eichentorf
+goal.packsprucesod=Verpackt Tannentorf
+goal.packbirchsod=Verpackt Brikentorf
+goal.packjunglesod=Verpackt Jungletorf
+goal.plantpotatohome=Pflanzt Kartoffeln
+goal.cookpotato=Kocht Kartoffeln
+goal.harvestpotatohome=Erntet Kartoffeln
 goal.packsnowblock=Verpackt Schnee
 goal.carveice=Schnitzt Eis
-
-
 goal.brewpotions=Braut Zaubertränke
 goal.harvestwarts=Erntet Netherwarzen
 goal.makeglassbottles=Gießt Glasflaschen
 goal.plantwarts=Pflanzt Netherwarzen
-
 goal.plantvines=Pflanzt Weinstöcke
 goal.harvestvines=Erntet Weintrauben
 goal.gathersilk=Sammelt Seide
@@ -541,15 +549,11 @@ goal.makebyzantinechest=Schmiedet eine byzantinische Brustplatte
 goal.makebyzantinelegs=Schmiedet ein Paar byzantinische Hosen
 goal.makebyzantinehelmet=Schmiedet einen byzantinischen Helm
 goal.makebyzantineboots=Schmiedet ein Paar byzantinische Stiefel
-
 goal.makebow=Baut einen Bogen
 goal.makerottenflesh=Stellt verrotetes Fleisch her
 goal.makearrow=Baut Pfeile
-
 goal.sleep=Schläft
 goal.sleep_travelling=Geht ins Bett
-
-
 goal.makeclothes_byz_wool=Webt Kleidung
 goal.makemasa=Kocht Masa
 goal.slaughterpig=Schlachtet ein Schwein
@@ -563,22 +567,30 @@ goal.breed=Züchtet Tiere
 goal.shearsheep=Schert ein Schaf
 goal.makemurgh=Kocht Murgh Curry
 goal.getitemtokeep=Hebt einen Gegenstand auf
-
 goal.buildpath=Baut einen Weg
 goal.clearoldpath=Reisst einen alten Weg ab
-
 goal.gosocialise=Plaudert gerade
 goal.chat=Plaudert
-
 goal.makedirtwall=Stellt Matschmauern her
 goal.makepath=Stellt Wegblöcke her
-
 goal.makechiseledstone=Meißelt Steine
 goal.makestainedglass=Macht buntes Glas
-
+goal.makecarpet=Webt einen Teppich
+goal.makebonemeal=Macht Knochenmehl
+goal.collectflowers=Pflückt Blumen
+goal.dyewool=Färbt Wolle
+goal.plantflowers=Pflanzt Blumen
+goal.makestrawbed=Stellt ein Strohbett her
 goal.inspectconstruction=Beaufsichtigt Konstruktion
-
-//other
+goal.goonpilgrimage=Begibt sich auf Pilgerreise
+goal.goholdaservice=Hält einen Gottesdienst
+goal.goplayorgan=Spielt Orgel
+goal.cook_potato=Kocht Kartoffeln
+goal.makestonecauldron=Stellt einen Kessel her
+goal.plantsaplingappletree=Pflanzt einen Apfelbaum
+goal.gatherciderapples=Pflückt Cidreäpfel
+goal.mining=Schürft
+goal.makebanner=Macht ein Banner
 other.west=Westen
 other.east=Osten
 other.north=Norden
@@ -587,7 +599,6 @@ other.north-west=Nord-West
 other.south=Süden
 other.south-east=Süd-Ost
 other.south-west=Süd-West
-
 other.tothewest=im Westen
 other.totheeast=im Osten
 other.tothenorth=im Norden
@@ -596,32 +607,23 @@ other.tothenorth-west=im Nord-Westen
 other.tothesouth=im Süden
 other.tothesouth-east=im Süd-Osten
 other.tothesouth-west=im Süd-Westen
-
 other.west_short=W
 other.east_short=O
 other.north_short=N
 other.south_short=S
 other.shortdistancedirection=<0>m <1>
-
 other.metre=Meter
 other.kilometre=Kilometer
 other.andhalf=einhalb
-
 other.directionshort=<1> <0>
 other.exploredbuilding=Du hast ein Gebäude entdeckt: <0>.
-
 other.malevillager=Millénaire Dorfbewohner
 other.femalevillager=Millénaire Dorfbewohnerin
-
 other.buildinghealing=<0> heilt Dich.
-
-
 other.localmerchantinteract=Dieser Händler ist ein örtlicher Händler. Er Transportiert Güter zwischen den Dörfern hin und her. Du kannst mit ihm nicht interagieren.
-
 other.chattosomeone=<0> mit <1>
-
 other.villagerattackinglabel=Greift <0> an
-
+other.largebuildinggeneration=Millénaire generiert gerade ein sehr großes Gebäude: <0>. Das könnte das Spiel für ein paar Sekunden anhalten.
 hire.health=Gesundheit
 hire.strength=Stärke
 hire.cost=Kosten (pro Tag)
@@ -639,46 +641,31 @@ hire.hireover=Die Anstellung von <0> ist beendet. Er kehrt in sein Dorf zurück.
 hire.hiredied=<0> ist gestorben. Er wird in seinem Dorf wiederauferstehen und seine Anstellung wurde beendet.
 hire.hiredbyotherplayer=<0> wurde bereits von <1> angeheuert.
 hire.hiredby=Angeheuert von <0>
-
 actions.forest_success=Du hast den Wald erfolgreich erkundet.
 actions.forest_continue=Du hast <0>% die Walderkundung abgeschlossen.
-
 actions.desert_success=Du hast die Wüste erfolgreich erkundet.
 actions.desert_continue=Du hast <0>% die Wüstenerkundung abgeschlossen.
-
 actions.mountain_success=Du hast das Gebirge erfolgreich erkundet.
 actions.mountain_continue=Du hast <0>% die Gebirgserkundung abgeschlossen.
-
 actions.underwaterglass_success=Du hast erfolgreich ein Tiefsee Beobachtungsfenster gebaut.
 actions.underwaterglass_notdeepenough=Der See ist nicht tief genug an dieser Stelle.
-
 actions.underwaterdive_success=Du hast erfolgreich einen Tiefseetauchgang absolviert.
-
 actions.bottomoftheworld_success=Es scheint so als könntest Du nicht weiter nach unten graben. Das muss der Grund der Welt sein!
-
 actions.topoftheworld_success=Es scheint, als könntest Du nicht höher hinaus. Sicherlich ist das Dach des Himmels.
-
 actions.borehole_nblineok=<0> Bedrock Blöcke erfolgreich dem Himmel ausgesetzt. Du brauchst 25 in einem 5x5 Feld.
 actions.borehole_success=Du hast erfolgreich ein Bohrloch gegraben!
-
 actions.boreholetnt_success=Genug TNT wurde platziert. Du kannst es jetzt detonieren lassen.
 actions.boreholetnt_nbtnt=<0> TNT Blöcke wurden Platziert und mit Obsidian eingehüllt. Du brauchst insgesamt 20.
-
 actions.boreholetntlit_success=Du hast das TNT entzündet. Beobachte die Ergebnisse und erstatte dem Alchemisten Bericht.
-
 actions.thevoid_success=Du hast in die Leere gestarrt!
-
 actions.enchantmenttable_success=Du hast einen Verzauberungstisch in der Nähe des Sadhu gebaut.
-
 actions.mayan_siege_start=Die Pyramide wird angegriffen! <0> Ghasts, <1> Lohen und <2> Skelette greifen an. Töte sie.
 actions.mayan_siege_success=Du hast die Streitmacht, welche die Pyramide angriff zurückgeschlagen!
 actions.mayan_siege_update=<0> Ghast(s), <1> Lohe(n) und <2> Skelett(e) verbleibend.
-
 info.culturetitle=Kulturen
 info.culture=<0> Kultur
 info.culturereputation=Ruf: <0>
-info.culturelanguage=Sprachstufe: <0> 
-
+info.culturelanguage=Sprachstufe: <0>
 culturereputation.scourgeofgod=Geißel Gottes
 culturereputation.dreadful=Schrecklich
 culturereputation.bad=Böse
@@ -687,35 +674,27 @@ culturereputation.excellent=Hervorragend
 culturereputation.good=Gut
 culturereputation.decent=Ehrbar
 culturereputation.neutral=Neutral
-
 culturelanguage.fluent=Fließend
 culturelanguage.moderate=Mäßig
 culturelanguage.beginner=Anfänger
 culturelanguage.minimal=Minimal
-
-
 weapon.criticalstrike=Kritischer Treffer! <0>x Schaden!
-
-negationwand.villagelocked=<0> ist noch blockiert. Du musst alle Erwachsenen töten, bevor Du es zerstören kannst. 
+negationwand.villagelocked=<0> ist noch blockiert. Du musst alle Erwachsenen töten, bevor Du es zerstören kannst.
 negationwand.confirmmessage=Bist Du Dir sicher, das Du <0> zerstören willst? Wenn Du das machst, bleiben die Gebäude erhalten, aber alle Dorfbewohner werden dauerhaft verschwinden.
 negationwand.confirm=Bestätigen
 negationwand.cancel=Abbrechen
 negationwand.destroyed=Das Dorf <0> wurde zerstört! Seine Gebäude stehen nun leer und kein Dorfbewohner kehrt je zurück.
-
 relation.excellent=hervorragend
 relation.verygood=sehr gut
 relation.good=gut
 relation.decent=mäßig
 relation.fair=gerecht
-
 relation.openconflict=im offenen Konflikt!
 relation.atrocious=grauenhaft
 relation.verybad=sehr schlecht
 relation.bad=schlecht
 relation.chilly=kühl
-
 relation.neutral=neutral
-
 raid.planningstarted=<0> denkt daran, einen Überfall auf <1> zu planen.
 raid.started=<0> hat einen Überfall auf <1> gestartet! <2> Krieger sind auf dem Weg.
 raid.raidsuccesfull=<0> hat <1> erfolgreich überfallen und <2> Waren gestohlen!
@@ -725,7 +704,6 @@ raid.historysuccess=Erfolgreich <0> überfallen. Beute: <1>
 raid.historyraided=Überfallen worden von <0>. Verlust: <1>
 raid.historyfailure=Ein Überfall auf <0> ist fehlgeschlagen.
 raid.historydefended=Schlug den Überfall von <0> erfolgreich zurück.
-
 hof.hof=Ruhmeshalle
 hof.modcreator=Mod Entwickler
 hof.creatorofmayan1=Schöpfer der
@@ -736,7 +714,6 @@ hof.creatorofbyzantine1=Schöpfer der
 hof.creatorofbyzantine2=Byzantischen Kultur
 hof.creatorofindianskins1=Schöpfer der
 hof.creatorofindianskins2=Indische NPC Texturen
-
 hof.skinmaker=Textur Macher
 hof.buildingmaker=Gebäude Architekt
 hof.wikiadmin=Wiki Administrator
@@ -768,7 +745,6 @@ hof.gradlebuild2=Gradle Build
 hof.112testing=Testen für 1.12
 hof.communitywork=Gemeinschaftsarbeit
 hof.development=Entwicklung
-
 pujas.invanme=Pujas
 pujas.panditfee=Pandit's Gebühr
 pujas.offering=Angebot
@@ -776,48 +752,33 @@ pujas.god0=An Hanuman - für Schnelligkeit
 pujas.god1=An Shiva - für Stärke
 pujas.god2=An Lakshmi - für Glück
 pujas.god3=An Ganesh - für Geschicklichkeit
-pujas.priestcoming=<0>: Möchtest Du ein Gebet sprechen? Deine Hingabe ist bewundernswert! 
+pujas.priestcoming=<0>: Möchtest Du ein Gebet sprechen? Deine Hingabe ist bewundernswert!
 pujas.offeringslot=Bringe den Göttern ein Opfer dar.
-pujas.offeringslot2=Sie werden nicht alles akzeptieren. Experimentiere. 
+pujas.offeringslot2=Sie werden nicht alles akzeptieren. Experimentiere.
 pujas.moneyslot=Spende dem Pandit Geld.
 pujas.toolslot=Werkzeug ablegen, das verzaubert werden soll.
-
 sacrifices.priestcoming=<0>: Du möchtest ein Opfer darbringen? Es ist weise, die Götter zu besänftigen.
 sacrifices.panditfee=Für den Schamanen
 sacrifices.offering=Opfern
-
 mayan.god0=An Ah Puch - für das Überleben
 mayan.god1=An K'inich Ajaw - für die Flammen
 mayan.god2=An Cabrakan - für die Einschläge
 mayan.god3=An Ah Tabai - für die Pfeile
 mayan.god4=An Cum Hau - für die Vergeltung
-
 mayan.god5=An Uqux Cho - für den Atem des Caiman
 mayan.god6=An Uqux Palo - für Arbeit unter den Wellen
-
 mayan.god7=An Alom - for Leichtfüßigkeit
-
 mayan.god8=An Buluc Chabtan - für die Brutalität
 mayan.god9=An Ah Puch - um die Toten zu bekämpfen
 mayan.god10=An Cum Hau - um Geschöpfe zu bekämpfen
-
 mayan.god11=An Huracan - für den langen Atem
 mayan.god12=An K'inich Ajaw - für die Flammen
 mayan.god13=An Ek Chuah - für dasSchicksal
-
 mayan.god14=An Buluc Chabtan - für die Brutalität
 mayan.god15=An Huracan - für den langen Atem
 mayan.god16=An K'inich Ajaw - für die Flammen
 mayan.god17=An Ek Chuah - für das Schicksal
-
 mayan.god18=An Witz - für die Hartnäckigkeit
-
-culture.norman=Normannen
-culture.indian=Inder
-culture.japanese=Japaner
-culture.mayan=Maya
-culture.byzantines=Byzantiner
-
 export.errornoname=Der Name des Bauplans muss in der ersten Zeile stehen.
 export.errornoendsigneast=Konnte kein Abschlussschild im Osten finden. Es muss in einer geraden Linie vom Startpunkt innerhalb von 256 Blöcken sein.
 export.errornoendsignsouth=Konnte das Abschlussschild im Süden nicht finden. Es muss in einer geraden Linie vom Anfangsblock sein und darf maximal 256 Blöcke entfernt sein.
@@ -827,7 +788,6 @@ export.errorstartinglevel=Falscher Startlevel in Zeile 3.
 export.defaultstartinglevel=Kein Grundlevel definiert, benutze -1.
 export.errorunknownblockid=Unbekannter Blocktyp: <0>
 export.buildingexported=Gebäude als <0> exportiert.
-
 import.notonserver=Importieren von Gebäuden auf diesem Server nicht möglich.
 import.errornoname=Der Name des Bauplans muss in der ersten Zeile stehen.
 import.errornotfound=Das angeforderte Gebäude ist nicht im "millenaire-custom/exports" Verzeichnis vorhanden.
@@ -840,14 +800,12 @@ import.buildinglevel=Gebäudestufe: <0>
 import.errorunknownwoodtype=Unbekannter Holztyp: <0>
 import.copyingfrom=Kopiere Gebäude von <0> nach millenaire-custom/exports/
 import.missingmockblock="Mock Block" für speziellen Typ <0> fehlt. Dieses Gebäude wird nicht richtig exportiert. Willst du keine "mock blöcke" verwenden, füge "nomock" zur letzten Zeile des Schildes hinzu.
-
 effect.towncentre=Dorfzentrum
 effect.shop=Geschäft: <0>
 effect.irrigation=Bewässerung: <0>% zusätzlicher Ertrag
 effect.pujalocation=Pujas abgehalten
 effect.sacrificeslocation=Opfer abgehalten
 effect.healing=Heilungen des Spielers
-
 chunk.chunkmap=Karte des Chunks
 chunk.caption=Überschrift
 chunk.captiongeneral=Jeder Chunk wird als 2x2 Pixel Quadrat angezeigt
@@ -861,9 +819,6 @@ chunk.explanations=Millenaire Dörfer sind nur aktiv, wenn alle Ihre Chunks gela
 chunk.chunkcoords=Chunk: <0>
 chunk.village=<0>
 chunk.chunkforced=Geladen halten erzwingen
-
-
-
 config.pagetitle=Millenaire Einstellungen
 config.page.uisettings=UI Einstellungen
 config.page.worldgeneration=Welt Generation
@@ -871,132 +826,85 @@ config.page.worldgeneration.desc=Diese Einstellungen werden nur auf lokal gespei
 config.page.villagebehaviour=Dorfbewohner Verhalten
 config.page.villagebehaviour.desc=Diese Einstellungen werden nur auf lokal gespeicherte Welten angewandt (nicht auf Servern, zu denen Du Verbindung aufnimmst).
 config.page.devtools=Entwicklerwerkzeuge
-
 config.village_list_key.label=Dorflisten Taste
 config.village_list_key.desc=Taste um die umliegenden Dörfer anzuzeigen (Standard: <0>.
-
 config.quest_list_key.label=Info Anzeigen Taste
 config.quest_list_key.desc=Taste um das Millenaire Info Panel anzuzeigen Standard: <0>.
-
 config.escort_key.label=Begleiter Haltungs Taste
 config.escort_key.desc=Taste um bei angeheuerten Dorfbewohnern die Haltung zwischen agressiv und defensiv umzuschalten Standard: <0>.
-
-
 config.fallback_language.label=Ausweich Sprache
 config.fallback_language.desc=Zweite Spiel Sprache, wird genutzt, wenn die Übersetzung nicht verfügbar ist.
-
 config.hd_textures.label=HD Texturen
 config.hd_textures.desc=Nutze HD (64x64) Texturen (Minecraft muss neugestartet werden).
-
 config.language_learning.label=Lernen der Sprache
 config.language_learning.desc=Hier kannst Du umschalten ob Sprachen "gelernt" werden müssen (Übersetzungen tauchen nur auf, nachdem der Spieler genug mit einer Kultur interagiert hat).
-
+config.travel_book_learning.label=Reisebucherfahrung
 config.load_all_languages.label=Lade alle Sprachen
 config.load_all_languages.desc=Diese Schalter bewirkt, das alle verfügbaren Sprachen geladen werden, um dem Client Übersetzungen zur verfügung zu stellen, falls benötigt.
-
 config.display_start.label=Starttext anzeigen
 config.display_start.desc=Zeige die Millenaire Version und den Status der Erschaffungsquest beim Start an.
-
 config.display_names.label=Zeige Dorfbewohner Namen an
 config.display_names.desc=Zeigt Namen, Berufe und derzeitige Aufgaben über den Köpfen der Dorfbewohner an.
-
 config.villagers_names_distance.label=Namen Anzeige Distanz
 config.villagers_names_distance.desc=Distanz, von welcher die Namen sichtbar sind - Standard: <0>.
-
 config.villagers_sentence_in_chat_distance_client.label=Unterhaltungen im Chat (MP)
 config.villagers_sentence_in_chat_distance_client.desc=Wie weit Unterhaltungen von Dorfbewohnern im Chat angezeigt werden im Mehrspielermodus - Standard: <0>.
-
 config.villagers_sentence_in_chat_distance_sp.label=Unterhaltungen im Chat (SP)
 config.villagers_sentence_in_chat_distance_sp.desc=Wie weit Unterhaltungen von Dorfbewohnern im Chat angezeigt werden im Einzelspielermodus - Standard: <0>.
-
 config.generate_villages.label=Erzeuge Dörfer
 config.generate_villages.desc=Einstellung ob Millenaire Dörfer in neuen Chunks erzeugen soll.
-
 config.generate_lone_buildings.label=Erzeuge alleinstehende Gebäude
 config.generate_lone_buildings.desc=Einstellung ob Millenaire alleinstehende Gebäude in neuen Chunks erzeugen soll.
-
 config.keep_active_radius.label=Chunk Halte Radius
 config.keep_active_radius.desc=Radius um den Spieler in dem Millenaire versucht, Dorf Chunks geladen zu halten - Standard: <0>.
-
 config.min_village_distance.label=Minimale Dorfdistanz
 config.min_village_distance.desc=Minimale Distanz zwischen zwei generierten Dörfern - Standard:<0>.
-
 config.min_village_lonebuilding_distance.label=Minimale Dorf zu Einzelgebäude Distanz
 config.min_village_lonebuilding_distance.desc=Minimale Distanz zwischen generierten Dörfern und alleinstehender Gebäude - Standard: <0>.
-
 config.min_lonebuilding_distance.label=Minimale Einzelgebäude Distanz
 config.min_lonebuilding_distance.desc=Minimale Distanz zwischen alleinstehenden Gebäuden - Standard: <0>.
-
 config.spawn_protection_radius.label=Spawn Schutzradius
 config.spawn_protection_radius.desc=Zone um den Spawnpunkt, wo Millenaire keine Gebäude generieren kann - Standard: <0>.
-
 config.village_spawn_completion_max_percentage.label=Maximaler Fortschritt ab Spawn
 config.village_spawn_completion_max_percentage.desc=Der Maximale Fortschritt (in %) den ein Dorf haben kann, wenn es weit weg vom Spawnpunkt generiert wurde. Standart: <0>.
-
 config.village_spawn_completion_min_distance.label=Minimale Distanz für Fortschritt
 config.village_spawn_completion_min_distance.desc=Minimale Distanz vom Spawnpunkt von der aus Dörfer mit leichtem Fortschritt beginnen können. Standart: <0>.
-
 config.village_spawn_completion_max_distance.label=Maximale Distanz für Fortschritt
 config.village_spawn_completion_max_distance.desc=Distanz vom Spawnpunkt von der aus Dörfer den Maximalen anfänglichen Fortschritt erreichen können. Standart: <0>.
-
 config.village_radius.label=Radius von Dörfern
 config.village_radius.desc=Radius von normalen Dörfern (nicht Weiler) - Standard: <0>.
-
 config.min_distance_between_buildings.label=Minimale Distanz zwischen Gebäuden
 config.min_distance_between_buildings.desc=Minimale Distanz zwischen zwei Gebäuden in einem Dorf - Standard: <0>.
-
 config.village_paths.label=Baue Dorfwege
 config.village_paths.desc=Stellt ein ob Dorfbewohner neue Wege anlegen und sie Aufwerten.
-
 config.max_children_number.label=Maximale Kinderzahl
 config.max_children_number.desc=Die Anzahl der Kinder die ein Dorf haben kann - Standard: <0>.
-
 config.background_radius.label=Dorf Beziehungs Radius
 config.background_radius.desc=Radius in dem ein Dorf Beziehungen zu anderen Dörfern pflegen kann (Diplomatie, Handel, Überfälle - Standard: <0>.
-
 config.bandit_raid_radius.label=Banditen Überfall Radius
 config.bandit_raid_radius.desc=Radius in dem Banditen Dörfer überfallen werden - Standard: <0>.
-
 config.raiding_rate.label=Überfall % Chance
 config.raiding_rate.desc=Chance in x zu 100 das ein Dorf/Banditenbau einen Überfall je Nacht starten kann - Standard: <0>.
-
-config.generate_help_data.label=Generiere Hilfsdateien
-config.generate_help_data.desc=Generiert verschiedene Daten (Farbblatt, Warenliste, infos zu allgemeinen Zielen (die Tätigkeiten der Dorfbewohner wie z.B. "Fällt Bäume")). Nützlich für Inhaltsentwickler (Content Creator)
-
-config.generate_colour_chart.label=Generiere Farbtabelle
-config.generate_colour_chart.desc=Generiere die Tabelle der Farben, die in Gebäude Plänen genutzt werden können.
-
 config.generate_building_res.label=Generiere Rohstoffliste
 config.generate_building_res.desc=Generiert eine Liste der Rohstoffe, die für jedes einzelne Gebäude benötigt werden.
-
 config.generate_translation_gap.label=Erzeuge Übersetzungslücken
 config.generate_translation_gap.desc=Erzeugt für jede geladene Sprache einen Bericht mit einer Liste der fehlenden Texte.
-
-config.generate_goods_list.label=Generiere Waren Liste
-config.generate_goods_list.desc=Generiert eine Liste der Gegenstände, die Millenaire bekannt sind.
-
+config.generate_help_data.label=Generiere Hilfsdateien
+config.generate_help_data.desc=Generiert verschiedene Daten (Farbblatt, Warenliste, infos zu allgemeinen Zielen (die Tätigkeiten der Dorfbewohner wie z.B. "Fällt Bäume")). Nützlich für Inhaltsentwickler (Content Creator)
 config.valuetrue=An
 config.valuefalse=Aus
-
 config.page.bonus=Unterstützer Prämie
 config.page.bonus.desc=Prämie für Leute, die an Millenaire mitgearbeitet haben (Übersetzungen, Gebäudepläne, Texturen, Beiträge in der Wiki etc.) oder gespendet haben: ein kostenloses kleines Haus, verfügbar beim Dorf Oberhaupt.
-
 config.bonus_code.label=Prämiencode
 config.bonus_code.desc=Code um die Prämie zu aktivieren. Automatisch aus dem Internet abgerufen, wenn eine Verbindung verfügbar ist.
-
 config.validbonuscode=Gültiger Code! Bonus aktiviert.
 config.invalidbonuscode=Falscher Code. Bitte überprüfen.
-
 config.page.system=Systemeinstellungen
 config.page.system.desc=Generelle Einstellungen von Millénaire
-
 config.send_statistics.label=Statistik
 config.send_statistics.desc=Das Senden von anonymen Statistiken an Millénaire Server erlauben (Version, Sprache...).
-
 config.send_advancement_login.label=Advancements Seite
 config.send_advancement_login.desc=Das Senden deiner Minecraft Daten an Millénaire Server erlauben, damit du deine Erfolge auf millenaire.org sehen kannst.
-
-
 tradehelp.title=<0> - Handelt
 tradehelp.goodssold=verkaufte Waren
 tradehelp.goodsbought=gekaufte Waren
@@ -1004,7 +912,6 @@ tradehelp.buyingprice=Kaufe:
 tradehelp.sellingprice=Verkaufe:
 tradehelp.helptitle=Allgemeines über den Handel
 tradehelp.helptext=In jedem Geschäft kannst du Waren kaufen die das Dorf auf Lager hat. Neben ein paar "freien" Blöcken (wie Wege zum Beispiel) oder Spezielle Gegenstände (die Stäbe). Die angebotenen Waren wurden im Dorf von den Bewohnern hergestellt und das Dorf "verliert" diese Gegenstände, wenn Du sie kaufst - Im Gegensatz zum Handel mit Minecraft Dörfern.<ret><ret>Der verkauf der benötigten Waren kann allerdings oft helfen, die Entwicklung des Dorfes zu beschleunigen.
-
 tradehelp.freeblock=Dieser Typ Blöcke sind für die Dörfer unlimitiert zugänglich und entsprechend auch unlimitiert käuflich.
 tradehelp.wood=Die Dorfbewohner produzieren Holz in Hainen. Sie benutzen es für den Bau.
 tradehelp.stone=Die Dorfbewohner stellen Stein und Glas in Steinbrüchen her. Wenn ein Dorf keinen Steinbruch hat, ist es vollkommen von Dir abhängig.
@@ -1021,7 +928,6 @@ tradehelp.genericweapon=Waffen und Rüstungen verschiedener Stufen machen Dorfbe
 tradehelp.purse=Die Deniersbörse kann Deniers aufnehmen und helfen, den Überblick über Dein Geld zu behalten. Sie sind immer verfügbar.
 tradehelp.wand=Der Erschaffungsstab erlaubt Dir Dörfer zu erstellen. Er ist immer verfügbar.
 tradehelp.parchments=Pergamente geben Auskunft über gewisse Elemente von Millenaire. Sie sind immer verfügbar.
-
 tradehelp.normanwhitewool=In manchen Gebäuden wird weiße Wolle benötigt. Außerdem machen Normannen Wandteppiche für Ihre Forts daraus.
 tradehelp.normantapestrywool=Graue, hellgraue, schwarze und braune Wolle werden von der Dame benötigt, um Wandteppiche zu knüpfen.
 tradehelp.normanleather=Normannische Mönche benutzen Leder um Bücher herzustellen.
@@ -1033,7 +939,6 @@ tradehelp.normantripesboudin=Normannen stellen Tripes und Boudins aus Kühen und
 tradehelp.normantapestry=Die Damen stellen dekorative Wandteppiche aus weißer, grauer, hellgrauer, brauner und schwarzer Wolle her. (Hier sind die Damen des Schlosses gemeint)
 tradehelp.normantimberframes=Normannische Tischler produzieren dieses Fachwerk aus Holz.
 tradehelp.normanwheat=Normannische Dorfbewohner backen Brot und füttern ihr Vieh mit Weizen.
-
 tradehelp.byzantinetools=Byzantinische Schmiede stellen aus Leder und Eisen Eisenwerkzeuge und Byzantinische Rüstungen her.
 tradehelp.byzantinefeta=Byzantiner stellen Feta aus Schafsmilch her. Dieser Käse heilt und regeneriert den Spieler und hilft den Dorfbewohnern, Kinder zu kriegen.
 tradehelp.byzantinebooks=Die Byzantiner stellen aus Holz und Leder Bücher her.
@@ -1044,7 +949,6 @@ tradehelp.byzantine_tiles=Die Byzantiner stellen aus Stein und Lehm Fliesen her.
 tradehelp.byzantinefood=Die Byzantiner kochen Lammkoteletts und mischen ihren Feta darunter um ein vorzügliches Souvlaki herzustellen. Dieses Lebensmittel nährt den Spieler und hilft Kindern aufzuwachsen. Souvlaki gibt auch Lebensenergie zurück.
 tradehelp.byzantineweapons=Byzantinische Waffenschmiede stellen solide, beeindruckende Rüstungen aus Eisen und Leder her.
 tradehelp.byzantinewheat=Die Byzantinischen Dorfbewohner backen Brot und füttern Ihr Vieh mit Weizen.
-
 tradehelp.indiantools=Indische Schmiede stellen aus Eisen Werkzeuge und Rüstungen her.
 tradehelp.indiangenericfood=Zugang zu verschiedenen Lebensmitteln hilft Kindern schneller aufzuwachsen. Warnung: Inder essen kein Rinder- oder Schweinefleisch.
 tradehelp.indiangenericfoodsweet=Süßigkeiten erhöhen die Wahrscheinlichkeit das Dorfbewohner Kinder empfangen. Warnung: Indische Dorfbewohner trinken keinen Alkohol.
@@ -1052,7 +956,6 @@ tradehelp.indianrasgulla=Die Inder stellen köstliche Rasgulla aus Zucker her. R
 tradehelp.indiancurry=Die Inder kochen vegetarisches Curry aus Reis und Gelbwurz sowie Murgh Curry durch hinzufügen eines Hühnchens. Dieses Lebensmittel nährt den Spieler und hilft Kindern aufzuwachsen. Murgh Curry gewährt auch einen temporären "Feuer Resistenz" Bonus.
 tradehelp.indianbricks=Die Inder lassen Nasse Lehmziegel in der Sonne trocknen um Lehmziegel zu erhalten. Du kannst sie auch herstellen indem Du eine Ziegelform kaufst.
 tradehelp.indianstatue=Indische Bildhauer stellen Basreliefs ihrer Hindu Gottheiten her. Diese schmücken ihre indischen Tempelanlagen.
-
 tradehelp.japanesegold=Die japaner nutzen Gold um einige Gebäude zu dekorieren.
 tradehelp.japaneseudon=Die Japaner kochen ein leckeres Udon Nudelgericht aus Weizen und Hühnchen. Es nährt den Spieler und hilft Kindern aufzuwachsen.
 tradehelp.japanesetools=Japanische Schmiede stellen aus Eisen und Leder Eisenwerkzeug und japanische Rüstungen her.
@@ -1064,10 +967,95 @@ tradehelp.japanesewheat=Die Japaner kochen Weizenteig um Udon herzustellen.
 tradehelp.japanesethatch=Japaner stellen aus Weizen Reet Blöcke her.
 tradehelp.japanesesake=Japanische Sake Brauer stellen aus Reis Sake her. Sake heilt und regeneriert den Spieler und hilft den Dorfbewohnern, Kinder zu bekommen. Außerdem gewährt Sake einen temporären "Sprungverstärkungs" Bonus.
 tradehelp.japaneseikayaki=Die Japaner züchten Tintenfische und grillen sie um aus ihnen Ikayakis zu machen. Ikayaki nährt den Spieler und Hilft Kindern aufzuwachsen. Außerdem gewährt Ikayakis einen temporären "Wasseratmungs" Bonus.
-
 tradehelp.mayangold=Maya Kunsthandwerker benötigen Gold um Golddekor herzustellen. Sie benötigen den Spieler um ihnen das Gold zu beschaffen.
 tradehelp.mayanfood=Die Maya Bewohner züchten Mais und stellen Masa (Mais Tortillas) und Wah (durch hinzufügen von Hühnchen) aus ihm her. Sie nähren den Spieler und helfen den Kindern aufzuwachsen. Außerdem gewährt Wah einen temporären "Hast" Bonus.
 tradehelp.mayanobsidian=Maya Obsidianhandwerker stellen Werkzeuge aus Obsidian her, welches sie dem Spieler abkaufen. Diese Werkzeuge sind nicht sehr effektiv, aber können leicht verzaubert werden.
 tradehelp.mayanstonetools=Maya Handwerker produzieren Werkzeuge und Schwerter aus Stein als Basiswerkzeuge solange es an Obsidian mangelt.
 tradehelp.mayanweapons=Maya Waffenschmiede stellen Steinschwerter und Lederrüstungen her. Obsidianhandwerker können die stärkeren und leicht verzauberbaren Obsidiankeulen herstellen.
 tradehelp.mayancocoa=Maya Kakaobauern ernten Kakaobohnen und stellen aus ihnen Cacauhaa, ein schokoladiges Getränk her. Cacauhaa heilt und regeneriert den Spieler und hilft die Anzahl der Dorfbewohner, die Kinder bekommen, zu erhöhen. Außerdem gewährt Cacauhaa einen temporären "Nachtsicht" Bonus.
+tradehelp.leather=Leder wird von verschiedenen Kulturen verwendet um Werkzeuge, Rüstungen und andere Dinge herzustellen.
+importtable.title=Importwerkbank
+importtable.importfromculture=Importiere von einer Kultur
+importtable.nocurrentplan=Kein aktiver Bauplan
+importtable.importexportdir=Importiere aus dem Exportverzeichnis
+importtable.importculture=Importiere aus <0>
+importtable.currentplan=Kein aktiver Plan: <0>
+importtable.newbuilding=Neues Gebäude
+importtable.reimport=Re-Impotiere
+importtable.reimportall=Re-Importiere alles
+importtable.export=Exportiere
+importtable.exportnewlevel=Exportiere als neues Upgrade
+importtable.changeplan=Ändere Plan
+importtable.settings=Einstellungen
+importtable.back=Zurück
+importtable.create=Erstelle
+importtable.minus=Reduziere
+importtable.plus=Erhöhe
+travelbook.reference_button=Zeige Reisebucheintrag von <0>
+travelbook.reference_button_export=<0>
+travelbook.title=Reisebuch
+travelbook.culture_unlocked=Du kennst <0> von <1> Kulturen.
+travelbook.contentlocked=Millénaire ist eingestellt nur Informationen über Dinge du du bereits entdeckt hast anzuzeigen.
+travelbook.learningsetting=Wenn du möchtest kannst du in die UI Sektion der Millénaire Einstellungen gehen, damit alle Informationen von Anfang an angezeigt werden.
+travelbook.contentunlocked=Millénaire ist eingestellt alle Informationen von Anfang an anzuzeigen.
+travelbook.learningsetting_off=Wenn du möchtest kannst du in die UI Sektion der Millénaire Einstellungen gehen, damit nur Informationen darüber angezeigt werden was du bereits entdeckt hast.
+travelbook.villagers=Dorfbewohner
+travelbook.villages=Dörfer
+travelbook.buildings=Gebäude
+travelbook.buildingslist=<0> Gebäude
+travelbook.buildingslistcategory=<0> Kategorien
+travelbook.villagerslist=<0> Dorfbewohner
+travelbook.villagerslistcategory=<0> Kategorien
+travelbook.goals=Hauptaufgaben
+travelbook.variation=Variation <0>
+travelbook.initial=Erstkonstruktion
+travelbook.upgrade=Verbesserung <0>
+travelbook.features=Kapazitäten
+travelbook.cost=Kosten
+travelbook.anywood=Holz
+travelbook.building_shop=Geschäft in dem man Handeln kann
+travelbook.subbuildingof=Untergebäude von <0>
+travelbook.subbuilding=Untergebäude
+travelbook.residents=Bewohner
+travelbook.visitors=Besucher
+travelbook.building_cost=Kosten des Gebäudes
+travelbook.building_reputation=Ruf erforderlich
+travelbook.building_gift=Geschenkhaus
+travelbook.building_gift_desc=Haus für Spieler, die einen Beitrag oder eine Spende an Millénaire geleistet haben
+travelbook.basicdata=Gebäudeinformationen
+travelbook.building_size=Größe des Grundstückes
+travelbook.village_biomes=Biome: <0>
+travelbook.villageswithbuilding=Dörfer mit Gebäuden
+travelbook.specialbuildingtag.hof=Ruhmeshalle
+travelbook.specialbuildingtag.hof.desc=In diesem Gebäude wird die Liste der Mitwirkenden und Spender von Millénaire angezeigt.
+travelbook.villageslist=<0> Dörfer
+travelbook.village_townhall=Dorfzentrum
+travelbook.customvillagecentre=Dieses Dorf hat ein eigenes Dorfzentrum
+travelbook.village_start=Startergebäude
+travelbook.village_core=Hauptgebäude
+travelbook.village_secondary=Nebengebäude
+travelbook.village_extra=Extragebäude
+travelbook.village_player=Spielergebäude
+travelbook.village_radius=Dorfradius
+travelbook.village_hamlets=Weiler um dieses Dorf
+travelbook.village_rescost=Gesamter Bedarf des Dorfes
+travelbook.tradegoods=Handelsware
+travelbook.tradegoodslist=<0> Handelsware
+travelbook.tradegoodslistcategory=<0> Kategorien
+travelbook.trade_good_buying_price=Kauft: <0>
+travelbook.trade_good_selling_price=Verkauft: <0>
+ui.construction=Konstruktion <0>:
+command.renamevillage_explanations=Dieser Befehl benötigt den neuen Dorfnamen als erstes Argument und optional eine Kennzeichnung als zweites Argument.
+command.renamevillage_notplayer=Dieser Befehl muss von einem Admin ausgeführt werden (er wird auf das nächste Dorf angewendet).
+command.renamevillage_noclosevillage=Kein Dorf innerhalb 50 Metern gefunden.
+goal.makenormantools=Stellt Werkzeuge her
+goal.makenormanweapons=Schmiedet Waffen
+culture.norman=Normannen
+culture.indian=Inder
+culture.japanese=Japaner
+culture.mayan=Maya
+culture.byzantines=Byzantiner
+config.generate_colour_chart.label=Generiere Farbtabelle
+config.generate_colour_chart.desc=Generiere die Tabelle der Farben, die in Gebäude Plänen genutzt werden können.
+config.generate_goods_list.label=Generiere Waren Liste
+config.generate_goods_list.desc=Generiert eine Liste der Gegenstände, die Millenaire bekannt sind.

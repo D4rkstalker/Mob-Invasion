@@ -18,7 +18,7 @@
       "onHarvest": false,
       "ores": false,
       "gems": true,
-      "chance": 0.02
+      "chance": 0.05
     }
   ],
   "locations": [
@@ -39,7 +39,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:vapula",
+      "mobId": "lycanitesmobs:vapula",
       "weight": 8
     }
   ]

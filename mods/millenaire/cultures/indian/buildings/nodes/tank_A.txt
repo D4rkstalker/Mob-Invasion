@@ -1,7 +1,7 @@
 //Parameters for the building as a whole
 building.length=15
 building.width=15
-building.areatoclear=2
+building.areatoclear=4
 building.max=0
 building.farfromtag=pathnode,30
 building.icon=sandstone

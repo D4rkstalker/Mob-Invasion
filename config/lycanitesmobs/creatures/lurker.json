@@ -1,6 +1,11 @@
 {
   "name": "lurker",
-  "class": "com.lycanitesmobs.swampmobs.entity.EntityLurker",
+  "creatureType": "arthropod",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityLurker",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelLurker",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -18,7 +23,9 @@
     "ignoreBiome": false,
     "biomes": [
       "swamp",
-      "spooky"
+      "spooky",
+      "forest",
+      "-cold"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,
@@ -41,10 +48,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#009900",
   "eggForeColor": "#99FF00",
@@ -63,6 +70,13 @@
   "elements": [
     "poison",
     "shadow"
+  ],
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "frugivore",
+    "fungivore"
   ],
   "peaceful": false,
   "summonable": false,
@@ -84,7 +98,7 @@
       "chance": 0.25
     },
     {
-      "item": "swampmobs:poisongland",
+      "item": "lycanitesmobs:poisongland",
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 1

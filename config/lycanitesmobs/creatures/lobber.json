@@ -1,6 +1,11 @@
 {
   "name": "lobber",
-  "class": "com.lycanitesmobs.infernomobs.entity.EntityLobber",
+  "creatureType": "brute",
+  "groups": [
+    "inferno"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityLobber",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelLobber",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +41,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
@@ -57,11 +62,15 @@
     {
       "index": 3,
       "name": "umber",
+      "scale": 2,
       "type": "rare"
     }
   ],
   "elements": [
     "lava"
+  ],
+  "diets": [
+    "geovore"
   ],
   "peaceful": false,
   "summonable": false,
@@ -89,13 +98,13 @@
       "chance": 1
     },
     {
-      "item": "infernomobs:magmacharge",
-      "minAmount": 1,
-      "maxAmount": 3,
-      "chance": 0.25
+      "item": "lycanitesmobs:magmacharge",
+      "minAmount": 2,
+      "maxAmount": 5,
+      "chance": 1
     },
     {
-      "item": "infernomobs:soulstoneinferno",
+      "item": "lycanitesmobs:soulstoneinferno",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,
@@ -103,5 +112,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "blockMeltingRadius",
+      "value": 2
+    }
+  ]
 }

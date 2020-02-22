@@ -16,3 +16,5 @@ allowrandommoves=true
 leasure=true
 
 heldItemsDestination=dye_brown
+
+sprint=false

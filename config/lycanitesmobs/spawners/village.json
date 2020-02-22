@@ -35,7 +35,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:aegis",
+      "mobId": "lycanitesmobs:aegis",
       "weight": 8,
       "home": 32
     }

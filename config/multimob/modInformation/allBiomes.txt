@@ -135,13 +135,11 @@ biomesoplenty:undergarden
 biomesoplenty:visceral_heap
 randomthings:spectral
 appliedenergistics2:storage_biome
+iceandfire:glacier
 creepingnether:creeping_nether
 creepingnether:purified_nether
-iceandfire:glacier
 nex:ruthless_sands
 nex:fungi_forest
 nex:torrid_wasteland
 nex:arctic_abyss
 nuclearcraft:nuclear_wasteland
-scp:gas_mask
-scp:vanqar

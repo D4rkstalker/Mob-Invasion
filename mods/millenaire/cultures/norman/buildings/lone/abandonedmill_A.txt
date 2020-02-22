@@ -1,6 +1,6 @@
 //Parameters for the building as a whole
-building.length=8
-building.width=10
+building.length=13
+building.width=12
 building.buildingorientation=3
 building.startinggood=bread,1.0,2,6
 building.startinggood=denier,1.0,20,44

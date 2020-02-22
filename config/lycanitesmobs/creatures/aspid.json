@@ -1,6 +1,11 @@
 {
   "name": "aspid",
-  "class": "com.lycanitesmobs.swampmobs.entity.EntityAspid",
+  "creatureType": "beast",
+  "groups": [
+    "animal"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAspid",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelAspid",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -18,7 +23,8 @@
     "ignoreBiome": false,
     "biomes": [
       "swamp",
-      "spooky"
+      "spooky",
+      "mushroom"
     ],
     "spawnWeight": 16,
     "dungeonWeight": 0,
@@ -41,10 +47,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#009944",
   "eggForeColor": "#446600",
@@ -61,7 +67,11 @@
     }
   ],
   "element": "poison",
+  "diets": [
+    "fungivore"
+  ],
   "peaceful": true,
+  "farmable": true,
   "summonable": false,
   "tameable": false,
   "mountable": false,
@@ -72,17 +82,17 @@
       "item": "minecraft:slime_ball",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.5
+      "chance": 1
     },
     {
-      "item": "swampmobs:aspidmeatraw",
-      "burningItem": "swampmobs:aspidmeatcooked",
+      "item": "lycanitesmobs:raw_aspid_meat",
+      "burningItem": "lycanitesmobs:cooked_aspid_meat",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1
     },
     {
-      "item": "swampmobs:poisongland",
+      "item": "lycanitesmobs:poisongland",
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 0.25

@@ -1,6 +1,11 @@
 {
   "name": "skylus",
-  "class": "com.lycanitesmobs.saltwatermobs.entity.EntitySkylus",
+  "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySkylus",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSkylus",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,8 +46,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0.5,
@@ -61,6 +66,11 @@
     }
   ],
   "element": "shadow",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

@@ -2,7 +2,6 @@
 building.length=8
 building.width=9
 building.buildingorientation=3
-building.mindistance=0.5
 building.version=2
 building.icon=normanbroadsword
 
@@ -13,6 +12,7 @@ initial.nativename=Maison du garde
 initial.priority=900
 initial.male=guard
 initial.female=wife
+initial.tag=patrol
 
 //Parameters for specific upgrades
 upgrade1.priority=90

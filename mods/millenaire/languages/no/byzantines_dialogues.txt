@@ -61,7 +61,7 @@ v2;30;Posimou mazí eínai pio diaskedastiko! / Å drikke sammen er mer moro!
 v1;50;Cheers gia to krasí! / Hurra for vinen!
 v2;70;Cheers! / Hurra!
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
 v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / Jeg skal bli landsbyleder en dag, gamling!
 v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / Ikke vær så frekk, lille gutt. Ellers får du et klaps!
 v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / Da skal jeg få deg klapset!
@@ -259,7 +259,7 @@ v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Ja, det gj
 v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / Takk til smedene og håndverkerne som fant opp disse tingene!
 v2;90;Nai! Gi 'afto mou arései na Romaïkí. / Nettopp! Det er derfor jeg elsker å være en romer.
 
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
 v1;0;Eímai ziliáris afton ton plousíon. / Jeg er sjalu på de rike folkene.
 v1;20;Échoun tétoia oraía roúcha apo metáxi! / De har så fine silkeklær!
 v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / Det er urettferdig. De gjør ingenting og får allikevel de beste tingene.
@@ -281,13 +281,13 @@ v2;110;Ego na mantépsete akrivos san stratiotes. / Jeg gjetter at du kun liker 
 v2;140;Allá échete énan ántra! / Men du har jo en mann!
 v1;170;Allá énas tempélis kai sychná methysménos éna! / Men han er en lat og ofte full en!
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
 v1;0;Xérete tin omorfiá sto geitoniko chorio? / Kjenner du til skjønnheten i nabolandsbyen?
 v2;30;Fysiká, eínai polý charitoméno. / Selvsagt, hun er jammen søt.
 v1;60;Ti tha gínei me tin epískepsi tis? / Hva med å besøke henne?
 v2;90;Xérete oti i gynaíka sas tha trelatho tote! / Du vet at konen din vil gå berserk da!
 
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
 v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / Håndverkerens kone tar seg veldig godt ut, synes du ikke?
 v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Ja, ikke dårlig, hun. Så synd at hun allerede er gift!
 v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Vel, ja. Og det ville ikke være rettferdig mot han.
@@ -316,7 +316,7 @@ v1;120;Err, eícha. Échei kápos chatheí! / Ehm, jeg hadde. Den har forsvunnet
 v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / HVA? Du hadde et slikt verktøy, og du mistet det?
 v1;170;Nai... Tora ypárchoun mono anamníseis aristerá... / Ja... Nå står bare minnene tilbake...
 
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
 v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Bang! Jeg fikk akkurat prøvd ut den nye klubben!
 v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Ja! Det er et utmerket våpen! Det sender fienden langt unna!
 v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Imponerende, ikke sant? Dette romerske mesterstykket kan ikke sammenlignes med noe annet i hele verden.
@@ -421,10 +421,10 @@ v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai
 v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / Hei! Ikke vær så slem, nå da! Det var du som startet konflikten.
 v2;110;Tha ítan methysménos! / Du var full!
 
-newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, min sønn, jeg har ikke sett at du har vært i bønn i dag!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / Fader $targetlastname, det har jeg så visst gjort.
 
-newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, min datter, jeg har ikke sett at du har vært i bønn i dag!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / Fader $targetlastname, det har jeg så visst gjort.

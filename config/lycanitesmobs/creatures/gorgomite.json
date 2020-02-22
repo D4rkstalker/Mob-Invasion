@@ -1,6 +1,13 @@
 {
   "name": "gorgomite",
-  "class": "com.lycanitesmobs.desertmobs.entity.EntityGorgomite",
+  "creatureType": "arthropod",
+  "groups": [
+    "monster",
+    "critter",
+    "hardy"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGorgomite",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelGorgomite",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -20,7 +27,8 @@
       "sandy",
       "wasteland",
       "mesa",
-      "-cold"
+      "-cold",
+      "-snowy"
     ],
     "spawnWeight": 6,
     "dungeonWeight": 200,
@@ -43,10 +51,10 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 3,
-  "amplifier": 0,
+  "effectDuration": 3,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#CC9900",
   "eggForeColor": "#884400",
@@ -63,6 +71,10 @@
     }
   ],
   "element": "quake",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -96,5 +108,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "swarmLimit",
+      "value": 5
+    }
+  ]
 }

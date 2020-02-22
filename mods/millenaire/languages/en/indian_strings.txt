@@ -36,6 +36,9 @@ villager.indian_villagechief=Village Chief
 villager.merchant_adivasi=Adivasi Merchant
 villager.merchant_oriental=Persian Merchant
 villager.merchant_villagewoman=Village Trader
+villager.indian_craftsman=Craftsman
+villager.indian_painter=Painter
+villager.indian_weaver=Weaver
 
 shop.adivasifarm=Adivasi products
 shop.armyforge=Armours & weapons

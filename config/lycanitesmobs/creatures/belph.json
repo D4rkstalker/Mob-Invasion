@@ -1,6 +1,11 @@
 {
   "name": "belph",
-  "class": "com.lycanitesmobs.demonmobs.entity.EntityBelph",
+  "creatureType": "demon",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBelph",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelBelph",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,10 +46,10 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.5,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#992222",
   "eggForeColor": "#000000",
@@ -61,6 +66,12 @@
     }
   ],
   "element": "void",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
@@ -75,10 +86,10 @@
       "chance": 1
     },
     {
-      "item": "demonmobs:doomfirecharge",
+      "item": "lycanitesmobs:doomfireballcharge",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.25
+      "chance": 1
     }
   ],
   "sizeScale": 1,

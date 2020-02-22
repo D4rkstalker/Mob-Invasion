@@ -1,6 +1,11 @@
 {
   "name": "spectre",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntitySpectre",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySpectre",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSpectre",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +41,8 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
@@ -51,7 +56,7 @@
     },
     {
       "index": 2,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     }
   ],
@@ -88,7 +93,7 @@
       "chance": 0.5
     },
     {
-      "item": "shadowmobs:spectralboltcharge",
+      "item": "lycanitesmobs:spectralboltcharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.25

@@ -1,2 +1,2 @@
-sells=egg,feather,chickenmeat,chickenmeatcooked
+sells=egg,chickenmeat,chickenmeatcooked
 buys=maize

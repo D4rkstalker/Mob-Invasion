@@ -1,5 +1,5 @@
 ﻿villager.greeting=Bonjour, $name! / Pozdravljen, $name!
-villager.greeting=Belle journée, n'est pas? / Lep dan, kajne?
+villager.greeting=Belle journée, n'est ce pas? / Lep dan, kajne?
 villager.greeting=Il va pleuvoir, je le sens / Mislim, da bo dezevalo.
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Ne pomnim Normanije tako.
 guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Jaz te bom ščitil če boš zaidel v težave.

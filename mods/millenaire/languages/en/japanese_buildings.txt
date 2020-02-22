@@ -67,3 +67,7 @@ gifthouse_a0=Gift House
 hotspringsinn_a0=Hot Springs Inn
 hotspringsinn_a_kitchen_a0=Hot Springs Inn
 hotspringsinn_a_market_a0=Hot Springs Inn
+
+borderpost_a0=Border Post
+borderpost_corner_a0=Border Post (Corner)
+borderpost_gate_a0=Border Post (Entrance)

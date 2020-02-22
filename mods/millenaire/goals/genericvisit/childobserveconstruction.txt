@@ -20,3 +20,5 @@ leasure=true
 lookatgoal=true
 
 range=8
+
+sprint=false

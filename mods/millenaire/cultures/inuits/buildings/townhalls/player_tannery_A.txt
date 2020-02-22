@@ -1,6 +1,6 @@
 //Parameters for the building as a whole
-building.length=16
-building.width=11
+building.length=9
+building.width=12
 building.buildingorientation=3
 building.max=0
 building.icon=leather

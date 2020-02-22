@@ -1,6 +1,11 @@
 {
   "name": "manticore",
-  "class": "com.lycanitesmobs.desertmobs.entity.EntityManticore",
+  "creatureType": "beast",
+  "groups": [
+    "opportunist"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityManticore",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelManticore",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -19,7 +24,8 @@
       "sandy",
       "wasteland",
       "mesa",
-      "-cold"
+      "-cold",
+      "-snowy"
     ],
     "spawnWeight": 6,
     "dungeonWeight": 200,
@@ -42,10 +48,10 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#442200",
   "eggForeColor": "#990000",
@@ -65,10 +71,16 @@
     "order",
     "quake"
   ],
+  "diets": [
+    "carnivore",
+    "insectivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 1,
   "drops": [

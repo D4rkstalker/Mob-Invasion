@@ -39,11 +39,11 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "shadowmobs:geist",
+      "mobId": "lycanitesmobs:geist",
       "weight": 8
     },
     {
-      "mobId": "swampmobs:ghoulzombie",
+      "mobId": "lycanitesmobs:ghoul",
       "weight": 4
     }
   ]

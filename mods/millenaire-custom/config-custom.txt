@@ -19,4 +19,7 @@ advancements_creative=firstcontact,explorer,selfdefense
 //Advancement completed for anonymous statistics
 advancements_survival=firstcontact,explorer,marcopolo
 
+//; 
+ignore_resource_cost=false
+
 validation=346191072

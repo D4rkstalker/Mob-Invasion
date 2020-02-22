@@ -6,11 +6,8 @@ startup.radiuswarning=ATTENTION : Un rayon au-dessus de <0> pour les villages n'
 startup.bonus=Contenu bonus activé.
 startup.devmode1=Le mode développeur est activé. Ce mode est conçu pour tester Millénaire, pas pour jouer.
 startup.devmode2=Pour le désactiver, allez dans millenaire-custom/ et retirez la ligne "devmode".
-
 startup.outdatedversion=Vous utilisez la version <0> de Millénaire. La version <1> est disponible, avec comme changements : <2>. Vous pouvez la télécharger sur www.millenaire.org.
 startup.outdatedversiondev=Vous utilisez la version de test <0> de Millénaire. La version de test <1> est disponible, avec comme changements : <2>. Vous pouvez la télécharger sur www.millenaire.org.
-
-
 command.nogenerate=<0> ne générera plus de nouveaux villages dans ce monde.
 command.willgenerate=<0> génère à nouveau des nouveaux villages pour ce monde.
 command.astarpathing=Pathing A* activé
@@ -28,23 +25,16 @@ command.newvillagefound=Nouveau village trouvé: <0> de type <1> et de culture <
 command.newvillagefoundtranslated=Nouveau village trouvé: <0> de type <1> (<5>) et de culture <2> est à <3> mètres <4>.
 command.newlonebuildingfound=Nouveau bâtiment trouvé: <0> est à <1> mètres <2>.
 command.pathrebuild=La carte et le pathing de <0> ont été reconstruits.
-
 command.renamevillage_notification=<0> a renommé le village <1> à <2>.
-
 command.listactivevillages_list=Le village <0> est actif. Il connaît <1> villageois (<2> dans les archives). Lors des 20 derniers ticks, il a prit <3> microsecondes pour traiter les bâtiments et <4> pour les villageois. Guardé actif par: <5>
-
 command.tp_nomatchingvillage=Pas de village correspondant.
 command.tp_multiplematchingvillages=<0> villages correspondants.
 command.giverep_notification=<0> a donné <2> réputation à <1> dans le village <3>.
 command.importculture_importingbuilding=Importation du bâtiment <0>
 command.spawnvillage_unknownvillage=Type de village inconnu : <0>
-
 command.switchcontrol_notcontrolled=Le village <0> n'est pas un village contrôllé.
 command.switchcontrol_playernotfound=Impossible de trouver le joueur <0>. Il doit se connecter au moins une fois au monde avant.
 command.switchcontrol_notification=<0> a changé le controlleur du village <3> du joueur <1> au joueur <2>.
-
-
-//Text used in various UI parts, in no specific order:
 ui.lockedchest=Coffre verrouillé
 ui.largelockedchest=Grand coffre verrouillé
 ui.unlockedchest=Coffre déverrouillé
@@ -109,10 +99,10 @@ ui.goalscompleted2=constructions finies
 ui.project=Projet:
 ui.noconstruction1=Pas de construction
 ui.noconstruction2=en cours
-ui.upgrading=Amélioration (<0>)
 ui.xconstructions=<0> constructions IP
 ui.planinconstruction=Cons <0>
 ui.planupgrading=Amé <0> (<1>)
+ui.upgrading=Amélioration (<0>)
 ui.construction=Construction <0>%:
 ui.population=Population:
 ui.populationnumber=Population: <0>
@@ -166,8 +156,8 @@ ui.locationclash=conflit avec un autre bâtiment
 ui.outsideradius=en dehors du village
 ui.wrongelevation=en dehors des altitudes autorisées
 ui.danger=bloc dangereux
-ui.unknownerror=problème inconnu
 ui.notreachable=inaccessible
+ui.unknownerror=problème inconnu
 ui.controlbuildingprojects=Gèrer les projets
 ui.forbidupgrades=Stopper Aml.
 ui.allowupgrades=Autoriser Aml.
@@ -199,7 +189,6 @@ ui.villagerelationsnobutton=Vous devez avoir des points et une réputation posit
 ui.relationhelp=Explications sur les relations<ret><ret>Les relations entre les villages déterminent s'ils coopéreront ou pas.<ret><ret>Le commerce local (les marchands transportant des resources entre les villages) n'aura lieu qu'entre villages de même culture avec de bonnes relations ou entre villages de différentes cultures avec des relations excellentes.<ret><ret>Les villages de cultures différentes dont les relations sont très bonnes et ayant tous les deux des marchés accueilleront des marchands de l'autre culture.<ret><ret>Les villages de la même culture ayant d'excellentes relations accepteront leurs adolescents s'ils ont des postes disponibles.<ret><ret>Les relations entre villages débutent à "excellentes" pour les hameaux d'un village, "bonnes" pour les villages de la même culture, et neutres autrement.<ret><ret>Chaque jour, le joueur reçoit cinq points diplomatiques qu'il peut utiliser pour influencer les relations d'un village. L'efficacité des compliments ou des calmonies dépend de sa réputation dans le village.
 ui.relationfriendly=Des évenements récents entre les villages de <0> et de <1> ont amélioré leurs relations. Elles sont maintenant <2>.
 ui.relationunfriendly=Des heurts récents entre les villages de <0> et de <1> ont envenimé leurs relations. Elles sont maintenant <2>.
-
 ui.cropplantingknowledge=Vous ne savez pas cultiver cette plante. Demandez à un chef de village.
 ui.cropsknown=Plantes connues dans cette culture
 ui.cropknown=Vous avez apris à cultiver le <0>.
@@ -208,12 +197,6 @@ ui.cropnotenoughmoney=Il vous manque <1> pour pouvoir payer l'apprentissage de l
 ui.cropoktolearn=Le village peut vous apprendre à planter le <0>.
 ui.croplearn=Apprendre (<0>)
 ui.croplearned=<0>: Les secrets de la culture du <1> vous ont été révélés !
-ui.crop.rice=riz
-ui.crop.turmeric=curcuma
-ui.crop.maize=maïs
-ui.crop.grapes=raisin
-ui.crop.sapling_appletree=pommiers
-
 ui.huntingdropsknown=Techniques de chasse connues dans cette culture
 ui.huntingdropknown=Vous avez appris à chasser <0>.
 ui.huntingdropinsufficientreputation=Votre réputation est insuffisante pour que le village vous apprenne à chasser : <0>.
@@ -223,16 +206,19 @@ ui.huntingdroplearn=Apprendre (<0>)
 ui.huntingdroplearned=<0>: Les secrets de la chasse : '<1>' vous ont été révélés!
 ui.huntingdrop.seafood_raw=viande de la mer
 ui.huntingdrop.wolfmeat_raw=viande de loup
-
-
+ui.crop.rice=riz
+ui.crop.turmeric=curcuma
+ui.crop.maize=maïs
+ui.crop.grapes=raisin
+ui.crop.sapling_appletree=pommiers
 ui.raider=Raider
 ui.communicationexplanations=Pour communiquer avec les villageois, faites un clic-droit. Si une action est possible avec le villageois en question (commercer, discuter avec le chef du village, l'embaucher temporairement, commencer une mission) une fenêtre s'ouvrira.
 ui.helpbutton=Aide Millénaire
 ui.chunkbutton=Carte des tronçons
 ui.configbutton=Réglages Millénaire
+ui.travelbookbutton=Carnet de voyage
 ui.serverimportforbidden=Il faut être administrateur pour pouvoir importer des bâtiments sur un serveur.
 ui.inhabitants=Habitants
-
 ui.controldiplomacy=Diplomatie
 ui.raidinprogress=Raid en cours!
 ui.otherraidinprogress=Autre raid en cours.
@@ -243,7 +229,6 @@ ui.relgood=Excellentes
 ui.relneutral=Neutres
 ui.relbad=Conflit
 ui.raid=Planifier un raid
-
 ui.custombuilding_confirm=Confirmer la création d'un bâtiment personalisé: <0>
 ui.custombuilding_cantconfirm=Impossible de créer un bâtiment personalisé: <0>
 ui.custombuilding_edit=Mettre à jour le bâtiment personalisé: <0>
@@ -254,22 +239,18 @@ ui.custombuilding_signnumber=Note: vous pouvez indiquer l'ordre dans lequel util
 ui.custombuilding_radius=Les resources sont identifiées dans un rayon de <0> blocs (<1> verticalement).
 ui.close=Fermer
 ui.confirm=Confirmer
-
 ui.paneldonations1=Dons
 ui.paneldonations2=<0> don(s)
 ui.paneldonations3=de <0> village(s)
-
 ui.panelmarvelres1=Ressources
 ui.panelmarvelres2=nécessaires
 ui.panelmarvelrescount=<0>/<1>
-
 ui.panelmarvelprojects=Merveille
 ui.panelmarvelprojectsdone=Fini : <0>
 ui.panelmarvelprojectstotal=Total : <0>
 ui.uluexplanations=Un ulu peut être utilisé pour deux choses : sur la neige et la glace pour tailler des briques, ou avec de la terre ou des planches dans ton inventaire pour créer du gazon.
-ui.ulunodirt=Tu n'as pas de terre dans ton inventaire.
 ui.ulunoplanks=Tu n'as pas de planches dans ton inventaire.
-
+ui.ulunodirt=Tu n'as pas de terre dans ton inventaire.
 custombuilding.chest=coffre
 custombuilding.craft=établi
 custombuilding.sign=panneau
@@ -285,7 +266,6 @@ custombuilding.fishing=laine bleue clair(sera détruite; indique là où les vil
 custombuilding.silk=laine blanche (sera détruite; indique là où les vers à soie seront)
 custombuilding.squid=laine bleue (sera détruite; indique là où apparaîtront les pieuvres; doit être entourée d'eau)
 custombuilding.cacao=cabosse de cacao
-
 help.tab_1=Généralité sur les villages
 help.tab_2=Commerce
 help.tab_3=Réputation & chef du village
@@ -299,33 +279,28 @@ help.tab_10=Les Mayas
 help.tab_11=Les Japonais
 help.tab_12=Les Byzantins
 help.tab_13=Questions fréquentes
-
+quest.obtained=Obtenu
+quest.lackingcondition=Il vous manque:
+quest.lackinghiddengoods=Vous n'avez pas les objets nécessaires à cette tâche.
 quest.close=Fermer
 quest.accept=Accepter la quête
 quest.refuse=Refuser la quête
 quest.continue=Continuer la quête
 quest.conditionsnotmet=Vous n'avez pas rempli toutes les conditions.
-quest.obtained=Obtenu
-quest.lackingcondition=Il vous manque:
-quest.lackinghiddengoods=Vous n'avez pas les objets nécessaires à cette tâche.
 quest.lessthananhourleft=il reste moins d'une heure !
 quest.timeremaining=Temps restant
+quest.hours=heure(s)
 quest.noquestsvisible=Pas de quêtes à lister
 quest.questlist=Quêtes en cours
-quest.hours=heure(s)
+quest.reputationlost=réputation perdue
 quest.creationqueststatus=Statut de la Quête de la Création
 quest.creationqueststatusshort=Quête de la Création:
-quest.reputationlost=réputation perdue
-
 quest.cqchaptersadhu=Le Sadhu
 quest.cqsadhustartexplanation=Trouvez un villageois qui puisse vous guider dans un village indien où vous avez la réputation "ami du village".
-
 quest.cqchapteralchemist=L'Alchimiste
 quest.cqalchemiststartexplanation=Trouvez un villageois qui vous guidera dans un village norman où vous êtes au moins "ami du village".
-
 quest.cqchapterfallenking=Le Roi Déchu
 quest.cqfallenkingstartexplanation=Trouvez un chamane qui vous guidera dans un village maya où vous êtes au moins "ami du village".
-
 quest.cqallcompleted=Vous avez terminé tous les chapitres actuellement disponibles.
 quest.cqcheckforupdates=Visitez www.millenaire.org pour des mises à jour avec plus de missions.
 quest.cqchapternotstarted=Vous n'avez pas commençé le chapitre "<0>".
@@ -335,17 +310,9 @@ quest.cqchapternotstartedshort=Chapitre "<0>": pas commençé.
 quest.cqchapterinprogressshort=Chapitre "<0>": <1>/<2>.
 quest.cqchaptercompletedshort=Chapitre "<0>": terminé.
 quest.cqcheckquestlistandhelp=Pressez '<0>' pour plus d'information ou pour accéder à l'aide Millénaire.
-
-
-
 error.unknownitem=Nom d'object inconnu
 error.backwardtime=Le temps a reculé de <0> à <1> ! Faire reculer le temps (en utilisant "/time set" par exemple) casse les villages Millénaire.
-
-
-//Errors
-ui.updateEntity=Erreur dans TileEntityBuilding.updateEntity(). Regardez millenaire.log.
-
-//Panels & parchments
+ui.updateentity=Erreur dans TileEntityBuilding.updateEntity(). Regardez millenaire.log.
 panels.notextfound=Aucun texte trouvé pour ce livre: <0>
 panels.invalidid=ID du village non valide.
 panels.toofar=Le village est trop loin pour le charger.
@@ -432,117 +399,146 @@ panels.nameand=<0> et
 panels.buildingproject=Projet en cours:
 panels.currentconstruction=Construction en cours:
 panels.villagesummary=Informations clés
-
 panels.marveldonationstitle=Dons à <0>
 panels.marveldonation=<0> a donné les resources suivantes : <1>
 panels.marvelresources=Ressources nécessaires pour la construction :
-
-//Goals (text displayed above the villager when he is doing it)
 goal.gorest=Se repose
 goal.godrink=Parti boire un coup
 goal.gopray=Parti prier
-goal.GatherGoods=Collecte des marchandises
-goal.BringBackResourcesHome=Ramène des ressources
-goal.GetTool=Va chercher un outil
-goal.huntMonster=Combat une créature
-goal.GetGoodsHousehold=Va chercher des marchandises pour sa maison
-goal.DeliverGoodsHousehold=Livre des marchandises pour sa maison
-goal.GetHouseTHResources=Va chercher des marchandises de sa maison
-goal.DeliverResourcesShop=Livre des ressources
+goal.gathergoods=Collecte des marchandises
+goal.bringbackresourceshome=Ramène des ressources
+goal.gettool=Va chercher un outil
+goal.huntmonster=Combat une créature
+goal.getgoodshousehold=Va chercher des marchandises pour sa maison
+goal.delivergoodshousehold=Livre des marchandises pour sa maison
+goal.gethousethresources=Va chercher des marchandises de sa maison
+goal.deliverresourcesshop=Livre des ressources
 goal.raidvillage=Attaque le village
 goal.defendvillage=Défend son village
 goal.hide=Se cache
 goal.tendfurnace=S'occupe des fours
-
-
-goal.CollectCrop=Récolte
-goal.PlantSeeds=Plante du blé
-goal.ChopTrees=Coupe du Bois
-goal.PlantSaplings=Plante des arbres
-goal.GetResourcesForBuild=Va chercher des ressources pour une construction
-goal.MakeBread=Fait du pain
-goal.BeSeller=Vend au joueur
-goal.MakeCider=Fabrique du cidre
-goal.MakeCalva=Fabrique du calva
-goal.Construction=Construit
-goal.GoPlay=Joue
-goal.BecomeAdult=Emménage
+goal.takefrombuilding=Récupère les biens d'un bâtiment 
+goal.collectcrop=Récolte
+goal.plantseeds=Plante du blé
+goal.choptrees=Coupe du Bois
+goal.plantsaplings=Plante des arbres
+goal.getresourcesforbuild=Va chercher des ressources pour une construction
+goal.makebread=Fait du pain
+goal.makecake=Fait des gateaux
+goal.makesugar=Fait du sucre
+goal.beseller=Vend au joueur
+goal.makecider=Fabrique du cidre
+goal.makecalva=Fabrique du calva
+goal.construction=Construit
+goal.goplay=Joue
+goal.becomeadult=Emménage
 goal.childobserve=Observe un adulte
 goal.childeatgrapes=Mange du raisn
 goal.childeatsugarcane=Mange de la canne à sucre
 goal.childeatapple=Mange une pomme
 goal.childeatcacaobeans=Mange du cacao
-
-
 goal.makenormanaxe=Forge une hache normande
 goal.makenormanhoe=Forge une houe normande
 goal.makenormanpickaxe=Forge une pioche normande
 goal.makenormanshovel=Forge une pelle normande
-
 goal.makenormanboots=Forge des bottes normandes
 goal.makenormanhelmet=Forge un casque normand
 goal.makenormanlegs=Forge des jambières normandes
 goal.makenormanplate=Forge une armure normande
 goal.makenormansword=Forge une épée normande
-
-goal.Patrol=Patrouille
-goal.Butcher=Abat un animal
-goal.MakeBoudin=Fait du boudin
-goal.MakeTripes=Fait des tripes
+goal.patrol=Patrouille
+goal.butcher=Abat un animal
+goal.makeboudin=Fait du boudin
+goal.maketripes=Fait des tripes
 goal.mineclay=Ramasse de l'argile
 goal.minegravel=Ramasse des graviers
 goal.minesand=Ramasse du sable
 goal.minesandstone=Mine du grès
+goal.mineredsandstone=Mine du grès rouge
 goal.minestone=Mine de la pierre
 goal.minesnowbricks=Sculpte des briques de neige
 goal.minesnowpaths=Fabrique des chemins de neige
 goal.mineicebricks=Sculpte des briques de glace
-goal.Cooking=Cuit des ressources
-goal.MakeBooks=Fabrique des parchemins
-goal.MakeTapestry=Fabrique des tapisseries
-goal.VisitInn=Visite l'auberge
-goal.VisitBuilding=Visite un magasin
-goal.MakeAmulet=Fabrique une amulette
-goal.KeepStall=Tient son stand
-goal.MakeTimberFrame=Fabrique des colombages
-goal.DryBrick=Fait sécher des briques
-goal.GatherBrick=Collecte des briques séchées
-goal.CookBrick=Cuit des briques
-goal.PlantRice=Plante du riz
-goal.HarvestRice=Récolte du riz
-goal.PlantTurmeric=Plante du curcuma
-goal.HarvestTurmeric=Récolte du curcuma
-goal.SlaughterChicken=Abat un poulet
-goal.PlantSugarCane=Plante de la canne à sucre
-goal.HarvestSugarCane=Récolte de la canne à sucre
-goal.MakeRasgulla=Prépare des rasgullas
-goal.Makesteelaxe=Fabrique une hache de fer
-goal.Makesteelpickaxe=Fabrique une pioche de fer
-goal.Makesteelshovel=Fabrique une pelle de fer
-goal.Makesteelhoe=Fabrique une houe de fer
-goal.Makesteelsword=Fabrique une épée de fer
+goal.cooking=Cuit des ressources
+goal.makebooks=Fabrique des parchemins
+goal.maketapestry=Fabrique des tapisseries
+goal.visitinn=Visite l'auberge
+goal.visitbuilding=Visite un magasin
+goal.makeamulet=Fabrique une amulette
+goal.keepstall=Tient son stand
+goal.maketimberframe=Fabrique des colombages
+goal.drybrick=Fait sécher des briques
+goal.gatherbrick=Collecte des briques séchées
+goal.cookbrick=Cuit des briques
+goal.plantrice=Plante du riz
+goal.harvestrice=Récolte du riz
+goal.plantturmeric=Plante du curcuma
+goal.harvestturmeric=Récolte du curcuma
+goal.slaughterchicken=Abat un poulet
+goal.plantsugarcane=Plante de la canne à sucre
+goal.harvestsugarcane=Récolte de la canne à sucre
+goal.makerasgulla=Prépare des rasgullas
+goal.makesteelaxe=Fabrique une hache de fer
+goal.makesteelpickaxe=Fabrique une pioche de fer
+goal.makesteelshovel=Fabrique une pelle de fer
+goal.makesteelhoe=Fabrique une houe de fer
+goal.makesteelsword=Fabrique une épée de fer
 goal.makecauldron=Fabrique un chaudron
-
+goal.makesteelchest=Fabrique un plastron de fer
+goal.makesteelhelmet=Fabrique un casque de fer
+goal.makesteellegs=Fabrique des jambières de fer
+goal.makesteelboots=Fabrique des bottes de fer
 goal.makeindianstatue=Sculpte
 goal.performpujas=Fait un puja
 goal.bepujaperformer=Disponible pour les pujas
 goal.performsacrifices=Sacrifie une offrande
 goal.besacrificeperformer=Disponible pour les sacrifices
-
-goal.PlantMaize=Plante du maïs
-goal.HarvestMaize=Récolte du maïs
-goal.makemayanGoldBlock=Fabrique des décorations en or
+goal.makecharpoybed=Fait un lit Charpoy
+goal.makedecoratedbricks=Peint des briques
+goal.makepaintedbucketwhite=Fait de la chaux
+goal.makewoodenbars=Fait des barres de bois
+goal.makewoodenbarsindian=Découpe une vitre
+goal.makewoodenbarsrosette=Découpe une vitre
+goal.plantmaize=Plante du maïs
+goal.harvestmaize=Récolte du maïs
+goal.makemayangoldblock=Fabrique des décorations en or
 goal.makemayanstatue=Sculpte
-goal.makeobsidianflake=Casse de l'obsidienne
+goal.makewoodenaxe=Fabrique une hâche inuit en bois
+goal.makewoodenpickaxe=Fabrique une pioche en bois
+goal.makewoodenshovel=Fabrique une pelle en bois
+goal.makewoodenhoe=Fabrique une houe en bois
+goal.makewoodensword=Fabrique une épée en bois
+goal.makewoodenaxeinuit=Fabrique une hâche en bois
+goal.makewoodenpickaxeinuit=Fabrique une pioche inuit en bois
+goal.makewoodenshovelinuit=Fabrique une pelle inuit en bois
+goal.makewoodenhoeinuit=Fabrique une houe inuit en bois
+goal.makewoodenswordinuit=Fabrique une épée inuit en bois
+goal.makestoneaxe=Fabrique une hache de pierre
+goal.makestonepickaxe=Fabrique une pioche de pierre
+goal.makestoneshovel=Fabrique une pelle de pierre
+goal.makestonehoe=Fabrique une houe de pierre
+goal.makestonesword=Fabrique une épée de pierre
+goal.makeleatherboots=Fabrique des bottes de cuir
+goal.makeleatherchest=Fabrique un plastron de cuir
+goal.makeleatherhelmet=Fabrique un casque de cuir
+goal.makeleatherlegs=Fabrique des jambières de cuir
+goal.makeleatherboots_inuit=Fabrique des bottes inuit de cuir
+goal.makeleatherchest_inuit=Fabrique un plastron inuit en cuir
+goal.makeleatherhelmet_inuit=Fabrique un casque inuit en cuir
+goal.makeleatherlegs_inuit=Fabrique des jambières inuit en cuir
+goal.makefurboots=Fabrique des bottes en fourrure
+goal.makefurplate=Fabrique un manteau de fourrure
+goal.makefurhelmet=Fabrique un casque en fourrure
+goal.makefurlegs=Fabrique un pantalon de fourrure
 goal.makemayanaxe=Fabrique une hache d'obsidienne
 goal.makemayanpickaxe=Fabrique une pioche d'obsidienne
 goal.makemayanshovel=Fabrique une pelle d'obsidienne
 goal.makemayanhoe=Fabrique une houe d'obsidienne
 goal.makemayanmace=Fabrique une massue d'obsidienne
+goal.makeobsidianflake=Casse de l'obsidienne
 goal.harvestcocoa=Récolte du cacao
 goal.plantcocoa=Plante du cacao
 goal.makecacauhaa=Prépare de la cacauhaa
-
 goal.fish=Pêche
 goal.fishinuit=Pêche
 goal.makethatch=Fabrique de la chaume
@@ -551,75 +547,90 @@ goal.makepaperrice=Fabrique du papier
 goal.makepaperwoodpulp=Fabrique du papier
 goal.makepaperwall=Fabrique des parois de papier
 goal.cookfish=Cuit du poisson
+goal.cooksteak=Cuit du bœuf
+goal.cooklamb=Cuit de l'agneau
+goal.cookpork=Cuit du porc
+goal.cookchicken=Cuit du poulet
 goal.makeudon=Fait des udons
+goal.maketachi=Fabrique une épée tachi
+goal.makejapaneseweapons=Fabrique de l'armement japonais
 goal.makesake=Fermente du saké
 goal.slaughtersquid=Pêche des calmars
-
-goal.makeglassbottles=Fabrique des fioles
-goal.harvestwarts=Récolte des verrues
-goal.plantwarts=Plante des verrues
+goal.cookfishslab=Cuit des fruits de mer
+goal.makebearsteak=Fait des steaks d'ours
+goal.makebearstew=Fait du ragoût d'ours
+goal.makemeatstew1=Fait du ragoût de viande
+goal.makemeatstew2=Fait du ragoût de viande
+goal.makemeatstew3=Fait du ragoût de viande
+goal.makemeatstew4=Fait du ragoût de viande
+goal.makemeatstew5=Fait du ragoût de viande
+goal.makemeatstew6=Fait du ragoût de viande
+goal.makemeatstew7=Fait du ragoût de viande
+goal.makemeatstew8=Fait du ragoût de viande
+goal.makepotatostew=Fait du ragoût de patates
+goal.makebone=Fait des os
+goal.shoveldirt=Creuse de la terre
+goal.makecarving=Taille une statue
+goal.makeinuitcarving=Fabrique une sculpture inuit
+goal.packsnow=Tasse de la neige
+goal.packoaksod=Prépare le sod en chêne
+goal.packsprucesod=Prépare le sod en épicéa
+goal.packbirchsod=Prépare le sod en bouleau
+goal.packsodspruce=Prépare le sod en sapin
+goal.packsodbirch=Prépare le sod en bouleau
+goal.packjunglesod=Prépare le sod en bois de jungle
+goal.plantpotatohome=Plante des pomme de terre
+goal.plantpotato=Plante des patates
+goal.plantwheathome=Plante du blé
+goal.plantwheat=Plante du blé
+goal.cookpotato=Cuit une pomme de terre
+goal.harvestpotatohome= Récolte les pommes de terre
+goal.harvestpotato= Récolte des patates
+goal.harvestwheathome=Récolte du blé
+goal.harvestwheat=Récolte du blé
+goal.packsnowblock=Tasse un block de neige
+goal.carveice=Taille de la glace
 goal.brewpotions=Prépare des potions
-
-goal.sleep=Dort
-goal.sleep_travelling=Va dormir
-
+goal.harvestwarts=Récolte des verrues
+goal.makeglassbottles=Fabrique des fioles
+goal.plantwarts=Plante des verrues
 goal.plantvines=Plante des vignes
+goal.harvestvines=Vendange
 goal.gathersilk=Récolte de la soie
 goal.makeicon=Peint une icône
 goal.makewine=Produit du vin
 goal.makebookshelves=Fabrique des bibliothèques
 goal.makebyzantinetiles=Fabrique des tuiles
 goal.makebrick=Fabrique des briques
+goal.makesnowbrick=Fabrique des briques de neige
+goal.makesnowbricksfromnothing=Fabrique des briques de neige à partir de rien
+goal.makesnowbricksfromsnow=Fabrique des briques de neige à partir de neige
+goal.makeicebrick=Fabrique des briques de glace
+goal.makesnowwall=Fait un mur de neige
 goal.training=S'entraîne
 goal.paintpainting=Peint un tableau
 goal.makebook=Ecrit un livre
-
 goal.makebyzantinemace=Fabrique une masse d'arme
 goal.makebyzantinechest=Fabrique un plastron
 goal.makebyzantinelegs=Fabrique des jambières
 goal.makebyzantinehelmet=Fabrique un casque
 goal.makebyzantineboots=fabrique des bottes
-
-
-goal.makearrow=Fabrique des flèches
+goal.maketannedhide=Fabrique une peau d'animal tannée
+goal.maketannedhide2=Fabrique une peau d'animal tannée
+goal.makeleather=Tanne du cuir
+goal.makehidehanging=Fabrique une pendaison de peau
 goal.makebow=Fabrique un arc
+goal.makeinuitbow=Fabrique un arc inuit
+goal.makebowinuit=Fabrique un arc inuit
+goal.makespear=Fabrique une lance
 goal.makerottenflesh=Fabrique de la chair putréfiée
-goal.makesteelboots=Fabrique des bottes de fer
-goal.makesteelchest=Fabrique un plastron de fer
-goal.makesteelhelmet=Fabrique un casque de fer
-goal.makesteellegs=Fabrique des jambières de fer
-goal.makestoneaxe=Fabrique une hache de pierre
-goal.makestonehoe=Fabrique une houe de pierre
-goal.makestonepickaxe=Fabrique une pioche de pierre
-goal.makestoneshovel=Fabrique une pelle de pierre
-goal.makestonesword=Fabrique une épée de pierre
-
-goal.makeleatherboots=Fabrique des bottes de cuir
-goal.makeleatherchest=Fabrique un plastron de cuir
-goal.makeleatherhelmet=Fabrique un casque de cuir
-goal.makeleatherlegs=Fabrique des jambières de cuir
-
-goal.maketachi=Fabrique une épée tachi
-goal.makejapaneseweapons=Fabrique de l'armement japonais
-
-goal.cookchicken=Cuit du poulet
-goal.cooklamb=Cuit de l'agneau
-goal.cookpork=Cuit du porc
-goal.carveice=Taille de la glace
-goal.cookpotato=Cuit une pomme de terre
-goal.harvestpotatohome= Récolte les pommes de terre
-goal.makecarving=Taille une statue
-goal.packbirchsod=Prépare le sod en bouleau
-goal.packjunglesod=Prépare le sod en bois de jungle
-goal.packsprucesod=Prépare le sod en épicéa
-goal.packoaksod=Prépare le sod en chêne
-goal.packsnow=Tasse de la neige
-goal.packsnowblock=Tasse un block de neige
-goal.plantpotatohome=Plante des pomme de terre
-goal.shoveldirt=Creuse de la terre
-goal.cooksteak=Cuit du bœuf
-goal.harvestvines=Vendange
-
+goal.makearrow=Fabrique des flèches
+goal.makearrowinuit=Fabrique des flèches inuit
+goal.makewolfsteak=Fabrique des steaks de loup
+goal.makefirepit=Fait un foyer
+goal.makedirtwallinuit=Fabrique des murs en terre
+goal.sleep=Dort
+goal.sleep_travelling=Va dormir
 goal.makeclothes_byz_wool=Tisse des vêtements
 goal.makemasa=Prépare une masa
 goal.slaughterpig=Abat un porc
@@ -633,103 +644,42 @@ goal.breed=Elève des animaux
 goal.shearsheep=Tond un mouton
 goal.makemurgh=Prépare un cari de poulet
 goal.getitemtokeep=Va chercher un objet
-
 goal.buildpath=Trace un chemin
 goal.clearoldpath=Efface un vieux chemin
-
 goal.gosocialise=Part discuter
 goal.chat=Discute
-
-goal.makepath=Fabrique des blocs de chemins
 goal.makedirtwall=Fabrique du pisé
-
+goal.makepath=Fabrique des blocs de chemins
 goal.makechiseledstone=Sculpte des pierres
 goal.makestainedglass=Fabrique des vitraux
-
 goal.makecarpet=Tisse un tapis
 goal.makebonemeal=Fabrique de la poudre d'os
 goal.collectflowers=Ramasse des fleurs
 goal.dyewool=Teint de la laine
 goal.plantflowers=Plante des fleurs
 goal.makestrawbed=Fabrique une paillasse
-
 goal.inspectconstruction=Inspecte une construction
 goal.goonpilgrimage=En pélerinage
-
-goal.makethatchbed=Fabrique une paillasse
-
 goal.goholdaservice=Célèbre une messe
 goal.goplayorgan=Joue de l'orgue
 goal.gopreachonpulpit=Prêche
-goal.cook_potato=Cuit des patates
-goal.cookfishslab=Cuit des fruits de mer
-goal.harvestpotato= Récolte des patates
-goal.harvestwheat=Récolte du blé
-goal.harvestwheathome=Récolte du blé
-goal.makearrowinuit=Fabrique des flèches inuit
-goal.makebearsteak=Fait des steaks d'ours
-goal.makebearstew=Fait du ragoût d'ours
-goal.makebone=Fait des os
-goal.makebowinuit=Fabrique un arc inuit
-goal.makedirtwallinuit=Fabrique des murs en terre
-goal.makefire_pit=Fait un foyer
-goal.makefirepit=Fait un foyer
-goal.makefurboots=Fabrique des bottes en fourrure
-goal.makefurhelmet=Fabrique un casque en fourrure
-goal.makefurlegs=Fabrique un pantalon de fourrure
-goal.makefurplate=Fabrique un manteau de fourrure
-goal.makehidehanging=Fabrique une pendaison de peau
-goal.makeicebrick=Fabrique des briques de glace
+goal.makethatchbed=Fabrique une paillasse
 goal.makeinuitbed=Fabrique un lit inuit
-goal.makeinuitbow=Fabrique un arc inuit
-goal.makeinuitcarving=Fabrique une sculpture inuit
-goal.makeleather=Tanne du cuir
-goal.makeleatherboots_inuit=Fabrique des bottes inuit de cuir 
-goal.makeleatherchest_inuit=Fabrique un plastron inuit en cuir 
-goal.makeleatherhelmet_inuit=Fabrique un casque inuit en cuir 
-goal.makeleatherlegs_inuit=Fabrique des jambières inuit en cuir 
-goal.makemeatstew1=Fait du ragoût de viande
-goal.makemeatstew2=Fait du ragoût de viande
-goal.makemeatstew3=Fait du ragoût de viande
-goal.makemeatstew4=Fait du ragoût de viande
-goal.makemeatstew5=Fait du ragoût de viande
-goal.makemeatstew6=Fait du ragoût de viande
-goal.makemeatstew7=Fait du ragoût de viande
-goal.makemeatstew8=Fait du ragoût de viande
-goal.makepotatostew=Fait du ragoût de patates
-goal.makesnowbrick=Fabrique des briques de neige
-goal.makesnowbricksfromnothing=Fabrique des briques de neige à partir de rien
-goal.makesnowbricksfromsnow=Fabrique des briques de neige à partir de neige
-goal.makesnowwall=Fait un mur de neige
-goal.makespade=Fabrique une pelle
-goal.makespear=Fabrique une lance
-goal.makestonecauldron=Fabrique un chaudron en pierre
-goal.maketannedhide=Fabrique une peau d'animal tannée
-goal.maketannedhide2=Fabrique une peau d'animal tannée
 goal.maketools=Fabrique des outils
-goal.makewolfsteak=Fabrique des steaks de loup
-goal.makewoodenaxe=Fabrique une hâche inuit en bois
-goal.makewoodenaxeinuit=Fabrique une hâche en bois 
-goal.makewoodenhoe=Fabrique une houe en bois
-goal.makewoodenhoeinuit=Fabrique une houe inuit en bois
-goal.makewoodenpickaxe=Fabrique une pioche en bois
-goal.makewoodenpickaxeinuit=Fabrique une pioche inuit en bois 
-goal.makewoodenshovel=Fabrique une pelle en bois
-goal.makewoodenshovelinuit=Fabrique une pelle inuit en bois
-goal.makewoodensword=Fabrique une épée en bois
-goal.makewoodenswordinuit=Fabrique une épée inuit en bois
-goal.packsodbirch=Prépare le sod en bouleau
-goal.packsodspruce=Prépare le sod en sapin
-goal.plantpotato=Plante des patates
-goal.plantwheat=Plante du blé
-goal.plantwheathome=Plante du blé
-goal.slaughtercowinuits=Abat une vache inuit
-goal.slaughtercownorman=Abat une vache normande
-
+goal.cook_potato=Cuit des patates
+goal.makespade=Fabrique une pelle
+goal.makestonecauldron=Fabrique un chaudron en pierre
+goal.makefire_pit=Fait un foyer
 goal.plantsaplingappletree=Plante un pommier
 goal.gatherciderapples=Ramasse des pommes à cidre
-
-//other
+goal.makeredsandstonecarved=Sculpte dans du grès rouge
+goal.makesandstonecarved=Sculpte dans du grès
+goal.makeochresandstonecarved=Sculpte dans du grès ocre
+goal.mining=Mine
+goal.harvestcotton=Récolte du coton
+goal.plantcotton=Plante du coton
+goal.makewoolfromcotton=Tisse du coton
+goal.makebanner=Fabrique une bannière
 other.west=ouest
 other.east=est
 other.north=nord
@@ -738,7 +688,6 @@ other.north-west=nord-ouest
 other.south=sud
 other.south-east=sud-est
 other.south-west=sud-ouest
-
 other.tothewest=à l'ouest
 other.totheeast=à l'est
 other.tothenorth=au nord
@@ -747,34 +696,23 @@ other.tothenorth-west=au nord-ouest
 other.tothesouth=au sud
 other.tothesouth-east=au sud-est
 other.tothesouth-west=au sud-ouest
-
 other.west_short=O
 other.east_short=E
 other.north_short=N
 other.south_short=S
 other.shortdistancedirection=<0>m <1>
-
 other.metre=mètres
 other.kilometre=kilomètres
 other.andhalf=et demi
-
 other.directionshort=<1> au <0>
 other.exploredbuilding=Vous avez exploré un bâtiment: <0>.
-
 other.malevillager=villageois Millénaire
 other.femalevillager=villageoise Millénaire
-
 other.buildinghealing=<0> restaure votre santé.
-
 other.localmerchantinteract=Ce marchand est un marchand local. Il transporte des marchandises de village en village. Vous ne pouvez pas interagir avec lui.
-
 other.chattosomeone=<0> à <1>
-
 other.villagerattackinglabel=Attaque <0>
-
 other.largebuildinggeneration=Millénaire est entrain de générer un grand bâtiment : <0>. Ceci peut bloquer le jeu pendant quelques secondes.
-
-
 hire.health=Vie
 hire.strength=Force
 hire.cost=Coût (par jour)
@@ -792,53 +730,35 @@ hire.hireover=Le contrat de <0> est fini. Il rentre dans son village.
 hire.hiredied=<0> est mort. Il sera recréé dans son village, son contrat terminé.
 hire.hiredbyotherplayer=<0> a déjà été embauché par <1>.
 hire.hiredby=Embauché par <0>
-
 actions.forest_success=Vous avez réussi à explorer la forêt.
 actions.forest_continue=Vous avez terminé <0>% de votre exploration de la forêt.
-
 actions.desert_success=Vous avez réussi à explorer le désert.
 actions.desert_continue=Vous avez terminé <0>% de votre exploration du désert.
-
-
 actions.mountain_success=Vous avez réussi à explorer les montagnes.
 actions.mountain_continue=Vous avez terminé <0>% de votre exploration des montagnes.
-
-
 actions.underwaterglass_success=Vous avez réussi à construire une fenêtre d'observation sous-marine.
 actions.underwaterglass_notdeepenough=La mer n'est pas assez profonde ici.
-
 actions.underwaterdive_success=Vous avez réussi à plonger loin dans l'océean.
-
 actions.bottomoftheworld_success=Il semblerait que vous ne puissiez pas creuser plus profondément. Ca doit être les racines du monde!
-
 actions.topoftheworld_success=Il semblerait que vous ne puissiez pas vous élever plus haut. C'est surement le sommet du ciel.
-
 actions.borehole_nblineok=<0> blocs du manteau sont correctement exposés au ciel. Il vous en faut 25 formant un carré de 5x5.
 actions.borehole_success=Vous avez réussit à creuser le trou de forage !
-
 actions.boreholetnt_success=Suffisament de TNT est en place. Vous pouvez la détonner.
 actions.boreholetnt_nbtnt=<0> blocs de TNT ont été plaçés et couverts d'obsidiennes. Il vous en faut 20 au total.
-
 actions.boreholetntlit_success=Vous avez allumé la TNT. Observez le résultat et allez voir l'alchimiste.
-
 actions.thevoid_success=Vous avez contemplé le Vide !
-
 actions.enchantmenttable_success=Vous avez construit une table d'enchantement près du Sadhu.
-
+actions.mayan_siege_start=La pyramide est prise d'assaut ! <0> ghasts, <1> incendiaires et <2> squelettes vous attaquent. Vainquez-les.
+actions.mayan_siege_success=Vous avez vaincu les forces attaquant la pyramide !
+actions.mayan_siege_update=Il reste <0> ghast(s), <1> incendiaire(s) et <2> squelettes.
 actions.normanmarvel_locationset=Vous avez choisi un emplacement pour la merveille normande! Retournez voir le chevalier pour démarrer la construction, ou utilisez la bagette ailleurs pour choisir un autre emplacement.
 actions.normanmarvel_villagetooclose=Vous ne pouvez pas générer la merveille à moins de <0> mètres d'un village ou d'un bâtiment isolé. Il y a un village ou bâtiment à <1> mètres.
 actions.normanmarvel_generated=La construction de la merveille normande Notre Dame a débuté !
 actions.normanmarvel_notgenerated=L'endroit que vous avez choisi n'a pas suffisament de place pour la merveille. Essayez de trouver un endroit avec plus d'espace.
-
-actions.mayan_siege_start=La pyramide est prise d'assaut ! <0> ghasts, <1> incendiaires et <2> squelettes vous attaquent. Vainquez-les.
-actions.mayan_siege_success=Vous avez vaincu les forces attaquant la pyramide !
-actions.mayan_siege_update=Il reste <0> ghast(s), <1> incendiaire(s) et <2> squelettes.
-
 info.culturetitle=Cultures
 info.culture=Culture <0>
 info.culturereputation=Réputation: <0>
 info.culturelanguage=Niveau de langue: <0>
-
 culturereputation.scourgeofgod=Fléau de Dieu
 culturereputation.dreadful=Epouvantable
 culturereputation.bad=Mauvaise
@@ -847,34 +767,27 @@ culturereputation.excellent=Excellente
 culturereputation.good=Bonne
 culturereputation.decent=Correcte
 culturereputation.neutral=Neutre
-
 culturelanguage.fluent=Courant
 culturelanguage.moderate=Modéré
 culturelanguage.beginner=Débutant
 culturelanguage.minimal=Minime
-
 weapon.criticalstrike=Coup critique ! Dégats x<0> !
-
 negationwand.villagelocked=Le/la <0> est toujours verrouillé(e). Vous devez tuer tous les villageois mâles adultes avant de pouvoir le détruire.
 negationwand.confirmmessage=Etes vous sûrs de vouloir détruire ce/cette <0> ? Les bâtiments resteront, mais tous les villageois seront détruits définitivement.
 negationwand.confirm=Confirmer
 negationwand.cancel=Annuler
 negationwand.destroyed=Le/la <0> a été détruit(e) ! Ses bâtiments ne sont plus que des coquilles vides et aucun villageois n'y reviendra.
-
 relation.excellent=Excellentes
 relation.verygood=Très bonnes
 relation.good=Bonnes
 relation.decent=Correctes
 relation.fair=Passables
-
 relation.openconflict=Conflit ouvert
 relation.atrocious=Atroces
 relation.verybad=Très mauvaises
 relation.bad=Mauvaises
 relation.chilly=Froides
-
 relation.neutral=Neutres
-
 raid.planningstarted=<0> aurait commencé à planifier un raid sur <1>.
 raid.started=<0> a commencé son raid sur <1> ! <2> combattant(s) en font partis.
 raid.raidsuccesfull=<0> a réussit son raid sur <1>, pillant <2> resources !
@@ -884,19 +797,38 @@ raid.historysuccess=Raid réussi sur <0>. Butin: <1>
 raid.historyraided=Pillé par <0>. Butin: <1>
 raid.historyfailure=Raid manqué sur <0>.
 raid.historydefended=Raid de <0> repoussé avec succès.
-
 hof.hof=Panthéon
 hof.modcreator=Créateur du mod
 hof.creatorofmayan1=Créateur de
 hof.creatorofmayan2=la culture maya
 hof.creatorofjapanese1=Créateur de
 hof.creatorofjapanese2=la culture japonaise
+hof.creatorofnorman1=Créateur de
+hof.creatorofnorman2=la culture normande
+hof.creatorofindian1=Créateur de
+hof.creatorofindian2=la culture indienne
 hof.creatorofbyzantine1=Créateur de
 hof.creatorofbyzantine2=la culture byzantine
 hof.creatorofinuits1=Créateur de
 hof.creatorofinuits2=la culture inuit
 hof.creatorofindianskins1=Créateur des
 hof.creatorofindianskins2=skins indiennes
+
+hof.reserved1=Réservé à une
+hof.reserved2=future culture
+
+hof.dedication1=Un hommage
+hof.dedication2=à tout ceux
+hof.dedication3=qui ont contribué
+hof.dedication4=à ce mod
+
+hof.inscription1=Basé sur
+hof.inscription2=le Panthéon
+hof.inscription3=de Paris
+hof.redesigner=Architecte
+hof.inscription4=Mars 9, AD 2019
+hof.inscription5=Avril 17, AD 2019
+
 hof.skinmaker=Créateur de skins
 hof.buildingmaker=Créateur de bâtiments
 hof.wikiadmin=Admin wiki
@@ -924,14 +856,31 @@ hof.donor=Donateur
 hof.variousimprovements1=Améliorations
 hof.variousimprovements2=Diverses
 hof.gradlebuild1=Nouveau
-hof.gradlebuild2=Construction Graduelle
+hof.gradlebuild2=Build Gradle
 hof.112testing=Tests pour 1.12
 hof.communitywork=Communauté
 hof.development=Développement
+hof.securityadvice=Expertise sécurité
+
+hof.normtap=Tapisserie normande
+hof.byzicon=Icône byzantine
+hof.hindustatues=Statues hindoues
+hof.mayanstatue=Statue maya
+hof.inuithide1=Peau décorative
+hof.inuithide2=inuite
+hof.donate1=Votre nom
+hof.donate2=pourraît être ici
+hof.donate3=Contribuez aujourd'hui !
+hof.contribute1=Contribuez à
+hof.contribute2=Millénaire
+hof.contribute3=Venez sur Discord
+hof.contribute4=nCXjd4s
+
+
+
 
 marvel.norman.marvelbuilt=Une immense cathédrale a été construite par les normands ! Rien de pareil n'avait jamais été bâti en ce nouveau monde !
 marvel.norman.morningbells=Les cloches de <0> sonnent au loin. Cette journée s'annonce chanceuse !
-
 pujas.invanme=Pujas
 pujas.panditfee=Pour le pandit
 pujas.offering=Offrande
@@ -944,7 +893,6 @@ pujas.offeringslot=Mettez une offrande pour les Dieux.
 pujas.offeringslot2=Ils n'acceptent pas tout. Expérimentez.
 pujas.moneyslot=Mettez de l'argent pour le pandit.
 pujas.toolslot=Mettez l'outil à enchanter.
-
 sacrifices.priestcoming=<0>: Vous avez besoin de sacrifier aux Dieux ? C'est sage de les appaiser.
 sacrifices.panditfee=Pour le chamane
 sacrifices.offering=Sacrifice
@@ -953,28 +901,20 @@ mayan.god1=A K'inich Ajaw - pour la flamme
 mayan.god2=A Cabrakan - pour les chocs
 mayan.god3=A Ah Tabai - pour les flèches
 mayan.god4=A Cum Hau - pour la veangeance
-
 mayan.god5=A Uqux Cho - pour l'aisance du caïman
 mayan.god6=A Uqux Palo - pour le travail sous l'eau
-
 mayan.god7=A Alom - pour l'air
-
 mayan.god8=A Buluc Chabtan - pour la violence
 mayan.god9=A Ah Puch - pour la lutte contre les morts
 mayan.god10=A Cum Hau - pour la lutte contre les créatures
-
 mayan.god11=A Huracan - pour le souffle
 mayan.god12=A K'inich Ajaw - pour la flamme
 mayan.god13=A Ek Chuah - pour la fortune
-
 mayan.god14=A Buluc Chabtan - pour la violence
 mayan.god15=A Huracan - pour le souffle
 mayan.god16=A K'inich Ajaw - pour la flamme
 mayan.god17=A Ek Chuah - pour la fortune
-
 mayan.god18=A Witz - pour la résistance
-
-
 export.errornoname=Vous devez donner le nom du plan de bâtiment sur la première ligne.
 export.errornoendsigneast=Impossible de trouver le panneau de fermeture à l'est. Il doit être en ligne droite par rapport à celui de départ à moins de 256 blocs.
 export.errornoendsignsouth=Impossible de trouver le panneau de fermeture vers le sud. Il doit être en ligne droite par rapport à celui de départ à moins de 256 blocs.
@@ -985,7 +925,6 @@ export.defaultstartinglevel=Pas niveau de départ spécifié, -1 utilisé par d�
 export.errorunknownblockid=Type de bloc inconnu: <0>
 export.buildingexported=Bâtiment <0> exporté.
 export.northfacingonly=Seulement les bâtiments importés faisant face au nord peuvent être exportés
-
 import.notonserver=L'importation de bâtiments n'est pas possible sur un serveur.
 import.errornoname=Vous devez donner le nom du plan de bâtiment sur la première ligne.
 import.errornotfound=Le bâtiment demandé n'est pas présent dans millenaire-custom/exports.
@@ -998,14 +937,12 @@ import.buildinglevel=Niveau du bâtiment: <0>
 import.errorunknownwoodtype=Type de bois inconnu: <0>
 import.copyingfrom=Copie du bâtiment de <0> dans millenaire-custom/exports/
 import.missingmockblock=Pas de bloc maquette pour le type spécial <0>. Ce bâtiment ne s'exportera pas correctement. Si vous ne voulez pas utiliser de blocs maquettes, ajoutez 'nomock' à la dernière ligne du panneau.
-
 effect.towncentre=Centre du village
 effect.shop=Commerce: <0>
 effect.irrigation=Irrigation: <0>% de récoltes en plus
 effect.pujalocation=Tenue de pujas
 effect.sacrificeslocation=Tenue de sacrifices
 effect.healing=Guérison du joueur
-
 chunk.chunkmap=Carte des tronçons (chunks)
 chunk.caption=Légende
 chunk.captiongeneral=Chaque tronçon est représenté par quatre pixels (carré 2x2).
@@ -1019,11 +956,6 @@ chunk.explanations=Seuls les villages Millénaire dont tous les tronçons sont c
 chunk.chunkcoords=Tronçon: <0>
 chunk.village=<0>
 chunk.chunkforced=Forçé
-
-
-
-
-
 config.pagetitle=Réglages Millénaire
 config.page.uisettings=Réglages UI
 config.page.worldgeneration=Réglages génération
@@ -1031,130 +963,88 @@ config.page.worldgeneration.desc=Ces règlages concernent la génération de mon
 config.page.villagebehaviour=Réglages villages
 config.page.villagebehaviour.desc=Ces règlages concernent les villages locaux uniquement (et pas ceux des serveurs où vous vous connectez).
 config.page.devtools=Outils développeurs
-
-
 config.village_list_key.label=Touche liste des villages
 config.village_list_key.desc=Touche pour afficher la liste des villages environnants. Défaut : <0>.
-
 config.quest_list_key.label=Touche panneau d'information
 config.quest_list_key.desc=Touche pour afficher le panneau d'information Millénaire. Défaut : <0>.
-
 config.escort_key.label=Touche mode escortes
 config.escort_key.desc=Touche pour changer le mode des escortes (agressif ou non). Défaut : <0>.
-
 config.fallback_language.label=Langue de recours
 config.fallback_language.desc=Langue de recours, pour les textes non disponibles dans la principale.
-
 config.hd_textures.label=Textures HD
 config.hd_textures.desc=Utiliser les textures HD (64x64) (nécessite de relancer Minecraft).
-
 config.language_learning.label=Apprentissage des langues
 config.language_learning.desc=Les langues doivent être "apprises" (les traductions n'apparaissent qu'après assez d'interaction avec une culture).
-
+config.travel_book_learning.label=Apprentissage du Carnet de Voyage.
+config.travel_book_learning.desc=Que les descriptions des villageois, bâtiments,etc... dans le Carnet de Voyage soient révélées seulement après avoir rencontré le sujet en question.
 config.load_all_languages.label=Charger toutes les langues
 config.load_all_languages.desc=Charger toutes les langues, pour fournir des traductions aux clients si nécessaire.
-
 config.display_start.label=Afficher le texte au démarrage
 config.display_start.desc=Afficher la version de Millénaire et le statut de la Quête de la Création au démarrage.
-
-config.auto_convert_profiles.label=Le joueur actuel contrôle les villages
-config.auto_convert_profiles.desc=Lors du chargement d'un monde joueur unique, migrer tout profile Millénaire existant vers le joueur actuel et lui donner le contrôle de tout village contrôlé existant.
-
 config.display_names.label=Afficher le nom des villageois
 config.display_names.desc=Afficher le nom, le métier et la tâche en cours au dessus des villageois.
-
 config.villagers_names_distance.label=Distance d'affichage des noms
 config.villagers_names_distance.desc=Distance à laquelle les noms apparaissent. Défaut : <0>.
-
+config.auto_convert_profiles.label=Le joueur actuel contrôle les villages
+config.auto_convert_profiles.desc=Lors du chargement d'un monde joueur unique, migrer tout profile Millénaire existant vers le joueur actuel et lui donner le contrôle de tout village contrôlé existant.
 config.villagers_sentence_in_chat_distance_client.label=Phrases dans le chat (MJ)
 config.villagers_sentence_in_chat_distance_client.desc=Distance maximale où afficher les phrases des villageois dans le chat en multi-joueur. Défaut : <0>.
-
 config.villagers_sentence_in_chat_distance_sp.label=Phrases dans le chat (solo)
 config.villagers_sentence_in_chat_distance_sp.desc=Distance maximale où afficher les phrases des villageois dans le chat en solo. Défaut : <0>.
-
 config.generate_villages.label=Générer des villages
 config.generate_villages.desc=Générer des villages Millénaire dans les nouveaux tronçons.
-
 config.generate_lone_buildings.label=Générer des bâtiments
 config.generate_lone_buildings.desc=Générer des bâtiments isolés dans les nouveaux tronçons.
-
 config.keep_active_radius.label=Rayon de chargement des tronçons
 config.keep_active_radius.desc=Rayon autour du joueur dans lequel Millénaire essayera de garder les tronçons chargés. Défaut : <0>.
-
 config.min_village_distance.label=Distance min entre villages
 config.min_village_distance.desc=Distance minimale entre deux villages générés. Défaut : <0>.
-
 config.min_village_lonebuilding_distance.label=Distance min villages/bâtiments
 config.min_village_lonebuilding_distance.desc=Distance minimale entre villages et bâtiments isolés générés. Défaut : <0>.
-
 config.min_lonebuilding_distance.label=Distance min entre bâtiments
 config.min_lonebuilding_distance.desc=Distance minimale entre deux bâtiments isolés générés. Défaut : <0>.
-
 config.spawn_protection_radius.label=Rayon de protection spawn
 config.spawn_protection_radius.desc=Rayon autour du point d'apparition dans lequel Millénaire ne génère rien. Défaut : <0>.
-
 config.village_spawn_completion_max_percentage.label=Progrès initial maximum
 config.village_spawn_completion_max_percentage.desc=Progrès initial maximum (en %) qu'un village peut avoir si éloigné du point d'apparition. Défaut : <0>.
-
 config.village_spawn_completion_min_distance.label=Distance minimum pour progrès
 config.village_spawn_completion_min_distance.desc=Distance minimum du point d'apparition à partir de laquelle les villages peuvent avoir un progrès initial. Défaut : <0>.
-
 config.village_spawn_completion_max_distance.label=Distance maximum pour progrès
 config.village_spawn_completion_max_distance.desc=Distance du point d'apparition à partir de laquelle les villages peuvent avoir le progrès initial maximum. Défaut : <0>.
-
 config.village_radius.label=Rayon des villages
 config.village_radius.desc=Rayon des villages normaux (pas des hameaux). Défaut : <0>.
-
 config.min_distance_between_buildings.label=Distance min entre bâtiments
 config.min_distance_between_buildings.desc=Distance minimale entre deux bâtiments d'un village. Défaut : <0>.
-
 config.village_paths.label=Construire des chemins de village
 config.village_paths.desc=Générer les chemins dans les nouveaux villages et les faire mettre à jour par les villageois.
-
 config.max_children_number.label=Nombre max d'enfants
 config.max_children_number.desc=Nombre maximal d'enfants dans un village. Défaut : <0>.
-
 config.background_radius.label=Rayon relations des villages
 config.background_radius.desc=Rayon dans lequel les villages ont des relations (diplomacie, commerce, raids). Défaut : <0>.
-
 config.bandit_raid_radius.label=Rayon raid de bandits
 config.bandit_raid_radius.desc=Rayon dans lequel les bandits attaquent les villages. Défaut : <0>.
-
 config.raiding_rate.label=Chance de raid en %
 config.raiding_rate.desc=Chance sur 100 qu'un village ou bâtiment de bandits tente un raid chaque nuit. Défaut : <0>.
-
 config.generate_building_res.label=Générer les resources nécessaires
 config.generate_building_res.desc=Générer une liste des ressources nécessaires pour chaque bâtiment.
-
 config.generate_translation_gap.label=Générer l'analyse des traductions
 config.generate_translation_gap.desc=Générer pour chaque langue chargée un rapport sur le contenu manquant.
-
 config.generate_help_data.label=Générer des aides aux créateurs
 config.generate_help_data.desc=Générer différentes aides (liste des objets connus, échantillon des couleurs, aide sur les tâches) utiles pour les créateurs
-
 config.valuetrue=Oui
 config.valuefalse=Non
-
 config.page.bonus=Bonus contributeurs
 config.page.bonus.desc=Bonus pour les joueurs ayant contribué à Millénaire (traductions, bâtiments, dialogues, textures, wiki contributions ect.) ou fait une donation: une petite maison gratuite disponible auprès du chef du village.
-
 config.bonus_code.label=Code bonus
 config.bonus_code.desc=Code pour activer le bonus. Récupéré automatiquement sur internet si connexion possible.
-
 config.validbonuscode=Code valide ! Le bonus est activé.
 config.invalidbonuscode=Code non valide. Veuillez le vérifier.
-
-
 config.page.system=Réglages système
 config.page.system.desc=Réglages concernant le fonctionement de Millénaire
-
 config.send_statistics.label=Envoie de statistiques
 config.send_statistics.desc=Autoriser l'envoie de statistiques anonymes à Millénaire (version, langue...).
-
 config.send_advancement_login.label=Page Progrès
 config.send_advancement_login.desc=Autoriser l'envoie de votre login Minecraft à Millénaire, pour pouvoir afficher vos progrès sur millenaire.org.
-
-
 tradehelp.title=<0> - Commerce
 tradehelp.goodssold=Marchandises vendues
 tradehelp.goodsbought=Marchandises achetées
@@ -1162,7 +1052,6 @@ tradehelp.buyingprice=Achat:
 tradehelp.sellingprice=Vente:
 tradehelp.helptitle=Généralités sur le commerce
 tradehelp.helptext=Vous pouvez acheter dans chaque magasin les marchandises que le village a en stock. À part quelques blocs "gratuits" (comme les chemins) ou objets spéciaux (les baguettes), les marchandises proposées ont été produites par le village et le village les "perdra" si vous les achetez, contrairement au commerce avec les villages Minecraft.<ret><ret>Les villageois produisent la pluspart des biens dont ils ont besoin, mais leur vendre permet souvent d'accélérer le développement du village.
-
 tradehelp.freeblock=Ces types de blocs sont produits "gratuitement" par le village et donc disponibles en quantités illimités.
 tradehelp.wood=Les villageois produisent du bois grâce aux bosquets. Ils s'en servent pour construire.
 tradehelp.stone=Les villageois produisent de la pierre et du verre grâce aux carrières. Si le village n'en a pas, ils dépendent entièrement de vous pour leurs besoins.
@@ -1179,7 +1068,6 @@ tradehelp.genericweapon=Les armes et armures de différents niveaux rendent les 
 tradehelp.purse=Les bourses permettent de stocker des deniers. Elles sont toujours disponibles.
 tradehelp.wand=Les baguettes d'invocation parmettent de créer de nouveaux villages. Elles sont toujours disponibles.
 tradehelp.parchments=Les parchemins donnent des informations sur Millénaire. Ils sont toujours disponibles.
-
 tradehelp.normanwhitewool=La laine blanche sert dans certains bâtiments et est nécessaire à la confection de tapisseries dans les forts normands.
 tradehelp.normantapestrywool=Les laines grises, gris clair, noires et brunes servent à la dame à fabriquer des tapisseries.
 tradehelp.normanleather=Les moines normands utilisent du cuir pour fabriquer des livres.
@@ -1191,7 +1079,6 @@ tradehelp.normantripesboudin=Les normands produisent des tripes et du boudins à
 tradehelp.normantapestry=Les dames des forts produisent ces tapisseries décoratives à partir de laines blanches, grises, gris clair, brunes et noires.
 tradehelp.normantimberframes=Les charpentiers normands produisent ces colombages à partir de bois.
 tradehelp.normanwheat=Les villageois normands fabriquent du pain et nourrissent leur bétail avec du blé.
-
 tradehelp.byzantinetools=Les forgerons byzantins utilisent du fer et du cuir pour produire des outils en fer et des armures byzantines.
 tradehelp.byzantinefeta=Les byzantins produisent de la feta dans les élevages de moutons. Ces fromages guérissent le joueur et aident les villageois à avoir des enfants.
 tradehelp.byzantinebooks=Les byzantines produisent des livres à partir de bois et de cuir.
@@ -1202,8 +1089,6 @@ tradehelp.byzantine_tiles=Les byzantins produisent des tuiles à partir de pierr
 tradehelp.byzantinefood=Les byzantins cuisinent des côtelettes d'agneau et, en les associant à de la feta, de délicieux souvlakis.  Ces aliments nourrissent le joueur et aident les enfants à grandir. Les souvlakis redonnent également de la santé instantanément.
 tradehelp.byzantineweapons=Les forgerons byzantins produisent de solides armures et des masses redoutables à partir de fer et de cuir.
 tradehelp.byzantinewheat=Les villageois byzantins fabriquent du pain et nourrissent leur bétail avec du blé.
-
-
 tradehelp.indiantools=Les forgerons indiens utilisent du fer pour produire des outils et des armures en fer.
 tradehelp.indiangenericfood=L'accès à différents types de nourriture aide les enfants à grandir plus vite. Attention, les indiens ne mangent ni boeuf ni porc.
 tradehelp.indiangenericfoodsweet=Les desserts augmentent aident les villageois à concevoir des enfants. Les villageois indiens ne boivent pas d'alcool.
@@ -1211,7 +1096,6 @@ tradehelp.indianrasgulla=Les indiens produisent de délicieuses rasgullas à par
 tradehelp.indiancurry=Les indiens cuisinent des caris végétariens à base de riz et curcuma et des caris de poulet en ajoutant un poulet. Ces aliments nourrissent le joueur et aident les enfants à grandir. Les caris de poulet donnent également un bonus "Résistance au feu" temporaire.
 tradehelp.indianbricks=Les indiens produisent des briques de terre cuitent au soleil qu'ils cuisent pour fabriquer des briques cuites. Vous pouvez en fabriquez vous-même en achetant un moule.
 tradehelp.indianstatue=Les sculpteurs indiens produisent ces bas-relief de dieux hindous qui ornent les temples indiens.
-
 tradehelp.japanesegold=Les japonais utilisent de l'or pour décorer certains bâtiments
 tradehelp.japaneseudon=Les japonais cuisinent des udons à partir de blé et de poulet. Ils nourrissent le joueur et aident les enfants à grandir.
 tradehelp.japanesetools=Les forgerons japonais utilisent du fer et du cuir pour produire des outils en fer et des armures japonaises.
@@ -1223,22 +1107,18 @@ tradehelp.japanesewheat=Les japonais byzantins cuisinent des udons avec du blé.
 tradehelp.japanesethatch=Les japonais produisent des blocs de chaume à partir de blé.
 tradehelp.japanesesake=Les brasseurs japonais produisent du saké à partir de riz. Le saké guérie et regénère le joueur et aide les villageois à avoir des enfants. Il donne également un bonus "Saut" temporaire.
 tradehelp.japaneseikayaki=Les Japonais élèvent des calmars et les grillent pour en faire des ikayakis. Ils nourrissent le joueur et aident les enfants à grandir et donnent également un bonus "Apnée" temporaire.
-
-
 tradehelp.mayangold=Les artisans mayas ont besoin d'or pour produire des blocs décoratifs. Ils ont besoin du joueur pour leur en fournir.
 tradehelp.mayanfood=Les mayas cultivent du maïs et en font des masa (galettes de maïs) et des wah (en ajoutant du poulet). Elles nourrissent le joueur et aident les enfants à grandir. Les wah donnent également un bonus "Célérité" temporaire.
 tradehelp.mayanobsidian=Les artisans d'obsidienne fabrique des outils et des masses avec de l'obsidienne vendue par le joueur. Ces outils ne sont pas très efficaces, mais peuvent être enchantés facilement.
 tradehelp.mayanstonetools=Les artisans mayas fabriquent des outils et des épées à partir de pierre comme outils de base en l'absence d'obsidienne.
 tradehelp.mayanweapons=Les artisans mayas fabriquent des épées en pierre et des armures de cuir. Les artisans d'obsidienne peuvent eux fabriquer des masses plus puissantes et très enchantables.
 tradehelp.mayancocoa=Les planteurs de cacao mayas récoltent des cosses de cacao et s'en servent pour préparer de la cacauhaa, une boisson chocolatée. Elle guérie et regénère le joueur et aide les villageois à avoir des enfants. Elle donne également un bonus "Nyctalopie" temporaire.
-
-tradehelp.inuitblock=Les Inuits peuvent produire des objets depuis la nature pour mieux répondre à leurs besoins généraux en matière de logement.
-tradehelp.inuitfurarmor=Les fourreurs peuvent produire des vêtements spéciaux pour les aider à se protéger des éléments et sont protégés par les bons esprits.
-tradehelp.inuitgenericfood=La nourriture spécialement préparée peut bien plus rassasier que sa forme crue.
-tradehelp.inuitgenericfoodraw=Même si les inuits aiment beaucoup la viande crue, elles peuvent être cuisinées de différentes manières pour les rendre plus nutritives.
-tradehelp.inuitsodding=Les inuits peuvent utiliser des pelles pour transformer la terre en planches pour être sûrs qu'elles sont bien scéllées et garderont la chaleur.
+tradehelp.inuitodding=Les Inuits utilisent des bêches pour enfoncer de grosses saletés dans les planches afin de s'assurer que les planches sont complètement scellées et maintiendront la chaleur à l'intérieur.
 tradehelp.leather=Le cuir est utilisé par divers cultures pour les aider à produire des outils, des armures et autres.
-
+tradehelp.inuitfurarmor=Les fourreurs peuvent produire des vêtements spéciaux pour les aider à se protéger des éléments et sont protégés par les bons esprits.
+tradehelp.inuitgenericfoodraw=Même si les inuits aiment beaucoup la viande crue, elles peuvent être cuisinées de différentes manières pour les rendre plus nutritives.
+tradehelp.inuitgenericfood=La nourriture spécialement préparée peut bien plus rassasier que sa forme crue.
+tradehelp.inuitblock=Les Inuits peuvent produire des objets depuis la nature pour mieux répondre à leurs besoins généraux en matière de logement.
 importtable.title=Table d'Importation
 importtable.importfromculture=Importer Depuis une Culture
 importtable.nocurrentplan=Aucun Plan de Bâtiment actif
@@ -1258,26 +1138,20 @@ importtable.importedbuildingplan=Plan de Bâtiment Importé <0>.
 importtable.back=Retour
 importtable.exportcost=Coût d'Exportation
 importtable.costexported=Coût du plan exporté à <0>.
-
 importtable.length=Longueur : <0>
 importtable.width=Largeur : <0>
 importtable.clearground=Terrain Dégagé : <0>
 importtable.create=Créer
-
 importtable.orientation=Orientation du Bâtiment : <0>
 importtable.startinglevel=Niveau du Sol de Départ : <0>
 importtable.exportsnow=Exporter les Couches de Neige : <0>
+importtable.exportregularchests=Exporter les coffres comme des coffrs normaux (pas vérouillés) : <0>
 importtable.importmockblocks=Importer les faux blocs: <0>
 importtable.converttopreserveground=Convertir l'herbe et le sable pour préserver le sol : <0>
 importtable.minus=Diminuer
 importtable.plus=Augmenter
-
-config.travel_book_learning.label=Apprentissage du Carnet de Voyage.
-config.travel_book_learning.desc=Que les descriptions des villageois, bâtiments,etc... dans le Carnet de Voyage soient révélées seulement après avoir rencontré le sujet en question.
-
 travelbook.reference_button=Voir l'entrée <0> du Carnet de Voyage.
 travelbook.reference_button_export=<0>
-
 travelbook.title=Carnet de Voyage
 travelbook.culture_unlocked=Vous connaissez <0> des <1> cultures.
 travelbook.contentlocked=Millénaire est configuré de façon à donner des informations à propos du contenu (villageois, bâtiments, etc...) que vous avez déjà croisé.
@@ -1288,9 +1162,9 @@ travelbook.villagers=Villageois
 travelbook.villages=Villages
 travelbook.buildings=Bâtiments
 travelbook.buildingslist=<0> Bâtiments
-travelbook.buildingslistcategory=Catégorie <0> 
+travelbook.buildingslistcategory=Catégorie <0>
 travelbook.villagerslist=<0> Villageois
-travelbook.villagerslistcategory=Catégorie <0> 
+travelbook.villagerslistcategory=Catégorie <0>
 travelbook.goals=Activités principales
 travelbook.variation=Variation <0>
 travelbook.initial=Construction Initiale
@@ -1315,14 +1189,12 @@ travelbook.villageslist_unlocked=Vous connaissez <0> des <1> <2> types de villag
 travelbook.villagerslist_unlocked=Vous connaissez <0> des <1> <2> villageois.
 travelbook.tradegoodslist_unlocked=Vous connaissez <0> des <1> <2> marchandises échangées.
 travelbook.buildingslist_unlocked=Vous connaissez <0> des <1> <2> bâtiments.
-
 travelbook.villagerslistcategory_unlocked=Vous connaissez <0> des <1> villageois dans cette catégorie.
 travelbook.tradegoodslistcategory_unlocked=Vous connaissez <0> des <1> marchandises échangées dans cette catégorie.
 travelbook.buildingslistcategory_unlocked=Vous connaissez <0> des <1> bâtiments dans cerre catégorie.
 travelbook.startinggoods=Marchandises de départ
 travelbook.startingsubbuildings=Bâtiments subsidiaires de départ
 travelbook.subbuildings=Bâtiments subsidiaires.
-
 travelbook.nbblocks=Nombre de blocs
 travelbook.nbchests=Nombre de coffres
 travelbook.plantingspot=Point de plantation pour <0>
@@ -1331,7 +1203,6 @@ travelbook.spawnspot=Point de spawn d'animaux
 travelbook.nbfurnaces=Nombre de fours
 travelbook.nbfirepits=Nombre de foyers
 travelbook.nbfishingspot=Nombre de points de pêche
-
 travelbook.specialbehaviours=Capacités spéciales
 travelbook.specialbehaviours.chief=Chef de Village
 travelbook.specialbehaviours.chief.desc=Ce villageois est le chef du Village. Parlez avec lui pour acheter une maison et d'autres intéractions spéciales.
@@ -1350,7 +1221,6 @@ travelbook.specialbehaviours.archer.desc=Ce villageois peut lancer des flèches 
 travelbook.health=Vie du villageois
 travelbook.attackstrength=Dommages causés par les attaques du villageois(sans armes)
 travelbook.hirecost=Prix journalier pour engager ce villageois.
-
 travelbook.specialbuildingtag.archives=Archives
 travelbook.specialbuildingtag.archives.desc=Ce bâtiment contient les archives de chaque villageois et leur occupation.
 travelbook.specialbuildingtag.leasure=Centre Social
@@ -1361,7 +1231,6 @@ travelbook.specialbuildingtag.hof=Panthéon
 travelbook.specialbuildingtag.hof.desc=Ce bâtiment affiche tous les contributeurs et donateurs de Millénaire.
 travelbook.specialbuildingtag.sacrifices=Sacrifices Mayas
 travelbook.specialbuildingtag.sacrifices.desc=Une fois déverrouillés dans la quête de la création, les sacrifices peuvent être organisés ici.
-
 travelbook.villageslist=<0> Villages
 travelbook.village_townhall=Hôtel de Ville
 travelbook.customvillagecentre=Ce village a un Hôtel de Ville personnalisé.
@@ -1374,10 +1243,9 @@ travelbook.village_weight=Poids de spawn (Plus haut est plus susceptible de spaw
 travelbook.village_radius=Rayon du Village
 travelbook.village_hamlets=Hameaux autour de ce village
 travelbook.village_rescost=Total de ressources dont le village a besoin
-
 travelbook.tradegoods=Marchandises échangées
 travelbook.tradegoodslist=<0> Marchandises échangées
-travelbook.tradegoodslistcategory=Catégorie <0> 
+travelbook.tradegoodslistcategory=Catégorie <0>
 travelbook.trade_good_buying_price=Prix d'achat : <0>
 travelbook.trade_good_buying_price.desc=Prix payé par le village lors de l'achat
 travelbook.trade_good_selling_price=Prix de vente : <0>
@@ -1396,7 +1264,6 @@ travelbook.trade_good_craftingvillagers=Fabriqué par
 travelbook.trade_good_harvestingvillagers=Récolté par
 travelbook.trade_good_gatheringvillagers=Recueilli par
 travelbook.trade_good_usingvillagers=Demandé par
-
 travelbook.trade_good_foodhealamount=Faim : <0>
 travelbook.trade_good_foodhealamount.desc=Quantité de faim que cette nourriture restaure.
 travelbook.trade_good_foodsaturation=Saturation : <0>
@@ -1418,18 +1285,16 @@ travelbook.trade_good_harvestlevel.desc=Soit que cet outil peut récolter des bl
 travelbook.trade_good_enchantability=Enchantabilité: <0>
 travelbook.trade_good_enchantability.desc=A quel point cet objet peut être enchanté.
 travelbook.trade_good_growthfood=Croissance d'enfant: <0>
-travelbook.trade_good_growthfood.desc=Quantité de croissance cette nourriture donne à un enfant quand consommé. 
+travelbook.trade_good_growthfood.desc=Quantité de croissance cette nourriture donne à un enfant quand consommé.
 travelbook.trade_good_conceptionfood=Conception: <0>
 travelbook.trade_good_conceptionfood.desc=Chances de conception supplémentaires que les adultes obtiennent quand ils consomment cette nourriture.
 travelbook.trade_good_weapon=Boost d'attaque : <0>
 travelbook.trade_good_weapon.desc=La force d'attaque d'un villageois est augmentée quand il utilise cette arme.
 travelbook.trade_good_armour.desc=Taux d'armure quand elle est portée par un villageois.
-
 travelbook.trade_good_buyingbuildings=Acheté à
 travelbook.trade_good_sellingbuildings=Vendu à
 travelbook.trade_good_tradingbuildings=Acheté et vendu à
 travelbook.trade_good_marketmerchants=Marchands du marché
-
 travelbook.neededitems=Objets nécessaires
 travelbook.toolscategory.toolsaxe=Haches
 travelbook.toolscategory.toolsaxe.desc=Ce villageois essayera d'obtenir la meilleure hache disponible.
@@ -1439,7 +1304,7 @@ travelbook.toolscategory.toolsshovel=Pelles
 travelbook.toolscategory.toolsshovel.desc=Ce villageois essayera d'obtenir la meilleure pelle disponible.
 travelbook.toolscategory.toolshoe=Houe
 travelbook.toolscategory.toolshoe.desc=Ce villageois essayera d'obtenir la meilleure houe disponible.
-travelbook.toolscategory.toolssword=armes de mêlée 
+travelbook.toolscategory.toolssword=armes de mêlée
 travelbook.toolscategory.toolssword.desc=Ce villageois essayera d'obtenir la meilleure arme de mêlée disponible.
 travelbook.toolscategory.armoursboots=Bottes
 travelbook.toolscategory.armoursboots.desc=Ce villageois essayera d'obtenir les meilleures boots disponible.
@@ -1453,35 +1318,29 @@ travelbook.toolscategory.weaponsranged=Arcs
 travelbook.toolscategory.weaponsranged.desc=Ce villageois essayera d'obtenir le meilleur arc disponible.
 travelbook.residesin=Réside dans
 travelbook.residesinvillage=Peut vivre dans les villages
-
 travelbook.unlockedvillager=<0> villageois: <1>/<2>
 travelbook.unlockedbuilding=<0> bâtiments : <1>/<2>
 travelbook.unlockedtradegood=<0> Marchandises : <1>/<2>
 travelbook.unlockedvillage=<0> villages : <1>/<2>
-
-travelbook.unlockedvillager_first=Vous avez rencontré un type de villageois pour la première fois ! Des informations à son propos sont disponibles dans le carnet de voyage dans le menu Millénaire. 
-travelbook.unlockedtradegood_first=Vous avez échangé une marchandise pour la première fois ! Des informations à son propos sont disponibles dans le carnet de voyage dans le menu Millénaire. 
-travelbook.unlockedvillage_first=Vous avez visité un type de village pour la première fois ! Des informations à son propos sont disponibles dans le carnet de voyage dans le menu Millénaire. 
-
-
+travelbook.unlockedvillager_first=Vous avez rencontré un type de villageois pour la première fois ! Des informations à son propos sont disponibles dans le carnet de voyage dans le menu Millénaire.
+travelbook.unlockedbuilding_first=Vous avez visité un bâtiment pour la première fois! Des informations à ce sujet sont disponibles dans le Carnet de voyage dans le menu Millénaire.
+travelbook.unlockedtradegood_first=Vous avez échangé une marchandise pour la première fois ! Des informations à son propos sont disponibles dans le carnet de voyage dans le menu Millénaire.
+travelbook.unlockedvillage_first=Vous avez visité un type de village pour la première fois ! Des informations à son propos sont disponibles dans le carnet de voyage dans le menu Millénaire.
 travelbook.unknownvillager=Vous n'avez pas encore rencontré ce villageois.
 travelbook.unknownvillage=Vous n'avez pas visité ce type de village.
 travelbook.unknownbuilding=Vous n'avez pas visité ce bâtiment.
 travelbook.unknowntradegood=Vous n'avez pas échangé cette marchandises avec cette culture.
-
 travelbook_category.villager=Villageois
 travelbook_category.lonevillager=Villageois isolés
 travelbook_category.visitor=Visiteurs
 travelbook_category.leader=Dirigeants
 travelbook_category.marvelvillager=Résidents des Merveilles
-
 travelbook_category.townhall=Hôtels de villes
 travelbook_category.house=Maisons
 travelbook_category.othervillage=Autres
 travelbook_category.lonebuilding=Bâtiments isolés
 travelbook_category.marvel=Merveilles
 travelbook_category.playerbuilding=Bâtiments de joueurs
-
 travelbook_category.construction=Construction
 travelbook_category.agriculture=Nourriture
 travelbook_category.crafting=Artisanat
@@ -1489,4 +1348,3 @@ travelbook_category.tools=Outils
 travelbook_category.weapons=Armes
 travelbook_category.playeritem=Objets de Joueur
 travelbook_category.foreigntrade=Étrangers
-

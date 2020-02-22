@@ -28,6 +28,7 @@
         32,
         32
       ],
+      "yMax": 50,
       "sorting": "random",
       "blocks": [
         "minecraft:planks",
@@ -41,7 +42,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:banshee",
+      "mobId": "lycanitesmobs:banshee",
       "weight": 8
     }
   ]

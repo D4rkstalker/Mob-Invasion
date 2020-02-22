@@ -1,6 +1,11 @@
 {
   "name": "frostweaver",
-  "class": "com.lycanitesmobs.arcticmobs.entity.EntityFrostweaver",
+  "creatureType": "arthropod",
+  "groups": [
+    "frozen"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityFrostweaver",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelFrostweaver",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -43,17 +48,17 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.5,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#AADDFF",
   "eggForeColor": "#226699",
   "subspecies": [
     {
       "index": 1,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     },
     {
@@ -63,6 +68,10 @@
     }
   ],
   "element": "frost",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
@@ -83,10 +92,10 @@
       "chance": 0.5
     },
     {
-      "item": "arcticmobs:frostwebcharge",
+      "item": "lycanitesmobs:frostwebcharge",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.25
+      "chance": 1
     }
   ],
   "sizeScale": 1,

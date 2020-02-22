@@ -39,7 +39,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "saltwatermobs:roa",
+      "mobId": "lycanitesmobs:roa",
       "weight": 8
     }
   ]

@@ -22,3 +22,5 @@ range=8
 
 travelBookShow=true
 icon=paper
+
+sprint=false

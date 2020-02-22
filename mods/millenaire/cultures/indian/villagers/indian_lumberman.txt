@@ -21,7 +21,10 @@ goal=chopTrees
 goal=gatherGoods
 goal=plantSaplings
 goal=bringBackResourcesHome
+goal=makewoodenbars
 
+//for wooden bars
+requiredGood=wood_acacia,5
 
 startinginv=sapling,10
 

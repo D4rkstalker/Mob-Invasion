@@ -1,6 +1,11 @@
 {
   "name": "vapula",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityVapula",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVapula",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelVapula",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,8 +37,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.125,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
@@ -51,7 +56,7 @@
       "type": "uncommon"
     }
   ],
-  "element": "crystal",
+  "element": "gravity",
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -97,12 +102,18 @@
       "chance": 0.01
     },
     {
-      "item": "elementalmobs:crystalshard",
-      "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "item": "lycanitesmobs:crystalshardcharge",
+      "minAmount": 3,
+      "maxAmount": 6,
+      "chance": 1
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "blockBreakRadius",
+      "value": 0
+    }
+  ]
 }

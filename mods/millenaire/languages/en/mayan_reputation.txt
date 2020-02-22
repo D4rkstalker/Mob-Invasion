@@ -1,3 +1,5 @@
+//* The part before the ";" is the title, after it the description
+
 0;Stranger;We have not seen those of your skin color, so we must be wary.
 4*64;Familiarity;Be warned, our warriors keep their eyes on you.
 8*64;Known Face;Our builders say that you have traded us high quality stone. We might not need to watch you after all.

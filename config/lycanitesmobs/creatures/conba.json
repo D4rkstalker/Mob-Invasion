@@ -1,6 +1,11 @@
 {
   "name": "conba",
-  "class": "com.lycanitesmobs.junglemobs.entity.EntityConba",
+  "creatureType": "beast",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityConba",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelConba",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,10 +45,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.5,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#665500",
   "eggForeColor": "#CC99BB",
@@ -59,7 +64,10 @@
       "type": "uncommon"
     }
   ],
-  "element": "crystal",
+  "element": "gravity",
+  "diets": [
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -75,10 +83,10 @@
       "chance": 1
     },
     {
-      "item": "junglemobs:poopcharge",
+      "item": "lycanitesmobs:poopcharge",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.75
+      "chance": 1
     }
   ],
   "sizeScale": 1,

@@ -53,7 +53,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:sylph",
+      "mobId": "lycanitesmobs:sylph",
       "weight": 8,
       "home": 32
     }

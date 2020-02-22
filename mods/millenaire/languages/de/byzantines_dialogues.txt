@@ -29,13 +29,13 @@ v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / Es is
 v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / Das hier ist jetzt unser Zuhause. Wir müssen das akzeptieren.
 v1;120;Aftó eínai to spíti mas tóra, aftí i syzítisi me ékane na to syneiditopoiíso. / Es ist unser Zuhause. Unsere Unterhaltung hat mich das realisieren lassen.
 
-newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farmbyzantine,building:vineyardbyzantine,notbuilding:tavernbyzantine,weigth:24
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,notbuilding:taverna,weigth:24
 v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Unser Weizen und die Trauben sind dieses Jahr sehr gut gewachsen.
 v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Ja, die Farmer sprechen von Rekordernten und hast du den Wein probiert?
 v1;60;Den échoume tavérna gia na kánoume krasí ... / Äh, wir haben keine Taverne um Wein zu machen...
 v2;120;O ..., tóte ti épaiza chthes ?!/ Oh... Was habe ich dann Gestern getrunken?!
 
-newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farmbyzantine,building:vineyardbyzantine,building:tavernbyzantine,weigth:14
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,building:taverna,weigth:14
 v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Unser Weizen und die Trauben sind dieses Jahr sehr gut gewachsen.
 v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Ja, die Farmer sprechen von Rekordernten und hast du den Wein probiert?
 v1;60;Echo! To exairetikó romaïkó mas krasí échei kalýteri géfsi apó poté!/ Habe ich! Unser römischer Wein schmeckt besser denn je!
@@ -43,7 +43,7 @@ v2;90;Xéro, den eínai katapliktikó? Eícha pénte olóklira boukália chthes.
 v1;120;Pénte olóklira boukália? Prépei na epivradýneis ton ánthropo! Akómi kai an eínai mia exairetikí epochí, kindynéveis na gíneis methysménos me aftó to polý krasí!/ Ganze fünf Flaschen? Du musst mal langsamer machen! Auch wenn es eine gute Saison ist, riskierst du ein Alkoholiker zu werden!
 v2;150;Tha eímai kalá ótan o ponokéfalos aftós enkataleiftheí ... / Ach mir geht's gut sobald diese Kopfschmerzen weg sind...
 
-newchat;key:cider,v1:adult,v2:adult,notbuilding:tavernbyzantine,weigth:2
+newchat;key:cider,v1:adult,v2:adult,notbuilding:taverna,weigth:2
 v1;0;Chreiazómaste mia tavérna gia na ftiáxoume to krasí polý sýntoma. / Wir brauchen eine Taverne um schnell Wein zu machen.
 v2;30;Ti? Giatí? Sígoura, to krasí eínai kaló, allá éna olókliro ktírio gia to krasí? Prépei na váloume proteraiótites stis proteraiótités sas! / Was? Warum? Sicher, Wein ist gut aber ein ganzes Gebäude nur dafür? Wir müssen unsere Prioritäten auf die Reihe kriegen!
 v1;60;Dokímasa lígo chymó Norman chtes. Ítan friktó! Pós oi ágrioi san aftó? / Ich habe Gestern Normannischen Cidre probiert. Der ist schrecklich! Wie können diese wilden das trinken?
@@ -106,7 +106,7 @@ v2;30;Posimou mazí eínai pio diaskedastiko! / Gemeinsam trinken macht viel meh
 v1;50;Cheers gia to krasí! / Ein Hoch auf den Wein!
 v2;70;Cheers! / Prost!
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
 v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / Ich werde später das Dorf führen, Alter!
 v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / Werd nicht frech, kleiner Junge. Sonst gibts Ohrfeigen!
 v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / Dann werd ich dich Ohrfeigen!
@@ -304,7 +304,7 @@ v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Ja, kochen
 v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / Dank der Schmiede und den Handwerkern, die sich sowas ausdenken!
 v2;90;Nai! Gi 'afto mou arései na Romaïkí. / Ja! Deswegen liebe ich es Römer zu sein.
 
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
 v1;0;Eímai ziliáris afton ton plousíon. / Ich beneide diese reichen Leute.
 v1;20;Échoun tétoia oraía roúcha apo metáxi! / Sie haben so schöne Seidenkleider!
 v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / Das ist wirklich nicht gerecht. Sie tun nichts und bekommen trotzdem das Beste.
@@ -326,13 +326,13 @@ v2;110;Ego na mantépsete akrivos san stratiotes. / Ich glaube du magst einfach 
 v2;140;Allá échete énan ántra! / Aber du hast einen Ehemann!
 v1;170;Allá énas tempélis kai sychná methysménos éna! / Aber einen faulen und oft besoffenen!
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
 v1;0;Xérete tin omorfiá sto geitoniko chorio? / Kennst du die Schönheit aus dem Nachbardorf?
 v2;30;Fysiká, eínai polý charitoméno. / Natürlich, sie ist wirklich süß.
 v1;60;Ti tha gínei me tin epískepsi tis? / Wie wär's sie mal zu besuchen?
 v2;90;Xérete oti i gynaíka sas tha trelatho tote! / Du weisst das deine Frau dann durchdrehen wird!
 
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
 v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / Die Frau des Handwerkers sieht wirklich gut aus. Was meinst du?
 v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Ja, sie ist nicht schlecht. Schade das sie schon verheiratet ist!
 v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Nun ja. Und ihm gegenüber wäre es nicht gerecht.
@@ -361,7 +361,7 @@ v1;120;Err, eícha. Échei kápos chatheí! / Ähh, ich hatte. Es ist irgendwie 
 v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / WAS? Du hattest so ein Werkzeug und hast es verloren?
 v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / Ja... Nun bleibt mir nur die Erinnerung...
 
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
 v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Juhu! Ich konnte endlich den neuen Streitkolben testen!
 v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Ja! Eine fantastische Waffe! Sie schlägt Gegener weit zurück!
 v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Beeindruckend, oder? Dieses römische Meisterstück kann mit nichts in der Welt verglichen werden.
@@ -466,29 +466,29 @@ v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai
 v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / Hey! Sei nicht so gemein! Du hast diesen Streit angefangen.
 v2;110;Tha ítan methysménos! / Du warst betrunken!
 
-newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, mein Sohn, ich habe dich heute nicht beten gesehen!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / Vater $targetlastname, das habe ich bestimmt gemacht.
 
-newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, meine Tochter, ich habe dich heute nicht beten gesehen!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / Vater $targetlastname, das habe ich bestimmt gemacht.
 
-newchat;key:religious3,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious3,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / $targetfirstname, meine Tochter, bist du im Frieden mit dir?
 v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Vater $targetlastname bin ich nicht. Seid wir hier ankamen fühle ich, das hier etwas anders ist.
 v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Mein Kind, viele von uns haben das Gefühl, dass hier etwas anders ist.
 v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Aber was kann ich tun? Mein Leben hier wird hier für immer anders sein.
 v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Alles was wir tun können ist beten. Denn Gott hat einen Plan für uns.
 
-newchat;key:religious4,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:religious4,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / $targetfirstname, mein Sohn, bist du im Frieden mit dir?
 v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Vater $targetlastname, bin ich nicht. Seid wir hier ankamen fühle ich, das hier etwas anders ist.
 v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Mein Kind, viele von uns haben das Gefühl, dass hier etwas anders ist.
 v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Aber was kann ich tun? Mein Leben hier wird hier für immer anders sein.
 v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Alles was wir tun können ist beten. Denn Gott hat einen Plan für uns.
 
-newchat;key:ticlon,v1:notvtype:pastor_byzantine-patriarch_byzantine,v2:vtype:pastor_byzantine-patriarch_byzantine,weigth:1
+newchat;key:ticlon,v1:notvtype:pastor_byzantine-metropolit_byzantine,v2:vtype:pastor_byzantine-metropolit_byzantine,weigth:1
 v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ Vater $targetlastname, als ich betete sah ich ein seltsames Zeichen.
 v2;30;Paidí, ti sou édeixe o Theós?/ Kind, was hat Gott dir gezeigt?
 v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / Vater, das Zeichen war "Ticlon". Weisst du was das bedeutet?
@@ -504,7 +504,7 @@ v1;120;Échoume akóma tous Normandoús na antimetopísoun. / Wir müssen uns er
 v2;150;Loipón, eímaste Romaíoi! Boroúme éfkola na nikísoume tétoious epidromeís, sti Rómi! / Nun, wir sind Römer! Diese Plünderer besiegen wir leicht, auf Rom!
 v1;165;Sti Rómi! / Auf Rom!
 
-newchat;key:noBakery,building:farmbyzantine,notbuilding:bakerybyzantine,v1:adult,v2:adult,weigth:15
+newchat;key:noBakery,building:farm,notbuilding:windmill,v1:adult,v2:adult,weigth:15
 v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / Ah, wer würde frisches, leckeres Brot von der Weizenfarm nicht wollen?
 v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / Du weisst schon das wir ein Bäckerei brauchen um aus dem Weizen Brot zu machen?
 v1;60;Prépei na me gelás. Tóra tha petháno. / Du machst Witze. Ich werde verhungern!
@@ -554,7 +554,7 @@ v1;180;Óloi moirástikan ta pánta exísou. Ékane polý dýskoli ti diapragmá
 v2;210;Kakí émporos. Touláchiston eínai píso sti Romaïkí Aftokratoría, makriá apó aftoús tous várvarous. / Armer Händler. Wenigstens ist er wieder im römischen Imperium. Weit weg von dieses Barbaren.
 v1;240;Symfonó! I Romaïkí Aftokratoría eínai i kalýteri gi gia empório! / Stimmt! Das römische Imperium ist das beste Land zum Handeln!
 
-newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:tavernbyzantine,weigth:25
+newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:taverna,weigth:25
 v1;0;Geiá sou! Den faínetai na eíste polý efcharistiménoi símera / Hallo! Du scheinst Heute nicht sehr glücklich zu sein.
 v2;30;Nai, den ypárchei tavérna gia na pioúme. / Ja, wir haben keine Taverne in der wir trinken könnten.
 v1;60;Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / Ja, ich wünschte auch wir hötten eine Taverne. Dann könnten wir römi Wein trinken.

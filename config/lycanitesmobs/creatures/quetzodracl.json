@@ -1,6 +1,11 @@
 {
   "name": "quetzodracl",
-  "class": "com.lycanitesmobs.saltwatermobs.entity.EntityQuetzodracl",
+  "creatureType": "dragon",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityQuetzodracl",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelQuetzodracl",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -39,8 +44,8 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
@@ -59,6 +64,11 @@
     }
   ],
   "element": "earth",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

@@ -1,6 +1,7 @@
 qualifierSeparator=-
 icon=calva
 knownCrop=sapling_appletree
+cultureBanner={BlockEntityTag:{Base:1,Patterns:[{Pattern:nor,Color:11}]}}
 
 travelBookVillagerCategory=villager
 travelBookVillagerCategory=lonevillager
@@ -14,6 +15,7 @@ travelBookBuildingCategory=othervillage
 travelBookBuildingCategory=lonebuilding
 travelBookBuildingCategory=playerbuilding
 travelBookBuildingCategory=marvel
+travelBookBuildingCategory=wall
 
 travelbookTradeGoodCategory=construction
 travelbookTradeGoodCategory=agriculture
@@ -36,6 +38,7 @@ travelBookCategoryIcon=othervillage,timberframecross
 travelBookCategoryIcon=lonebuilding,wood_oak
 travelBookCategoryIcon=playerbuilding,cake
 travelBookCategoryIcon=marvel,rosette
+travelBookCategoryIcon=wall,cobblestone_wall
 
 travelBookCategoryIcon=construction,timberframecross
 travelBookCategoryIcon=agriculture,tripes

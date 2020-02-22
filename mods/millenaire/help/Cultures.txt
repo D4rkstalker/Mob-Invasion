@@ -25,4 +25,11 @@ A category of trade goods for the Travel Book.
 travelbookcategoryicon (String and item: 'villager,wheat'):
 The icon to use for this Travel Book category.
 
+culturebanner (string (case-insensitive)):
+A JSON object that specifies the culture's banner's appearance.
+
+paneltexture (Minecraft resource path):
+A resource path to a panel texture.
+Default value: millenaire:textures/entity/panels/default.png
+
 

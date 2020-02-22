@@ -1,6 +1,11 @@
 {
   "name": "thresher",
-  "class": "com.lycanitesmobs.freshwatermobs.entity.EntityThresher",
+  "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityThresher",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelThresher",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,8 +22,9 @@
     "ignoreBiome": false,
     "biomes": [
       "all",
-      "-ocean",
-      "-beach"
+      "-swamp",
+      "-jungle",
+      "-dense"
     ],
     "spawnWeight": 1,
     "dungeonWeight": 0,
@@ -41,11 +47,12 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 2,
   "sight": 32,
   "knockbackResistance": 1,
+  "packSize": 1,
   "eggBackColor": "#77747e",
   "eggForeColor": "#3f4567",
   "subspecies": [
@@ -61,6 +68,11 @@
     }
   ],
   "element": "water",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
@@ -98,5 +110,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "whirlpoolRange",
+      "value": 8
+    }
+  ]
 }

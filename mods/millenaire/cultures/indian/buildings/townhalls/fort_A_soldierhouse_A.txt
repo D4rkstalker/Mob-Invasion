@@ -1,20 +1,13 @@
-//Parameters for the building as a whole
-building.length=26
-building.width=36
-building.areatoclear=5
-building.buildingorientation=3
+building.length=30
+building.width=40
 building.issubbuilding=true
-building.parentbuildingplan=fort_A4
+building.parentbuildingplan=fort_A9
 building.max=0
 building.icon=steelsword
+building.version=2
 
-
-//Parameters for initial construction
-initial.startlevel=-1
+initial.startlevel=-4
 initial.nativename=Sena-nivaas
 initial.priority=900
 initial.male=indian_soldier
-
-//Parameters for specific upgrades
-upgrade1.priority=90
-
+initial.female=indian_peasantwife

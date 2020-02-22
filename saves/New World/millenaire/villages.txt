@@ -1,9 +1,0 @@
-Arkadeslimne;-262/71/-11;emporikos;byzantines;
-Chigasaki;20/71/-262;nogyo;japanese;
-Ramsapurmahal;92/74/497;indian_palace;indian;
-Ramsapurgaanv;-142/71/444;indian_agricole_hamlet;indian;
-Ramsapurqila;272/106/334;indian_fort_hamlet;indian;
-Attikamekw;333/65/-170;huntingvillage;inuits;
-Saint-Pierre-le-lac;-820/79/267;militaire;norman;
-Le Breuil-les-mines;-856/71/670;artisans;norman;
-Colombières-le-lac;-453/72/710;artisans;norman;

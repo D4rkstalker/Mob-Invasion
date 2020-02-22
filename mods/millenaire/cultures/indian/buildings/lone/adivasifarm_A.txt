@@ -3,7 +3,7 @@ building.length=5
 building.width=11
 building.areatoclear=1
 building.buildingorientation=3
-
+building.showtownhallsigns=false
 building.icon=rice
 
 //Parameters for initial construction

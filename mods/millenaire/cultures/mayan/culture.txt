@@ -1,6 +1,10 @@
 knownCrop=maize
 icon=mayanmace
 
+cultureBanner={BlockEntityTag:{Base:6,Patterns:[{Pattern:may,Color:0}]}}
+
+panelTexture=millenaire:textures/entity/panels/maya.png
+
 travelBookVillagerCategory=villager
 travelBookVillagerCategory=lonevillager
 travelBookVillagerCategory=visitor

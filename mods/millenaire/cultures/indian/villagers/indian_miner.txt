@@ -19,6 +19,7 @@ goal=gopray
 goal=minestone
 goal=minesand
 goal=minesandstone
+goal=mineredsandstone
 goal=cookstone
 goal=tendfurnace
 goal=bringBackResourcesHome
@@ -26,6 +27,7 @@ goal=bringBackResourcesHome
 
 bringBackHomeGood=cobblestone
 bringBackHomeGood=sandStone
+bringBackHomeGood=redsandstone
 bringBackHomeGood=stone
 bringBackHomeGood=sand
 

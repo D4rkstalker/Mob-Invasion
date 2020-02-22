@@ -1,5 +1,6 @@
-culture.indian=Indisch
 
+culture.indian=Indisch
+culture.fullname=Die Inder
 village.indian_agricole=Landwirtschaftliches Dorf
 village.indian_agricole_hamlet=Landwirtschaftlicher Weiler
 village.indian_controlled=Kontrolliertes Dorf
@@ -7,7 +8,6 @@ village.indian_customcontrolled=Selbsterstelltes Kontrolliertes Dorf
 village.indian_fort=Fort
 village.indian_fort_hamlet=Militärischer Weiler
 village.indian_palace=Palast
-
 villager.indian_adivasipeasant=Adivasi Bauer
 villager.indian_adivasipeasantwife=Adivasi Bäuerin
 villager.indian_armysmith=Waffenschmied
@@ -29,13 +29,15 @@ villager.indian_sadhu=Sadhu
 villager.indian_sculptor=Bildhauer
 villager.indian_smith=Schmied
 villager.indian_soldier=Rajput Soldat
-villager.indian_teenagerFemale=Jugendliche
-villager.indian_teenagerMale=Jugendlicher
+villager.indian_teenagerfemale=Jugendliche
+villager.indian_teenagermale=Jugendlicher
 villager.indian_villagechief=Dorfhäuptling
 villager.merchant_adivasi=Adivasi Händler
 villager.merchant_oriental=Persischer Händler
 villager.merchant_villagewoman=Dorf Händler
-
+villager.indian_craftsman=Handwerker
+villager.indian_painter=Maler
+villager.indian_weaver=Weber
 shop.adivasifarm=Adivasi Produkte
 shop.armyforge=Waffen & Rüstungen
 shop.deserttradeoutpost=Handelsgüter

@@ -1,6 +1,11 @@
 {
   "name": "ioray",
-  "class": "com.lycanitesmobs.freshwatermobs.entity.EntityIoray",
+  "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityIoray",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelIoray",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,10 +22,7 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "all",
-      "-ocean",
-      "-beach",
-      "-swamp"
+      "ocean"
     ],
     "spawnWeight": 4,
     "dungeonWeight": 200,
@@ -43,8 +45,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 2,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0,
@@ -53,7 +55,7 @@
   "subspecies": [
     {
       "index": 1,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     },
     {
@@ -63,6 +65,9 @@
     }
   ],
   "element": "acid",
+  "diets": [
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
@@ -110,6 +115,12 @@
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.25
+    },
+    {
+      "item": "lycanitesmobs:waterjetcharge",
+      "minAmount": 1,
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

@@ -1,7 +1,7 @@
 version:3.4
-<darkblue>De Normandiërs
+<darkblue>De NormandiÃrs
 
-De allereerste cultuur in Millénaire, Normandiërs hebben de meeste dorptypen - landbouw, militair, religieus en industrieël georiënteerde dorpen en ook Gros bourgs (grote steden) die 3 gehuchten eromheen hebben. De Normandiërs spreken Frans in het spel maar hun spraak word vertaalt als de speler hun taal leert.
+De allereerste cultuur in MillÃˆnaire, NormandiÃrs hebben de meeste dorptypen - landbouw, militair, religieus en industrieÃl georiÃnteerde dorpen en ook Gros bourgs (grote steden) die 3 gehuchten eromheen hebben. De NormandiÃrs spreken Frans in het spel maar hun spraak word vertaalt als de speler hun taal leert.
 
 <darkblue>Unieke objecten en blokken
 

@@ -39,11 +39,11 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "saltwatermobs:raiko",
+      "mobId": "lycanitesmobs:raiko",
       "weight": 8
     },
     {
-      "mobId": "saltwatermobs:quetzodracl",
+      "mobId": "lycanitesmobs:quetzodracl",
       "weight": 1
     }
   ]

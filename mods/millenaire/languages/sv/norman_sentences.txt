@@ -1,5 +1,5 @@
 ﻿villager.greeting=Bonjour, $name! / Hej, $name!
-villager.greeting=Belle journée, n'est pas? / Visst är det en underbar dag?
+villager.greeting=Belle journée, n'est ce pas? / Visst är det en underbar dag?
 villager.greeting=Il va pleuvoir, je le sens / Det kommer börja regna. Jag kan känna det.
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Jag minns inte, Normandie riktigt så.
 guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Du ser lite svag ut, $name. Jag ska skydda dig om du får problem.

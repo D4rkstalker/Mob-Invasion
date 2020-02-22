@@ -1,6 +1,11 @@
 {
   "name": "djinn",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityDjinn",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityDjinn",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelDjinn",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -35,8 +40,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
@@ -87,10 +92,10 @@
       "chance": 0.05
     },
     {
-      "item": "elementalmobs:whirlwindcharge",
+      "item": "lycanitesmobs:whirlwindcharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.05
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

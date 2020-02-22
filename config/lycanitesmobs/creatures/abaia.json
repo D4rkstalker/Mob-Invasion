@@ -1,6 +1,11 @@
 {
   "name": "abaia",
-  "class": "com.lycanitesmobs.freshwatermobs.entity.EntityAbaia",
+  "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAbaia",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelAbaia",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -16,10 +21,7 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "all",
-      "-ocean",
-      "-beach",
-      "-swamp"
+      "all"
     ],
     "spawnWeight": 6,
     "dungeonWeight": 200,
@@ -42,8 +44,8 @@
   "damage": 1,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
@@ -63,10 +65,15 @@
     {
       "index": 3,
       "name": "mottled",
+      "scale": 3,
       "type": "rare"
     }
   ],
-  "element": "electric",
+  "element": "lightning",
+  "diets": [
+    "carnivore",
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
@@ -88,7 +95,7 @@
       "chance": 1
     },
     {
-      "item": "freshwatermobs:soulstonefreshwater",
+      "item": "lycanitesmobs:soulstonefreshwater",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,

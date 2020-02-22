@@ -1,6 +1,11 @@
 {
   "name": "darkling",
-  "class": "com.lycanitesmobs.shadowmobs.entity.EntityDarkling",
+  "creatureType": "arthropod",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityDarkling",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelDarkling",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,10 +41,10 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#10191a",
   "eggForeColor": "#9dfbcd",
@@ -56,10 +61,14 @@
     }
   ],
   "element": "shadow",
+  "diets": [
+    "carnivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 1,
   "drops": [

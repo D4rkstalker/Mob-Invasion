@@ -1,6 +1,11 @@
 {
   "name": "geken",
-  "class": "com.lycanitesmobs.junglemobs.entity.EntityGeken",
+  "creatureType": "beast",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGeken",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelGeken",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,7 +22,8 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "jungle"
+      "jungle",
+      "swamp"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,
@@ -40,10 +46,10 @@
   "damage": 2,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#00AA00",
   "eggForeColor": "#FFFF00",
@@ -59,7 +65,11 @@
       "type": "uncommon"
     }
   ],
-  "element": "arbour",
+  "element": "fae",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

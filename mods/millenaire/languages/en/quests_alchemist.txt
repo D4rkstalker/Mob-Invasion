@@ -143,7 +143,7 @@ alchemist_11_brewingstudents_1_description_success=Very well. I hope one of the 
 alchemist_11_brewingstudents_1_description_refuse=Then why do you bother me?
 alchemist_11_brewingstudents_1_listing=Go back to see the Alchemist after having spoken with a village leader.
 
-alchemist_11b_guildmaster_0_label=Speak with the Guid Master
+alchemist_11b_guildmaster_0_label=Speak with the Guild Master
 alchemist_11b_guildmaster_0_description=Guillaume Vif-argent has managed to restart alchemy in this world? He is truly an extraordinary man! I would be honoured to study his work and to initiate a gifted enough young man in it!
 alchemist_11b_guildmaster_0_description_success=Express my admiration to the Master for me.
 alchemist_11b_guildmaster_0_description_refuse=Then why do you bother me?

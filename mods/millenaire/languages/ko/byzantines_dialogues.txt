@@ -1,15 +1,48 @@
-newchat;key:sun,tag:notraining,weigth:10
+//*      대화의 각 열은 "v2;30;"과 같은 말하는 사람을 지정하는 코드로 시작합니다. 당신의 번역문에 동일한 내용을 복사하십시오.
+//*      / 앞 부분은 이들의 언어로써 번역되면 안 됩니다. /의 뒷 부분을 번역하십시오.
+//* 
+//* 
+//* 
+//* 
+//* 
+
+
+
+newchat;key:sun,tag:notraining,weigth:18
 v1;0;Agapo ilióloustes méres! / 나는 맑은 날이 좋아!
-v2;30;Poios den échei? / 누가 안그러니?
+v2;30;Poios den échei? / 누군 아니래?
 
 newchat;key:nicevillage,weigth:10
-v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / 우리의 작고 멋진 마을을 보는게 멋지지 않니?
-v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / 당연하죠, 이건 모두 우리 노력의 산물이에요!
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / 우리 마을은 보면 볼 수록 매력적인 것 같아. 맞지?
+v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / 당연하지, 이건 우리의 노력의 산물이잖아
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Agapo ilióloustes méres! / 나는 맑은 날이 좋아!
+v2;30;Poios den échei? / 누군 아니래?
+v1;60;Den to káno. / 난 아닌데.
+v2;120;Giatí óchi? / 왜 아닌데?
+v1;150;O ílios kaíei! Misó to exoterikó! / 햇빛이 너무 뜨거워! 이불 밖은 위험해~
+v2;180;Eísai san zómpi! / 너 꼭 좀비 같아.
+v1;210;Ísos eímai ... / 그럴지도 모르지.
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / 이 작은 마을은 언제봐도 행복해. 너도 그렇지?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / 물론이지! 우리는 여기에서 일하며 오랜 시간을 보냈잖아.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / 여기는 마치 집 같아. 우리가 지난 번에 왔을 때 처럼 말이야.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / 이제 여기는 우리 집이야. 우리는 받아들이기만 하면 돼.
+v1;120;Xéro, tha to dechtó me ton kairó ... / 알겠어. 시간이 지나면서 받아들여지겠지.
+
+newchat;key:ishome,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / 우리 작은 마을은 언제봐도 행복해. 너도 그렇지?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / 물론이지! 우리는 이곳에서 일하며 오랜 시간을 보냈잖아.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / 여기는 마치 집 같아. 우리가 지난 번에 왔을 때 처럼 말이야.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / 이제 여기는 우리 집이야. 우리는 받아들이기만 하면 돼.
+v1;120;Aftó eínai to spíti mas tóra, aftí i syzítisi me ékane na to syneiditopoiíso. / 이제 여기는 우리 집이야. 지금 말을 하면서 깨달았어.
 
 newchat;key:harvest,weigth:10
-v1;0;sitári afxánetai polý kalá aftí ti chroniá, étsi eínai ta stafýlia, kathos kai. Lampro, den eínai? / 밀과 포도가 풍년이야, 그렇지 않니?
-v2;30;Nai, faínetai étsi: Échoume to períergo kairo edo na efcharistíso. / 그래. 그런데 우리는 이상한 날씨 때문인거 같아.
-v1;60;Akoma kai an afto den échei kanéna noima gia ména! / 그게 나에게 아무 의미가 없더라도!
+v1;0;sitári afxánetai polý kalá aftí ti chroniá, étsi eínai ta stafýlia, kathos kai. Lampro, den eínai? / 밀과 포도가 풍년이야, 그렇지?
+v2;30;Nai, faínetai étsi: Échoume to períergo kairo edo na efcharistíso. / 맞아, 여기 이상한 날씨 덕분인것 같아.
+v1;60;Akoma kai an afto den échei kanéna noima gia ména! / 물론 나하곤 상관 없지만!
 
 newchat;key:lightning,weigth:7
 v1;0;Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varý! / 저번에 있었던 폭우 기억나니? 그때 비가 바가지로 퍼붓듯이 왔어!
@@ -18,30 +51,30 @@ v1;60;Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo ke
 v2;100;Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / 왜 집 밖에 있었니? 폭우가 내리는날 집 밖에 나가면 위험해!
 v1;120;Zontaná kai na máthoun. / Live and learn.
 
-newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
-v1;0;Ego den aisthánomai kalá ... / 나는 별로 좋지가 않아...
+newchat;key:lightningpig,weigth:1,v1:adult,v2:adult
+v1;0;Ego den aisthánomai kalá ... / 기분이 별로 좋지가 않아...
 v2;30;Ti tréchei me séna? Eísai árrostos? / 무슨일이야? 아프니?
-v1;60;Ochi, ego jj-molis thymíthike kápoia ora-na symveí. / 아니, 나는 그..그저 뭐..뭔가 일어나는걸 봤어. 
-v2;100;Boreíte íchou pragmatiká epireázontai. Eíste sígouroi oti den eínai árrostos? / 뭔가에 영향을 받은거 같아보여. 진짜 아프지 않은거 맞니?
-v1;120;N-ochi, ego aplá f-aisthánontai fovisménoi. / 아..아니, 나는 그저 무서울 뿐이야.
+v1;60;Ochi, ego jj-molis thymíthike kápoia ora-na symveí. / 아니, 나는 그..그저 뭐..뭔가 일어나는걸 봤어.
+v2;100;Boreíte íchou pragmatiká epireázontai. Eíste sígouroi oti den eínai árrostos? / 귀신에 씌인 것 같아보여. 진짜 아프지 않은거 맞지?
+v1;120;N-ochi, ego aplá f-aisthánontai fovisménoi. / 아..아니, 나는 그냥 무서워서그래..
 v2;150;Ti synévi loipon? / 무슨 일인데?
 v1;180;Katá ti diárkeia tis l-teleftaía kataigída. Perpátisa éxo apo to chorio-vv, íxera oti den boroúsa na páro píso sto chorio prin apo tin kataigída. Gi 'afto kai krýftike káto apo éna déntro. / 마..마지막 폭우때 나는 마.. 마을 밖로 나갔었어, 나는 폭풍이 오기 전에 마을로 피할 수 없었어. 그래서 나는 나무 아래 숨었어.
 v2;210;Tha diakindýneve ti zoí sas éxo apo to chorio! Tha boroúse na eíche pethánei! / 위험한데 마을 밖에 나가다니, 아주 큰일날 뻔했어!
 v1;240;Loipon, ímoun asfalís. Sti synécheia, omos eída éna gouroúni. I lighning chtýpise. Kai oi nekroí p-gouroúni ... I-afto sikothike kai kiníthike l-san ki emás, ch-kynigoún eména me éna lampero sw-spathí! / 그래, 나는 안전했어. 하지만 돼지를 보고 나서 번개가 쳤지.. 그리고는 돼지가 갑자기 변했어.. 그리고는 일어나서, 나.. 나를 반짝이는 검을 들고 쫒아왔어!
 v2;290;Tha eínai anoisíes. Tha prépei na ítan énas efiáltis. / 말도 안되는 소리야. 악몽을 꾼거 아냐?
-v1;320;Ítan alítheia! Sosto! Sosto! Sosto! / 아니, 이건 진실이야! 내가 똑똑히 봤어!
+v1;320;Ítan alítheia! Sosto! Sosto! Sosto! / 아니, 이건 진짜야! 내가 똑똑히 봤어!
 v2;350;Eíste treloí. Pigaínete na párete lígo krasí, kai na iremísoun. / 상태가 정상이 아닌거 같아. 와인을 좀 마시고 진정해.
 v1;380;Tha d-kánoume afto. Boreí-Ísos afto tha voithísei. / 그..그래. 그게 도움이 될거야..
 
 newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
-v1;0;Ach ... Souvláki, to éna kai monadiko fagito! / 아.. 소블라키, 이건 우리의 마지막 음식이야..
+v1;0;Ach ... Souvláki, to éna kai monadiko fagito! / 아.. 수블라키, 이건 우리의 마지막 음식이야..
 v2;30;An oi ándres den échoun trofí mas-kánei tis gynaíkes ... / 음식을 만드는 여인이 아무도 없어...
 v1;60;Tha kánoun to fagito tous eaftoús mas! / 우리가 직접 음식을 만들자!
-v2;100;Alítheia? Pos gínetai kai páli souvláki? / 진짜? 소블라키를 어떻게 만드니?
+v2;100;Alítheia? Pos gínetai kai páli souvláki? / 진짜? 어떻게 만드는지 알아?
 v1;130;Err ... Vázete ta psária, ochi, païdákia sto foúrno, tote ... / 음.. 생선을 좀.. 아니, 양고기를 화로에 넣어 그리고..
 v2;190;... vázeis me kápoion féta se éna ravdí. Den boreíte pragmatiká na mageirépsoun! / ...그리고 페타 약간을 막대기에 꽂아. 너는 진짜 요리 못하는구나!
 
-newchat;key:loneVillage,weigth:10
+newchat;key:lonevillage,weigth:10
 v1;0;Vareto. ola eínai pánta to ídio edo. / 아.. 지루해.. 여기선 모든게 같아..
 v2;30;Touláchiston eínai eirinikí. / 적어도 평화롭기는 하지.
 v1;60;Típota idiaítero gia éna apomakrysméno chorio san ti dikí mas! / 우리같이 외딴 마을에는 특별한게 하나도 없어!
@@ -49,41 +82,33 @@ v1;60;Típota idiaítero gia éna apomakrysméno chorio san ti dikí mas! / 우�
 newchat;key:city,v1:adult,v2:adult,weigth:2
 v1;0;Otan ímoun mikros, íthela na eínai énas exerevnitís, na anakalýpsoun néa edáfi kai na pliroún endiaférontes néous anthropous. Allá tora? Eímai kollísei se afto to apomakrysméno chorioudáki. Thélo na páo kai na episkeftheíte néa méri. / 내가 어렸을때는, 탐험가가 꿈이었지. 새로운 땅을 발견하고 그곳에서 새로운 사람들을 만나는걸 꿈꿨지. 근데 지금은? 이 외딴 마을 구석에서 살고 있지. 나는 새로운 장소로 가고 싶어.
 v2;30;Allá den tha vreíte megáli diaforá sto állo chorio. Eímaste oloi lígo polý to ídio. / 하지만 그 마을이 우리 마을과 비슷하다면, 재미가 없을 거야.
-v1;60;Den milo gia ta choriá. Milo gia tis poleis, í akoma kai i poli! / 나는 작은 마을에 대해 말하는게 아니야, 나는 큰 마을이나 대도시에 관한 말을 하는 거야! 
-v2;90;I poli? Ennoeís Konstantinoúpoli? / 대도시? 콘스탄티노플을 말한거니? 
+v1;60;Den milo gia ta choriá. Milo gia tis poleis, í akoma kai i poli! / 나는 작은 마을에 대해 말하는게 아니야, 나는 큰 마을이나 대도시에 관한 말을 하는 거야!
+v2;90;I poli? Ennoeís Konstantinoúpoli? / 대도시? 콘스탄티노폴리스를 말한거야?
 v1;120;Nai! To kéntro tis éndoxis aftokratorías mas. Eínai to thávma tou kosmou. / 그래! 거기는 우리 제국의 중심이야. 세계의 경이중 하나이기도 하지.
 v1;150;Ypárchoun perissoteroi apo 500000 ánthropoi pou zoun ekeí, boreíte na imangine afto?! / 거기에는 약 50만명 이상이 살고 있어!
 v2;180;Akoúgetai adýnato gia ména. 500000 ánthropoi se éna méros? / 그건 불가능해보여. 50만명이 한 장소에? 꿈 깨!
 
 newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
-v1;0;Min pieíte krasí mono! / 혼자 와인을 마시지 마!
+v1;0;Min pieíte krasí mono! / 혼자 와인 마시지 마!
 v2;30;Posimou mazí eínai pio diaskedastiko! / 같이 마시는게 더 재밌어!
 v1;50;Cheers gia to krasí! / 건배하자!
 v2;70;Cheers! / 건배!
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
-v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / 나중에 제가 마을 족장이 될거에요!
-v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / 너무 건방지게 굴지 마. 계속 그러면 맞을 거야!
-v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / 맞는다고 했지!
-v2;80;*chastoúkia* / *찰싹*
-v1;85;Och, afto ponáei! / 아 너무 아파!
-v2;105;Ísos échete máthei káti! / 뭔가 깨닫는 게 있어야 해!
-
 newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
 v1;0;O bampás mou eínai ischyroteri apo ti dikí sas. / 우리 아빠는 너네 아빠보다 세.
 v2;30;Ochi! O bampás mou eínai i ischyroteri sto chorio! / 아니! 우리 아빠가 제일 세!
-v1;60;Ochi! O bampás mou eínai o ischyroteros stin aftokratoría! / 아니! 우리 아빠가 제국 내에서 제일 세!
-v2;90;Impossible! O bampás mou eínai i ischyroteri ston kosmo! / I아니! 우리 아빠가 세상에서 제일 세!
+v1;60;Ochi! O bampás mou eínai o ischyroteros stin aftokratoría! / 아니! 우리 아빠가 제국에서 제일 세!
+v2;90;Impossible! O bampás mou eínai i ischyroteri ston kosmo! / 아니! 우리 아빠가 세상에서 제일 세!
 v1;120;Sígoura o bampás mou tha boroúse na nikísei dikí sas se ligotero apo dýo chtypímata! / 그러면 내기해 볼까?
-v2;150;Párte ton bampá sas étoimos gia énan agona! / 싸우기 위해 아빠를 데려와!
+v2;150;Párte ton bampá sas étoimos gia énan agona! / 그럼 아빠를 데려와!
 
 newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
-v1;0;Korítsia eínai ilíthioi. / 소녀들은 멍청해.
+v1;0;Korítsia eínai ilíthioi. / 여자애들은 바보야.
 
 newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
-v1;0;Échete dei pouthená koúkla mou? Den boro na to vro ... / 내 인형 어딨지 찾을 수 없어.
+v1;0;Échete dei pouthená koúkla mou? Den boro na to vro ... / 내 인형이 어디 있지? 못 찾겠어.
 v2;30;Dose mou píso to spathí mou kai tha to párei píso! / 내 검을 돌려주면 인형을 줄게!
-v3;60;Boreíte na to éklepse! Kléftis! / 너가 훔쳤구나! 도둑놈!
+v3;60;Boreíte na to éklepse! Kléftis! / 너가 훔쳤구나! 이 도둑아!
 
 newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
 v1;0;Écheis dei kainoúrgia roúcha mou? / 내 새 옷 어떠니?
@@ -96,7 +121,7 @@ v1;0;Échete dei néa roúcha mou? / 내 새 옷 어떠니?
 v2;30;Eíste mia omorfiá. o, ti tairiázei, agapité $targetfirstname mou! / 와 진짜 예쁘다 너에게 딱 어울려, $targetfirstname!
 v1;60;Allá den eímai toso omorfi oso boreíte! / 하지만.. 나는 너만큼 안 예뻐..
 v2;90;그건 사실이야.
-v1;100;!!!
+v1;100;!!!!!!!!!
 
 newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
 v1;0;Écheis dei kainoúrgia roúcha mou, $targetfirstname? / 내 새 옷 어떠니? $targetfirstname?
@@ -112,41 +137,41 @@ v2;70;Hey $targetfirstname, eínai aplá i gnomi mou. / 그래. $targetfirstname
 v1;90;Touláchiston eísai eilikrinís! / 적어도 너는 정직하기라도 해!
 
 newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
-v2;0;Ti prépei na kánete otan sas arései éna korítsi? / 소녀를 좋아한다면 뭘 할거니?
+v2;0;Ti prépei na kánete otan sas arései éna korítsi? / 좋아하는 여자애가 있으면 넌 뭘 할거니?
 v1;30;Kánte kompliménta tis kai eínai oraío na tis. / 많이 칭찬해주고 친절하게 대할거야.
 v2;60;Ochi! Afto eínai adýnaton! Poies tha eínai oi álloi skéftontai gia ména tote? / 아니, 그건 불가능해! 그러면 다른 사람들이 나를 어떻게 생각하겠니..
 v1;90;An agapoúse pragmatiká, den tha noiázontai gia tous állous. / 만약 너가 그녀를 진심으로 사랑한다면, 너는 다른 사람들에게는 무관심할 거야.
 
-newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
-v1;0;Írthe i ora na sas didáxei pos na frontísei éna spíti. / 이제 집에서 보살피는 방법을 가르칠 때입니다.
-v2;30;Megáli, ti échoume archísei me? Boro na káno souvláki? Pleaaase! / 대단해, 뭐부터 시작하지? 소비아키를 만들 수 있을까요? 제발요!
-v1;60;As doúme poso kaloí eíste sto na kánei ton katharismo prota. / 우선 청소부터 하자.
-v2;90;Entáxei, allá tha mou deíxei pos na kánei souvláki argotera, yposchéthike? /그럴게, 하지만 그 다음에는 소비아키를 만드는 법을 가르쳐 줘야되. 약속할거지?
-v1;120;Yposchetheí. / 약속할게.
+newchat;key:householdtry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Írthe i ora na sas didáxei pos na frontísei éna spíti. / 이제 집에서 살림 하는 방법을 배우는 시간이 왔습니다.
+v2;30;Megáli, ti échoume archísei me? Boro na káno souvláki? Pleaaase! / 대단해, 뭐부터 시작하지? 수블라키를 만들 수 있을까요? 제발요!
+v1;60;As doúme poso kaloí eíste sto na kánei ton katharismo prota. / 우선 청소를 얼마나 잘하는지 부터 보자꾸나.
+v2;90;Entáxei, allá tha mou deíxei pos na kánei souvláki argotera, yposchéthike? /알겠어요. 그 다음에는 수블라키 만드는 법을 가르쳐 주세요 .알았죠?
+v1;120;Yposchetheí. / 아무렴.
 
 newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
-v2;0;Boreís na mou agorásei afto to néo koúkla? O kathénas échei éna néo, allá ego ... / 이 새 인형을 사줄 수 있겠니? 
-v1;30;Poia eínai i magikí léxi ? / 마법 주문이 뭐니?
-v2;60;Boreíte sas parakalo na mou agorásei mia néa koúkla? / 새 인형을 내게 사줄수 있니?
+v2;0;Boreís na mou agorásei afto to néo koúkla? O kathénas échei éna néo, allá ego ... / 이 인형사주세요.. 다른 애들은 다 갖고있단말예요...
+v1;30;Poia eínai i magikí léxi ? / 마법 주문이 뭐라고 했지?
+v2;60;Boreíte sas parakalo na mou agorásei mia néa koúkla? / 이 인형 제발 사주시면 안돼요?
 v1;90;Entáxei, allá tha prépei na min yposchontai na milísoume pia píso! / 알겠어. 하지만 소원을 원래대로 되돌린다는 말 하지 않기야, 약속하겠니?
-v2;120;Yposchetheí. / 당연하지!
+v2;120;Yposchetheí. / 당연하죠!
 
-newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
-v2;0;Ouch...
+newchat;key:woodsword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;아야...
 v1;30;Eísai foverí! Ti synévi? / 무슨 일 있니?
-v2;60;Loipon, o kathénas échei éna xýlino spathí, allá eména. / 다들 나무 검을 가지고 있지만 내게는 없어.
-v2;80;Étsi apofásisan na mou epitethoún! / 문제는 그들이 나를 때렸어!
-v2;100;Tha prépei na páro éna, pára polý! / 그러면 나에게 하나 얻어 봐
-v1;120;Vlépo échete chrisimopoiísei chroma gia ta simádia kai tis pligés sou. Kalí prospátheia! / 나는 너의 상처가 가짜인걸 봤어!
-v2;150;Télos pánton! Parakalo na mou dosete éna spathí! / 그래도 나에게 나무 검을 줘!
-v1;180;Spathí eínai epikíndynes. Den xífos gia séna! / 검은 위험해, 나는 너에게 검을 안 줄거야.
+v2;60;Loipon, o kathénas échei éna xýlino spathí, allá eména. / 다들 나무 검을 가지고 있지만 저는 없어요.
+v2;80;Étsi apofásisan na mou epitethoún! / 그래서 걔들이 날 때렸어!
+v2;100;Tha prépei na páro éna, pára polý! / 나도 검 하나만 줘요!
+v1;120;Vlépo échete chrisimopoiísei chroma gia ta simádia kai tis pligés sou. Kalí prospátheia! / 그 상처 가짜인거 다 봤다. 그래도 똑똑한걸!
+v2;150;Télos pánton! Parakalo na mou dosete éna spathí! / 그래도 검 주세요~!
+v1;180;Spathí eínai epikíndynes. Den xífos gia séna! / 검은 위험해. 네게 검은 없다!
 
 newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
 v1;0;Ktíria mas eínai toso omorfo pou eínai pánta megáli gia na deíte to érgo mas! / 우리 건물은 너무 멋져서, 보기가 너무 좋아!
 v2;30;Oi Mágia théloun na dimiourgísoun polý oraía domés, kathos kai. / 마야인들이 건물을 잘 짓긴 하지.
 v1;60;Min me enochloún me tétoia weirdos. Ta ktíriá mas faínontai polý kalýtera! / 그런 이상한 사람들에 대해 말하지 마. 우리 건물이 훨씬 멋져!
 v2;90;Loipon ... /  글쎄..
-v1;100;Prodoti! Écheis kamía ethnikí yperifáneia? / 배신자! 우리 나라에 대한 자존삼이 있기나 한거니?
+v1;100;Prodoti! Écheis kamía ethnikí yperifáneia? / 배신자! 우리 제국에 대한 애국심이 있기나 한거냐!
 
 newchat;key:pride2,weigth:10
 v1;0;Emeís oi Romaíoi boreí na eínai pragmatiká yperífanoi gia osa échoume petýchei! / 우리 로마인들은 우리가 한것에 대해 매우 자랑스러워 해!
@@ -246,7 +271,7 @@ v2;90;Afto ítan! Tha gefteíte tin diaforá. / 그게 다야! 다른 맛을 느
 
 newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
 v1;0;Poios ítan o ánthropos pou échete episkeftheí chthes to vrády? / 어젯밤에 나타난 사람을 아니?
-v2;30;Ti ánthropos? / snrn?
+v2;30;Ti ánthropos? / 누구?
 v1;40;O ánthropos pou sýrthike éxo apo to paráthyro sas! / 우리집 창문앞에 나타난 사람!
 v1;45;Min nomízete oti den tha paratirísete! / 나는 보지 않았어.
 v2;60;Pos tolmás ..? Ímoun kai eímai pánta pistí sto sýzygo mou. / 어떻게 감히..?나는 언제나 내 남편에게 충실했어.
@@ -258,11 +283,6 @@ v1;0;Aftá ta néa ergaleía mageirikís eínai exairetiko! / 이 새로운 조�
 v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / 하지만 그건 재밌고 더 빠르게 해줘.
 v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / 대장장이들에게 감사해야 해.
 v2;90;Nai! Gi 'afto mou arései na Romaïkí. / 그래! 이게 왜 우리가 로마를 좋아하는 이유야.
-
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
-v1;0;Eímai ziliáris afton ton plousíon. / 나는 부자들이 부러워.
-v1;20;Échoun tétoia oraía roúcha apo metáxi! / 그들은 비단을 가질 수 있어!
-v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / 저건 불공평해. 그들은 놀고먹는데 저런 비싼 물건을 얻을 수 있어.
 
 newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
 v1;0;Échete akoúsei gia afto to varono se éna geitoniko chorio? / 이웃 마을의 남작에 대해 들은 적 있니?
@@ -281,18 +301,6 @@ v2;110;Ego na mantépsete akrivos san stratiotes. / 나는 너희들이 군인�
 v2;140;Allá échete énan ántra! / 하지만 너는 남편이 있잖아!
 v1;170;Allá énas tempélis kai sychná methysménos éna! / 게으르고 술꾼인 남편!
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
-v1;0;Xérete tin omorfiá sto geitoniko chorio? / 이웃 마을에 미녀가 사는걸 아니?
-v2;30;Fysiká, eínai polý charitoméno. / 당연히. 그녀는 아주 예뻐.
-v1;60;Ti tha gínei me tin epískepsi tis? / 그녀를 만나는건 어때?
-v2;90;Xérete oti i gynaíka sas tha trelatho tote! / 그랬다간 우리 아내가 미칠거야!
-
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
-v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / The artisan's wife is very good-looking, what do you think?
-v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Yeah, she is not bad. Sadly she already is married!
-v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Well yeah. And it wouldn't be fair to him.
-v2;100;Symfono. / I agree.
-
 newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
 v1;0;Den échoume arketo krasí se afto to chorio! / 우리는 이 마을에 충분한 와인이 없습니다!
 v2;30;Symfono! Prépei na chtísoume páno ampélia! / 나도 동의해! 더 많은 와인이 필요해!
@@ -306,21 +314,6 @@ v1;240;Entáxei! Sti synécheia, afíste mas na exoikonomísete chrímata mas. /
 v1;270;Otan échoume kerdísei arketá, as ekplirosei to schédio mas! / 돈을 충분히 구하고 다시 생각해 보자!
 v2;300;Tha échoume ti megalýteri tavérna se oli tin aftokratoría! / 우리는 제국에서 가장 위대한 술집을 만들 거야!
 v1;325;Sígoura! / 그렇지!
-
-newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
-v1;0;Échete dokimásei poté Norman ergaleía? / 노르만 도구를 써본적 있니?
-v2;30;Ochi, allá écho akoúsei oti eínai polý apotelesmatikí! / 아니, 하지만 매우 효율적이라 들었어!
-v1;60;Eínai alítheia. Poté den eícha doulépsei me tétoia kalá ergaleía prin. / 그건 사실이야. 여태껏 써본적 없는 가장 좋은 도구야.
-v2;90;Periménete ... Échete éna ergaleío Norman? / 잠깐.. 노르만 도구를 가지고 있니?
-v1;120;Err, eícha. Échei kápos chatheí! / 음.. 어디다 놓고 온것 같아.
-v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / 뭐?! 그렇게 중요한 도구를 잃어버렸어?
-v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / 그래.. 이제 기억만 남있어..
-
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
-v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / 이제 나의 철퇴를 시험할 수 있어!
-v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / 그래 그건 적을 멀리 쳐낼 수 잇는 멋진 무기야!
-v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / 멋지지 않니? 로마는 세상 그 무엇과도 비교 불가능해.
-v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / 그개 우리가 로마를 자랑스러워 하는 이유중 하나지!
 
 newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
 v1;0;Megáli trofímon, megála opla, megáli téchni - afto eínai o, ti eínai to éthnos mas! / 좋은 음식, 좋은 무기, 멋진 미술 작품. 모두 우리 국가에 있는 거야!
@@ -352,7 +345,7 @@ v2;90;Ti? Afto den eínai alítheia! / 뭐? 그건 사실이 아냐!
 newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
 v1;0;Geia sou omorfiá, sas arései afto pou vlépete? / 이쁜 아가씨, 뭘 찾으시나요?
 v2;20;*chastoúki* / *찰싹*
-v2;25;Échete mia gynaíka. / 당신은 아내가 있잖아요. 
+v2;25;Échete mia gynaíka. / 당신은 아내가 있잖아요.
 
 newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
 v1;0;Geia sou, koitás polý oraía símera $targetfirstname! / 안녕 $targetfirstname , 너 오늘 아주 멋져 보여!
@@ -376,7 +369,7 @@ v1;120;Pos boreí o ídios se mia tétoia omorfiá? / 얼마나 예쁘니?
 v2;150;Sas efcharistoúme gia epeffimíes mou epáno, $targetfirstname! / 나를 격려해줘서 고마워, $targetfirstname!
 
 newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
-v2;0;*urgh*
+v2;0;*휴*
 v1;30;Eísai entáxei, $targetfirstname? / $targetfirstname , 너가 올바르다 생각하니?
 v2;50;Nai, afto eínai mono i sklirí douleiá! / 그렇지, 얼마나 힘들여서 한건데
 v1;70;Boro na sas voithíso? Tha aisthantheíte kalýtera sti synécheia? / 내가 도와줄 수 있니?
@@ -421,10 +414,126 @@ v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai
 v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / 그렇게 생각하지 마!
 v2;110;Tha ítan methysménos! / You were drunk!
 
-newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Échete akoúsei gia tous Seljuks apó ti stigmí pou ftásame edó? / 여기 와서 Seljuks에 대해 들어 봤어?
+v2;30;Óchi, den to écho nomísei óti írthan mazí mas se aftí ti gi? / 아니, 그들이 여기에 같이 왔다고 생각해?
+v1;60;Amfivállo, échoume ídi akoúsei apó anthrópous pou den gnorízame óti ypírchan. / 우리는 이미 우리가 모르던 사람에게 이걸 들었어.
+v2;90;Ypothéto óti prépei na kánoume néous echthroús se aftí ti gi. / 이 땅에 적이 하나 더 생기겠네.
+v1;120;Échoume akóma tous Normandoús na antimetopísoun. / 노르만과도 싸워야 해.
+v2;150;Loipón, eímaste Romaíoi! Boroúme éfkola na nikísoume tétoious epidromeís, sti Rómi! / 뭐 우리는 로마인이야! 그까짓 군인들 잡기는 식은 죽 먹기지. 로마를 위하여!
+v1;165;Sti Rómi! / 위하여!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Akoúsate gia to kontinó chorió Norman? / 근처에 노르만 마을이 있대!
+v2;30;Aftó den eínai kaló, thymámai óti synéchizan na epitíthentai sti nótia Italía protoú ftásoume edó. / 나쁜 소식이네. 그들이 여기 오기 전에 이탈리아 남부를 공격했다고 기억해.
+v1;60;As elpísoume óti den tha mas epitethoún. / 우리를 습격하지 않기를 바라자.
+v2;90;Elpízo kai egó. / 그래.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Anarotiémai ti synévi stin Konstantinoúpoli? / 콘스탄티노플에게 무슨 일이 일어난거지?
+v2;30;Nomízo óti írthe edó mazí mas se aftí ti néa gi. / 이 새 땅에 우리와 온 것 같아.
+v1;60;Giatí to pistéveis aftó? / 왜 그렇게 생각해?
+v2;90;Ézisa kontá sti megáli póli kai me odígisan edó. / 난 근처의 대단한 도시에 살다가 이곳에 왔거든.
+v1;120;Eínai alítheia, allá échei tósous polloús anthrópous. Tha to eíchame akoúsei méchri tóra. / 맞아. 하지만 거기는 사람이 매우 많아. 이미 그 소식을 들었을거야.
+v2;150;Tha boroúse na eínai polý makriá. / 아마도 좀 멀리 있나봐.
+v1;180;Nai, allá i dóxa kai i megaloprépeia tis Konstantinoúpolis ítan tóso megáli pou akómi kai ánthropoi stin Kína ákousan gi 'aftó. / 맞아. 하지만 콘스탄티노플의 영광과 화려는 너무 대단해서 중국에서도 들었대.
+v2;210;Mi mou peíte óti pistévete se aftés tis istoríes gia tin Kína? / 중국의 그 말을 정말 믿는거야?
+v1;240;Pistévo óti ypárchei kápoia alítheia se aftá. / 나는 그들을 믿는 것 같아.
+
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,notbuilding:taverna,weigth:24
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / 올해에는 밀과 포도가 정말 잘 자라네.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / 맞아. 농부들이 엄청난 양을 수확하고 있어. 너는 와인을 마셔 봤어?
+v1;60;Den échoume tavérna gia na kánoume krasí ... / 음... 와인을 만들 선술집이 없어.
+
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,building:taverna,weigth:14
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / 밀과 포도가 풍년이야, 그렇지?
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / 맞아. 농부들이 엄청난 양을 수확하고 있어. 그런데 너는 와인을 마셔 봤니?
+v1;60;Echo! To exairetikó romaïkó mas krasí échei kalýteri géfsi apó poté!/ 마셔 봤어. 우리의 완벽한 로마 와인은 아무도 따라잡을 수 없는 맛이지!
+v2;90;Xéro, den eínai katapliktikó? Eícha pénte olóklira boukália chthes. To kalýtero krasí pou eícha poté! / 그렇지. 놀랍지 않아? 난 어제 다섯 병을 마셨어. 정말 최고였다고!
+v1;120;Pénte olóklira boukália? Prépei na epivradýneis ton ánthropo! Akómi kai an eínai mia exairetikí epochí, kindynéveis na gíneis methysménos me aftó to polý krasí!/ 다섯 병을 통째로? 적당히 조절해! 아무리 수확량이 좋다지만, 그렇게 마셔대다가는 술 중독자가 돼버릴거야!
+v2;150;Tha eímai kalá ótan o ponokéfalos aftós enkataleiftheí ... / 이 두통만 끝나면 괜찮겠지...
+
+newchat;key:cider,v1:adult,v2:adult,notbuilding:taverna,weigth:2
+v1;0;Chreiazómaste mia tavérna gia na ftiáxoume to krasí polý sýntoma. / 우리 마을에는 와인을 만들어 팔 술집이 필요해.
+v2;30;Ti? Giatí? Sígoura, to krasí eínai kaló, allá éna olókliro ktírio gia to krasí? Prépei na váloume proteraiótites stis proteraiótités sas! / 뭐? 왜? 그래, 와인은 최고야, 하지만 와인 하나 먹겠다고 건물을 만들어? 뭐가 중요하고 뭐가 필요 없는지 생각을 해봐!
+v1;60;Dokímasa lígo chymó Norman chtes. Ítan friktó! Pós oi ágrioi san aftó? / 어제 노르만 사이다를 마셔 봤어. 정말 역겨운 맛이었지! 저 야만인들은 도대체 왜 저러는거지?
+v2;90;Giatí dokimázete ta potá ton ágrion? Eísai ilíthios?! / 왜 야만인들의 음료수를 마셔 보는 거지? 정말 너는 멍청한게 틀림 없어.
+v1;120;Ego eimai... / 그런 것 같네.
+v2;130;Pánta na píneis romaïkí ousía! ROMAÏKÍ OUSÍA! / 항상 로마에서 만든걸 마시라고. 로마 꺼!
+
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
+v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / 나중에 제가 마을 족장이 될거에요!
+v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / 너무 건방지게 굴지 마. 계속 그러면 맞을 거야!
+v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / 맞는다고 했지!
+v2;80;*chastoúkia* / *찰싹*
+v1;85;Och, afto ponáei! / 아 너무 아파!
+v2;105;Ísos échete máthei káti! / 뭔가 깨닫는 게 있어야 해!
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
+v1;0;Eímai ziliáris afton ton plousíon. / 나는 부자들이 부러워.
+v1;20;Échoun tétoia oraía roúcha apo metáxi! / 그들은 비단을 가질 수 있어!
+v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / 저건 불공평해. 그들은 놀고먹는데 저런 비싼 물건을 얻을 수 있어.
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
+v1;0;Xérete tin omorfiá sto geitoniko chorio? / 이웃 마을에 미녀가 사는걸 아니?
+v2;30;Fysiká, eínai polý charitoméno. / 당연히. 그녀는 아주 예뻐.
+v1;60;Ti tha gínei me tin epískepsi tis? / 그녀를 만나는건 어때?
+v2;90;Xérete oti i gynaíka sas tha trelatho tote! / 그랬다간 우리 아내가 미칠거야!
+
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
+v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / The artisan's wife is very good-looking, what do you think?
+v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Yeah, she is not bad. Sadly she already is married!
+v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Well yeah. And it wouldn't be fair to him.
+v2;100;Symfono. / I agree.
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
+v1;0;Échete dokimásei poté Norman ergaleía? / 노르만 도구를 써본적 있니?
+v2;30;Ochi, allá écho akoúsei oti eínai polý apotelesmatikí! / 아니, 하지만 매우 효율적이라 들었어!
+v1;60;Eínai alítheia. Poté den eícha doulépsei me tétoia kalá ergaleía prin. / 그건 사실이야. 여태껏 써본적 없는 가장 좋은 도구야.
+v2;90;Periménete ... Échete éna ergaleío Norman? / 잠깐.. 노르만 도구를 가지고 있니?
+v1;120;Err, eícha. Échei kápos chatheí! / 음.. 어디다 놓고 온것 같아.
+v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / 뭐?! 그렇게 중요한 도구를 잃어버렸어?
+v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / 그래.. 이제 기억만 남있어..
+
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / 이제 나의 철퇴를 시험할 수 있어!
+v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / 그래 그건 적을 멀리 쳐낼 수 잇는 멋진 무기야!
+v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / 멋지지 않니? 로마는 세상 그 무엇과도 비교 불가능해.
+v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / 그개 우리가 로마를 자랑스러워 하는 이유중 하나지!
+
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / 나의 아들 $targetfirstname, 나는 너가 기도한걸 보지 못했어!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / 아빠 $targetlastname, 나는 했어요.
 
-newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / 나의 아들 $targetfirstname, 나는 너가 기도한걸 보지 못했어!
 v2;30;Patéras $targetlastname, ego sígoura ékane. / 아빠 $targetlastname, 나는 했어요.
+
+newchat;key:religious3,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / 우리 딸 $targetfirstname. 요즘 별 걱정은 없겠지?
+v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / 전 걱정이 있어요, 여기는 뭔가 다른 게 있는 것 같아요.
+v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ 우리 대부분은 이곳에 뭔가 다른 게 있다고 생각해.
+v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / 그러면 어떻게 하는데요? 여기서의 제 삶은 영원히 다를 거예요.
+v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / 우리가 할 수 있는 것은 신에게 계획이 있길 바라는 것 뿐이야.
+
+newchat;key:religious4,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / 우리 아들 $targetfirstname. 요즘 별 걱정은 없겠지?
+v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / 전 걱정이 있어요, 여기는 뭔가 다른 게 있는 것 같아요.
+v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ 우리 대부분은 이곳에 뭔가 다른 게 있다고 생각해.
+v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / 그러면 어떻게 하는데요? 여기서의 제 삶은 영원히 다를 거예요.
+v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / 우리가 할 수 있는 것은 신에게 계획이 있길 바라는 것 뿐이야.
+
+newchat;key:ticlon,v1:notvtype:pastor_byzantine-metropolit_byzantine,v2:vtype:pastor_byzantine-metropolit_byzantine,weigth:1
+v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ 아버지 $targetlastname, 기도 중 이상한 문자를 봤어요.
+v2;30;Paidí, ti sou édeixe o Theós?/ 신이 뭘 보여 주셨어?
+v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / "Ticlon"이었어요. 뭔지 아세요?
+v2;90;O Theós doulévei me mystiriódi trópo / 신은 신비롭지.
+
+newchat;key:nobakery,building:farm,notbuilding:windmill,v1:adult,v2:adult,weigth:15
+v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / 오, 누가 밀 농장에서 온 신선하고 맛있는 빵을 원하지 않을까.
+v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / 밀을 빵으로 바꾸려면 빵집이 있어야 한다는 것은 알지?
+v1;60;Prépei na me gelás. Tóra tha petháno. / 아닐 거야. 이제 굶주릴 것 같아.
+v2;90;Limoktonó? Símera to proí fágate to proinó mou! Tha eímai o peinasménos. / 굶주려? 넌 내 아침 식사를 먹었어. 내가 굶주리겠지.
+v1;120;To chreiázomai perissótero apó eséna! / 난 너보다 더 필요해!
+v2;150;Den xéro giatí sas miláo! / 내가 왜 너랑 말했을까!
+v1;180;Chreiazómaste éna artopoieío, aftó eínai simantikó. / 하여간, 우리는 빵집이 필요하다고.

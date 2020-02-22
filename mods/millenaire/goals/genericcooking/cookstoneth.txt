@@ -27,3 +27,5 @@ minimumtocook=16
 itemsbalance=cobblestone,stone
 
 helditems=cobblestone
+
+maxsimultaneousinbuilding=1

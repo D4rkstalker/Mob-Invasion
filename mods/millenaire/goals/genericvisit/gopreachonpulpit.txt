@@ -16,3 +16,5 @@ reoccurdelay=600000
 leasure=true
 
 targetposition=crafting
+
+sprint=false

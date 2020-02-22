@@ -2,7 +2,6 @@
 building.length=18
 building.width=25
 building.buildingorientation=0
-building.mindistance=0.5
 building.version=2
 building.icon=wool_white
 

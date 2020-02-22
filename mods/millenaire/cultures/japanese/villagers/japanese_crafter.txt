@@ -19,6 +19,7 @@ goal=makeTimberFramePlainJungle
 goal=makeTimberFramePlainAcacia
 goal=makeTimberFramePlainDarkOak
 goal=makepaperrice
+goal=makebannerrice
 
 requiredGood=rice,16
 requiredGood=paper,8

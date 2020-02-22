@@ -1,12 +1,12 @@
-culture.japanese=Japanisch
 
+culture.japanese=Japanisch
+culture.fullname=Die Japaner
 village.gunji=Militärisches Dorf
 village.japanese_controlled=Kontrolliertes Dorf
 village.japanese_customcontrolled=Selbsterstelltes Kontrolliertes Dorf
 village.nogyo=Landwirtschaftliches Dorf
 village.seiji=Imperiales Dorf
 village.trading=Handelsdorf
-
 villager.japanese_armysmith=Waffenschmied
 villager.japanese_bandit=Japanischer Bandit
 villager.japanese_boy=Junge
@@ -42,7 +42,6 @@ villager.japanese_smith=Schmied
 villager.japanese_teenagerfemale=Jugendliche
 villager.japanese_teenagermale=Jugendlicher
 villager.japanese_womanservant=Dienerin
-
 shop.armyforge=Waffen & Rüstungen
 shop.fishery=Fischerei
 shop.forge=Werkzeuge

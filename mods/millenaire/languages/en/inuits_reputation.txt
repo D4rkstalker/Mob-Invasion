@@ -1,3 +1,5 @@
+//* The part before the ";" is the title, after it the description
+
 0;Stranger;Greetings. Would you like some help surviving in these frigid wastes?
 4*64;Familiarity;Your presence has not gone unnoticed. Stay peaceful and we will do the same.
 8*64;Known Face;We've seen you around here before. Feel free to stay a while and warm up.

@@ -17,6 +17,16 @@
           "condition": "difficulty",
           "min": 0,
           "max": 0.1
+        },
+        {
+          "condition": "game_stages",
+          "game_stages": [ "stage1", "stage2" ],
+          "match_mode": "any_of"
+        },
+        {
+          "condition": "game_stages",
+          "game_stages": [ "stage1", "sub_stage1" ],
+          "match_mode": "all_of"
         }
       ],
       "comment": "//conditions are optional, but should be structured like this above, see json file all_conditions for everything you can use",
@@ -59,8 +69,10 @@
         },
         {
           "comment": "//you can have multiple object entries in the spawns array, this is the second, this is the last comment, everything below is just more examples of the same structures",
+          "comment": "//you can spawn entities with nbt as well, just make sure to escape the quotes correctly",
           "entities": [
-            "minecraft:zombie"
+            "minecraft:zombie",
+            "minecraft:bat{Passengers:[{id:\"tnt\",Fuse:5000}]}"
           ],
           "count": 5,
           "count_max": 15,

@@ -1,11 +1,11 @@
-culture.mayan=Maya
 
+culture.mayan=Maya
+culture.fullname=Die Maya
 village.agriculture=Landwirtschaftliches Dorf
 village.mayan_controlled=Kontrolliertes Dorf
 village.mayan_customcontrolled=Selbsterstelltes Kontrolliertes Dorf
 village.military=Militärisches Dorf
 village.religious=Religöses Dorf
-
 villager.mayan_armysmith=Waffenschmied
 villager.mayan_boy=Junge
 villager.mayan_chickenfarmer=Hühnchenzüchter
@@ -26,10 +26,9 @@ villager.mayan_richwoman=Königin
 villager.mayan_sculptor=Bildhauer
 villager.mayan_shaman=Schamane
 villager.mayan_shamanwife=Frau des Schamanen
-villager.mayan_teenagerFemale=Jugendliche
-villager.mayan_teenagerMale=Jugendlicher
+villager.mayan_teenagerfemale=Jugendliche
+villager.mayan_teenagermale=Jugendlicher
 villager.mayan_warrior=Krieger
-
 villager.lonemayanfarmer=Einsamer Bauer
 villager.lonemayanpeasantwife=Frau des Bauern
 villager.lonemayanshaman=Schamane
@@ -40,14 +39,12 @@ villager.mayanfemalebandit=Banditenmädchen
 villager.merchant_mayanfarmer=Handelnder Bauer
 villager.merchant_mayanhunter=Handelnder Jäger
 villager.merchant_mayanshaman=Handelnder Schamane
-
 villager.questfallenking=Gestürtzter König
 villager.questkingelitewarrior=Elite Krieger
 villager.questkinglieutnant=Leutnant
 villager.questkingscout=Späher
 villager.questkingwarrior=Krieger
 villager.questshaman=Schamane
-
 shop.lonemayanfarm=Farm Produkte
 shop.mayanarmyforge=Waffen & Rüstungen
 shop.mayancocoa=Kakao & Cacauhaa

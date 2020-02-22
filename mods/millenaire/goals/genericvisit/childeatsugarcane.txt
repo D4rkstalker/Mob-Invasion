@@ -16,3 +16,6 @@ allowrandommoves=true
 leasure=true
 
 heldItemsDestination=sugarcane
+
+
+sprint=false

@@ -1,6 +1,8 @@
 qualifierSeparator=-
 knownCrop=rice
 icon=sake
+cultureBanner={BlockEntityTag:{Base:15,Patterns:[{Pattern:jap,Color:11}]}}
+
 
 travelBookVillagerCategory=villager
 travelBookVillagerCategory=lonevillager

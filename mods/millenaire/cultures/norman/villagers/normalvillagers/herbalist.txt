@@ -34,10 +34,16 @@ goal=deliverResourcesShop
 goal=GetHouseTHResources
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
+
 goal=plantnormanflowers
 goal=harvestflowerhome_blue_orchid
 goal=harvestflowerhome_poppy
 goal=harvestflowerhome_dandelion
+
+goal=removeflowerhome_blue_orchid
+goal=removeflowerhome_poppy
+goal=removeflowerhome_dandelion
+
 goal=makebonemeal
 
 startingInv=dye_white,20

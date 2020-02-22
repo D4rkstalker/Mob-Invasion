@@ -1,6 +1,11 @@
 {
   "name": "herma",
-  "class": "com.lycanitesmobs.saltwatermobs.entity.EntityHerma",
+  "creatureType": "arthropod",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityHerma",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelHerma",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,10 +47,10 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#e50403",
   "eggForeColor": "#f1c2a1",
@@ -62,10 +67,19 @@
     }
   ],
   "element": "water",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
   "mountable": false,
+  "perchable": true,
   "summonCost": 4,
   "dungeonLevel": 0,
   "drops": [

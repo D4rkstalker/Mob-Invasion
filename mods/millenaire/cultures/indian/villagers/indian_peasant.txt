@@ -26,17 +26,9 @@ goal=clearoldpath
 goal=dryBrick
 goal=gatherBrick
 goal=cookindianbrick
-goal=tendfurnacetownhall
-goal=plantRice
-goal=harvestRice
-goal=plantTurmeric
-goal=harvestTurmeric
-goal=slaughterChicken
-goal=plantSugarCane
-goal=harvestSugarCane
-goal=breed
-goal=cookchicken
-goal=tendfurnace
+goal=tendfurnacebrickkiln
+goal=gatherfrombrickkiln
+
 
 toolneededclass=hoes
 toolneededclass=shovels
@@ -44,13 +36,13 @@ toolneededclass=pickaxes
 toolneededclass=toolssword
 
 bringBackHomeGood=mudbrick
+bringBackHomeGood=paintedbrickwhite
 bringBackHomeGood=rice
 bringBackHomeGood=turmeric
 bringBackHomeGood=chickenmeat
 bringBackHomeGood=sugarcane
 bringBackHomeGood=chickenmeatcooked
 
-requiredGood=rice,10
 requiredGood=wood,16
 requiredGood=wood_pine,16
 requiredGood=wood_birch,16

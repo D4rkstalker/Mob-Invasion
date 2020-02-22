@@ -1,6 +1,11 @@
 {
   "name": "warg",
-  "class": "com.lycanitesmobs.forestmobs.entity.EntityWarg",
+  "creatureType": "beast",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWarg",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelWarg",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,10 +46,10 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.5,
   "eggBackColor": "#321806",
   "eggForeColor": "#68523b",
@@ -60,7 +65,13 @@
       "type": "uncommon"
     }
   ],
-  "element": "electric",
+  "elements": [
+    "lightning",
+    "fae"
+  ],
+  "diets": [
+    "carnivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

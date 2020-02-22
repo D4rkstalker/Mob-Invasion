@@ -1,7 +1,8 @@
+
+
 newchat;key:rain,tag:notraining,weigth:10
 v1;0;Je sens qu'il va pleuvoir. / 비가 올 것 같군요.
 v2;30;Il pleut toujours en Normandie. / 노르망디는 언제나 비가 오지요...
-
 
 newchat;key:beautifulvillage,weigth:10
 v1;0;Il est beau notre village, tu ne trouve pas? / 우리 마을은 참 아름답요. 안 그런가요?
@@ -22,8 +23,6 @@ v2;30;Il paraît qu'ils sont très bizarres. / 그 사람들이 매우 이상하
 v1;60;J'ai même entendu dire que leur nourriture brûle! / 그들의 음식은 말 그대로 불타!
 v2;100;Comme du calva? / 칼바(Calva: 프랑스의 사과주)처럼?
 v1;120;Non, pire! / 아니, 그것보다도 더해!
-
-
 
 newchat;key:byzantines,v1:adult,v2:adult,weigth:5
 v1;0;Ces byzantins m'énervent! / 저 비잔티움 사람들은 내 신경을 긁어!
@@ -80,7 +79,6 @@ v2;60;Que faudrait-il de plus? / 뭐가 더 필요한데?
 v1;60;Des chevaux? Et des poneys! / 말? 그리고 조랑말도!
 v2;90;Parce que tu veux un poney, maintenant? / 지금 조랑말이 필요해서?
 
-
 newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
 v1;0;Les tripes, ça c'est un plat d'homme. / Tripes(프랑스의 내장 요리), 역시 이건 남자의 요리지.
 v2;30;Préparé par les femmes... / 여자가 준비한...
@@ -126,7 +124,7 @@ v1;0;Les filles, ça ne sert à rien. / 여자애는 쓸모가 없어.
 
 newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
 v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / 너가 사내아이일 지는 모르겠지만, 난 너를 언제든지 울릴 수 있어.
-v2;30;Même pas vrai! Même pas vrai! / 아니거든! 아니거든! 
+v2;30;Même pas vrai! Même pas vrai! / 아니거든! 아니거든!
 
 newchat;key:enderman,v1:adult,v2:child,weigth:10
 v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / 나쁜 아이는 엔더맨이 밤에 잡아갈거야!
@@ -153,7 +151,6 @@ v2;30;Dormez-vous? Dormez-vous? / 지금 자고 있나요, 지금 자고 있나�
 v1;60;Sonnez les matines! Sonnez les matines! / 아침 종을 울려라! 아침 종을 울려라!
 v2;100;Ding, daing, dong. Ding, daing, dong! / 딩,댕,동,딩,댕,동!
 
-
 newchat;key:alouette,v1:child,v2:child,weigth:10
 v1;0;Alouette, gentille alouette, / 작은 종달새, 사랑스러운 종달새,
 v2;0;Alouette, gentille alouette, / 작은 종달새, 사랑스러운 종달새,
@@ -165,7 +162,6 @@ v1;90;Et la tête! Et la tête! / 너의 머리에서!
 v2;90;Et la tête! Et la tête! / 너의 머리에서!
 v1;120;Pauvre alouette quand même... / 하지만 종달새가 불쌍해...
 v2;160;Pourquoi? C'est drôle! / 뭐 어때? 재밌잖아!
-
 
 newchat;key:loupyesttu,v1:child,v2:child,weigth:10
 v1;0;Promenons-nous dans les bois, / 우리 같이 숲 속에 가자,
@@ -182,7 +178,6 @@ v1;150;Il nous mangera pas. / 우리를 잡아먹지 않겠지.
 v2;150;Il nous mangera pas... / 우리를 잡아먹지 않겠지...
 v2;180;Euh, tu es sûr? / 음...확실해?
 v1;200;Lâche! / 겁쟁이!
-
 
 newchat;key:dagobert,v1:child,v2:child,weigth:10
 v1;0;Le bon roi Dagobert / 위대한 왕 다고버트는
@@ -203,7 +198,6 @@ v2;40;Mais mon Père, je n'ai pas péché! / 하지만 아버지, 전 죄를 짓
 v1;70;Tout le monde pèche dans ce bas monde. / 이 몰락한 세계에서는 죄를 짓지 않은 사람이 없단다.
 v2;110;Même vous, mon père? / 아버지도요?
 v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / 무례하구나! 회개하면서 주기도문을 10번 외우거라!
-
 
 newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
 v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / 내 딸아, 너가 마지막으로 고해성사를 한 지 오래 지났구나.
@@ -239,7 +233,6 @@ v1;110;A m'occuper d'abrutis. / 이 바보들을 돌보면서.
 v2;130;Hein, quoi? / 네? 뭐라고요?
 v1;150;*soupir* / 하아...
 
-
 newchat;key:knight,v1:vtype:knight,weigth:10
 v1;0;Regarde mon château! Une vraie forteresse! / 내 성을 봐! 이것이 바로 진정한 요새야!
 v2;30;Vous êtes si puissant, seigneur! / 역시 위대하십니다, 내 주여!
@@ -274,7 +267,7 @@ v1;90;Je rentre du boulot! / 난 직장에서 집으로 출근을 하지.
 v2;110;Et moi j'ai beaucoup à faire. / 그리고 해야 할 일이 엄청나지.
 
 newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
-v2;0;존, 존! 
+v2;0;존, 존!
 v1;30;참 재밌구나, 아이야.
 v2;60;자고 있나요? 자고 있나요?
 v1;90;그만, 그만, 나도 그 노래 알아.
@@ -284,9 +277,9 @@ v1;0;돼지는 머리부터 꼬리까지 다 맛있어!
 v2;30;그래도 돼지 잡을 땐 많이 시끄럽지.
 v1;70;돼지 멱 따는 소리가 클수록 고기는 더 맛있는 법!
 
-// newchat;key:priest,v1:vtype:priest,weigth:10
-// v1;0;난 마을 사람들의 영적인 건강을 돌봐주지요. I minister to the spiritual health of the villagers.
-// v2;30;Et il y a du travail! / And there's ministering to do!
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Je veille sur la santé spirituelle des villageois. / 저는 마을 사람들의 정신적 건강을 위해 최선을 다합니다.
+v2;30;Et il y a du travail! / 그리고 저는 해야할 일이 있어요!
 
 newchat;key:priest2,v1:vtype:priest,weigth:10
 v1;0;Notre village craint Dieu. / 우리 마을은 신을 두려워하죠.
@@ -305,7 +298,7 @@ newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,
 v1;0;Etre berger est un métier très noble. / 양치기가 된다는 것은 고귀한 일이지.
 v2;30;Noble? Berger? / 고귀한? 양치기가?
 v1;50;N'avons nous pas été choisis par Dieu pour recevoir la Bonne Nouvelle? / 우리 양치기들은 그 기쁜 소식을 듣기 위해 신에게 선택받았잖아?
-v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / 아 맞아. 너가 새로 태어난 양들을 돌볼동안 말이지 - 12월에. 
+v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / 아 맞아. 너가 새로 태어난 양들을 돌볼동안 말이지 - 12월에.
 v1;130;Et alors? Peut être qu'à Bethléem il n'y a pas de saisons. Comme ici! / 그래서? 베들레헴은 계절이 없는가보지! 우리처럼 말이야!
 
 newchat;key:smith,v1:vtype:smith,weigth:10
@@ -313,13 +306,11 @@ v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / 진정한 
 v2;40;Et donc leurs forgerons? / 그러면 대장장이에게도?
 v1;60;Voilà! / 당연하지!
 
-
 newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
 v1;0;Pourquoi est-ce toujours les femmes qui construisent? / 왜 맨날 여자가 건축하는거지?
 v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / 그게 싫으면 다음번엔 내가 할게.
 v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / 정말? 고마워! 그러면, 커텐을 붙일 때 잊지 말아야 할 건...
 v2;120;En fait non, je vais te laisser faire. / 사실 아니다. 너가 하는게 나을 것 같네.
-
 
 newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
 v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / 어제 연금술사의 연구소앞에 갔어.
@@ -331,7 +322,7 @@ v1;200;Quelle horreur! / 무서워!
 v2;220;C'était un garçon si charmant pourtant... / 짜식 귀엽긴...
 
 newchat;key:archives,building:archives,weigth:10
-v1;0;Tu as visité les nouvelles archives? / 새 기록 보관소에 가봤어? 
+v1;0;Tu as visité les nouvelles archives? / 새 기록 보관소에 가봤어?
 v1;30;On y voit ce que tout le monde fait! / 누가 뭘 하는지 다 볼 수 있어!
 v2;60;Ah, vraiment... et euh... / 어, 진짜? 그럼... 어...
 v1;90;Oui, j'ai vu ton panneau. / 그래 너의 기록도 봤지.
@@ -346,19 +337,24 @@ v1;0;Notre église est vraiment superbe. / 우리 교회는 정말 웅장해!
 v2;30;Elle montre que nous sommes un village pieux. / 그렇지. 우리 마을이 경건한 마을이라는 것을 보여주지.
 v1;60;Et elle est plus grande que celle du village voisin! / 그리고 옆 마을 교회보다도 크지!
 
-
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / 드디어 주막이 생겼으니 무역이 가능하겠네!
 v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / 다른 말로, 지나가는 상인들이 우리 자원을 마음껏 가져간다는 소리지.
 v1;80;Tu as toujours été cynique. / 넌 항상 부정적이더라.
-
 
 newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;J'adore le marché! Tellement de marchandises superbes! / 난 시장이 참 좋아! 좋은 물건들이 많거든!
 v2;40;On se sent moins isolé maintenant. / 시장이 있으니 이제 덜 고립된 것 같네.
 v2;80;Mais pas plus riches... / 그런데 더 부자가 되진 않았지...
 
-
 newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
 v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / 이 여관은 우리가 마을에 지은 것 중 최고야.
 v2;40;Personne ici ne dira le contraire! / 물론! 아무도 이의를 제기할 수 없지!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / 하하하! 우리는 막을 수 없어요. 우리의 인상적인 배와 명예로운 기사들은 전 세계가 두려워하죠!
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / 우리의 적은 누구일까요? 로마의 사기꾼들과 마야의 돌 애호가들인가요?
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / 돈에 대한 개념조차 없는 눈바보들을 잊지 마세요!
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / 하하하! 노르만의 삶은 세계 최고입니다! 멋진 사이다, 최고의 도구들... 아, 지금은 우리의 황금기입니다.
+v1;160;Et nous arrivons à le partager! / 그리고 우리는 그걸 나눌 수 있습니다!
+v2;200;Hahaha! / 하하하!

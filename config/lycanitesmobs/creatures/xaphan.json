@@ -1,6 +1,11 @@
 {
   "name": "xaphan",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityXaphan",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityXaphan",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelXaphan",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,10 +37,10 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#00af06",
   "eggForeColor": "#00f608",
@@ -78,10 +83,10 @@
       "chance": 0.25
     },
     {
-      "item": "elementalmobs:acidsplashcharge",
+      "item": "lycanitesmobs:acidsplashcharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

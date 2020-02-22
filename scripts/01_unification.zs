@@ -8,6 +8,10 @@ val crudeOil = <ore:crude_oil>;
 crudeOil.add(<thermalfoundation:fluid_crude_oil>);
 crudeOil.add(<immersivepetroleum:fluid_crude_oil>);
 
+#chocolate 
+<ore:ingotChocolate>.addAll(<ore:foodChocolatebar>);
+<ore:foodChocolatebar>.mirror(<ore:ingotChocolate>); 
+
 #unidict remove gear recipes
 mods.unidict.removalByKind.get("Crafting").remove("gear");
 

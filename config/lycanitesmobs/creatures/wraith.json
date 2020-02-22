@@ -1,6 +1,11 @@
 {
   "name": "wraith",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityWraith",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWraith",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelWraith",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +41,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0,

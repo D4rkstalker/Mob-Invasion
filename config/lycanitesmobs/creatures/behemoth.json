@@ -1,6 +1,11 @@
 {
   "name": "behemoth",
-  "class": "com.lycanitesmobs.demonmobs.entity.EntityBehemoth",
+  "creatureType": "demon",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBehemoth",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelBehemoth",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,11 +45,11 @@
   "speed": 24,
   "damage": 2,
   "attackSpeed": 1,
-  "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "rangedSpeed": 0.75,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#FF2222",
   "eggForeColor": "#FF9900",
@@ -61,11 +66,16 @@
     }
   ],
   "element": "void",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
   "mountable": false,
-  "summonCost": 6,
+  "summonCost": 4,
   "dungeonLevel": 2,
   "drops": [
     {
@@ -76,7 +86,7 @@
       "chance": 0.25
     },
     {
-      "item": "demonmobs:hellfirecharge",
+      "item": "lycanitesmobs:hellfirecharge",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

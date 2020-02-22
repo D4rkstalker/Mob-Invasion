@@ -1,6 +1,11 @@
 {
   "name": "treant",
-  "class": "com.lycanitesmobs.forestmobs.entity.EntityTreant",
+  "creatureType": "plant",
+  "groups": [
+    "nature"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTreant",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelTreant",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,8 +22,7 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "forest",
-      "-mountain"
+      "forest"
     ],
     "spawnWeight": 2,
     "dungeonWeight": 0,
@@ -41,10 +45,10 @@
   "damage": 4,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 2,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#663300",
   "eggForeColor": "#00AA11",
@@ -61,8 +65,10 @@
     }
   ],
   "elements": [
-    "arbour",
-    "electric"
+    "arbour"
+  ],
+  "diets": [
+    "frugivore"
   ],
   "peaceful": false,
   "summonable": false,

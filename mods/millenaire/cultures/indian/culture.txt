@@ -1,7 +1,11 @@
-qualifierSeparator= 
+qualifierSeparator=_
 knownCrop=rice
 knownCrop=turmeric
+knownCrop=cotton
 icon=rasgulla
+cultureBanner={BlockEntityTag:{Base:11,Patterns:[{Pattern:ind,Color:1}]}}
+
+panelTexture=millenaire:textures/entity/panels/indian.png
 
 travelBookVillagerCategory=villager
 travelBookVillagerCategory=lonevillager
@@ -13,6 +17,7 @@ travelBookBuildingCategory=house
 travelBookBuildingCategory=othervillage
 travelBookBuildingCategory=lonebuilding
 travelBookBuildingCategory=playerbuilding
+travelBookBuildingCategory=wall
 
 travelbookTradeGoodCategory=construction
 travelbookTradeGoodCategory=agriculture
@@ -29,9 +34,10 @@ travelBookCategoryIcon=lonevillager,sapling_acacia
 
 travelBookCategoryIcon=townhall,sandstone
 travelBookCategoryIcon=house,mudbrick
-travelBookCategoryIcon=othervillage,cookedbrick
+travelBookCategoryIcon=othervillage,paintedbrickwhite
 travelBookCategoryIcon=lonebuilding,wood_acacia
 travelBookCategoryIcon=playerbuilding,cake
+travelBookCategoryIcon=wall,cobblestone_wall
 
 travelBookCategoryIcon=construction,mudbrick
 travelBookCategoryIcon=agriculture,rice

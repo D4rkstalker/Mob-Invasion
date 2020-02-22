@@ -1,6 +1,11 @@
 {
   "name": "zephyr",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityZephyr",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityZephyr",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelZephyr",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,10 +37,10 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#FFFFDD",
   "eggForeColor": "#AABBFF",
@@ -51,7 +56,7 @@
       "type": "uncommon"
     }
   ],
-  "element": "electric",
+  "element": "lightning",
   "peaceful": false,
   "summonable": false,
   "tameable": false,

@@ -1,6 +1,11 @@
 {
   "name": "dweller",
-  "class": "com.lycanitesmobs.swampmobs.entity.EntityDweller",
+  "creatureType": "aquatic",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityDweller",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelDweller",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,7 +22,8 @@
     "ignoreBiome": false,
     "biomes": [
       "swamp",
-      "spooky"
+      "spooky",
+      "jungle"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,
@@ -40,10 +46,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#009922",
   "eggForeColor": "#994499",
@@ -60,6 +66,10 @@
     }
   ],
   "element": "arbour",
+  "diets": [
+    "carnivore",
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
@@ -84,7 +94,7 @@
       "chance": 0.5
     },
     {
-      "item": "swampmobs:poisongland",
+      "item": "lycanitesmobs:poisongland",
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 1

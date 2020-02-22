@@ -33,9 +33,11 @@ lockedchestBottom;;0;;135/30/2;anywood;;8
 lockedchestLeft;;0;;135/30/3;anywood;;8
 lockedchestRight;;0;;135/30/4;anywood;;8
 
-//regular Minecraft chest. Auto-converted to locked chest on load.
-//kept for backward compatibility only.
-chest;minecraft:chest;0;false;128/32/0;anywood;;8
+//regular Minecraft chest, for player houses
+chestTop;minecraft:chest;facing=east;false;128/32/0;anywood;;8
+chestBottom;minecraft:chest;facing=west;false;128/33/0;anywood;;8
+chestLeft;minecraft:chest;facing=north;false;128/34/0;anywood;;8
+chestRight;minecraft:chest;facing=south;false;128/35/0;anywood;;8
 
 //soils for use in farms
 soil;;0;;64/128/0;;;0
@@ -49,6 +51,7 @@ maizesoil;;0;;64/128/40;;;0
 cacaospot;;0;;58/23/9;;;0
 carrotsoil;;0;;64/128/50;;;0
 flowersoil;;0;;64/128/55;;;0
+cottonsoil;;0;;64/128/60;;;0
 
 
 
@@ -66,7 +69,6 @@ furnaceGuess;;0;;25/25/25;cobblestone;;8
 stonesource;;0;;180/20/20;;;0
 sandsource;;0;;200/20/20;;;0
 sandstonesource;;0;;150/20/20;;;0
-freesandstone;;0;;201/206/86;;;0
 claysource;;0;;102/204/205;;;0
 gravelsource;;0;;60/60/60;;;0
 
@@ -86,6 +88,10 @@ freestone;;0;;155/155/155;;;0
 freesand;;0;;240/240/140;;;0
 freegravel;;0;;70/70/70;;;0
 freewool;;0;;241/241/241;;;0
+freesandstone;;0;;201/206/86;;;0
+freecobblestone;;0;;155/155/160;;;0
+freestonebrick;;0;;170/170/175;;;0
+freepaintedbrick;;0;;170/170/180;;;0
 
 //market stall
 stall;;0;;150/150/0;;;0
@@ -108,6 +114,7 @@ junglespawn;;0;;40/51/62;;;0
 acaciaspawn;;0;;255/5/220;;;0
 darkoakspawn;;0;;120/5/5;;;0
 appletreespawn;;0;;125/5/5;;;0
+olivetreespawn;;0;;130/5/5;;;0
 
 brickspot;;0;;135/0/0;;;0
 
@@ -133,6 +140,7 @@ byzantineiconlarge;;0;;232/203/120;millenaire:byzantineiconlarge;;1
 mayanstatue;;0;;179/154/118;millenaire:mayanstatue;;1
 
 silkwormblock;;0;;15/12/13;anywood;;4
+snailsoilblock;;0;;15/12/20;;;0
 fishingspot;;0;;0/0/120;;;0
 
 //simple tags:
@@ -193,6 +201,61 @@ sandstonesmooth;minecraft:sandstone;2;false;185/188/61;minecraft:sandstone;;1
 redsandstone;minecraft:red_sandstone;0;false;250/188/41
 redsandstonechiseled;minecraft:red_sandstone;1;false;250/188/51;minecraft:red_sandstone;;1
 redsandstonesmooth;minecraft:red_sandstone;2;false;250/188/61;minecraft:red_sandstone;;1
+
+
+sandstoneCarved;millenaire:sandstone_carved;0;false;185/188/55
+redsandstoneCarved;millenaire:sandstone_red_carved;0;false;250/188/55
+ochresandstoneCarved;millenaire:sandstone_ochre_carved;0;false;200/188/55
+
+
+
+
+
+stairsSandstoneCarvedTop;millenaire:stairs_sandstone_carved;facing=west,half=bottom;false;185/188/137;millenaire:sandstone_carved;;1
+stairsSandstoneCarvedBottom;millenaire:stairs_sandstone_carved;facing=east,half=bottom;false;185/188/138;millenaire:sandstone_carved;;1
+stairsSandstoneCarvedLeft;millenaire:stairs_sandstone_carved;facing=south,half=bottom;false;185/188/139;millenaire:sandstone_carved;;1
+stairsSandstoneCarvedRight;millenaire:stairs_sandstone_carved;facing=north,half=bottom;false;185/188/140;millenaire:sandstone_carved;;1
+stairsSandstoneCarvedInvTop;millenaire:stairs_sandstone_carved;facing=west,half=top;false;185/188/141;millenaire:sandstone_carved;;1
+stairsSandstoneCarvedInvBottom;millenaire:stairs_sandstone_carved;facing=east,half=top;false;185/188/142;millenaire:sandstone_carved;;1
+stairsSandstoneCarvedInvLeft;millenaire:stairs_sandstone_carved;facing=south,half=top;false;185/188/143;millenaire:sandstone_carved;;1
+stairsSandstoneCarvedInvRight;millenaire:stairs_sandstone_carved;facing=north,half=top;false;185/188/144;millenaire:sandstone_carved;;1
+
+slabSandstoneCarved;millenaire:slab_sandstone_carved;half=bottom;false;185/188/207;millenaire:sandstone_carved;;1
+slabSandstoneCarved;millenaire:slab_sandstone_carved;half=top;false;185/188/208;millenaire:sandstone_carved;;1
+
+wallSandstoneCarved;millenaire:wall_sandstone_carved;0;false;185/188/209;millenaire:sandstone_carved;;1
+
+
+stairsSandstoneRedCarvedTop;millenaire:stairs_sandstone_red_carved;facing=west,half=bottom;false;192/188/137;millenaire:sandstone_red_carved;;1
+stairsSandstoneRedCarvedBottom;millenaire:stairs_sandstone_red_carved;facing=east,half=bottom;false;192/188/138;millenaire:sandstone_red_carved;;1
+stairsSandstoneRedCarvedLeft;millenaire:stairs_sandstone_red_carved;facing=south,half=bottom;false;192/188/139;millenaire:sandstone_red_carved;;1
+stairsSandstoneRedCarvedRight;millenaire:stairs_sandstone_red_carved;facing=north,half=bottom;false;192/188/140;millenaire:sandstone_red_carved;;1
+stairsSandstoneRedCarvedInvTop;millenaire:stairs_sandstone_red_carved;facing=west,half=top;false;192/188/141;millenaire:sandstone_red_carved;;1
+stairsSandstoneRedCarvedInvBottom;millenaire:stairs_sandstone_red_carved;facing=east,half=top;false;192/188/142;millenaire:sandstone_red_carved;;1
+stairsSandstoneRedCarvedInvLeft;millenaire:stairs_sandstone_red_carved;facing=south,half=top;false;192/188/143;millenaire:sandstone_red_carved;;1
+stairsSandstoneRedCarvedInvRight;millenaire:stairs_sandstone_red_carved;facing=north,half=top;false;192/188/144;millenaire:sandstone_red_carved;;1
+
+slabSandstoneRedCarved;millenaire:slab_sandstone_red_carved;half=bottom;false;192/188/207;millenaire:sandstone_red_carved;;1
+slabSandstoneRedCarved;millenaire:slab_sandstone_red_carved;half=top;false;192/188/208;millenaire:sandstone_red_carved;;1
+
+wallSandstoneRedCarved;millenaire:wall_sandstone_red_carved;0;false;192/188/209;millenaire:sandstone_red_carved;;1
+
+
+
+stairsSandstoneOchreCarvedTop;millenaire:stairs_sandstone_ochre_carved;facing=west,half=bottom;false;195/188/137;millenaire:sandstone_ochre_carved;;1
+stairsSandstoneOchreCarvedBottom;millenaire:stairs_sandstone_ochre_carved;facing=east,half=bottom;false;195/188/138;millenaire:sandstone_ochre_carved;;1
+stairsSandstoneOchreCarvedLeft;millenaire:stairs_sandstone_ochre_carved;facing=south,half=bottom;false;195/188/139;millenaire:sandstone_ochre_carved;;1
+stairsSandstoneOchreCarvedRight;millenaire:stairs_sandstone_ochre_carved;facing=north,half=bottom;false;195/188/140;millenaire:sandstone_ochre_carved;;1
+stairsSandstoneOchreCarvedInvTop;millenaire:stairs_sandstone_ochre_carved;facing=west,half=top;false;195/188/141;millenaire:sandstone_ochre_carved;;1
+stairsSandstoneOchreCarvedInvBottom;millenaire:stairs_sandstone_ochre_carved;facing=east,half=top;false;195/188/142;millenaire:sandstone_ochre_carved;;1
+stairsSandstoneOchreCarvedInvLeft;millenaire:stairs_sandstone_ochre_carved;facing=south,half=top;false;195/188/143;millenaire:sandstone_ochre_carved;;1
+stairsSandstoneOchreCarvedInvRight;millenaire:stairs_sandstone_ochre_carved;facing=north,half=top;false;195/188/144;millenaire:sandstone_ochre_carved;;1
+
+slabSandstoneOchreCarved;millenaire:slab_sandstone_ochre_carved;half=bottom;false;195/188/207;millenaire:sandstone_ochre_carved;;1
+slabSandstoneOchreCarved;millenaire:slab_sandstone_ochre_carved;half=top;false;195/188/208;millenaire:sandstone_ochre_carved;;1
+
+wallSandstoneOchreCarved;millenaire:wall_sandstone_ochre_carved;0;false;195/188/209;millenaire:sandstone_ochre_carved;;1
+
 
 yellowflower;minecraft:yellow_flower;0;false;255/255/65;;;0
 redflower;minecraft:red_flower;0;false;255/50/50;;;0
@@ -268,6 +331,7 @@ mossycobblestone;minecraft:mossy_cobblestone;0;false;128/128/0
 obsidian;minecraft:obsidian;0;false;16/0/64
 workbench;minecraft:crafting_table;0;false;167/133/99;anywood;;4
 diamondblock;minecraft:diamond_block;0;false;102/255/255
+emeraldblock;minecraft:emerald_block;0;false;103/255/255
 goldblock;minecraft:gold_block;0;false;255/213/0;minecraft:gold_ingot;;9
 clayblock;minecraft:clay;0;false;88/66/94;;;0
 pumpkin;minecraft:pumpkin;0;false;255/128/0
@@ -291,7 +355,271 @@ black wool;minecraft:wool;15;false;31/27/27;minecraft:wool;;1
 colombages plain;millenaire:wood_deco;0;false;55/32/10
 colombages cross;millenaire:wood_deco;1;false;36/21/6
 mud brick;millenaire:stone_deco;0;false;166/156/136
-cooked brick;millenaire:stone_deco;1;false;219/216/207
+
+mud brick wall;millenaire:wall_mud_brick;0;false;168/156/136;millenaire:stone_deco;;1
+ 
+brick white;millenaire:painted_brick_white;0;false;219/216/207;millenaire:painted_brick_white;;1
+brick orange;millenaire:painted_brick_orange;0;false;219/216/208;millenaire:painted_brick_white;;1
+brick magenta;millenaire:painted_brick_magenta;0;false;219/216/209;millenaire:painted_brick_white;;1
+brick light blue;millenaire:painted_brick_light_blue;0;false;219/216/210;millenaire:painted_brick_white;;1
+brick yellow;millenaire:painted_brick_yellow;0;false;219/216/211;millenaire:painted_brick_white;;1
+brick lime;millenaire:painted_brick_lime;0;false;219/216/212;millenaire:painted_brick_white;;1
+brick pink;millenaire:painted_brick_pink;0;false;219/216/213;millenaire:painted_brick_white;;1
+brick gray;millenaire:painted_brick_gray;0;false;219/216/214;millenaire:painted_brick_white;;1
+brick silver;millenaire:painted_brick_silver;0;false;219/216/215;millenaire:painted_brick_white;;1
+brick cyan;millenaire:painted_brick_cyan;0;false;219/216/216;millenaire:painted_brick_white;;1
+brick purple;millenaire:painted_brick_purple;0;false;219/216/217;millenaire:painted_brick_white;;1
+brick blue;millenaire:painted_brick_blue;0;false;219/216/218;millenaire:painted_brick_white;;1
+brick brown;millenaire:painted_brick_brown;0;false;219/216/219;millenaire:painted_brick_white;;1
+brick green;millenaire:painted_brick_green;0;false;219/216/220;millenaire:painted_brick_white;;1
+brick red;millenaire:painted_brick_red;0;false;219/216/221;millenaire:painted_brick_white;;1
+brick black;millenaire:painted_brick_black;0;false;219/216/222;millenaire:painted_brick_white;;1
+
+brick decorated white;millenaire:painted_brick_decorated_white;0;false;100/111/207;millenaire:painted_brick_decorated_white;;1
+brick decorated orange;millenaire:painted_brick_decorated_orange;0;false;100/111/208;millenaire:painted_brick_decorated_white;;1
+brick decorated magenta;millenaire:painted_brick_decorated_magenta;0;false;100/111/209;millenaire:painted_brick_decorated_white;;1
+brick decorated light blue;millenaire:painted_brick_decorated_light_blue;0;false;100/111/210;millenaire:painted_brick_decorated_white;;1
+brick decorated yellow;millenaire:painted_brick_decorated_yellow;0;false;100/111/211;millenaire:painted_brick_decorated_white;;1
+brick decorated lime;millenaire:painted_brick_decorated_lime;0;false;100/111/212;millenaire:painted_brick_decorated_white;;1
+brick decorated pink;millenaire:painted_brick_decorated_pink;0;false;100/111/213;millenaire:painted_brick_decorated_white;;1
+brick decorated gray;millenaire:painted_brick_decorated_gray;0;false;100/111/214;millenaire:painted_brick_decorated_white;;1
+brick decorated silver;millenaire:painted_brick_decorated_silver;0;false;100/111/215;millenaire:painted_brick_decorated_white;;1
+brick decorated cyan;millenaire:painted_brick_decorated_cyan;0;false;100/111/216;millenaire:painted_brick_decorated_white;;1
+brick decorated purple;millenaire:painted_brick_decorated_purple;0;false;100/111/217;millenaire:painted_brick_decorated_white;;1
+brick decorated blue;millenaire:painted_brick_decorated_blue;0;false;100/111/218;millenaire:painted_brick_decorated_white;;1
+brick decorated brown;millenaire:painted_brick_decorated_brown;0;false;100/111/219;millenaire:painted_brick_decorated_white;;1
+brick decorated green;millenaire:painted_brick_decorated_green;0;false;100/111/220;millenaire:painted_brick_decorated_white;;1
+brick decorated red;millenaire:painted_brick_decorated_red;0;false;100/111/221;millenaire:painted_brick_decorated_white;;1
+brick decorated black;millenaire:painted_brick_decorated_black;0;false;100/111/222;millenaire:painted_brick_decorated_white;;1
+
+
+
+stairsPaintedBrickWhiteTop;millenaire:stairs_painted_brick_white;facing=west,half=bottom;false;219/216/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickWhiteBottom;millenaire:stairs_painted_brick_white;facing=east,half=bottom;false;219/216/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickWhiteLeft;millenaire:stairs_painted_brick_white;facing=south,half=bottom;false;219/216/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickWhiteRight;millenaire:stairs_painted_brick_white;facing=north,half=bottom;false;219/216/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickWhiteInvTop;millenaire:stairs_painted_brick_white;facing=west,half=top;false;219/216/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickWhiteInvBottom;millenaire:stairs_painted_brick_white;facing=east,half=top;false;219/216/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickWhiteInvLeft;millenaire:stairs_painted_brick_white;facing=south,half=top;false;219/216/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickWhiteInvRight;millenaire:stairs_painted_brick_white;facing=north,half=top;false;219/216/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickBlackTop;millenaire:stairs_painted_brick_black;facing=west,half=bottom;false;219/217/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlackBottom;millenaire:stairs_painted_brick_black;facing=east,half=bottom;false;219/217/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlackLeft;millenaire:stairs_painted_brick_black;facing=south,half=bottom;false;219/217/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlackRight;millenaire:stairs_painted_brick_black;facing=north,half=bottom;false;219/217/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlackInvTop;millenaire:stairs_painted_brick_black;facing=west,half=top;false;219/217/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlackInvBottom;millenaire:stairs_painted_brick_black;facing=east,half=top;false;219/217/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlackInvLeft;millenaire:stairs_painted_brick_black;facing=south,half=top;false;219/217/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlackInvRight;millenaire:stairs_painted_brick_black;facing=north,half=top;false;219/217/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickBlueTop;millenaire:stairs_painted_brick_blue;facing=west,half=bottom;false;219/218/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlueBottom;millenaire:stairs_painted_brick_blue;facing=east,half=bottom;false;219/218/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlueLeft;millenaire:stairs_painted_brick_blue;facing=south,half=bottom;false;219/218/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlueRight;millenaire:stairs_painted_brick_blue;facing=north,half=bottom;false;219/218/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlueInvTop;millenaire:stairs_painted_brick_blue;facing=west,half=top;false;219/218/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlueInvBottom;millenaire:stairs_painted_brick_blue;facing=east,half=top;false;219/218/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlueInvLeft;millenaire:stairs_painted_brick_blue;facing=south,half=top;false;219/218/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickBlueInvRight;millenaire:stairs_painted_brick_blue;facing=north,half=top;false;219/218/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickBrownTop;millenaire:stairs_painted_brick_brown;facing=west,half=bottom;false;219/219/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickBrownBottom;millenaire:stairs_painted_brick_brown;facing=east,half=bottom;false;219/219/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickBrownLeft;millenaire:stairs_painted_brick_brown;facing=south,half=bottom;false;219/219/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickBrownRight;millenaire:stairs_painted_brick_brown;facing=north,half=bottom;false;219/219/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickBrownInvTop;millenaire:stairs_painted_brick_brown;facing=west,half=top;false;219/219/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickBrownInvBottom;millenaire:stairs_painted_brick_brown;facing=east,half=top;false;219/219/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickBrownInvLeft;millenaire:stairs_painted_brick_brown;facing=south,half=top;false;219/219/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickBrownInvRight;millenaire:stairs_painted_brick_brown;facing=north,half=top;false;219/219/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickCyanTop;millenaire:stairs_painted_brick_cyan;facing=west,half=bottom;false;219/220/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickCyanBottom;millenaire:stairs_painted_brick_cyan;facing=east,half=bottom;false;219/220/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickCyanLeft;millenaire:stairs_painted_brick_cyan;facing=south,half=bottom;false;219/220/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickCyanRight;millenaire:stairs_painted_brick_cyan;facing=north,half=bottom;false;219/220/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickCyanInvTop;millenaire:stairs_painted_brick_cyan;facing=west,half=top;false;219/220/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickCyanInvBottom;millenaire:stairs_painted_brick_cyan;facing=east,half=top;false;219/220/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickCyanInvLeft;millenaire:stairs_painted_brick_cyan;facing=south,half=top;false;219/220/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickCyanInvRight;millenaire:stairs_painted_brick_cyan;facing=north,half=top;false;219/220/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickGrayTop;millenaire:stairs_painted_brick_gray;facing=west,half=bottom;false;219/221/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickGrayBottom;millenaire:stairs_painted_brick_gray;facing=east,half=bottom;false;219/221/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickGrayLeft;millenaire:stairs_painted_brick_gray;facing=south,half=bottom;false;219/221/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickGrayRight;millenaire:stairs_painted_brick_gray;facing=north,half=bottom;false;219/221/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickGrayInvTop;millenaire:stairs_painted_brick_gray;facing=west,half=top;false;219/221/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickGrayInvBottom;millenaire:stairs_painted_brick_gray;facing=east,half=top;false;219/221/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickGrayInvLeft;millenaire:stairs_painted_brick_gray;facing=south,half=top;false;219/221/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickGrayInvRight;millenaire:stairs_painted_brick_gray;facing=north,half=top;false;219/221/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickGreenTop;millenaire:stairs_painted_brick_green;facing=west,half=bottom;false;219/222/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickGreenBottom;millenaire:stairs_painted_brick_green;facing=east,half=bottom;false;219/222/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickGreenLeft;millenaire:stairs_painted_brick_green;facing=south,half=bottom;false;219/222/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickGreenRight;millenaire:stairs_painted_brick_green;facing=north,half=bottom;false;219/222/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickGreenInvTop;millenaire:stairs_painted_brick_green;facing=west,half=top;false;219/222/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickGreenInvBottom;millenaire:stairs_painted_brick_green;facing=east,half=top;false;219/222/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickGreenInvLeft;millenaire:stairs_painted_brick_green;facing=south,half=top;false;219/222/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickGreenInvRight;millenaire:stairs_painted_brick_green;facing=north,half=top;false;219/222/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickLightBlueTop;millenaire:stairs_painted_brick_light_blue;facing=west,half=bottom;false;219/223/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickLightBlueBottom;millenaire:stairs_painted_brick_light_blue;facing=east,half=bottom;false;219/223/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickLightBlueLeft;millenaire:stairs_painted_brick_light_blue;facing=south,half=bottom;false;219/223/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickLightBlueRight;millenaire:stairs_painted_brick_light_blue;facing=north,half=bottom;false;219/223/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickLightBlueInvTop;millenaire:stairs_painted_brick_light_blue;facing=west,half=top;false;219/223/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickLightBlueInvBottom;millenaire:stairs_painted_brick_light_blue;facing=east,half=top;false;219/223/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickLightBlueInvLeft;millenaire:stairs_painted_brick_light_blue;facing=south,half=top;false;219/223/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickLightBlueInvRight;millenaire:stairs_painted_brick_light_blue;facing=north,half=top;false;219/223/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickLimeTop;millenaire:stairs_painted_brick_lime;facing=west,half=bottom;false;219/224/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickLimeBottom;millenaire:stairs_painted_brick_lime;facing=east,half=bottom;false;219/224/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickLimeLeft;millenaire:stairs_painted_brick_lime;facing=south,half=bottom;false;219/224/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickLimeRight;millenaire:stairs_painted_brick_lime;facing=north,half=bottom;false;219/224/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickLimeInvTop;millenaire:stairs_painted_brick_lime;facing=west,half=top;false;219/224/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickLimeInvBottom;millenaire:stairs_painted_brick_lime;facing=east,half=top;false;219/224/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickLimeInvLeft;millenaire:stairs_painted_brick_lime;facing=south,half=top;false;219/224/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickLimeInvRight;millenaire:stairs_painted_brick_lime;facing=north,half=top;false;219/224/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickMagentaTop;millenaire:stairs_painted_brick_magenta;facing=west,half=bottom;false;219/225/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickMagentaBottom;millenaire:stairs_painted_brick_magenta;facing=east,half=bottom;false;219/225/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickMagentaLeft;millenaire:stairs_painted_brick_magenta;facing=south,half=bottom;false;219/225/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickMagentaRight;millenaire:stairs_painted_brick_magenta;facing=north,half=bottom;false;219/225/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickMagentaInvTop;millenaire:stairs_painted_brick_magenta;facing=west,half=top;false;219/225/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickMagentaInvBottom;millenaire:stairs_painted_brick_magenta;facing=east,half=top;false;219/225/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickMagentaInvLeft;millenaire:stairs_painted_brick_magenta;facing=south,half=top;false;219/225/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickMagentaInvRight;millenaire:stairs_painted_brick_magenta;facing=north,half=top;false;219/225/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickOrangeTop;millenaire:stairs_painted_brick_orange;facing=west,half=bottom;false;219/226/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickOrangeBottom;millenaire:stairs_painted_brick_orange;facing=east,half=bottom;false;219/226/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickOrangeLeft;millenaire:stairs_painted_brick_orange;facing=south,half=bottom;false;219/226/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickOrangeRight;millenaire:stairs_painted_brick_orange;facing=north,half=bottom;false;219/226/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickOrangeInvTop;millenaire:stairs_painted_brick_orange;facing=west,half=top;false;219/226/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickOrangeInvBottom;millenaire:stairs_painted_brick_orange;facing=east,half=top;false;219/226/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickOrangeInvLeft;millenaire:stairs_painted_brick_orange;facing=south,half=top;false;219/226/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickOrangeInvRight;millenaire:stairs_painted_brick_orange;facing=north,half=top;false;219/226/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickPinkTop;millenaire:stairs_painted_brick_pink;facing=west,half=bottom;false;219/227/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickPinkBottom;millenaire:stairs_painted_brick_pink;facing=east,half=bottom;false;219/227/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickPinkLeft;millenaire:stairs_painted_brick_pink;facing=south,half=bottom;false;219/227/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickPinkRight;millenaire:stairs_painted_brick_pink;facing=north,half=bottom;false;219/227/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickPinkInvTop;millenaire:stairs_painted_brick_pink;facing=west,half=top;false;219/227/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickPinkInvBottom;millenaire:stairs_painted_brick_pink;facing=east,half=top;false;219/227/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickPinkInvLeft;millenaire:stairs_painted_brick_pink;facing=south,half=top;false;219/227/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickPinkInvRight;millenaire:stairs_painted_brick_pink;facing=north,half=top;false;219/227/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickPurpleTop;millenaire:stairs_painted_brick_purple;facing=west,half=bottom;false;219/228/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickPurpleBottom;millenaire:stairs_painted_brick_purple;facing=east,half=bottom;false;219/228/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickPurpleLeft;millenaire:stairs_painted_brick_purple;facing=south,half=bottom;false;219/228/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickPurpleRight;millenaire:stairs_painted_brick_purple;facing=north,half=bottom;false;219/228/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickPurpleInvTop;millenaire:stairs_painted_brick_purple;facing=west,half=top;false;219/228/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickPurpleInvBottom;millenaire:stairs_painted_brick_purple;facing=east,half=top;false;219/228/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickPurpleInvLeft;millenaire:stairs_painted_brick_purple;facing=south,half=top;false;219/228/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickPurpleInvRight;millenaire:stairs_painted_brick_purple;facing=north,half=top;false;219/228/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickRedTop;millenaire:stairs_painted_brick_red;facing=west,half=bottom;false;219/229/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickRedBottom;millenaire:stairs_painted_brick_red;facing=east,half=bottom;false;219/229/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickRedLeft;millenaire:stairs_painted_brick_red;facing=south,half=bottom;false;219/229/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickRedRight;millenaire:stairs_painted_brick_red;facing=north,half=bottom;false;219/229/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickRedInvTop;millenaire:stairs_painted_brick_red;facing=west,half=top;false;219/229/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickRedInvBottom;millenaire:stairs_painted_brick_red;facing=east,half=top;false;219/229/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickRedInvLeft;millenaire:stairs_painted_brick_red;facing=south,half=top;false;219/229/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickRedInvRight;millenaire:stairs_painted_brick_red;facing=north,half=top;false;219/229/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickSilverTop;millenaire:stairs_painted_brick_silver;facing=west,half=bottom;false;219/230/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickSilverBottom;millenaire:stairs_painted_brick_silver;facing=east,half=bottom;false;219/230/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickSilverLeft;millenaire:stairs_painted_brick_silver;facing=south,half=bottom;false;219/230/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickSilverRight;millenaire:stairs_painted_brick_silver;facing=north,half=bottom;false;219/230/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickSilverInvTop;millenaire:stairs_painted_brick_silver;facing=west,half=top;false;219/230/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickSilverInvBottom;millenaire:stairs_painted_brick_silver;facing=east,half=top;false;219/230/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickSilverInvLeft;millenaire:stairs_painted_brick_silver;facing=south,half=top;false;219/230/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickSilverInvRight;millenaire:stairs_painted_brick_silver;facing=north,half=top;false;219/230/144;millenaire:painted_brick_white;;1
+
+
+stairsPaintedBrickYellowTop;millenaire:stairs_painted_brick_yellow;facing=west,half=bottom;false;219/231/137;millenaire:painted_brick_white;;1
+stairsPaintedBrickYellowBottom;millenaire:stairs_painted_brick_yellow;facing=east,half=bottom;false;219/231/138;millenaire:painted_brick_white;;1
+stairsPaintedBrickYellowLeft;millenaire:stairs_painted_brick_yellow;facing=south,half=bottom;false;219/231/139;millenaire:painted_brick_white;;1
+stairsPaintedBrickYellowRight;millenaire:stairs_painted_brick_yellow;facing=north,half=bottom;false;219/231/140;millenaire:painted_brick_white;;1
+stairsPaintedBrickYellowInvTop;millenaire:stairs_painted_brick_yellow;facing=west,half=top;false;219/231/141;millenaire:painted_brick_white;;1
+stairsPaintedBrickYellowInvBottom;millenaire:stairs_painted_brick_yellow;facing=east,half=top;false;219/231/142;millenaire:painted_brick_white;;1
+stairsPaintedBrickYellowInvLeft;millenaire:stairs_painted_brick_yellow;facing=south,half=top;false;219/231/143;millenaire:painted_brick_white;;1
+stairsPaintedBrickYellowInvRight;millenaire:stairs_painted_brick_yellow;facing=north,half=top;false;219/231/144;millenaire:painted_brick_white;;1
+
+
+slab painted brick bottom white;millenaire:slab_painted_brick_white;half=bottom;false;222/216/207;millenaire:painted_brick_white;;1
+slab painted brick bottom orange;millenaire:slab_painted_brick_orange;half=bottom;false;222/216/208;millenaire:painted_brick_white;;1
+slab painted brick bottom magenta;millenaire:slab_painted_brick_magenta;half=bottom;false;222/216/209;millenaire:painted_brick_white;;1
+slab painted brick bottom light blue;millenaire:slab_painted_brick_light_blue;half=bottom;false;222/216/210;millenaire:painted_brick_white;;1
+slab painted brick bottom yellow;millenaire:slab_painted_brick_yellow;half=bottom;false;222/216/211;millenaire:painted_brick_white;;1
+slab painted brick bottom lime;millenaire:slab_painted_brick_lime;half=bottom;false;222/216/212;millenaire:painted_brick_white;;1
+slab painted brick bottom pink;millenaire:slab_painted_brick_pink;half=bottom;false;222/216/213;millenaire:painted_brick_white;;1
+slab painted brick bottom gray;millenaire:slab_painted_brick_gray;half=bottom;false;222/216/214;millenaire:painted_brick_white;;1
+slab painted brick bottom silver;millenaire:slab_painted_brick_silver;half=bottom;false;222/216/215;millenaire:painted_brick_white;;1
+slab painted brick bottom cyan;millenaire:slab_painted_brick_cyan;half=bottom;false;222/216/216;millenaire:painted_brick_white;;1
+slab painted brick bottom purple;millenaire:slab_painted_brick_purple;half=bottom;false;222/216/217;millenaire:painted_brick_white;;1
+slab painted brick bottom blue;millenaire:slab_painted_brick_blue;half=bottom;false;222/216/218;millenaire:painted_brick_white;;1
+slab painted brick bottom brown;millenaire:slab_painted_brick_brown;half=bottom;false;222/216/219;millenaire:painted_brick_white;;1
+slab painted brick bottom green;millenaire:slab_painted_brick_green;half=bottom;false;222/216/220;millenaire:painted_brick_white;;1
+slab painted brick bottom red;millenaire:slab_painted_brick_red;half=bottom;false;222/216/221;millenaire:painted_brick_white;;1
+slab painted brick bottom black;millenaire:slab_painted_brick_black;half=bottom;false;222/216/222;millenaire:painted_brick_white;;1
+
+
+slab painted brick top white;millenaire:slab_painted_brick_white;half=top;false;223/216/207;millenaire:painted_brick_white;;1
+slab painted brick top orange;millenaire:slab_painted_brick_orange;half=top;false;223/216/208;millenaire:painted_brick_white;;1
+slab painted brick top magenta;millenaire:slab_painted_brick_magenta;half=top;false;223/216/209;millenaire:painted_brick_white;;1
+slab painted brick top light blue;millenaire:slab_painted_brick_light_blue;half=top;false;223/216/210;millenaire:painted_brick_white;;1
+slab painted brick top yellow;millenaire:slab_painted_brick_yellow;half=top;false;223/216/211;millenaire:painted_brick_white;;1
+slab painted brick top lime;millenaire:slab_painted_brick_lime;half=top;false;223/216/212;millenaire:painted_brick_white;;1
+slab painted brick top pink;millenaire:slab_painted_brick_pink;half=top;false;223/216/213;millenaire:painted_brick_white;;1
+slab painted brick top gray;millenaire:slab_painted_brick_gray;half=top;false;223/216/214;millenaire:painted_brick_white;;1
+slab painted brick top silver;millenaire:slab_painted_brick_silver;half=top;false;223/216/215;millenaire:painted_brick_white;;1
+slab painted brick top cyan;millenaire:slab_painted_brick_cyan;half=top;false;223/216/216;millenaire:painted_brick_white;;1
+slab painted brick top purple;millenaire:slab_painted_brick_purple;half=top;false;223/216/217;millenaire:painted_brick_white;;1
+slab painted brick top blue;millenaire:slab_painted_brick_blue;half=top;false;223/216/218;millenaire:painted_brick_white;;1
+slab painted brick top brown;millenaire:slab_painted_brick_brown;half=top;false;223/216/219;millenaire:painted_brick_white;;1
+slab painted brick top green;millenaire:slab_painted_brick_green;half=top;false;223/216/220;millenaire:painted_brick_white;;1
+slab painted brick top red;millenaire:slab_painted_brick_red;half=top;false;223/216/221;millenaire:painted_brick_white;;1
+slab painted brick top black;millenaire:slab_painted_brick_black;half=top;false;223/216/222;millenaire:painted_brick_white;;1
+
+
+wall painted brick white;millenaire:wall_painted_brick_white;0;false;224/216/207;millenaire:painted_brick_white;;1
+wall painted brick orange;millenaire:wall_painted_brick_orange;0;false;224/216/208;millenaire:painted_brick_white;;1
+wall painted brick magenta;millenaire:wall_painted_brick_magenta;0;false;224/216/209;millenaire:painted_brick_white;;1
+wall painted brick light blue;millenaire:wall_painted_brick_light_blue;0;false;224/216/210;millenaire:painted_brick_white;;1
+wall painted brick yellow;millenaire:wall_painted_brick_yellow;0;false;224/216/211;millenaire:painted_brick_white;;1
+wall painted brick lime;millenaire:wall_painted_brick_lime;0;false;224/216/212;millenaire:painted_brick_white;;1
+wall painted brick pink;millenaire:wall_painted_brick_pink;0;false;224/216/213;millenaire:painted_brick_white;;1
+wall painted brick gray;millenaire:wall_painted_brick_gray;0;false;224/216/214;millenaire:painted_brick_white;;1
+wall painted brick silver;millenaire:wall_painted_brick_silver;0;false;224/216/215;millenaire:painted_brick_white;;1
+wall painted brick cyan;millenaire:wall_painted_brick_cyan;0;false;224/216/216;millenaire:painted_brick_white;;1
+wall painted brick purple;millenaire:wall_painted_brick_purple;0;false;224/216/217;millenaire:painted_brick_white;;1
+wall painted brick blue;millenaire:wall_painted_brick_blue;0;false;224/216/218;millenaire:painted_brick_white;;1
+wall painted brick brown;millenaire:wall_painted_brick_brown;0;false;224/216/219;millenaire:painted_brick_white;;1
+wall painted brick green;millenaire:wall_painted_brick_green;0;false;224/216/220;millenaire:painted_brick_white;;1
+wall painted brick red;millenaire:wall_painted_brick_red;0;false;224/216/221;millenaire:painted_brick_white;;1
+wall painted brick black;millenaire:wall_painted_brick_black;0;false;224/216/222;millenaire:painted_brick_white;;1
+
+
+wooden bars;millenaire:wooden_bars;0;false;145/80/0
+wooden bars indian;millenaire:wooden_bars_indian;0;false;142/80/22
+
+wooden bars rosette topsouth;millenaire:wooden_bars_rosette;topbottom=top,facing=south;true;155/211/205;millenaire:wooden_bars_rosette;;1
+wooden bars rosette topnorth;millenaire:wooden_bars_rosette;topbottom=top,facing=north;true;155/211/206;millenaire:wooden_bars_rosette;;1
+wooden bars rosette bottomsouth;millenaire:wooden_bars_rosette;topbottom=bottom,facing=south;true;155/211/207;millenaire:wooden_bars_rosette;;1
+wooden bars rosette bottomnorth;millenaire:wooden_bars_rosette;topbottom=bottom,facing=north;true;155/211/208;millenaire:wooden_bars_rosette;;1
+
+wooden bars rosette topwest;millenaire:wooden_bars_rosette;topbottom=top,facing=west;true;155/211/209;millenaire:wooden_bars_rosette;;1
+wooden bars rosette topeast;millenaire:wooden_bars_rosette;topbottom=top,facing=east;true;155/211/210;millenaire:wooden_bars_rosette;;1
+wooden bars rosette bottomwest;millenaire:wooden_bars_rosette;topbottom=bottom,facing=west;true;155/211/211;millenaire:wooden_bars_rosette;;1
+wooden bars rosette bottomeast;millenaire:wooden_bars_rosette;topbottom=bottom,facing=east;true;155/211/212;millenaire:wooden_bars_rosette;;1
  
 pathdirt;millenaire:pathdirt;1;false;200/200/200;;;0
 pathgravel;millenaire:pathgravel;1;false;205/205/205;;;0
@@ -313,6 +641,9 @@ pathsnow_half;millenaire:pathsnow_slab;1;false;180/180/100;;;0
 unripe maize;millenaire:crop_maize;0;true;65/129/41
 ripe maize;millenaire:crop_maize;7;true;66/130/42
 Maya gold;millenaire:stone_deco;2;false;255/213/1
+
+byzantine mosaic red;millenaire:stone_deco;variant=byzantine_mosaic_red;false;14/43/216
+byzantine mosaic blue;millenaire:stone_deco;variant=byzantine_mosaic_blue;false;14/43/205
  
 ice;minecraft:ice;0;false;150/255/255
 snowblock;minecraft:snow;0;false;230/255/255;;;0
@@ -342,11 +673,17 @@ cone grass;minecraft:tallgrass;2;true;26/65/11;;;0
 diamond ore;minecraft:diamond_ore;0;false;34/166/152
 stone preasure plate;minecraft:stone_pressure_plate;0;true;61/66/59;minecraft:stone;;2
 wood pressure plate;minecraft:wooden_pressure_plate;0;true;104/78/28;anywood;;2
+iron pressure plate;minecraft:heavy_weighted_pressure_plate;0;true;104/78/29;minecraft:iron_ingot;;2
 redstonewire;minecraft:redstone_wire;0;true;255/19/19;;;0
 redstone ore;minecraft:redstone_ore;0;false;193/19/19
 redstone torch;minecraft:redstone_torch;0;true;174/18/18
 redstone torch lit;minecraft:redstone_torch;5;true;255/18/18;;;0
 stone button;minecraft:stone_button;0;true;111/111/111
+stone button east;minecraft:stone_button;1;true;111/111/112
+stone button west;minecraft:stone_button;2;true;111/111/113
+stone button south;minecraft:stone_button;3;true;111/111/114
+stone button north;minecraft:stone_button;4;true;111/111/115
+stone button up;minecraft:stone_button;5;true;111/111/116
 snow_layer_0,;minecraft:snow_layer;0;true;58/177/188;;;0
 snow_layer_1;minecraft:snow_layer;1;true;58/177/189;;;0
 snow_layer_2;minecraft:snow_layer;2;true;58/177/190;;;0
@@ -517,17 +854,10 @@ stairsMudBrickInvRight;millenaire:stairs_mudbrick;facing=north,half=top;false;16
 slabMudBrick;millenaire:slab_stone_deco;half=bottom,variant=mudbrick;false;166/156/170;millenaire:stone_deco;variant=mudbrick;1
 slabMudBrickInv;millenaire:slab_stone_deco;half=top,variant=mudbrick;false;166/156/171;millenaire:stone_deco;variant=mudbrick;1
 
-stairsCookedBrickTop;millenaire:stairs_cookedbrick;facing=west,half=bottom;false;219/216/137;millenaire:stone_deco;variant=cookedbrick;1
-stairsCookedBrickBottom;millenaire:stairs_cookedbrick;facing=east,half=bottom;false;219/216/138;millenaire:stone_deco;variant=cookedbrick;1
-stairsCookedBrickLeft;millenaire:stairs_cookedbrick;facing=south,half=bottom;false;219/216/139;millenaire:stone_deco;variant=cookedbrick;1
-stairsCookedBrickRight;millenaire:stairs_cookedbrick;facing=north,half=bottom;false;219/216/140;millenaire:stone_deco;variant=cookedbrick;1
-stairsCookedBrickInvTop;millenaire:stairs_cookedbrick;facing=west,half=top;false;219/216/141;millenaire:stone_deco;variant=cookedbrick;1
-stairsCookedBrickInvBottom;millenaire:stairs_cookedbrick;facing=east,half=top;false;219/216/142;millenaire:stone_deco;variant=cookedbrick;1
-stairsCookedBrickInvLeft;millenaire:stairs_cookedbrick;facing=south,half=top;false;219/216/143;millenaire:stone_deco;variant=cookedbrick;1
-stairsCookedBrickInvRight;millenaire:stairs_cookedbrick;facing=north,half=top;false;219/216/144;millenaire:stone_deco;variant=cookedbrick;1
 
-slabCookedBrick;millenaire:slab_stone_deco;half=bottom,variant=cookedbrick;false;219/216/170;millenaire:stone_deco;variant=cookedbrick;1
-slabCookedBrickInv;millenaire:slab_stone_deco;half=top,variant=cookedbrick;false;219/216/171;millenaire:stone_deco;variant=cookedbrick;1
+
+slabCookedBrick;millenaire:slab_stone_deco;half=bottom,variant=cookedbrick;false;219/216/170;millenaire:painted_brick_white;;1
+slabCookedBrickInv;millenaire:slab_stone_deco;half=top,variant=cookedbrick;false;219/216/171;millenaire:painted_brick_white;;1
 
 stairsTimberFrameTop;millenaire:stairs_timberframe;facing=west,half=bottom;false;55/32/137;millenaire:wood_deco;variant=timberframeplain;1
 stairsTimberFrameBottom;millenaire:stairs_timberframe;facing=east,half=bottom;false;55/32/138;millenaire:wood_deco;variant=timberframeplain;1
@@ -685,6 +1015,9 @@ irondoorBottom;minecraft:iron_door;facing=west;true;71/200/200;minecraft:iron_in
 irondoorLeft;minecraft:iron_door;facing=north;true;72/200/200;minecraft:iron_ingot;;6
 irondoorRight;minecraft:iron_door;facing=south;true;73/200/200;minecraft:iron_ingot;;6
 
+ironDoorUpper;minecraft:iron_door;half=upper,hinge=left;true;74/200/200;;;0
+ironDoorUpperInv;minecraft:iron_door;half=upper,hinge=right;true;75/200/200;;;0
+
 trapdoorTop;minecraft:trapdoor;facing=west;true,open=false;70/0/150;anywood;;6
 trapdoorBottom;minecraft:trapdoor;facing=east;true,open=false;71/0/150;anywood;;6
 trapdoorLeft;minecraft:trapdoor;facing=south;true,open=false;72/0/150;anywood;;6
@@ -751,6 +1084,14 @@ bedThatchBottom;millenaire:bed_straw;facing=east,part=head;true;161/0/1;millenai
 bedThatchLeft;millenaire:bed_straw;facing=south,part=head;true;161/0/2;millenaire:bed_straw;facing=south;1
 bedThatchRight;millenaire:bed_straw;facing=north,part=head;true;161/0/3;millenaire:bed_straw;facing=south;1
 
+
+bedCharpoyTop;millenaire:bed_charpoy;facing=west,part=head;true;163/0/0;millenaire:bed_charpoy;facing=south;1
+bedCharpoyBottom;millenaire:bed_charpoy;facing=east,part=head;true;163/0/1;millenaire:bed_charpoy;facing=south;1
+bedCharpoyLeft;millenaire:bed_charpoy;facing=south,part=head;true;163/0/2;millenaire:bed_charpoy;facing=south;1
+bedCharpoyRight;millenaire:bed_charpoy;facing=north,part=head;true;163/0/3;millenaire:bed_charpoy;facing=south;1
+
+
+
 //bedFutonTop;millenaire:bed_futon;facing=west,part=head;true;162/0/0;millenaire:bed_futon;facing=south;1
 //bedFutonBottom;millenaire:bed_futon;facing=east,part=head;true;162/0/1;millenaire:bed_futon;facing=south;1
 //bedFutonLeft;millenaire:bed_futon;facing=south,part=head;true;162/0/2;millenaire:bed_futon;facing=south;1
@@ -762,6 +1103,12 @@ byzantinetiles_leftright;millenaire:byzantine_tiles;axis=z;false;190/176/145;mil
 
 byzantinestonetiles_bottomtop;millenaire:byzantine_stone_tiles;axis=x;false;189/180/175;millenaire:byzantine_tiles_slab;;2
 byzantinestonetiles_leftright;millenaire:byzantine_stone_tiles;axis=z;false;190/180/175;millenaire:byzantine_tiles_slab;;2
+
+byzantinesandstonetiles_bottomtop;millenaire:byzantine_sandstone_tiles;axis=x;false;191/180/175;millenaire:byzantine_tiles_slab;;2
+byzantinesandstonetiles_leftright;millenaire:byzantine_sandstone_tiles;axis=z;false;192/180/175;millenaire:byzantine_tiles_slab;;2
+
+byzantinesandstoneornament;millenaire:byzantine_sandstone_ornament;0;false;193/180/175;millenaire:byzantine_tiles_slab;;2
+byzantinestoneornament;millenaire:byzantine_stone_ornament;0;false;194/180/175;millenaire:byzantine_tiles_slab;;2
 
 byzantinetileslab_bottomtop;millenaire:byzantine_tiles_slab;axis=x,half=bottom;false;210/180/175;millenaire:byzantine_tiles_slab;;1
 byzantinetileslab_leftright;millenaire:byzantine_tiles_slab;axis=z,half=bottom;false;211/180/175;millenaire:byzantine_tiles_slab;;1
@@ -959,6 +1306,7 @@ glazed_terracotta_black east;minecraft:black_glazed_terracotta;facing=east;false
 glazed_terracotta_black south;minecraft:black_glazed_terracotta;facing=south;false;190/250/193
 glazed_terracotta_black west;minecraft:black_glazed_terracotta;facing=west;false;190/250/192
 
+terracotta;minecraft:hardened_clay;0;false;190/244/240
 terracotta white;minecraft:stained_hardened_clay;color=white;false;190/245/239
 terracotta orange;minecraft:stained_hardened_clay;color=orange;false;190/245/254
 terracotta magenta;minecraft:stained_hardened_clay;color=magenta;false;190/245/253
@@ -1001,10 +1349,110 @@ purpurPillar;minecraft:purpur_pillar;axis=y;false;170/126/181
 purpurPillarVert;minecraft:purpur_pillar;axis=x;false;170/126/182
 purpurPillarHor;minecraft:purpur_pillar;axis=z;false;170/126/183
 
+endRodNorth;minecraft:end_rod;facing=north;true;170/127/0
+endRodSouth;minecraft:end_rod;facing=south;true;170/127/1
+endRodEast;minecraft:end_rod;facing=east;true;170/127/2
+endRodWest;minecraft:end_rod;facing=west;true;170/127/3
+endRodUp;minecraft:end_rod;facing=up;true;170/127/4
+endRodDown;minecraft:end_rod;facing=down;true;170/127/5
+
+seaLantern;minecraft:sea_lantern;0;false;70/128/0
+
 redstoneBlock;minecraft:redstone_block;0;false;176/25/5
 
 hay;minecraft:hay_block;axis=y;false;166/139/12
-hayVert;minecraft:hay_block;axis=x;false;166/139/13
-hayHor;minecraft:hay_block;axis=z;false;166/139/14
+hayVert;minecraft:hay_block;axis=x;false;166/139/13;minecraft:hay_block;;1
+hayHor;minecraft:hay_block;axis=z;false;166/139/14;minecraft:hay_block;;1
 
 grassPath;minecraft:grass_path;0;false;148/122/65
+
+concreteWhite;minecraft:concrete;0;false;190/245/238
+concreteOrange;minecraft:concrete;1;false;190/245/237
+concreteMagenta;minecraft:concrete;2;false;190/245/236
+concreteLightBlue;minecraft:concrete;3;false;190/245/235
+concreteYellow;minecraft:concrete;4;false;190/245/234
+concreteLime;minecraft:concrete;5;false;190/245/233
+concretePink;minecraft:concrete;6;false;190/245/232
+concreteGray;minecraft:concrete;7;false;190/245/231
+
+concreteLightGray;minecraft:concrete;8;false;190/245/230
+concreteCyan;minecraft:concrete;9;false;190/245/229
+concretePurple;minecraft:concrete;10;false;190/245/228
+concreteBlue;minecraft:concrete;11;false;190/245/227
+concreteBrown;minecraft:concrete;12;false;190/245/226
+concreteGreen;minecraft:concrete;13;false;190/245/225
+concreteRed;minecraft:concrete;14;false;190/245/224
+concreteBlack;minecraft:concrete;15;false;190/245/223
+
+//flowerpots are free for now
+flowerpotEmpty;minecraft:flower_pot;255;true;120/67/255;;;0
+
+flowerpotPoppy;minecraft:flower_pot;1;true;120/67/1;;;0
+flowerpotBlueOrchid;minecraft:flower_pot;2;true;120/67/2;;;0
+flowerpotAllium;minecraft:flower_pot;3;true;120/67/3;;;0
+flowerpotHoustonia;minecraft:flower_pot;4;true;120/67/4;;;0
+flowerpotRedTulip;minecraft:flower_pot;5;true;120/67/5;;;0
+flowerpotOrangeTulip;minecraft:flower_pot;6;true;120/67/6;;;0
+flowerpotWhiteTulip;minecraft:flower_pot;7;true;120/67/7;;;0
+flowerpotPinkTulip;minecraft:flower_pot;8;true;120/67/8;;;0
+flowerpotOxeyeDaisy;minecraft:flower_pot;9;true;120/67/9;;;0
+flowerpotDandelion;minecraft:flower_pot;10;true;120/67/10;;;0
+
+flowerpotOak;minecraft:flower_pot;11;true;120/67/11;;;0
+flowerpotSpruce;minecraft:flower_pot;12;true;120/67/12;;;0
+flowerpotBirch;minecraft:flower_pot;13;true;120/67/13;;;0
+flowerpotJungle;minecraft:flower_pot;14;true;120/67/14;;;0
+flowerpotAcacia;minecraft:flower_pot;15;true;120/67/15;;;0
+flowerpotDarkOak;minecraft:flower_pot;16;true;120/67/16;;;0
+
+
+flowerpotMushroomRed;minecraft:flower_pot;17;true;120/67/17;;;0
+flowerpotMushroomBrown;minecraft:flower_pot;18;true;120/67/18;;;0
+flowerpotDeadBush;minecraft:flower_pot;19;true;120/67/19;;;0
+flowerpotFern;minecraft:flower_pot;20;true;120/67/20;;;0
+flowerpotCactus;minecraft:flower_pot;21;true;120/67/21;;;0
+
+
+villageBannerWallNorth;;0;true;0/0/226;item:banner_white;;1
+villageBannerWallEast;;0;true;0/0/227;item:banner_white;;1
+villageBannerWallSouth;;0;true;0/0/228;item:banner_white;;1
+villageBannerWallWest;;0;true;0/0/229;item:banner_white;;1
+
+villageBannerStanding0;;0;true;0/0/230;item:banner_white;;1
+villageBannerStanding1;;1;true;0/0/231;item:banner_white;;1
+villageBannerStanding2;;2;true;0/0/232;item:banner_white;;1
+villageBannerStanding3;;3;true;0/0/233;item:banner_white;;1
+villageBannerStanding4;;4;true;0/0/234;item:banner_white;;1
+villageBannerStanding5;;5;true;0/0/235;item:banner_white;;1
+villageBannerStanding6;;6;true;0/0/236;item:banner_white;;1
+villageBannerStanding7;;7;true;0/0/237;item:banner_white;;1
+villageBannerStanding8;;8;true;0/0/238;item:banner_white;;1
+villageBannerStanding9;;9;true;0/0/239;item:banner_white;;1
+villageBannerStanding10;;10;true;0/0/240;item:banner_white;;1
+villageBannerStanding11;;11;true;0/0/241;item:banner_white;;1
+villageBannerStanding12;;12;true;0/0/242;item:banner_white;;1
+villageBannerStanding13;;13;true;0/0/243;item:banner_white;;1
+villageBannerStanding14;;14;true;0/0/244;item:banner_white;;1
+villageBannerStanding15;;15;true;0/0/245;item:banner_white;;1
+
+cultureBannerWallNorth;;0;true;0/1/226;item:banner_white;;1
+cultureBannerWallEast;;0;true;0/1/227;item:banner_white;;1
+cultureBannerWallSouth;;0;true;0/1/228;item:banner_white;;1
+cultureBannerWallWest;;0;true;0/1/229;item:banner_white;;1
+
+cultureBannerStanding0;;0;true;0/1/230;item:banner_white;;1
+cultureBannerStanding1;;1;true;0/1/231;item:banner_white;;1
+cultureBannerStanding2;;2;true;0/1/232;item:banner_white;;1
+cultureBannerStanding3;;3;true;0/1/233;item:banner_white;;1
+cultureBannerStanding4;;4;true;0/1/234;item:banner_white;;1
+cultureBannerStanding5;;5;true;0/1/235;item:banner_white;;1
+cultureBannerStanding6;;6;true;0/1/236;item:banner_white;;1
+cultureBannerStanding7;;7;true;0/1/237;item:banner_white;;1
+cultureBannerStanding8;;8;true;0/1/238;item:banner_white;;1
+cultureBannerStanding9;;9;true;0/1/239;item:banner_white;;1
+cultureBannerStanding10;;10;true;0/1/240;item:banner_white;;1
+cultureBannerStanding11;;11;true;0/1/241;item:banner_white;;1
+cultureBannerStanding12;;12;true;0/1/242;item:banner_white;;1
+cultureBannerStanding13;;13;true;0/1/243;item:banner_white;;1
+cultureBannerStanding14;;14;true;0/1/244;item:banner_white;;1
+cultureBannerStanding15;;15;true;0/1/245;item:banner_white;;1

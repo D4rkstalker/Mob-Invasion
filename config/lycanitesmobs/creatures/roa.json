@@ -1,6 +1,11 @@
 {
   "name": "roa",
-  "class": "com.lycanitesmobs.saltwatermobs.entity.EntityRoa",
+  "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRoa",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelRoa",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,8 +45,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0,
@@ -60,6 +65,10 @@
     }
   ],
   "element": "water",
+  "diets": [
+    "carnivore",
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
@@ -84,5 +93,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "whirlpoolRange",
+      "value": 6
+    }
+  ]
 }

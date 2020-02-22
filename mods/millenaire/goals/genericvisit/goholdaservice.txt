@@ -19,3 +19,5 @@ targetposition=crafting
 
 travelBookShow=true
 icon=rosette
+
+sprint=false

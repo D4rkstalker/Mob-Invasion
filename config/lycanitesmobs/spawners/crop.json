@@ -35,12 +35,8 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:spriggan",
+      "mobId": "lycanitesmobs:spriggan",
       "weight": 8
-    },
-    {
-      "mobId": "swampmobs:triffid",
-      "weight": 2
     }
   ]
 }

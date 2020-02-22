@@ -1,5 +1,5 @@
 villager.greeting=Bonjour, $name! / 안녕하세요, $name 님!
-villager.greeting=Belle journée, n'est pas? / 좋은 날씨네요, 그렇지 않나요?
+villager.greeting=Belle journée, n'est ce pas? / 좋은 날씨네요, 그렇지 않나요?
 villager.greeting=Il va pleuvoir, je le sens / 곧 비가 올거 같네요.
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / 난 노르망디가 분명히 어떤 곳인지 기억나지 않아.
 guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / 조금 지쳐보이네요, $name 님. 제가 만약 무슨 일이 있으면 지켜드릴게요.

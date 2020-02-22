@@ -67,3 +67,10 @@ customBuilding=custom_japanesemarket
 customBuilding=custom_japaneseshintoshrine
 customBuilding=custom_japanesearchive
 customBuilding=custom_japaneselookout
+
+
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:jar,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:jar,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:jar,Color:15}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:jar,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:jar,Color:15}]}}

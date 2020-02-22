@@ -44,10 +44,10 @@ mayancalendar_A0=Zonnekalender
 
 mayancave_A0=Grot
 mayancistern_A0=Regenbak
-mayancornfarm_A0=Maïsboederij
+mayancornfarm_A0=MaÃ¯sboederij
 
-mayancornfarm_B0=Maïsboederij
-mayancornfarm_C0=Maïsboederij
+mayancornfarm_B0=MaÃ¯sboederij
+mayancornfarm_C0=MaÃ¯sboederij
 
 mayanobservatory_A0=Observatorium
 mayansheepchickenfarm_B0=Kippenboederij
@@ -88,7 +88,7 @@ mayanbandithome_A0=Bandiet Huis
 
 lonemayanruin_A0=Eenzaam Mayaans Huis
 
-lonemayancornfarm_A0=Eenzame Mayaanse Maïsboederij
+lonemayancornfarm_A0=Eenzame Mayaanse MaÃ¯sboederij
 
 lonemayanmining_A0=Eenzame Steengroeve
 

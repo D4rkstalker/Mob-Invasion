@@ -1,4 +1,6 @@
-culture.indian=Индусы
+
+culture.indian=Индийцы
+culture.fullname=Индийцы
 
 village.indian_agricole_hamlet=сельскохозяйственная деревушка
 village.indian_agricole=сельскохозяйственное поселение
@@ -35,10 +37,13 @@ villager.indian_sadhu=Мудрец Садху
 villager.merchant_oriental=Персидский купец
 villager.merchant_adivasi=Купец абориген
 villager.merchant_villagewoman=Купчиха
+villager.indian_weaver=Ткач
+villager.indian_craftsman=Ремесленник
+villager.indian_painter=Художник
 
 shop.townhall=Главный рынок
 shop.forge=Инструменты
 shop.armyforge=Броня и оружие
-shop.adivasifarm=Продукты Хинди
+shop.adivasifarm=Продукты аборигенов
 shop.deserttradeoutpost=Драгоценности
 shop.sculptor=Продажа камня

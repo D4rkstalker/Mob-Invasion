@@ -2,9 +2,9 @@
 building.length=10
 building.width=10
 building.buildingorientation=3
-building.max=2
+building.max=4
 building.icon=steelshovel
-
+building.version=2
 
 //Parameters for initial construction
 initial.startlevel=-1

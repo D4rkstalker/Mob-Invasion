@@ -1,6 +1,11 @@
 {
   "name": "geonach",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityGeonach",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGeonach",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelGeonach",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,10 +37,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#443333",
   "eggForeColor": "#BBBBCC",
@@ -53,6 +58,7 @@
     {
       "index": 3,
       "name": "celestial",
+      "scale": 2,
       "type": "rare"
     }
   ],
@@ -109,7 +115,7 @@
       "subspecies": 3
     },
     {
-      "item": "mountainmobs:soulstonemountain",
+      "item": "lycanitesmobs:soulstonemountain",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,
@@ -117,5 +123,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "blockBreakRadius",
+      "value": 0
+    }
+  ]
 }

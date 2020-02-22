@@ -1,6 +1,11 @@
 {
   "name": "strider",
-  "class": "com.lycanitesmobs.freshwatermobs.entity.EntityStrider",
+  "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityStrider",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelStrider",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,10 +46,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#2c90cd",
   "eggForeColor": "#13ddf1",
@@ -61,10 +66,15 @@
     }
   ],
   "element": "water",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
-  "mountable": false,
+  "mountable": true,
   "summonCost": 4,
   "dungeonLevel": 3,
   "drops": [

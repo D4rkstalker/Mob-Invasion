@@ -1,6 +1,12 @@
 {
   "name": "wendigo",
-  "class": "com.lycanitesmobs.arcticmobs.entity.EntityWendigo",
+  "creatureType": "undead",
+  "groups": [
+    "monster",
+    "frozen"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWendigo",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelWendigo",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,14 +46,14 @@
   "health": 40,
   "defense": 3,
   "armor": 0,
-  "speed": 16,
+  "speed": 28,
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#CCCCFF",
   "eggForeColor": "#0055FF",
@@ -64,6 +70,10 @@
     }
   ],
   "element": "frost",
+  "diets": [
+    "carnivore",
+    "detritivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -84,13 +94,13 @@
       "chance": 0.25
     },
     {
-      "item": "arcticmobs:tundracharge",
+      "item": "lycanitesmobs:tundracharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.75
+      "maxAmount": 3,
+      "chance": 1
     },
     {
-      "item": "arcticmobs:frostyfur",
+      "item": "lycanitesmobs:frostyfur",
       "minAmount": 2,
       "maxAmount": 5,
       "chance": 1

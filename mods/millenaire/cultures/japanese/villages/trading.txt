@@ -19,6 +19,8 @@ biome=boreal forest
 biome=maple woods
 biome=shield
 
+outerwallType=borderposts
+
 //starting buildings=
 centre=sakebrewery
 start=japaneselmh
@@ -67,3 +69,11 @@ never=squidfarm
 
 sellingPrice=sake,2/0
 buyingPrice=sake,1/48
+
+
+
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:jat,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:jat,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:jat,Color:15}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:jat,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:jat,Color:15}]}}

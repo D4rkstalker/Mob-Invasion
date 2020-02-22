@@ -1,6 +1,11 @@
 {
   "name": "spriggan",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntitySpriggan",
+  "creatureType": "elemental",
+  "groups": [
+    "nature"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySpriggan",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSpriggan",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,10 +37,10 @@
   "damage": 1,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#997722",
   "eggForeColor": "#008844",
@@ -94,15 +99,21 @@
       "item": "lycanitesmobs:immunizer",
       "minAmount": 1,
       "maxAmount": 1,
-      "chance": 0.05
+      "chance": 0.25
     },
     {
-      "item": "elementalmobs:lifedraincharge",
+      "item": "lycanitesmobs:lifedraincharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "farmingRate",
+      "value": 20
+    }
+  ]
 }

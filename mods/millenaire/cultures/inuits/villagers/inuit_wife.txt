@@ -70,3 +70,4 @@ defaultweapon=bone
 toolneededclass=armour
 toolneededclass=toolssword
 toolneededclass=rangedweapons
+toolneededclass=shovels

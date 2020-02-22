@@ -40,6 +40,8 @@ gathergoods: Gather items around the villager, if they are of a type declared fo
 
 gathersilk: Gather ripe silk from a silk block.
 
+gathersnails: Gather snails from a snail soil block to make purple dye.
+
 getgoodshousehold: Gets goods required by the household (food, inputs for crafting...) from the TH or shops and loads them in the inventory. Paired with delivergoodshousehold, which delivers them.
 
 gethousethresources: Takes items from the villager's house or the town hall that are needed in a shop. Paired with deliverresourcesshop that delivers them.

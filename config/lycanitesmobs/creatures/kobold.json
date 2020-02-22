@@ -1,6 +1,11 @@
 {
   "name": "kobold",
-  "class": "com.lycanitesmobs.plainsmobs.entity.EntityKobold",
+  "creatureType": "beast",
+  "groups": [
+    "critter"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityKobold",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelKobold",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -21,7 +26,7 @@
       "savanna",
       "-snowy"
     ],
-    "spawnWeight": 8,
+    "spawnWeight": 6,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
@@ -42,10 +47,10 @@
   "damage": 1,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#996633",
   "eggForeColor": "#FF7777",
@@ -62,12 +67,21 @@
     }
   ],
   "elements": [
-    "order"
+    "chaos"
+  ],
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore",
+    "fungivore"
   ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 0,
   "drops": [
@@ -103,5 +117,15 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "griefing",
+      "value": true
+    },
+    {
+      "name": "theivery",
+      "value": true
+    }
+  ]
 }

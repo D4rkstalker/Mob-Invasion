@@ -1,3 +1,5 @@
+//* The part before the ";" is the title, after it the description
+
 0;Stranger;As a folk of trade we have to accept everyone. But we don't have to trust them.
 4*64;Familiarity;Lately, you are often seen in these Roman areas.
 8*64;Known Face;Other Romans seem to have noticed you and they speak well of you! You don't seem to be a barbarian after all.

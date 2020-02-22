@@ -3,7 +3,7 @@ building.length=10
 building.width=11
 building.buildingorientation=3
 building.icon=book
-
+building.version=2
 
 //Parameters for initial construction
 initial.startlevel=-1

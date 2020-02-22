@@ -2,10 +2,14 @@
   "itemName": "darklingskull",
   "loadDefault": true,
   "slotType": "head",
-  "dropMobId": "shadowmobs:darkling",
+  "dropMobId": "lycanitesmobs:darkling",
   "dropChance": 0.2,
   "levelMin": 2,
   "levelMax": 3,
+  "elements": [
+    "shadow",
+    "void"
+  ],
   "features": [
     {
       "featureType": "slot",
@@ -31,7 +35,7 @@
     },
     {
       "featureType": "effect",
-      "levelMax": 2,
+      "levelMax": 1,
       "effectType": "lycanitesmobs:leech",
       "effectTarget": "self",
       "effectDuration": 20,
@@ -40,7 +44,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "lycanitesmobs:leech",
       "effectTarget": "self",
       "effectDuration": 40,
@@ -57,11 +61,12 @@
     {
       "featureType": "summon",
       "levelMin": 3,
-      "summonMobId": "shadowmobs.darkling",
-      "summonChance": 0.1,
-      "summonDuration": 60,
+      "summonMobId": "lycanitesmobs.darkling",
+      "summonChance": 0.05,
+      "summonDuration": 10,
       "summonCountMin": 1,
-      "summonCountMax": 1
+      "summonCountMax": 1,
+      "sizeScale": 1.0
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
   "name": "barghest",
-  "class": "com.lycanitesmobs.mountainmobs.entity.EntityBarghest",
+  "creatureType": "beast",
+  "groups": [
+    "predator"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBarghest",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelBarghest",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,7 +22,8 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "mountain"
+      "mountain",
+      "savanna"
     ],
     "spawnWeight": 4,
     "dungeonWeight": 200,
@@ -40,10 +46,10 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#D08237",
   "eggForeColor": "#00070A",
@@ -59,7 +65,10 @@
       "type": "uncommon"
     }
   ],
-  "element": "earth",
+  "element": "fae",
+  "diets": [
+    "carnivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

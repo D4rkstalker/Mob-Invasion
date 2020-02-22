@@ -1,3 +1,0 @@
-quest:lumbermancider;step:0;startTime:127000;currentStepStartTime:127000;villager:startvillager,5849807579529094965,-453/72/710
-quest:thehunt;step:0;startTime:129000;currentStepStartTime:129000;villager:startvillager,4846942416900755788,333/65/-170
-quest:lumbermancider;step:0;startTime:129000;currentStepStartTime:129000;villager:startvillager,906136443829754570,-820/79/267

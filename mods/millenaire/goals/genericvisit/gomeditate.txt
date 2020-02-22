@@ -10,3 +10,5 @@ buildingTag=pujas
 duration=30000
 
 leasure=true
+
+sprint=false

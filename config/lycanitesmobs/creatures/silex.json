@@ -1,6 +1,11 @@
 {
   "name": "silex",
-  "class": "com.lycanitesmobs.freshwatermobs.entity.EntitySilex",
+  "creatureType": "aquatic",
+  "groups": [
+    "animal"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySilex",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSilex",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,17 +46,17 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#263abd",
   "eggForeColor": "#040e75",
   "subspecies": [
     {
       "index": 1,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     },
     {
@@ -61,7 +66,11 @@
     }
   ],
   "element": "water",
+  "diets": [
+    "geovore"
+  ],
   "peaceful": true,
+  "farmable": true,
   "summonable": false,
   "tameable": false,
   "mountable": false,
@@ -71,15 +80,15 @@
     {
       "item": "minecraft:dye",
       "metadata": 4,
-      "minAmount": 2,
-      "maxAmount": 4,
+      "minAmount": 1,
+      "maxAmount": 3,
       "chance": 1
     },
     {
-      "item": "freshwatermobs:silexmeatraw",
-      "burningItem": "freshwatermobs:silexmeatcooked",
+      "item": "lycanitesmobs:raw_silex_meat",
+      "burningItem": "lycanitesmobs:cooked_silex_meat",
       "minAmount": 1,
-      "maxAmount": 3,
+      "maxAmount": 2,
       "chance": 1
     }
   ],

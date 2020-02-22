@@ -1,10 +1,10 @@
 //Parameters for the building as a whole
-building.length=7
-building.width=8
+building.length=10
+building.width=10
 building.buildingorientation=3
 building.mindistance=0.5
 building.icon=steelsword
-
+building.version=2
 
 //Parameters for initial construction
 initial.startlevel=-1

@@ -1,9 +1,10 @@
 //Parameters for the building as a whole
-building.length=8
+building.length=10
 building.width=11
 building.buildingorientation=3
 building.icon=steelaxe
-
+building.closetotag=grove,50      
+building.version=2
 
 //Parameters for initial construction
 initial.startlevel=-1

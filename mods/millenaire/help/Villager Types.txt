@@ -45,6 +45,10 @@ baseheight (floating point value):
 The villager's height (1 = two blocks high).
 Default value: 1
 
+basespeed (floating point value):
+The villager's speed.
+Default value: 0.55
+
 gender (A gender, either 'male' or 'female'):
 Gender of the villager.
 
@@ -58,7 +62,7 @@ texture (string (case-insensitive, multiple parameters possible)):
 Texture to use for the villager. If more than one listed, will be picked at random.
 
 clothes (A cloth texture that can be worn when an item is present. The optional second parameter is the layer it will be placed on. ('free,textures/entity/byzanz/male/clothes/byz.miner.1.A.png' or 'free,0,textures/entity/norman/female/clothes/nor_housewife_0.png')):
-A cloth the villager can wear.
+A cloth the villager can wear. 'free' is free clothes, 'natural' is fixed layers that do not change on picking up updated clothes.
 
 requiredgood (item and number: 'bone,8'):
 A good and its quantity the villager requires. For example, inputs for a crafter.

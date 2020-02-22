@@ -1,6 +1,12 @@
 {
   "name": "salamander",
-  "class": "com.lycanitesmobs.infernomobs.entity.EntitySalamander",
+  "creatureType": "beast",
+  "groups": [
+    "predator",
+    "inferno"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySalamander",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSalamander",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +42,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
@@ -56,6 +62,12 @@
     }
   ],
   "element": "lava",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "geovore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

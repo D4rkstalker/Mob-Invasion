@@ -16,3 +16,5 @@ leasure=true
 
 travelBookShow=true
 icon=rosette
+
+sprint=false

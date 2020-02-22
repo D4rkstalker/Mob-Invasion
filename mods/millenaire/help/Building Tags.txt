@@ -4,6 +4,8 @@ archives: Makes the building's tags display the villagers' locations and activit
 
 autospawnvillagers: Makes the building's inhabitants spawn after the first night.
 
+borderpostsign: Enables the border post type sign.
+
 brickkiln: Makes the building into a valid target for mud brick drying and gathering goals.
 
 cattle: Makes the building a valid target for cow-breeding.
@@ -26,6 +28,8 @@ market: Makes the building into a market that hosts foreign merchants.
 
 marvel: Makes the building into a marvel, with specific panel displays
 
+no_upgrade_till_wall_initialized: Stops this upgrade until all wall segments have been built.
+
 nopaths: Stops the construction of paths within this building's limits.
 
 pathnode: Makes the building into a path node, where village paths converge.
@@ -42,5 +46,9 @@ sheeps: Makes the building a valid target for sheep-breeding.
 
 silkwormfarm: Makes the building into a valid location for gathering silk.
 
+snailsfarm: Makes the building into a valid location for gathering snails.
+
 sugarplantation: Makes the building into a valid target for planting and harvesting sugar cane.
+
+wall_level: Wall level, for use in the wall panel. Use with a level added like this: wall_level_0, wall_level_1...
 

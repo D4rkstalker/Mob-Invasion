@@ -30,8 +30,9 @@
       ],
       "sorting": "random",
       "blocks": [
-        "arcticmobs:ooze"
+        "lycanitesmobs:ooze"
       ],
+      "blockCost": 8,
       "listType": "whitelist"
     }
   ]

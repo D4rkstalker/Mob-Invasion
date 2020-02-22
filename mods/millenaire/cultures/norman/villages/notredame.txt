@@ -4,7 +4,7 @@ namelist=notredame
 weight=0
 carriesraid=false
 type=marvel
-radius=120
+radius=140
 maxSimultaneousConstructions=6
 
 pathmaterial=pathdirt
@@ -20,5 +20,10 @@ core=largeguardhouse
 core=largeinn
 core=residence
 
+outerwallType=borderposts
+
 buyingPrice=timberframeplain,20
 buyingPrice=timberframecross,24
+
+//banner patterns
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:sc,Color:11},{Pattern:sc,Color:11},{Pattern:sc,Color:11}]}}

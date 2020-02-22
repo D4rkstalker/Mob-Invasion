@@ -1,6 +1,11 @@
-qualifierSeparator= 
+qualifierSeparator=_
 knownCrop=grapes
+knownCrop=sapling_olivetree
 icon=winefancy
+
+cultureBanner={BlockEntityTag:{Base:5,Patterns:[{Pattern:byz,Color:11}]}}
+
+panelTexture=millenaire:textures/entity/panels/byzantine.png
 
 travelBookVillagerCategory=villager
 travelBookVillagerCategory=lonevillager

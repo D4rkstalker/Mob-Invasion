@@ -20,10 +20,12 @@ initial.signs=5,3,1,2,4,0,8,7,6
 //Parameters for specific upgrades
 upgrade1.nativename=Hall de la Guilde
 upgrade1.rebuildpath=true
+upgrade1.extrasimultaneouswallconstructions=1
 
 upgrade2.priority=580
 upgrade2.rebuildpath=false
 
+upgrade3.extrasimultaneouswallconstructions=2
 upgrade3.priority=560
 
 upgrade4.priority=540

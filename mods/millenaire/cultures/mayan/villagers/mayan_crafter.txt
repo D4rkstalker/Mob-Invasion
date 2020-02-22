@@ -17,10 +17,12 @@ goal=makestonehoe
 goal=makemayangoldblock
 goal=gosocialise
 goal=chat
+goal=makebannerfeather
 
 requiredGood=cobblestone,10
 requiredGood=stone,10
 requiredGood=leather,10
+requiredGood=feather,10
 
 toolneededclass=toolssword
 

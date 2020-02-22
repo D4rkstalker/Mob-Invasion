@@ -63,3 +63,10 @@ playerlargegrove_A0=Large Grove
 playerlargehouse_A0=Large House
 playermedhouse_A0=House
 playersmallhouse_A0=Small House
+
+hunterth_A0=Hunter House
+flower_A0=Flower Field 
+
+borderpost_a0=Border Post
+borderpost_corner_a0=Border Post (Corner)
+borderpost_gate_a0=Border Post (Entrance)

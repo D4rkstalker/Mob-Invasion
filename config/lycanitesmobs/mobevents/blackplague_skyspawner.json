@@ -40,11 +40,11 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "shadowmobs:phantom",
+      "mobId": "lycanitesmobs:reaper",
       "weight": 8
     },
     {
-      "mobId": "elementalmobs:banshee",
+      "mobId": "lycanitesmobs:banshee",
       "weight": 4
     }
   ]

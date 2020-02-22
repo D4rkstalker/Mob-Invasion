@@ -71,7 +71,6 @@ mods.thermalexpansion.Infuser.addRecipe(<draconicevolution:chaos_shard:2> ,<drac
 mods.thermalexpansion.Infuser.addRecipe(<draconicevolution:chaos_shard:1> ,<draconicevolution:chaos_shard:2>, 200000000);
 mods.thermalexpansion.Infuser.addRecipe(<draconicevolution:chaos_shard> ,<draconicevolution:chaos_shard:1>, 400000000);
 
-mods.thermalexpansion.Insolator.addRecipe(<silentgems:glowrose:14> * 5, <silentgems:glowrose:14>, <silentgems:glowrosefertilizer>, 2000, <actuallyadditions:item_misc:17>, 20);
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
@@ -112,7 +111,6 @@ recipes.remove(<thermalexpansion:frame>);
 //Don't touch me!
 //#Add
 recipes.addShaped(<immersiveengineering:stone_decoration:1> * 5, [[<minecraft:brick>, <minecraft:hardened_clay>, <minecraft:brick>],[<minecraft:hardened_clay>, <actuallyadditions:item_misc:5>, <minecraft:hardened_clay>], [<minecraft:brick>, <minecraft:hardened_clay>, <minecraft:brick>]]);
-recipes.addShaped(<silentgems:enchantmenttoken>, [[<ore:gemTektite>, null, <ore:gemTektite>],[<ore:blockTitanium>, <silentgems:enchantmenttoken:256>, <ore:blockTitanium>], [<ore:blockTitanium>, null, <ore:blockTitanium>]]);
 recipes.addShaped(<tconstruct:smeltery_controller>, [[<tconstruct:materials>, <tconstruct:materials>, <tconstruct:materials>],[<tconstruct:materials>, <ore:ingotCrudeSteel>, <tconstruct:materials>], [<tconstruct:materials>, <tconstruct:materials>, <tconstruct:materials>]]);
 recipes.addShaped(<uncraftingtable:uncrafting_table>, [[<draconicevolution:chaos_shard:1>, <techguns:itemshared:92>, <draconicevolution:chaos_shard:1>],[<ore:blockAethium>, <appliedenergistics2:part:360>, <ore:blockAethium>], [<appliedenergistics2:material:44>, <draconicevolution:fusion_crafting_core>, <appliedenergistics2:material:43>]]);
 recipes.addShaped(<environmentaltech:connector>, [[<ore:dustRedstone>, <thermalfoundation:material:513>, <ore:dustRedstone>],[<thermalfoundation:material:515>, <ore:ingotSignalum>, <thermalfoundation:material:515>], [<ore:dustRedstone>, <thermalfoundation:material:514>, <ore:dustRedstone>]]);

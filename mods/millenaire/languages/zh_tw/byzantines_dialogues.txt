@@ -61,7 +61,7 @@ v2;30;Posimou mazí eínai pio diaskedastiko! / 一起喝會更有樂趣！
 v1;50;Cheers gia to krasí! / 為葡萄酒乾杯！
 v2;70;Cheers! / 乾杯！
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
 v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / 老傢伙，我以後會成為村莊的領袖！
 v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / 別這麼厚臉皮，小男孩。要不然你會被賞一記耳光！
 v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / 然後我會被你賞一耳光！
@@ -259,7 +259,7 @@ v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / 是啊，�
 v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / 感謝鐵匠和工匠，因為他們想到了這種東西！
 v2;90;Nai! Gi 'afto mou arései na Romaïkí. / 是啊，這就是為甚麼我喜歡當個羅馬人。
 
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
 v1;0;Eímai ziliáris afton ton plousíon. / 我很羨慕那些有錢人。
 v1;20;Échoun tétoia oraía roúcha apo metáxi! / 他們有如此漂亮的絲綢衣服！
 v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / 那真的很不公平。他們甚麼事也不做，卻總能拿到最好的東西。
@@ -281,13 +281,13 @@ v2;110;Ego na mantépsete akrivos san stratiotes. / 我猜妳就像個士兵一�
 v2;140;Allá échete énan ántra! / 而妳卻有個丈夫！
 v1;170;Allá énas tempélis kai sychná methysménos éna! / 但他很懶惰而且時常喝醉酒！
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
 v1;0;Xérete tin omorfiá sto geitoniko chorio? / 你知道隔壁村的美女嗎？
 v2;30;Fysiká, eínai polý charitoméno. / 當然，她真的很美麗。
 v1;60;Ti tha gínei me tin epískepsi tis? / 要不要去拜訪她？
 v2;90;Xérete oti i gynaíka sas tha trelatho tote! / 你明知道你老婆會為此抓狂的！
 
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
 v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / 工匠的老婆還蠻好看的，你覺得呢？
 v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / 是啊，她還不賴。遺憾的是她已經結婚了！
 v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / 嗯，對啊。竟然嫁給他，這太不公平了。
@@ -316,7 +316,7 @@ v1;120;Err, eícha. Échei kápos chatheí! / 呃，我有。但它莫名奇妙�
 v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / 甚麼？你有這樣的一個工具，而你搞丟了？
 v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / 是啊...現在留下的只有回憶...
 
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
 v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / 蹦！我剛剛去參觀了新的狼牙棒！
 v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / 沒錯！這是個超棒的武器！它可以把敵人打得遠遠的！
 v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / 真是令人印象深刻啊，嗯？在這個世界上，沒有任何東西能與羅馬的傑作相提並論。
@@ -421,10 +421,10 @@ v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai
 v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / 嘿！別這麼刻薄！這只是妳個人的偏見罷了！
 v2;110;Tha ítan methysménos! / 妳肯定醉了！
 
-newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
 v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname兒子啊，我今天沒看到你做禱告！
 v2;30;Patéras $targetlastname, ego sígoura ékane. /  $targetlastname爸爸，我肯定早做完了。
 
-newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
 v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname女兒啊，我今天沒見到妳做禱告！
 v2;30;Patéras $targetlastname, ego sígoura ékane. / $targetlastname爸爸，我肯定早做完了。

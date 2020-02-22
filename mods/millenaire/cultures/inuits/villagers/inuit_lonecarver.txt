@@ -4,7 +4,8 @@ familyNameList=inuit_names
 firstNameList=inuit_names
 malechild=inuit_boy
 femalechild=inuit_girl
-baseheight=0.85
+baseheight=0.75
+tag=seller
 icon=inuitcarving
 
 travelbook_held_item=inuitcarving
@@ -39,6 +40,21 @@ toolneededclass=armour
 toolneededclass=toolssword
 toolneededclass=rangedweapons
 
-
-startingInv=inuittrident,1
-startingInv=inuitcarving,16
+startingInv=inuittrident,4
+startingInv=inuitcarving,8
+startingInv=furhelmet,1
+startingInv=furplate,2
+startingInv=furlegs,2
+startingInv=furboots,1
+startingInv=inuitbow,3
+startingInv=arrow,64
+startingInv=ulu,2
+startingInv=hidehanging,4
+startingInv=bearmeat_cooked,12
+startingInv=wolfmeat_cooked,8
+startingInv=beefcooked,4
+startingInv=fishcooked,6
+startingInv=seafood_cooked,3
+startingInv=inuitbearstew,4
+startingInv=inuitmeatystew,2
+startingInv=inuitpotatostew,2

@@ -16,3 +16,5 @@ allowrandommoves=true
 leasure=true
 
 heldItemsDestination=grapes
+
+sprint=false

@@ -1,5 +1,5 @@
 villager.greeting=Bonjour, $name! / 你好，$name！
-villager.greeting=Belle journée, n'est pas? / 今天的天氣真是好啊。
+villager.greeting=Belle journée, n'est ce pas? / 今天的天氣真是好啊。
 villager.greeting=Il va pleuvoir, je le sens / 我能感覺到要下雨了。
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / 我和諾曼底公爵不是很熟。
 guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / $name，你看起來挺瘦弱的，如果你有甚麼事我會保護你的。

@@ -1,430 +1,430 @@
 newchat;key:sun,tag:notraining,weigth:10
-v1;0;Agapo ilióloustes méres! / Ik hou van zonnige dagen!
-v2;30;Poios den échei? / Wie niet?
+v1;0;Agapo iliÃ³loustes mÃ©res! / Ik hou van zonnige dagen!
+v2;30;Poios den Ã©chei? / Wie niet?
 
 newchat;key:nicevillage,weigth:10
-v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Het is altijd een plezier ons kleine dorpje te zien nietwaar?
-v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / Uiteraard en dat alles omdat we er zoveel moeite in steken.
+v1;0;EÃ­nai pÃ¡nta mia efcharÃ­stisi na doÃºme oraÃ­o choriÃ³ mas, Ã©tsi den eÃ­nai? / Het is altijd een plezier ons kleine dorpje te zien nietwaar?
+v2;30;FysikÃ¡, kai eÃ­nai Ã³la lÃ³go ton terÃ¡stion prospatheiÃ³n mas! / Uiteraard en dat alles omdat we er zoveel moeite in steken.
 
 newchat;key:harvest,weigth:10
-v1;0;sitári afxánetai polı kalá aftí ti chroniá, étsi eínai ta stafılia, kathos kai. Lampro, den eínai? / Graan groeit uitstekend en de druiven ook. Prachtig nietwaar?
-v2;30;Nai, faínetai étsi: Échoume to períergo kairo edo na efcharistíso. / Ja, daar lijkt het op: We kunnen dat rare weer bedanken.
-v1;60;Akoma kai an afto den échei kanéna noima gia ména! / Zelfs al begrijp ik er niks van!
+v1;0;sitÃ¡ri afxÃ¡netai polÃ½ kalÃ¡ aftÃ­ ti chroniÃ¡, Ã©tsi eÃ­nai ta stafÃ½lia, kathos kai. Lampro, den eÃ­nai? / Graan groeit uitstekend en de druiven ook. Prachtig nietwaar?
+v2;30;Nai, faÃ­netai Ã©tsi: Ã‰choume to perÃ­ergo kairo edo na efcharistÃ­so. / Ja, daar lijkt het op: We kunnen dat rare weer bedanken.
+v1;60;Akoma kai an afto den Ã©chei kanÃ©na noima gia mÃ©na! / Zelfs al begrijp ik er niks van!
 
 newchat;key:lightning,weigth:7
-v1;0;Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varı! / Kan je je die onweersbui nog herinneren? Ik bedoel die hele zware!
-v2;30;Fysiká. Schedon katastráfike synkomidí mas. I fısi eínai arketá entyposiako, e? / Natuurlijk. Bijna onze oogst om zeep. De natuur is indrukwekkend hè?
-v1;60;Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo keravno! / Indrukwekkend is één ding. Maar ik was bijna geraakt door een bliksemschicht!
-v2;100;Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / Je was niet in je huis? Je weet dat het buiten gevaarlijk is tijdens een storm!
-v1;120;Zontaná kai na máthoun. / Leef en leer.
+v1;0;ThymÃ¡ste tin kataigÃ­da pou eÃ­chame? ThÃ©lo na po to pragmatikÃ¡ varÃ½! / Kan je je die onweersbui nog herinneren? Ik bedoel die hele zware!
+v2;30;FysikÃ¡. Schedon katastrÃ¡fike synkomidÃ­ mas. I fÃ½si eÃ­nai arketÃ¡ entyposiako, e? / Natuurlijk. Bijna onze oogst om zeep. De natuur is indrukwekkend hÃ¨?
+v1;60;EntyposiakÃ­ eÃ­nai Ã©na prÃ¡gma. AllÃ¡ Ã­moun schedon chtypÃ­thike apo keravno! / Indrukwekkend is Ã©Ã©n ding. Maar ik was bijna geraakt door een bliksemschicht!
+v2;100;Den Ã­tan mÃ©sa sto spÃ­ti sas? XÃ©rete oti eÃ­nai epikÃ­ndyno Ã©xo katÃ¡ ti diÃ¡rkeia mias kataigÃ­das! / Je was niet in je huis? Je weet dat het buiten gevaarlijk is tijdens een storm!
+v1;120;ZontanÃ¡ kai na mÃ¡thoun. / Leef en leer.
 
 newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
-v1;0;Ego den aisthánomai kalá ... / Ik voel me niet goed...
-v2;30;Ti tréchei me séna? Eísai árrostos? / Wat is er mis met je? Ben je ziek?
-v1;60;Ochi, ego jj-molis thymíthike kápoia ora-na symveí. / Nee, Ik  h-h- heb me zoj-j-uist iets herinnerd. 
-v2;100;Boreíte íchou pragmatiká epireázontai. Eíste sígouroi oti den eínai árrostos? / Je klinkt echt aangedaan. Weet je zeker dat je niet ziek bent?
-v1;120;N-ochi, ego aplá f-aisthánontai fovisménoi. / N-nee, ik ben gewoon bang. 
-v2;150;Ti synévi loipon? / Wat is er dan gebeurd?
-v1;180;Katá ti diárkeia tis l-teleftaía kataigída. Perpátisa éxo apo to chorio-vv, íxera oti den boroúsa na páro píso sto chorio prin apo tin kataigída. Gi 'afto kai krıftike káto apo éna déntro. / Tijdens de l-laatste onweersbui liep ik buiten het d-d-dorp, ik wist dat ik voor de storm niet terug kon zijn, dus ik heb onder een boom geschuild.
-v2;210;Tha diakindıneve ti zoí sas éxo apo to chorio! Tha boroúse na eíche pethánei! / Je hebt je leven buiten het dorp geriskeerd! Je had kunnen sterven!
-v1;240;Loipon, ímoun asfalís. Sti synécheia, omos eída éna gouroúni. I lighning chtıpise. Kai oi nekroí p-gouroúni ... I-afto sikothike kai kiníthike l-san ki emás, ch-kynigoún eména me éna lampero sw-spathí! / Nou, ik was veilig. Ik zag een varken. De bliksem raakte hem. En het dode v-varken... H-hij stond op en l-liep als ons. Hij joeg me op met een glimmend zw-zwaard!
-v2;290;Tha eínai anoisíes. Tha prépei na ítan énas efiáltis. / Je zwetst uit je nek. Het moet een nachtmerrie geweest zijn.
-v1;320;Ítan alítheia! Sosto! Sosto! Sosto! / Het is waar! Waar! Waar! Waar!
-v2;350;Eíste treloí. Pigaínete na párete lígo krasí, kai na iremísoun. / Je bent gek. Haal wat wijn en kom tot rust.
-v1;380;Tha d-kánoume afto. Boreí-Ísos afto tha voithísei. / D-d-doe ik. Misschien help dat.
+v1;0;Ego den aisthÃ¡nomai kalÃ¡ ... / Ik voel me niet goed...
+v2;30;Ti trÃ©chei me sÃ©na? EÃ­sai Ã¡rrostos? / Wat is er mis met je? Ben je ziek?
+v1;60;Ochi, ego jj-molis thymÃ­thike kÃ¡poia ora-na symveÃ­. / Nee, Ik  h-h- heb me zoj-j-uist iets herinnerd. 
+v2;100;BoreÃ­te Ã­chou pragmatikÃ¡ epireÃ¡zontai. EÃ­ste sÃ­gouroi oti den eÃ­nai Ã¡rrostos? / Je klinkt echt aangedaan. Weet je zeker dat je niet ziek bent?
+v1;120;N-ochi, ego aplÃ¡ f-aisthÃ¡nontai fovismÃ©noi. / N-nee, ik ben gewoon bang. 
+v2;150;Ti synÃ©vi loipon? / Wat is er dan gebeurd?
+v1;180;KatÃ¡ ti diÃ¡rkeia tis l-teleftaÃ­a kataigÃ­da. PerpÃ¡tisa Ã©xo apo to chorio-vv, Ã­xera oti den boroÃºsa na pÃ¡ro pÃ­so sto chorio prin apo tin kataigÃ­da. Gi 'afto kai krÃ½ftike kÃ¡to apo Ã©na dÃ©ntro. / Tijdens de l-laatste onweersbui liep ik buiten het d-d-dorp, ik wist dat ik voor de storm niet terug kon zijn, dus ik heb onder een boom geschuild.
+v2;210;Tha diakindÃ½neve ti zoÃ­ sas Ã©xo apo to chorio! Tha boroÃºse na eÃ­che pethÃ¡nei! / Je hebt je leven buiten het dorp geriskeerd! Je had kunnen sterven!
+v1;240;Loipon, Ã­moun asfalÃ­s. Sti synÃ©cheia, omos eÃ­da Ã©na gouroÃºni. I lighning chtÃ½pise. Kai oi nekroÃ­ p-gouroÃºni ... I-afto sikothike kai kinÃ­thike l-san ki emÃ¡s, ch-kynigoÃºn emÃ©na me Ã©na lampero sw-spathÃ­! / Nou, ik was veilig. Ik zag een varken. De bliksem raakte hem. En het dode v-varken... H-hij stond op en l-liep als ons. Hij joeg me op met een glimmend zw-zwaard!
+v2;290;Tha eÃ­nai anoisÃ­es. Tha prÃ©pei na Ã­tan Ã©nas efiÃ¡ltis. / Je zwetst uit je nek. Het moet een nachtmerrie geweest zijn.
+v1;320;Ãtan alÃ­theia! Sosto! Sosto! Sosto! / Het is waar! Waar! Waar! Waar!
+v2;350;EÃ­ste treloÃ­. PigaÃ­nete na pÃ¡rete lÃ­go krasÃ­, kai na iremÃ­soun. / Je bent gek. Haal wat wijn en kom tot rust.
+v1;380;Tha d-kÃ¡noume afto. BoreÃ­-Ãsos afto tha voithÃ­sei. / D-d-doe ik. Misschien help dat.
 
 newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
-v1;0;Ach ... Souvláki, to éna kai monadiko fagito! / Ah... Souvlaki, het enige voedsel!
-v2;30;An oi ándres den échoun trofí mas-kánei tis gynaíkes ... / Als jullie mannen ons voedselbereidende vrouwen toch niet hadden…
-v1;60;Tha kánoun to fagito tous eaftoús mas! / We zouden het zelf maken!
-v2;100;Alítheia? Pos gínetai kai páli souvláki? / Echt? Hoe maak je Souvlaki dan?
-v1;130;Err ... Vázete ta psária, ochi, païdákia sto foúrno, tote ... / Ehh... Je doet vis, nee, lamskoteletjes in de oven en dan...
-v2;190;... vázeis me kápoion féta se éna ravdí. Den boreíte pragmatiká na mageirépsoun! / ...je maakt het met wat feta op een stokje. Jij kan echt niet koken!
+v1;0;Ach ... SouvlÃ¡ki, to Ã©na kai monadiko fagito! / Ah... Souvlaki, het enige voedsel!
+v2;30;An oi Ã¡ndres den Ã©choun trofÃ­ mas-kÃ¡nei tis gynaÃ­kes ... / Als jullie mannen ons voedselbereidende vrouwen toch niet haddenâ€¦
+v1;60;Tha kÃ¡noun to fagito tous eaftoÃºs mas! / We zouden het zelf maken!
+v2;100;AlÃ­theia? Pos gÃ­netai kai pÃ¡li souvlÃ¡ki? / Echt? Hoe maak je Souvlaki dan?
+v1;130;Err ... VÃ¡zete ta psÃ¡ria, ochi, paÃ¯dÃ¡kia sto foÃºrno, tote ... / Ehh... Je doet vis, nee, lamskoteletjes in de oven en dan...
+v2;190;... vÃ¡zeis me kÃ¡poion fÃ©ta se Ã©na ravdÃ­. Den boreÃ­te pragmatikÃ¡ na mageirÃ©psoun! / ...je maakt het met wat feta op een stokje. Jij kan echt niet koken!
 
 newchat;key:loneVillage,weigth:10
-v1;0;Vareto. ola eínai pánta to ídio edo. / Saai. Alles is altijd hetzelfde hier.
-v2;30;Touláchiston eínai eirinikí. / Het is tenminste vredelievend.
-v1;60;Típota idiaítero gia éna apomakrysméno chorio san ti dikí mas! / Niets bijzonders voor een afgelegen dorpje als het onze!
+v1;0;Vareto. ola eÃ­nai pÃ¡nta to Ã­dio edo. / Saai. Alles is altijd hetzelfde hier.
+v2;30;ToulÃ¡chiston eÃ­nai eirinikÃ­. / Het is tenminste vredelievend.
+v1;60;TÃ­pota idiaÃ­tero gia Ã©na apomakrysmÃ©no chorio san ti dikÃ­ mas! / Niets bijzonders voor een afgelegen dorpje als het onze!
 
 newchat;key:city,v1:adult,v2:adult,weigth:2
-v1;0;Otan ímoun mikros, íthela na eínai énas exerevnitís, na anakalıpsoun néa edáfi kai na pliroún endiaférontes néous anthropous. Allá tora? Eímai kollísei se afto to apomakrysméno chorioudáki. Thélo na páo kai na episkeftheíte néa méri. / Toen ik jong was wilde ik een ontdekker worden. Nieuwe landen ontdekken en nieuwe mensen ontmoeten. Maar nu? Ik zit vast in dit afgelegen kleine dorpje. Ik wil gaan en nieuwe plaatsen bezoeken.
-v2;30;Allá den tha vreíte megáli diaforá sto állo chorio. Eímaste oloi lígo polı to ídio. / Je zal niet veel verschil in de andere dorpen vinden. We zijn allemaal hetzelfde
-v1;60;Den milo gia ta choriá. Milo gia tis poleis, í akoma kai i poli! / Ik heb het niet over dorpjes. Ik heb het over steden of zelfs de grote stad.
-v2;90;I poli? Ennoeís Konstantinoúpoli? / DE grote stad? Je bedoelt Konstantinopel? 
-v1;120;Nai! To kéntro tis éndoxis aftokratorías mas. Eínai to thávma tou kosmou. / Ja! Het centrum van ons mooie rijk. Het wonder van de wereld.
-v1;150;Ypárchoun perissoteroi apo 500 000 ánthropoi pou zoun ekeí, boreíte na imangine afto?! / Er wonen meer dan 500 000 daar. Kun je je dat voorstellen?!
-v2;180;Akoúgetai adınato gia ména. 500 000 ánthropoi se éna méros? / Klinkt onmogelijk. 500 000 mensen op 1 plek? Droom verder!
+v1;0;Otan Ã­moun mikros, Ã­thela na eÃ­nai Ã©nas exerevnitÃ­s, na anakalÃ½psoun nÃ©a edÃ¡fi kai na pliroÃºn endiafÃ©rontes nÃ©ous anthropous. AllÃ¡ tora? EÃ­mai kollÃ­sei se afto to apomakrysmÃ©no chorioudÃ¡ki. ThÃ©lo na pÃ¡o kai na episkeftheÃ­te nÃ©a mÃ©ri. / Toen ik jong was wilde ik een ontdekker worden. Nieuwe landen ontdekken en nieuwe mensen ontmoeten. Maar nu? Ik zit vast in dit afgelegen kleine dorpje. Ik wil gaan en nieuwe plaatsen bezoeken.
+v2;30;AllÃ¡ den tha vreÃ­te megÃ¡li diaforÃ¡ sto Ã¡llo chorio. EÃ­maste oloi lÃ­go polÃ½ to Ã­dio. / Je zal niet veel verschil in de andere dorpen vinden. We zijn allemaal hetzelfde
+v1;60;Den milo gia ta choriÃ¡. Milo gia tis poleis, Ã­ akoma kai i poli! / Ik heb het niet over dorpjes. Ik heb het over steden of zelfs de grote stad.
+v2;90;I poli? EnnoeÃ­s KonstantinoÃºpoli? / DE grote stad? Je bedoelt Konstantinopel? 
+v1;120;Nai! To kÃ©ntro tis Ã©ndoxis aftokratorÃ­as mas. EÃ­nai to thÃ¡vma tou kosmou. / Ja! Het centrum van ons mooie rijk. Het wonder van de wereld.
+v1;150;YpÃ¡rchoun perissoteroi apo 500 000 Ã¡nthropoi pou zoun ekeÃ­, boreÃ­te na imangine afto?! / Er wonen meer dan 500 000 daar. Kun je je dat voorstellen?!
+v2;180;AkoÃºgetai adÃ½nato gia mÃ©na. 500 000 Ã¡nthropoi se Ã©na mÃ©ros? / Klinkt onmogelijk. 500 000 mensen op 1 plek? Droom verder!
 
 newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
-v1;0;Min pieíte krasí mono! / Drink wijn niet alleen!
-v2;30;Posimou mazí eínai pio diaskedastiko! / Samen drinken is veel leuker!
-v1;50;Cheers gia to krasí! / Proost voor de wijn!
+v1;0;Min pieÃ­te krasÃ­ mono! / Drink wijn niet alleen!
+v2;30;Posimou mazÃ­ eÃ­nai pio diaskedastiko! / Samen drinken is veel leuker!
+v1;50;Cheers gia to krasÃ­! / Proost voor de wijn!
 v2;70;Cheers! / Proost!
 
-newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
-v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / Ik word dorpshoofd later ouwe!
-v2;30;Min eísai toso thrasıs, agoráki. Í tha párei éna chastoúki! / Niet zo brutal jij kleine of je krijgt een hengst!
-v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / En ik zorg ervoor dat jij klappen krijgt!
-v2;80;*chastoúkia* / *slaat*
-v1;85;Och, afto ponáei! / Oef, dat doet pijn!
-v2;105;Ísos échete máthei káti! / Misschien heb je wat geleerd!
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
+v1;0;Tha eÃ­mai o archigos tou chorioÃº argotera, oldie! / Ik word dorpshoofd later ouwe!
+v2;30;Min eÃ­sai toso thrasÃ½s, agorÃ¡ki. Ã tha pÃ¡rei Ã©na chastoÃºki! / Niet zo brutal jij kleine of je krijgt een hengst!
+v1;60;Kai ego tha sas pÃ¡rei sti synÃ©cheia chastoÃºkise! / En ik zorg ervoor dat jij klappen krijgt!
+v2;80;*chastoÃºkia* / *slaat*
+v1;85;Och, afto ponÃ¡ei! / Oef, dat doet pijn!
+v2;105;Ãsos Ã©chete mÃ¡thei kÃ¡ti! / Misschien heb je wat geleerd!
 
 newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
-v1;0;O bampás mou eínai ischyroteri apo ti dikí sas. / Mijn vader is sterker dan de jouwe.
-v2;30;Ochi! O bampás mou eínai i ischyroteri sto chorio! / Nee! Mijn vader is het sterkste in het dorp!
-v1;60;Ochi! O bampás mou eínai o ischyroteros stin aftokratoría! / Nietes! Mijn vader is de sterkste in het hele rijk!
-v2;90;Impossible! O bampás mou eínai i ischyroteri ston kosmo! / Onmogelijk! Mijn vader is de sterkste ter wereld!
-v1;120;Sígoura o bampás mou tha boroúse na nikísei dikí sas se ligotero apo dıo chtypímata! / Ik durf te wedden dat mijn vader de jouwe neerslaat in minder dan 2 klappen!
-v2;150;Párte ton bampá sas étoimos gia énan agona! / Bereid je vader voor op een gevecht!
+v1;0;O bampÃ¡s mou eÃ­nai ischyroteri apo ti dikÃ­ sas. / Mijn vader is sterker dan de jouwe.
+v2;30;Ochi! O bampÃ¡s mou eÃ­nai i ischyroteri sto chorio! / Nee! Mijn vader is het sterkste in het dorp!
+v1;60;Ochi! O bampÃ¡s mou eÃ­nai o ischyroteros stin aftokratorÃ­a! / Nietes! Mijn vader is de sterkste in het hele rijk!
+v2;90;Impossible! O bampÃ¡s mou eÃ­nai i ischyroteri ston kosmo! / Onmogelijk! Mijn vader is de sterkste ter wereld!
+v1;120;SÃ­goura o bampÃ¡s mou tha boroÃºse na nikÃ­sei dikÃ­ sas se ligotero apo dÃ½o chtypÃ­mata! / Ik durf te wedden dat mijn vader de jouwe neerslaat in minder dan 2 klappen!
+v2;150;PÃ¡rte ton bampÃ¡ sas Ã©toimos gia Ã©nan agona! / Bereid je vader voor op een gevecht!
 
 newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
-v1;0;Korítsia eínai ilíthioi. / Meiden zijn dom.
+v1;0;KorÃ­tsia eÃ­nai ilÃ­thioi. / Meiden zijn dom.
 
 newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
-v1;0;Échete dei pouthená koúkla mou? Den boro na to vro ... / Heb jij mijn pop ergens gezien? Ik kan het niet vinden...
-v2;30;Dose mou píso to spathí mou kai tha to párei píso! / Geef me mijn zwaard terug en je krijgt hem terug!
-v3;60;Boreíte na to éklepse! Kléftis! / Jij hebt hem gejat! Dief!
+v1;0;Ã‰chete dei pouthenÃ¡ koÃºkla mou? Den boro na to vro ... / Heb jij mijn pop ergens gezien? Ik kan het niet vinden...
+v2;30;Dose mou pÃ­so to spathÃ­ mou kai tha to pÃ¡rei pÃ­so! / Geef me mijn zwaard terug en je krijgt hem terug!
+v3;60;BoreÃ­te na to Ã©klepse! KlÃ©ftis! / Jij hebt hem gejat! Dief!
 
 newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
-v1;0;Écheis dei kainoúrgia roúcha mou? / Heb jij mijn nieuwe kleding gezien?
-v2;30;Eíste mia pragmatikí omorfiá agapité mou. o, ti tairiázei! / Je bent een echte schoonheid schat. Alles past jou!
-v1;60;Allá den eímai toso omorfi oso boreíte! / Maar ik ben niet zo mooi als jij!
-v2;90;Ohh afto den eínai alítheia, $targetfirstname! / Ohh dat is niet waar, $targetfirstname!
+v1;0;Ã‰cheis dei kainoÃºrgia roÃºcha mou? / Heb jij mijn nieuwe kleding gezien?
+v2;30;EÃ­ste mia pragmatikÃ­ omorfiÃ¡ agapitÃ© mou. o, ti tairiÃ¡zei! / Je bent een echte schoonheid schat. Alles past jou!
+v1;60;AllÃ¡ den eÃ­mai toso omorfi oso boreÃ­te! / Maar ik ben niet zo mooi als jij!
+v2;90;Ohh afto den eÃ­nai alÃ­theia, $targetfirstname! / Ohh dat is niet waar, $targetfirstname!
 
 newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
-v1;0;Échete dei néa roúcha mou? / Heb jij mijn nieuwe kleren gezien?
-v2;30;Eíste mia omorfiá. o, ti tairiázei, agapité $targetfirstname mou! / Je bent een schoonheid. Alles past jou mijn lieve $targetfirstname!
-v1;60;Allá den eímai toso omorfi oso boreíte! / Maar ik ben niet zo mooi als jij!
+v1;0;Ã‰chete dei nÃ©a roÃºcha mou? / Heb jij mijn nieuwe kleren gezien?
+v2;30;EÃ­ste mia omorfiÃ¡. o, ti tairiÃ¡zei, agapitÃ© $targetfirstname mou! / Je bent een schoonheid. Alles past jou mijn lieve $targetfirstname!
+v1;60;AllÃ¡ den eÃ­mai toso omorfi oso boreÃ­te! / Maar ik ben niet zo mooi als jij!
 v2;90;Klopt.
 v1;100;!!!
 
 newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
-v1;0;Écheis dei kainoúrgia roúcha mou, $targetfirstname? / Heb je mijn nieuwe kleren gezien, $targetfirstname?
-v2;30;Nomízo oti paliá roúcha sas fainotan polı kalıtera gia esás. / Ik vind dat je oude kleding veel mooier was.
+v1;0;Ã‰cheis dei kainoÃºrgia roÃºcha mou, $targetfirstname? / Heb je mijn nieuwe kleren gezien, $targetfirstname?
+v2;30;NomÃ­zo oti paliÃ¡ roÃºcha sas fainotan polÃ½ kalÃ½tera gia esÃ¡s. / Ik vind dat je oude kleding veel mooier was.
 v1;60;TI? / WAT?
-v2;70;Ochi. ochi! Eíste omorfi! Mou arései afto to néo ... prágmata! / Nee.. Nee! Je bent mooi! Ik vind dit nieuwe... spul mooi!
+v2;70;Ochi. ochi! EÃ­ste omorfi! Mou arÃ©sei afto to nÃ©o ... prÃ¡gmata! / Nee.. Nee! Je bent mooi! Ik vind dit nieuwe... spul mooi!
 
 newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
-v1;0;Étsi den tha arései to néo mou forema? / En vind je mijn nieuwe jurk mooi?
-v2;30;I paliá sas tairiázei kalıtera. / De oude pastte beter.
+v1;0;Ã‰tsi den tha arÃ©sei to nÃ©o mou forema? / En vind je mijn nieuwe jurk mooi?
+v2;30;I paliÃ¡ sas tairiÃ¡zei kalÃ½tera. / De oude pastte beter.
 v1;60;TI? / WAT?
-v2;70;Hey $targetfirstname, eínai aplá i gnomi mou. / Hey $targetfirstname, het is gewoon mijn mening.
-v1;90;Touláchiston eísai eilikrinís! / Je bent in ieder geval eerlijk!
+v2;70;Hey $targetfirstname, eÃ­nai aplÃ¡ i gnomi mou. / Hey $targetfirstname, het is gewoon mijn mening.
+v1;90;ToulÃ¡chiston eÃ­sai eilikrinÃ­s! / Je bent in ieder geval eerlijk!
 
 newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
-v2;0;Ti prépei na kánete otan sas arései éna korítsi? / Wat moet je doen als je een meisje leuk vind?
-v1;30;Kánte kompliménta tis kai eínai oraío na tis. / Geef her complimentjes en wees aardig.
-v2;60;Ochi! Afto eínai adınaton! Poies tha eínai oi álloi skéftontai gia ména tote? / Nee! Dat is onmogelijk! Wat denken de anderen dan van me?
-v1;90;An agapoúse pragmatiká, den tha noiázontai gia tous állous. / Als je haar echt leuk vindt, dan zou je niet op de anderen moeten letten.
+v2;0;Ti prÃ©pei na kÃ¡nete otan sas arÃ©sei Ã©na korÃ­tsi? / Wat moet je doen als je een meisje leuk vind?
+v1;30;KÃ¡nte komplimÃ©nta tis kai eÃ­nai oraÃ­o na tis. / Geef her complimentjes en wees aardig.
+v2;60;Ochi! Afto eÃ­nai adÃ½naton! Poies tha eÃ­nai oi Ã¡lloi skÃ©ftontai gia mÃ©na tote? / Nee! Dat is onmogelijk! Wat denken de anderen dan van me?
+v1;90;An agapoÃºse pragmatikÃ¡, den tha noiÃ¡zontai gia tous Ã¡llous. / Als je haar echt leuk vindt, dan zou je niet op de anderen moeten letten.
 
 newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
-v1;0;Írthe i ora na sas didáxei pos na frontísei éna spíti. / Het is tijd om je te leren hoe je voor een huis zorgt
-v2;30;Megáli, ti échoume archísei me? Boro na káno souvláki? Pleaaase! / Geweldig, waar beginnen we mee? Mag ik souvlaki maken? Alsjeblieeft!
-v1;60;As doúme poso kaloí eíste sto na kánei ton katharismo prota. / Eerst eens zien hoe goed je kan schoonmaken.
-v2;90;Entáxei, allá tha mou deíxei pos na kánei souvláki argotera, yposchéthike? / Ok, maar wil je me later laten zien hoe je souvlaki maakt, beloofd?
-v1;120;Yposchetheí. / Beloofd.
+v1;0;Ãrthe i ora na sas didÃ¡xei pos na frontÃ­sei Ã©na spÃ­ti. / Het is tijd om je te leren hoe je voor een huis zorgt
+v2;30;MegÃ¡li, ti Ã©choume archÃ­sei me? Boro na kÃ¡no souvlÃ¡ki? Pleaaase! / Geweldig, waar beginnen we mee? Mag ik souvlaki maken? Alsjeblieeft!
+v1;60;As doÃºme poso kaloÃ­ eÃ­ste sto na kÃ¡nei ton katharismo prota. / Eerst eens zien hoe goed je kan schoonmaken.
+v2;90;EntÃ¡xei, allÃ¡ tha mou deÃ­xei pos na kÃ¡nei souvlÃ¡ki argotera, yposchÃ©thike? / Ok, maar wil je me later laten zien hoe je souvlaki maakt, beloofd?
+v1;120;YposchetheÃ­. / Beloofd.
 
 newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
-v2;0;Boreís na mou agorásei afto to néo koúkla? O kathénas échei éna néo, allá ego ... / Kan je een nieuwe pop kopen? Iedereen heeft een nieuwe behalve ik...
-v1;30;Poia eínai i magikí léxi ? / Wat is het magische woord?
-v2;60;Boreíte sas parakalo na mou agorásei mia néa koúkla? / Kan je ALSJEBLIEFT en nieuwe pop kopen?
-v1;90;Entáxei, allá tha prépei na min yposchontai na milísoume pia píso! / Prima, maar je moet wel beloven niet steeds een weerwoord te hebben!
-v2;120;Yposchetheí. / Beloofd!
+v2;0;BoreÃ­s na mou agorÃ¡sei afto to nÃ©o koÃºkla? O kathÃ©nas Ã©chei Ã©na nÃ©o, allÃ¡ ego ... / Kan je een nieuwe pop kopen? Iedereen heeft een nieuwe behalve ik...
+v1;30;Poia eÃ­nai i magikÃ­ lÃ©xi ? / Wat is het magische woord?
+v2;60;BoreÃ­te sas parakalo na mou agorÃ¡sei mia nÃ©a koÃºkla? / Kan je ALSJEBLIEFT en nieuwe pop kopen?
+v1;90;EntÃ¡xei, allÃ¡ tha prÃ©pei na min yposchontai na milÃ­soume pia pÃ­so! / Prima, maar je moet wel beloven niet steeds een weerwoord te hebben!
+v2;120;YposchetheÃ­. / Beloofd!
 
 newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
 v2;0;Auw...
-v1;30;Eísai foverí! Ti synévi? / Je ziet er vreselijk uit! Wat is er gebeurd?
-v2;60;Loipon, o kathénas échei éna xılino spathí, allá eména. / Nou, iedereen heeft een houten zwaard behalve ik.
-v2;80;Étsi apofásisan na mou epitethoún! / Dus ze hebben besloten me aan te vallen!
-v2;100;Tha prépei na páro éna, pára polı! / Je moet er ook één voor mij kopen!
-v1;120;Vlépo échete chrisimopoiísei chroma gia ta simádia kai tis pligés sou. Kalí prospátheia! / Ik zie dat je verf hebt gebruikt voor je wonden en littekens. Mooie poging!
-v2;150;Télos pánton! Parakalo na mou dosete éna spathí! / Hoe dan ook! Geef me alsjeblieft een zwaard!
-v1;180;Spathí eínai epikíndynes. Den xífos gia séna! / Zwaarden zijn gevaarlijk. Geen zwaard voor jou!
+v1;30;EÃ­sai foverÃ­! Ti synÃ©vi? / Je ziet er vreselijk uit! Wat is er gebeurd?
+v2;60;Loipon, o kathÃ©nas Ã©chei Ã©na xÃ½lino spathÃ­, allÃ¡ emÃ©na. / Nou, iedereen heeft een houten zwaard behalve ik.
+v2;80;Ã‰tsi apofÃ¡sisan na mou epitethoÃºn! / Dus ze hebben besloten me aan te vallen!
+v2;100;Tha prÃ©pei na pÃ¡ro Ã©na, pÃ¡ra polÃ½! / Je moet er ook Ã©Ã©n voor mij kopen!
+v1;120;VlÃ©po Ã©chete chrisimopoiÃ­sei chroma gia ta simÃ¡dia kai tis pligÃ©s sou. KalÃ­ prospÃ¡theia! / Ik zie dat je verf hebt gebruikt voor je wonden en littekens. Mooie poging!
+v2;150;TÃ©los pÃ¡nton! Parakalo na mou dosete Ã©na spathÃ­! / Hoe dan ook! Geef me alsjeblieft een zwaard!
+v1;180;SpathÃ­ eÃ­nai epikÃ­ndynes. Den xÃ­fos gia sÃ©na! / Zwaarden zijn gevaarlijk. Geen zwaard voor jou!
 
 newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
-v1;0;Ktíria mas eínai toso omorfo pou eínai pánta megáli gia na deíte to érgo mas! / Onze gebouwen zijn zo mooi, dat het altijd weer geweldig is ons werk te zien!
-v2;30;Oi Mágia théloun na dimiourgísoun polı oraía domés, kathos kai. / Die Maya mensen make nook mooie gebouwen.
-v1;60;Min me enochloún me tétoia weirdos. Ta ktíriá mas faínontai polı kalıtera! / Irriteer me niet mer zulke idioten. Onze gebouwen zijn mooier!
+v1;0;KtÃ­ria mas eÃ­nai toso omorfo pou eÃ­nai pÃ¡nta megÃ¡li gia na deÃ­te to Ã©rgo mas! / Onze gebouwen zijn zo mooi, dat het altijd weer geweldig is ons werk te zien!
+v2;30;Oi MÃ¡gia thÃ©loun na dimiourgÃ­soun polÃ½ oraÃ­a domÃ©s, kathos kai. / Die Maya mensen make nook mooie gebouwen.
+v1;60;Min me enochloÃºn me tÃ©toia weirdos. Ta ktÃ­riÃ¡ mas faÃ­nontai polÃ½ kalÃ½tera! / Irriteer me niet mer zulke idioten. Onze gebouwen zijn mooier!
 v2;90;Loipon ... / Nou...
-v1;100;Prodoti! Écheis kamía ethnikí yperifáneia? / Verrader! Heb je geen nationale trots?
+v1;100;Prodoti! Ã‰cheis kamÃ­a ethnikÃ­ yperifÃ¡neia? / Verrader! Heb je geen nationale trots?
 
 newchat;key:pride2,weigth:10
-v1;0;Emeís oi Romaíoi boreí na eínai pragmatiká yperífanoi gia osa échoume petıchei! / Wij Romeinen kunnen echt trots zijn op wat we bereikt hebben!
-v2;30;Fysiká! o, ti égine deíte apo emás! / Natuurlijk! Alles wat je ziet is door ons gemaakt!
-v1;60;I pio ischyrí aftokratoría stin istoría tou kosmou! / Het machtigste rijk in de wereldgeschiedenis!
-v2;90;Álla éthni tha apoláfsete se doxa mas. / Andere landen zullen onze glorie gebruiken.
-v1;120;Tha prépei na! Eímaste oi kyríarchoi! / Ze zullen wel moeten! Wij zijn de heersers!
+v1;0;EmeÃ­s oi RomaÃ­oi boreÃ­ na eÃ­nai pragmatikÃ¡ yperÃ­fanoi gia osa Ã©choume petÃ½chei! / Wij Romeinen kunnen echt trots zijn op wat we bereikt hebben!
+v2;30;FysikÃ¡! o, ti Ã©gine deÃ­te apo emÃ¡s! / Natuurlijk! Alles wat je ziet is door ons gemaakt!
+v1;60;I pio ischyrÃ­ aftokratorÃ­a stin istorÃ­a tou kosmou! / Het machtigste rijk in de wereldgeschiedenis!
+v2;90;Ãlla Ã©thni tha apolÃ¡fsete se doxa mas. / Andere landen zullen onze glorie gebruiken.
+v1;120;Tha prÃ©pei na! EÃ­maste oi kyrÃ­archoi! / Ze zullen wel moeten! Wij zijn de heersers!
 
 newchat;key:pride3,weigth:10
-v1;0;I romaïkí aftokratoría tha kyvernísei ton kosmo gia álli mia forá! / Het Romeinse rijk zal de wereld ooit nog eens besturen!
-v2;30;Emeís tha! / Zullen we!
-v1;60;Ola tha eínai kalıtera sti synécheia! / Alles zal dan beter zijn!
+v1;0;I romaÃ¯kÃ­ aftokratorÃ­a tha kyvernÃ­sei ton kosmo gia Ã¡lli mia forÃ¡! / Het Romeinse rijk zal de wereld ooit nog eens besturen!
+v2;30;EmeÃ­s tha! / Zullen we!
+v1;60;Ola tha eÃ­nai kalÃ½tera sti synÃ©cheia! / Alles zal dan beter zijn!
 v2;90;Nai! / Ja!
-v1;100;Cheers gia tin aftokratoría! / Proost voor het rijk!
+v1;100;Cheers gia tin aftokratorÃ­a! / Proost voor het rijk!
 v2;110;Cheers! / Proost!
 
 newchat;key:rain,tag:notraining,weigth:10
-v1;0;Tha vréxei. Sıntoma. / Het gaat spoedig regenen. 
-v2;30;Boro na aisthánomai, pára polı. / Ik voel het ook.
-v1;60;Períergo. Eínai pánta i ídia posotita iméres méchri vréchei. / Vreemd. Het is altijd dezelfde hoeveelheid dagen voor het weer regent.
-v2;100;Nomízete oti étsi, pára polı? / Denk jij dat ook?
-v2;125;Períergo zoí edo, étsi den eínai? / Vreemd leven hier nietwaar?
-v1;155;Sígoura! / Absoluut!
+v1;0;Tha vrÃ©xei. SÃ½ntoma. / Het gaat spoedig regenen. 
+v2;30;Boro na aisthÃ¡nomai, pÃ¡ra polÃ½. / Ik voel het ook.
+v1;60;PerÃ­ergo. EÃ­nai pÃ¡nta i Ã­dia posotita imÃ©res mÃ©chri vrÃ©chei. / Vreemd. Het is altijd dezelfde hoeveelheid dagen voor het weer regent.
+v2;100;NomÃ­zete oti Ã©tsi, pÃ¡ra polÃ½? / Denk jij dat ook?
+v2;125;PerÃ­ergo zoÃ­ edo, Ã©tsi den eÃ­nai? / Vreemd leven hier nietwaar?
+v1;155;SÃ­goura! / Absoluut!
 
 newchat;key:weird1,v2:child,weigth:1
-v1;0;Koíta afto to gouroúni! Eínai charitoméno, étsi den eínai? / Kijk naar dat varken! Schattig of niet?
-v2;30;WAAAaaah, fıge! / WAAAaaah, ga weg!
-v1;60;Fovásai ton choíron? / Ben je bang voor varkens?
-v2;80;N-ochi! Den eímai! / N-nee! Ben ik niet!
-v1;110;Hahahahahaha! Tora afto eínai asteío! / Hahahahahaha! Nou dit is grappig!
+v1;0;KoÃ­ta afto to gouroÃºni! EÃ­nai charitomÃ©no, Ã©tsi den eÃ­nai? / Kijk naar dat varken! Schattig of niet?
+v2;30;WAAAaaah, fÃ½ge! / WAAAaaah, ga weg!
+v1;60;FovÃ¡sai ton choÃ­ron? / Ben je bang voor varkens?
+v2;80;N-ochi! Den eÃ­mai! / N-nee! Ben ik niet!
+v1;110;Hahahahahaha! Tora afto eÃ­nai asteÃ­o! / Hahahahahaha! Nou dit is grappig!
 
 newchat;key:weird2,weigth:1
-v2;0;Aaa ... Kalí souvláki. Thélete mia boukiá? / Ahh... Goeie souvlaki. Wil je wat?
+v2;0;Aaa ... KalÃ­ souvlÃ¡ki. ThÃ©lete mia boukiÃ¡? / Ahh... Goeie souvlaki. Wil je wat?
 v1;30;*Bites* / *Hapt*
-v1;40;Sas efcharisto! Agapo souvláki. / Dank je! Ik houd van souvlaki.
+v1;40;Sas efcharisto! Agapo souvlÃ¡ki. / Dank je! Ik houd van souvlaki.
 v2;70;Poios den! / Wie niet!
-v1;100;Échete poté prospathísei na thései kápoia vromiá gia souvláki? / Heb je ooit geporbeerd aarde op Souvlaki te doen?
+v1;100;Ã‰chete potÃ© prospathÃ­sei na thÃ©sei kÃ¡poia vromiÃ¡ gia souvlÃ¡ki? / Heb je ooit geporbeerd aarde op Souvlaki te doen?
 v2;140;...
 v2;150;Ochi? / Nee?
-v1;170;Merikés forés káno ... Ach .. ola xekínisan otan souvláki mou épese sto édafos pérysi ... Delicous! / Soms doe ik dat... Ah.. Het begon allemaal toen mijn Souvlaki op de grond viel vorig jaar... Heerlijk!
-v2;220;Periménete! Vázete souvláki sas sti vromiá kai sti synécheia na to fáte? Ti sto diáolo ..? / Wacht! Je hebt je Souvlaki op de grond gelegd en gegeten? Wat is er mis met jou..?
-v1;260;Allá kalo goústo! / Maar het smaakte goed!
-v2;280;Eíste pragmatiká trelos. / Je bent echt gek.
+v1;170;MerikÃ©s forÃ©s kÃ¡no ... Ach .. ola xekÃ­nisan otan souvlÃ¡ki mou Ã©pese sto Ã©dafos pÃ©rysi ... Delicous! / Soms doe ik dat... Ah.. Het begon allemaal toen mijn Souvlaki op de grond viel vorig jaar... Heerlijk!
+v2;220;PerimÃ©nete! VÃ¡zete souvlÃ¡ki sas sti vromiÃ¡ kai sti synÃ©cheia na to fÃ¡te? Ti sto diÃ¡olo ..? / Wacht! Je hebt je Souvlaki op de grond gelegd en gegeten? Wat is er mis met jou..?
+v1;260;AllÃ¡ kalo goÃºsto! / Maar het smaakte goed!
+v2;280;EÃ­ste pragmatikÃ¡ trelos. / Je bent echt gek.
 
 newchat;key:weird3,weigth:1
-v1;0;Thélo na odigíso éna gouroúni! / Ik wil een varken berijden!
-v2;30;Giatí? / Waarom?
-v1;60;Eínai diaskedastiko! / Dat is leuk!
-v2;80;Giatí sto kalo tha odigíso éna gouroúni? / Waarom zou je een varken willen berijden?
-v1;110;Epeidí eínai diaskédasi! / Omdat het leuk is!
-v2;120;Eísai trelos. / Je bent gek.
+v1;0;ThÃ©lo na odigÃ­so Ã©na gouroÃºni! / Ik wil een varken berijden!
+v2;30;GiatÃ­? / Waarom?
+v1;60;EÃ­nai diaskedastiko! / Dat is leuk!
+v2;80;GiatÃ­ sto kalo tha odigÃ­so Ã©na gouroÃºni? / Waarom zou je een varken willen berijden?
+v1;110;EpeidÃ­ eÃ­nai diaskÃ©dasi! / Omdat het leuk is!
+v2;120;EÃ­sai trelos. / Je bent gek.
 
 newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
-v1;0;Échete ídi akoúsei gia to mystiko tou xylokopos tou? / Heb je al gehoord van het houthakkersgeheim?
-v2;30;Ochi, ti eínai láthos me afton? / Nee, wat is er mis met hem?
-v1;60;Faínetai na syllégoun ta míla, kai ta poloún stous Normandoús! / Hij lijkt appels te verzamelen en die verkoopt hij aan die Normandiërs!
-v2;90;No way! Kai kratá ta chrímata? / Dat meen je niet! En hij houd het geld?
-v1;120;Fysiká! / Uiteraard!
+v1;0;Ã‰chete Ã­di akoÃºsei gia to mystiko tou xylokopos tou? / Heb je al gehoord van het houthakkersgeheim?
+v2;30;Ochi, ti eÃ­nai lÃ¡thos me afton? / Nee, wat is er mis met hem?
+v1;60;FaÃ­netai na syllÃ©goun ta mÃ­la, kai ta poloÃºn stous NormandoÃºs! / Hij lijkt appels te verzamelen en die verkoopt hij aan die NormandiÃ«rs!
+v2;90;No way! Kai kratÃ¡ ta chrÃ­mata? / Dat meen je niet! En hij houd het geld?
+v1;120;FysikÃ¡! / Uiteraard!
 
 newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
-v1;0;O sızygos mou eípe oti énas varonos tha episkeftheí to chorio mas sıntoma! / Mijn man zei dat er een baron komt om ons dorp te bezoeken!
-v2;30;Giatí tha prépei na échei érthei edo? / Waarom zou die moeten komen?
-v2;40;Éna tétoio ischyro, ischyros kai omorfos ántras ... / Zo’n machtige, sterke en leuke man...
-v1;70;Ti? Boreíte na tous arései? / Wat? Vind je hen leuk?
-v2;100;Tha prépei na paradechto oti eínai elkystikí! / Je moet toegeven dat ze aantrekkelijk zijn!
+v1;0;O sÃ½zygos mou eÃ­pe oti Ã©nas varonos tha episkeftheÃ­ to chorio mas sÃ½ntoma! / Mijn man zei dat er een baron komt om ons dorp te bezoeken!
+v2;30;GiatÃ­ tha prÃ©pei na Ã©chei Ã©rthei edo? / Waarom zou die moeten komen?
+v2;40;Ã‰na tÃ©toio ischyro, ischyros kai omorfos Ã¡ntras ... / Zoâ€™n machtige, sterke en leuke man...
+v1;70;Ti? BoreÃ­te na tous arÃ©sei? / Wat? Vind je hen leuk?
+v2;100;Tha prÃ©pei na paradechto oti eÃ­nai elkystikÃ­! / Je moet toegeven dat ze aantrekkelijk zijn!
 
 newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
-v1;0;Ypárchei mia chalarí gynaíka sto geitoniko chorio! / Er is een alleenstaande vrouw in een buurdorp!
-v1;20;Sımfona me tous ischyrismoús, akomi kai oi ándres tou chorioú mas échoun páei ekeí! / Inderdaad, zelfs mannen uit ons dorp zijn erheen gegaan!
-v2;60;Kako eidíseis! Écho na amfisvitísei ton ántra mou! / Vreselijk nieuws! Ik moet mijn man ondervragen!
-v1;90;Mine faínetai na eínai athoos. Den eíste sígouroi gia to diko sas, agapité mou! / De mijne lijkt onschuldig, maar dat weet ik niet met die van jou schat!
-v2;120;Elpízo na eínai toso kalá. Échei kalıtera. / Ik hoop dat hij dat ook is. Beter van wel.
+v1;0;YpÃ¡rchei mia chalarÃ­ gynaÃ­ka sto geitoniko chorio! / Er is een alleenstaande vrouw in een buurdorp!
+v1;20;SÃ½mfona me tous ischyrismoÃºs, akomi kai oi Ã¡ndres tou chorioÃº mas Ã©choun pÃ¡ei ekeÃ­! / Inderdaad, zelfs mannen uit ons dorp zijn erheen gegaan!
+v2;60;Kako eidÃ­seis! Ã‰cho na amfisvitÃ­sei ton Ã¡ntra mou! / Vreselijk nieuws! Ik moet mijn man ondervragen!
+v1;90;Mine faÃ­netai na eÃ­nai athoos. Den eÃ­ste sÃ­gouroi gia to diko sas, agapitÃ© mou! / De mijne lijkt onschuldig, maar dat weet ik niet met die van jou schat!
+v2;120;ElpÃ­zo na eÃ­nai toso kalÃ¡. Ã‰chei kalÃ½tera. / Ik hoop dat hij dat ook is. Beter van wel.
 
 newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
-v1;0;Mou arései na vlépo paidiá na paízoun! / Ik houd ervan om kinderen te zien spelen!
-v1;20;Tha me kánei pánta na théloun na échoun éna moro! / Ik wil dan altijd een baby hebben!
-v2;50;Eíste sígouroi oti eíste se thési na to antéxoun oikonomiká? / Weet je zeker dat je dat kan betalen?
-v2;70;Ta paidiá eínai akrivá! / Kinderen zijn duur!
-v1;100;Den anisycheí edo! O ánthropos mou échei perissotero apo arketá chrímata. / Geen zorgen! Mijn man heeft meer dan genoeg geld.
+v1;0;Mou arÃ©sei na vlÃ©po paidiÃ¡ na paÃ­zoun! / Ik houd ervan om kinderen te zien spelen!
+v1;20;Tha me kÃ¡nei pÃ¡nta na thÃ©loun na Ã©choun Ã©na moro! / Ik wil dan altijd een baby hebben!
+v2;50;EÃ­ste sÃ­gouroi oti eÃ­ste se thÃ©si na to antÃ©xoun oikonomikÃ¡? / Weet je zeker dat je dat kan betalen?
+v2;70;Ta paidiÃ¡ eÃ­nai akrivÃ¡! / Kinderen zijn duur!
+v1;100;Den anisycheÃ­ edo! O Ã¡nthropos mou Ã©chei perissotero apo arketÃ¡ chrÃ­mata. / Geen zorgen! Mijn man heeft meer dan genoeg geld.
 
 newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
-v1;0;Agapité mou, o ánthropos sas eínai énas méthysos! / Lieve schat, je man is een dronkelap!
-v2;15;Pos boreís na to les afto? / Hoe kun je dat zeggen?
-v1;45;Sızygos sas írthe methysménos sto spíti mas chthes to vrády! / Je man kwam dronken naar ons huis vannacht!
-v1;70;Eípe oti thélei na pantrefteí éna provato. / Hij zei dat hij een schaap wilde trouwen.
-v1;100;Kai oti tha ypárxei mia terástia celebretion gámo! / En dat er een groot trouwfeest komt!
-v1;130;Parakaloúme, anaktísei ton élencho páno apo to átomo sas. / Alsjeblieft, krijg de controle terug.
-v1;150;Eínai pragmatiká anatrichiastiko. / Het is echt eng.
-v2;180;Entáxei entáxei, ego tha ton timorísei! / Ok ok, ik zal hem straffen!
-v2;210;Den krasí gi 'afton! / Geen wijn voor hem!
+v1;0;AgapitÃ© mou, o Ã¡nthropos sas eÃ­nai Ã©nas mÃ©thysos! / Lieve schat, je man is een dronkelap!
+v2;15;Pos boreÃ­s na to les afto? / Hoe kun je dat zeggen?
+v1;45;SÃ½zygos sas Ã­rthe methysmÃ©nos sto spÃ­ti mas chthes to vrÃ¡dy! / Je man kwam dronken naar ons huis vannacht!
+v1;70;EÃ­pe oti thÃ©lei na pantrefteÃ­ Ã©na provato. / Hij zei dat hij een schaap wilde trouwen.
+v1;100;Kai oti tha ypÃ¡rxei mia terÃ¡stia celebretion gÃ¡mo! / En dat er een groot trouwfeest komt!
+v1;130;ParakaloÃºme, anaktÃ­sei ton Ã©lencho pÃ¡no apo to Ã¡tomo sas. / Alsjeblieft, krijg de controle terug.
+v1;150;EÃ­nai pragmatikÃ¡ anatrichiastiko. / Het is echt eng.
+v2;180;EntÃ¡xei entÃ¡xei, ego tha ton timorÃ­sei! / Ok ok, ik zal hem straffen!
+v2;210;Den krasÃ­ gi 'afton! / Geen wijn voor hem!
 
 newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
-v1;0;Psomí sas eínai toso nostimo! Poio eínai to mystiko sas? / Jouw brood is zo lekker! Wat is je geheim?
-v2;30;Aplá prosthéste lígi záchari mésa. / Gewoon een klein beetje suiker erbij.
-v1;60;Alítheia? Típota perissotero? / Echt? Niks meer?
-v2;90;Afto ítan! Tha gefteíte tin diaforá. / Dat is het! Je zal het verschil proeven.
+v1;0;PsomÃ­ sas eÃ­nai toso nostimo! Poio eÃ­nai to mystiko sas? / Jouw brood is zo lekker! Wat is je geheim?
+v2;30;AplÃ¡ prosthÃ©ste lÃ­gi zÃ¡chari mÃ©sa. / Gewoon een klein beetje suiker erbij.
+v1;60;AlÃ­theia? TÃ­pota perissotero? / Echt? Niks meer?
+v2;90;Afto Ã­tan! Tha gefteÃ­te tin diaforÃ¡. / Dat is het! Je zal het verschil proeven.
 
 newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
-v1;0;Poios ítan o ánthropos pou échete episkeftheí chthes to vrády? / Wie was de man die jou vorige nacht bezocht?
-v2;30;Ti ánthropos? / Welke man?
-v1;40;O ánthropos pou sırthike éxo apo to paráthyro sas! / De man die uit jouw raam kroop!
-v1;45;Min nomízete oti den tha paratirísete! / Denk niet dat ik dat niet zou horen!
-v2;60;Pos tolmás ..? Ímoun kai eímai pánta pistí sto sızygo mou. / Hoe kun je..? Ik was en ben altijd te vertrouwen voor mijn man.
-v1;80;Nai, nai. Tha élega oti, kathos, an ímoun sti thési sou. / Ja, ja. Dat zou ik ook zeggen.
-v2;110;fto den eínai díkaio! Min diadídoun fímes gia ména. / Dat is niet eerlijk! Geen geruchten over mij verspreiden.
+v1;0;Poios Ã­tan o Ã¡nthropos pou Ã©chete episkeftheÃ­ chthes to vrÃ¡dy? / Wie was de man die jou vorige nacht bezocht?
+v2;30;Ti Ã¡nthropos? / Welke man?
+v1;40;O Ã¡nthropos pou sÃ½rthike Ã©xo apo to parÃ¡thyro sas! / De man die uit jouw raam kroop!
+v1;45;Min nomÃ­zete oti den tha paratirÃ­sete! / Denk niet dat ik dat niet zou horen!
+v2;60;Pos tolmÃ¡s ..? Ãmoun kai eÃ­mai pÃ¡nta pistÃ­ sto sÃ½zygo mou. / Hoe kun je..? Ik was en ben altijd te vertrouwen voor mijn man.
+v1;80;Nai, nai. Tha Ã©lega oti, kathos, an Ã­moun sti thÃ©si sou. / Ja, ja. Dat zou ik ook zeggen.
+v2;110;fto den eÃ­nai dÃ­kaio! Min diadÃ­doun fÃ­mes gia mÃ©na. / Dat is niet eerlijk! Geen geruchten over mij verspreiden.
 
 newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
-v1;0;Aftá ta néa ergaleía mageirikís eínai exairetiko! / Dit nieuwe kookgerei is geweldig!
-v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Ja, het maakt koken zo makkelijk! Het is leuk!
-v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / De dank gaat uit naar de smeden en handwerkers voor dit idee!
-v2;90;Nai! Gi 'afto mou arései na Romaïkí. / Ja! Daarom vind ik het geweldig Romeins te zijn.
+v1;0;AftÃ¡ ta nÃ©a ergaleÃ­a mageirikÃ­s eÃ­nai exairetiko! / Dit nieuwe kookgerei is geweldig!
+v2;30;Nai, kÃ¡nei to mageÃ­rema toso Ã©fkolo! EÃ­nai diaskedastiko! / Ja, het maakt koken zo makkelijk! Het is leuk!
+v1;60;Efcharisto pigaÃ­nei stous Smiths kai technÃ­tes, oi opoÃ­oi skefteÃ­ tÃ©toia prÃ¡gmata! / De dank gaat uit naar de smeden en handwerkers voor dit idee!
+v2;90;Nai! Gi 'afto mou arÃ©sei na RomaÃ¯kÃ­. / Ja! Daarom vind ik het geweldig Romeins te zijn.
 
-newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:richwife_byzantine,v2:notvtype:richwife_byzantine,weigth:15
-v1;0;Eímai ziliáris afton ton plousíon. / Ik kijk op tegen die rijke personen.
-v1;20;Échoun tétoia oraía roúcha apo metáxi! / Ze hebben zulke mooie zijden kleding!
-v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalıtera prágmata pou oútos í állos. / Dat is echt niet eerlijk. Ze doen niks en krijgen toch de beste dingen.
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
+v1;0;EÃ­mai ziliÃ¡ris afton ton plousÃ­on. / Ik kijk op tegen die rijke personen.
+v1;20;Ã‰choun tÃ©toia oraÃ­a roÃºcha apo metÃ¡xi! / Ze hebben zulke mooie zijden kleding!
+v2;50;Afto den eÃ­nai pragmatikÃ¡ dÃ­kaios. Den kÃ¡noun tÃ­pota kai na pÃ¡rete ta kalÃ½tera prÃ¡gmata pou oÃºtos Ã­ Ã¡llos. / Dat is echt niet eerlijk. Ze doen niks en krijgen toch de beste dingen.
 
 newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
-v1;0;Échete akoúsei gia afto to varono se éna geitoniko chorio? / Heb je van die baron gehoord in ons buurdorp?
-v2;30;Nai, afto eínai to éna tou opoíou i gynaíka vréthike dolofoniméni? / Ja, diegene van wie zijn vrouw vermoord is toch?
-v1;60;Akrivos! O sızygos mou mou eípe mono oti o varonos aftoktonise ti gynaíka tou! / Inderdaad! Mijn man zei net dat die baron zelf zijn vrouw heeft vermoord!
+v1;0;Ã‰chete akoÃºsei gia afto to varono se Ã©na geitoniko chorio? / Heb je van die baron gehoord in ons buurdorp?
+v2;30;Nai, afto eÃ­nai to Ã©na tou opoÃ­ou i gynaÃ­ka vrÃ©thike dolofonimÃ©ni? / Ja, diegene van wie zijn vrouw vermoord is toch?
+v1;60;Akrivos! O sÃ½zygos mou mou eÃ­pe mono oti o varonos aftoktonise ti gynaÃ­ka tou! / Inderdaad! Mijn man zei net dat die baron zelf zijn vrouw heeft vermoord!
 v2;100; .. Ti? / Wat..?
-v2;130;Pánta íxera oti eprokeito na! / Ik heb altijd geweten dat hij dat ging doen!
-v2;150;Allá kaneís den me písteve ..! / Maar niemand geloofde me..!
+v2;130;PÃ¡nta Ã­xera oti eprokeito na! / Ik heb altijd geweten dat hij dat ging doen!
+v2;150;AllÃ¡ kaneÃ­s den me pÃ­steve ..! / Maar niemand geloofde me..!
 
 newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
-v1;0;Échete poté skefteí gia to pos tha ítan an eíchame ton polemo? / Heb je er ooit over gedacht hoe het zou zijn als er oorlog was?
-v1;30;Ypárchoun akomi kai tora oi ándres agonízontai gia ti chora mas! / Zelfs nu vechten mannen voor ons land!
-v1;55;Thavmázo pragmatiká tous! / Ik ben echt gek op ze!
-v2;80;Énas polemos tha eínai tromero. / Een oorlog zou vreselijk zijn.
-v2;110;Ego na mantépsete akrivos san stratiotes. / Ik denk dat jij gewoon soldaten leuk vindt.
-v2;140;Allá échete énan ántra! / Maar je hebt een man!
-v1;170;Allá énas tempélis kai sychná methysménos éna! / Maar een luie en vaak dronken man!
+v1;0;Ã‰chete potÃ© skefteÃ­ gia to pos tha Ã­tan an eÃ­chame ton polemo? / Heb je er ooit over gedacht hoe het zou zijn als er oorlog was?
+v1;30;YpÃ¡rchoun akomi kai tora oi Ã¡ndres agonÃ­zontai gia ti chora mas! / Zelfs nu vechten mannen voor ons land!
+v1;55;ThavmÃ¡zo pragmatikÃ¡ tous! / Ik ben echt gek op ze!
+v2;80;Ã‰nas polemos tha eÃ­nai tromero. / Een oorlog zou vreselijk zijn.
+v2;110;Ego na mantÃ©psete akrivos san stratiotes. / Ik denk dat jij gewoon soldaten leuk vindt.
+v2;140;AllÃ¡ Ã©chete Ã©nan Ã¡ntra! / Maar je hebt een man!
+v1;170;AllÃ¡ Ã©nas tempÃ©lis kai sychnÃ¡ methysmÃ©nos Ã©na! / Maar een luie en vaak dronken man!
 
-newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
-v1;0;Xérete tin omorfiá sto geitoniko chorio? / Ken jij de schoonheid van het buurdorp?
-v2;30;Fysiká, eínai polı charitoméno. / Uiteraard, ze is echt schattig.
-v1;60;Ti tha gínei me tin epískepsi tis? / Wat dacht je van een bezoekje?
-v2;90;Xérete oti i gynaíka sas tha trelatho tote! / Je weet dat je vrouw dan gek wordt!
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
+v1;0;XÃ©rete tin omorfiÃ¡ sto geitoniko chorio? / Ken jij de schoonheid van het buurdorp?
+v2;30;FysikÃ¡, eÃ­nai polÃ½ charitomÃ©no. / Uiteraard, ze is echt schattig.
+v1;60;Ti tha gÃ­nei me tin epÃ­skepsi tis? / Wat dacht je van een bezoekje?
+v2;90;XÃ©rete oti i gynaÃ­ka sas tha trelatho tote! / Je weet dat je vrouw dan gek wordt!
 
-newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
-v1;0;Sızygos tou techníti eínai polı omorfos, ti nomízete? / De handwerkers vrouw ziet er goed uit vind je niet?
-v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Ja, ze is niet slecht. Helaas is ze al getrouwd!
-v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Nou ja. En het zou niet eerlijk voor hem zijn.
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
+v1;0;SÃ½zygos tou technÃ­ti eÃ­nai polÃ½ omorfos, ti nomÃ­zete? / De handwerkers vrouw ziet er goed uit vind je niet?
+v2;40;Nai, den eÃ­nai kako. Dystychos aftÃ­ eÃ­nai Ã­di pantremÃ©ni! / Ja, ze is niet slecht. Helaas is ze al getrouwd!
+v1;70;KalÃ¡ nai. Kai den tha Ã­tan dÃ­kaii gia afton. / Nou ja. En het zou niet eerlijk voor hem zijn.
 v2;100;Symfono. / Mee eens.
 
 newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
-v1;0;Den échoume arketo krasí se afto to chorio! / We hebben niet genoeg wijn in dit dorp!
-v2;30;Symfono! Prépei na chtísoume páno ampélia! / Mee eens! We hebben meer wijnmakerijen nodig!
-v1;60;Kai perissoteres tavérnes! / En meer taveernes!
-v2;90;Ti tha gínei me to ánoigma dikí mas tavérna? / Zullen we onze nieuwe taveerne openen?
-v1;120;Megáli idéa! As to schédio afto. / Geweldig idee! Laten we dit plannen.
-v2;150;Allá poú na archísoume? / Maar waar beginnen we?
-v1;180;Kai oi gynaíkes mas den tha eínai eftychís na akoúso afto! / En onze vrouwen zullen niet te blij zijn dat te horen!
-v2;210;Ochi, polisi romaïko krasí eínai pánta mia dikaiología! / Nee, Romeinse wijn verkopen is altijd een excuus!
-v1;240;Entáxei! Sti synécheia, afíste mas na exoikonomísete chrímata mas. / Ok! Laten we ons geld dan sparen.
-v1;270;Otan échoume kerdísei arketá, as ekplirosei to schédio mas! / Als we genoeg verdiend hebben gaan we ons plan ten uitvoer brengen!
-v2;300;Tha échoume ti megalıteri tavérna se oli tin aftokratoría! / We zullen de beste taveerne hebben in het gehele rijk!
-v1;325;Sígoura! / Absoluut!
+v1;0;Den Ã©choume arketo krasÃ­ se afto to chorio! / We hebben niet genoeg wijn in dit dorp!
+v2;30;Symfono! PrÃ©pei na chtÃ­soume pÃ¡no ampÃ©lia! / Mee eens! We hebben meer wijnmakerijen nodig!
+v1;60;Kai perissoteres tavÃ©rnes! / En meer taveernes!
+v2;90;Ti tha gÃ­nei me to Ã¡noigma dikÃ­ mas tavÃ©rna? / Zullen we onze nieuwe taveerne openen?
+v1;120;MegÃ¡li idÃ©a! As to schÃ©dio afto. / Geweldig idee! Laten we dit plannen.
+v2;150;AllÃ¡ poÃº na archÃ­soume? / Maar waar beginnen we?
+v1;180;Kai oi gynaÃ­kes mas den tha eÃ­nai eftychÃ­s na akoÃºso afto! / En onze vrouwen zullen niet te blij zijn dat te horen!
+v2;210;Ochi, polisi romaÃ¯ko krasÃ­ eÃ­nai pÃ¡nta mia dikaiologÃ­a! / Nee, Romeinse wijn verkopen is altijd een excuus!
+v1;240;EntÃ¡xei! Sti synÃ©cheia, afÃ­ste mas na exoikonomÃ­sete chrÃ­mata mas. / Ok! Laten we ons geld dan sparen.
+v1;270;Otan Ã©choume kerdÃ­sei arketÃ¡, as ekplirosei to schÃ©dio mas! / Als we genoeg verdiend hebben gaan we ons plan ten uitvoer brengen!
+v2;300;Tha Ã©choume ti megalÃ½teri tavÃ©rna se oli tin aftokratorÃ­a! / We zullen de beste taveerne hebben in het gehele rijk!
+v1;325;SÃ­goura! / Absoluut!
 
 newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
-v1;0;Échete dokimásei poté Norman ergaleía? / Heb je ooit Normandische werktuigen geprobeerd?
-v2;30;Ochi, allá écho akoúsei oti eínai polı apotelesmatikí! / Nee, Maar ik heb gehoord dat ze heel effectief zijn!
-v1;60;Eínai alítheia. Poté den eícha doulépsei me tétoia kalá ergaleía prin. / Dat is waar. Ik heb nooit zo’n goed werktuig in handen gehad.
-v2;90;Periménete ... Échete éna ergaleío Norman? / Wacht... Jij hebt een Normandisch werktuig?
-v1;120;Err, eícha. Échei kápos chatheí! / Ehh, had ik. Op een of andere manier is het weg!
-v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / WAT? Je had zo’n werktuig maar bent het kwijt?
-v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / Ja... Nu zijn er alleen herinneringen over...
+v1;0;Ã‰chete dokimÃ¡sei potÃ© Norman ergaleÃ­a? / Heb je ooit Normandische werktuigen geprobeerd?
+v2;30;Ochi, allÃ¡ Ã©cho akoÃºsei oti eÃ­nai polÃ½ apotelesmatikÃ­! / Nee, Maar ik heb gehoord dat ze heel effectief zijn!
+v1;60;EÃ­nai alÃ­theia. PotÃ© den eÃ­cha doulÃ©psei me tÃ©toia kalÃ¡ ergaleÃ­a prin. / Dat is waar. Ik heb nooit zoâ€™n goed werktuig in handen gehad.
+v2;90;PerimÃ©nete ... Ã‰chete Ã©na ergaleÃ­o Norman? / Wacht... Jij hebt een Normandisch werktuig?
+v1;120;Err, eÃ­cha. Ã‰chei kÃ¡pos chatheÃ­! / Ehh, had ik. Op een of andere manier is het weg!
+v2;140;TI? EÃ­ches Ã©na tÃ©toio ergaleÃ­o kai na to chÃ¡sei? / WAT? Je had zoâ€™n werktuig maar bent het kwijt?
+v1;170;Nai ... Tora ypÃ¡rchoun mono anamnÃ­seis aristerÃ¡ ... / Ja... Nu zijn er alleen herinneringen over...
 
-newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
-v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Boem! Ik heb net de nieuwe morgenster kunnen uitproberen!
-v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Ja! Het is een geweldig wapen! Het slaat vijanden ver weg!
-v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Indrukwekkend hè? Dit Romeinse meesterstuk kan niet vergeleken worden met iets anders in de wereld.
-v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / Daarom zijn we trots dat we Romeinen zijn!
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+v1;0;Boom! Ãmoun molis eÃ­nai se thÃ©si na elÃ©nxei Ã©xo ti nÃ©a ropalo! / Boem! Ik heb net de nieuwe morgenster kunnen uitproberen!
+v2;30;Nai! Prokeitai gia Ã©na fovero oplo! EÃ­nai chtypÃ¡ tous echthroÃºs makriÃ¡! / Ja! Het is een geweldig wapen! Het slaat vijanden ver weg!
+v1;60;Entyposiako, e? Afto to aristoÃºrgima RomaÃ¯kÃ­ den boreÃ­ na synkritheÃ­ me otidÃ­pote Ã¡llo se afto ton kosmo. / Indrukwekkend hÃ¨? Dit Romeinse meesterstuk kan niet vergeleken worden met iets anders in de wereld.
+v2;100;Thats giatÃ­ boroÃºme na eÃ­maste yperÃ­fanoi na eÃ­nai RomaÃ­oi! / Daarom zijn we trots dat we Romeinen zijn!
 
 newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
-v1;0;Megáli trofímon, megála opla, megáli téchni - afto eínai o, ti eínai to éthnos mas! / Goed eten, goede wapens, geode kunst – dat is wat ons land is!
-v2;30;Kai kalo krasí! / En goede wijn!
+v1;0;MegÃ¡li trofÃ­mon, megÃ¡la opla, megÃ¡li tÃ©chni - afto eÃ­nai o, ti eÃ­nai to Ã©thnos mas! / Goed eten, goede wapens, geode kunst â€“ dat is wat ons land is!
+v2;30;Kai kalo krasÃ­! / En goede wijn!
 
 newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
-v1;0;Echo varetheí ti sızygo mou. Thélo na écho éna kainoúrgio! / Ik ben klaar met mijn vrouw. Ik wil een nieuwe!
-v2;30;Poios den échei? / Wie niet?
-v1;60;Ísos prépei na afísoume xafniká to chorio kai sti synécheia na psáxoume gia néa! / Misschien moeten we ineens het dorp verlaten en een nieuwe zoeken!
-v2;90;Nai! Oi Mágia kai oi Indoí échoun tétoies omorfes gynaíkes, échete dei? / Ja! De Maya’s en Indiërs hebben prachtige vrouwen. Heb je die gezien?
-v2;140;Allá ... To chorio chánetai chorís emás. / Maar... Dit dorp is verloren zonder ons. 
-v2;160;Kai min xechnáte ta paidiá mas! / En vergeet onze kinderen niet!
-v1;180;Urgh! Ta paidiá mas! Den tha epiviosei chorís patéra! / Jagh! Onze kinderen! Die zullen niet overleven zonder vader.
-v1;220;Allá ... afto den simaínei oti prépei na synechísoume me varetí zoí mas edo? / Maar... betekent dit dat we door moeten gaan met ons saaie leven hier?
-v2;255;Ypothéto oti aftos eínai o kalıteros tropos na páei. / Ik denk dat dat de beste weg Is om te begaan.
+v1;0;Echo varetheÃ­ ti sÃ½zygo mou. ThÃ©lo na Ã©cho Ã©na kainoÃºrgio! / Ik ben klaar met mijn vrouw. Ik wil een nieuwe!
+v2;30;Poios den Ã©chei? / Wie niet?
+v1;60;Ãsos prÃ©pei na afÃ­soume xafnikÃ¡ to chorio kai sti synÃ©cheia na psÃ¡xoume gia nÃ©a! / Misschien moeten we ineens het dorp verlaten en een nieuwe zoeken!
+v2;90;Nai! Oi MÃ¡gia kai oi IndoÃ­ Ã©choun tÃ©toies omorfes gynaÃ­kes, Ã©chete dei? / Ja! De Mayaâ€™s en IndiÃ«rs hebben prachtige vrouwen. Heb je die gezien?
+v2;140;AllÃ¡ ... To chorio chÃ¡netai chorÃ­s emÃ¡s. / Maar... Dit dorp is verloren zonder ons. 
+v2;160;Kai min xechnÃ¡te ta paidiÃ¡ mas! / En vergeet onze kinderen niet!
+v1;180;Urgh! Ta paidiÃ¡ mas! Den tha epiviosei chorÃ­s patÃ©ra! / Jagh! Onze kinderen! Die zullen niet overleven zonder vader.
+v1;220;AllÃ¡ ... afto den simaÃ­nei oti prÃ©pei na synechÃ­soume me varetÃ­ zoÃ­ mas edo? / Maar... betekent dit dat we door moeten gaan met ons saaie leven hier?
+v2;255;YpothÃ©to oti aftos eÃ­nai o kalÃ½teros tropos na pÃ¡ei. / Ik denk dat dat de beste weg Is om te begaan.
 
 newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
-v1;0;Eínai apístefto poso leptomerí matiá eikones sas. / Het is behoorlijk mooi hoe gedetailleerd jouw iconen zijn.
-v2;30;Fysiká, dedoménou oti eínai megáli romaïkí téchni! / Natuurlijk, want het is geweldige Romeinse kunst!
-v1;60;Opos kai o, ti kánoume. Koitáxte omorfa spítia mas! / Zoals alles wat we doen. Kijk naar onze prachthuizen!
-v2;90;Kai min xechnáte éndoxi istoría mas! / En vergeet onze geweldige historie niet!
+v1;0;EÃ­nai apÃ­stefto poso leptomerÃ­ matiÃ¡ eikones sas. / Het is behoorlijk mooi hoe gedetailleerd jouw iconen zijn.
+v2;30;FysikÃ¡, dedomÃ©nou oti eÃ­nai megÃ¡li romaÃ¯kÃ­ tÃ©chni! / Natuurlijk, want het is geweldige Romeinse kunst!
+v1;60;Opos kai o, ti kÃ¡noume. KoitÃ¡xte omorfa spÃ­tia mas! / Zoals alles wat we doen. Kijk naar onze prachthuizen!
+v2;90;Kai min xechnÃ¡te Ã©ndoxi istorÃ­a mas! / En vergeet onze geweldige historie niet!
 
 newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
-v1;0;Thymáste to korítsi pou polémisan páno stin paidikí ilikía mas? / Kan je je dat meisje herinneren waar we om vochten?
-v2;30; Nai ... Ítan mia polı kakí stigmí. Kalí oti eínai páno. / Ja... Dat was een rottijd. Goed dat het voorbij is.
-v1;60;Chaíromai pou to akoúo, giatí mou eípe aplá oti mou árese pánta! / Mooi om dat te horen, want ze heeft me net gezegd dat ze me altijd leuk vond!
-v2;90;Ti? Afto den eínai alítheia! / Wat? Dat is niet waar!
+v1;0;ThymÃ¡ste to korÃ­tsi pou polÃ©misan pÃ¡no stin paidikÃ­ ilikÃ­a mas? / Kan je je dat meisje herinneren waar we om vochten?
+v2;30; Nai ... Ãtan mia polÃ½ kakÃ­ stigmÃ­. KalÃ­ oti eÃ­nai pÃ¡no. / Ja... Dat was een rottijd. Goed dat het voorbij is.
+v1;60;ChaÃ­romai pou to akoÃºo, giatÃ­ mou eÃ­pe aplÃ¡ oti mou Ã¡rese pÃ¡nta! / Mooi om dat te horen, want ze heeft me net gezegd dat ze me altijd leuk vond!
+v2;90;Ti? Afto den eÃ­nai alÃ­theia! / Wat? Dat is niet waar!
 
 newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
-v1;0;Geia sou omorfiá, sas arései afto pou vlépete? / Hey schatje, vind je leuk wat je ziet?
-v2;20;*chastoúki* / *klap*
-v2;25;Échete mia gynaíka. / Je hebt een vrouw. 
+v1;0;Geia sou omorfiÃ¡, sas arÃ©sei afto pou vlÃ©pete? / Hey schatje, vind je leuk wat je ziet?
+v2;20;*chastoÃºki* / *klap*
+v2;25;Ã‰chete mia gynaÃ­ka. / Je hebt een vrouw. 
 
 newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
-v1;0;Geia sou, koitás polı oraía símera $targetfirstname! / Hey, je ziet er goed uit vandaag $targetfirstname!
+v1;0;Geia sou, koitÃ¡s polÃ½ oraÃ­a sÃ­mera $targetfirstname! / Hey, je ziet er goed uit vandaag $targetfirstname!
 v2;30;Sas efcharisto! / Dankje! 
-v1;60;Opos pánta, agapité mou! / Zoals altijd, mijn liefje!
+v1;60;Opos pÃ¡nta, agapitÃ© mou! / Zoals altijd, mijn liefje!
 
 newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
-v1;0;Hey $targetfirstname, kánei mia omorfiá opos eseís thélete eínai éna omorfos ántras san ki eména? / Hey $targetfirstname, houd een schoonheid zoals jij van een bink zoals ik?
-v2;40;Eíste pantreménos, kai eímai toso kalá. / Je bent getrouwd en ik ook.
-v2;60;Ypothéto oti den eíste pistoí! Tha po sti gynaíka sas! / Jij bent niet te vertrouwen! Ik zeg het tegen je vrouw!
-v1;75;OCHI - Min kánete tha- / Nee – Doe dat nie-
-v1;85;Eímai kako dídymo adelfo tou! / Ik ben zijn kwaadaardige tweelingbroer!
-v2;120;Fysiká eíste! To ídio kako dídymo pou eínai pánta methysménos! / Natuurlijk ben jij dat! De zelfde kwaadaardige tweeling die altijd drunken is!
+v1;0;Hey $targetfirstname, kÃ¡nei mia omorfiÃ¡ opos eseÃ­s thÃ©lete eÃ­nai Ã©na omorfos Ã¡ntras san ki emÃ©na? / Hey $targetfirstname, houd een schoonheid zoals jij van een bink zoals ik?
+v2;40;EÃ­ste pantremÃ©nos, kai eÃ­mai toso kalÃ¡. / Je bent getrouwd en ik ook.
+v2;60;YpothÃ©to oti den eÃ­ste pistoÃ­! Tha po sti gynaÃ­ka sas! / Jij bent niet te vertrouwen! Ik zeg het tegen je vrouw!
+v1;75;OCHI - Min kÃ¡nete tha- / Nee â€“ Doe dat nie-
+v1;85;EÃ­mai kako dÃ­dymo adelfo tou! / Ik ben zijn kwaadaardige tweelingbroer!
+v2;120;FysikÃ¡ eÃ­ste! To Ã­dio kako dÃ­dymo pou eÃ­nai pÃ¡nta methysmÃ©nos! / Natuurlijk ben jij dat! De zelfde kwaadaardige tweeling die altijd drunken is!
 
 newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
-v1;0;Pos tha me gynaíka-ta prágmatá sas? / Hoe gaat het met jouw vrouw-dingen?
-v2;30;Kalí kalí, ektos apo tin aísthisi lígo áschima ... / Goed goed, afgezien van een wat slecht gevoel...
-v1;60;O, ochi, ti synévi? / Oh nee, wat is er gebeurd?
-v2;90;O sızygos mou moú fonaxe. / Mijn man schreeuwde tegen me.
-v1;120;Pos boreí o ídios se mia tétoia omorfiá? / Hoe kan hij tegen zo’n schoonheid?
-v2;150;Sas efcharistoúme gia epeffimíes mou epáno, $targetfirstname! / Bedankt voor je oppeppende praatje, $targetfirstname!
+v1;0;Pos tha me gynaÃ­ka-ta prÃ¡gmatÃ¡ sas? / Hoe gaat het met jouw vrouw-dingen?
+v2;30;KalÃ­ kalÃ­, ektos apo tin aÃ­sthisi lÃ­go Ã¡schima ... / Goed goed, afgezien van een wat slecht gevoel...
+v1;60;O, ochi, ti synÃ©vi? / Oh nee, wat is er gebeurd?
+v2;90;O sÃ½zygos mou moÃº fonaxe. / Mijn man schreeuwde tegen me.
+v1;120;Pos boreÃ­ o Ã­dios se mia tÃ©toia omorfiÃ¡? / Hoe kan hij tegen zoâ€™n schoonheid?
+v2;150;Sas efcharistoÃºme gia epeffimÃ­es mou epÃ¡no, $targetfirstname! / Bedankt voor je oppeppende praatje, $targetfirstname!
 
 newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
 v2;0;*urgh*
-v1;30;Eísai entáxei, $targetfirstname? / Ben je in orde, $targetfirstname?
-v2;50;Nai, afto eínai mono i sklirí douleiá! / Ja, het is gewoon het harde werk!
-v1;70;Boro na sas voithíso? Tha aisthantheíte kalıtera sti synécheia? / Mag ik je helpen? Zou je je dan beter voelen?
-v2;90;Fysiká! Sas efcharistoúme! / Zeer zeker! Dank je!
+v1;30;EÃ­sai entÃ¡xei, $targetfirstname? / Ben je in orde, $targetfirstname?
+v2;50;Nai, afto eÃ­nai mono i sklirÃ­ douleiÃ¡! / Ja, het is gewoon het harde werk!
+v1;70;Boro na sas voithÃ­so? Tha aisthantheÃ­te kalÃ½tera sti synÃ©cheia? / Mag ik je helpen? Zou je je dan beter voelen?
+v2;90;FysikÃ¡! Sas efcharistoÃºme! / Zeer zeker! Dank je!
 
 newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
-v1;0;Pos páei? / Hoe gaat het?
-v2;30;Ola eínai mia chará, ti gia sas? / Alles is goed en met jou?
-v1;60;Eínai pára polı! Efcharisto gia tin erotisi. / Ja ook! Bedankt voor het vragen.
-v1;75;Allá vlépo oti ypárchei káti pou sas enochleí! / Maar ik zie dat iets je dwars zit!
-v2;90;Eínai - típota. / Het is - niks.
-v1;110;Parakalo peíte mou! / Alsjeblieft, zeg het me!
-v2;130;Eínai mono oti i zoí mou edo eínai toso varetí. / Mijn leven hier is zo saai.
-v2;160;Efchomai pragmatiká eícha apofasísei na páei se mia poli otan ímoun néos! / Ik had echt naar een grote stad moeten gaan toen ik jong was!
+v1;0;Pos pÃ¡ei? / Hoe gaat het?
+v2;30;Ola eÃ­nai mia charÃ¡, ti gia sas? / Alles is goed en met jou?
+v1;60;EÃ­nai pÃ¡ra polÃ½! Efcharisto gia tin erotisi. / Ja ook! Bedankt voor het vragen.
+v1;75;AllÃ¡ vlÃ©po oti ypÃ¡rchei kÃ¡ti pou sas enochleÃ­! / Maar ik zie dat iets je dwars zit!
+v2;90;EÃ­nai - tÃ­pota. / Het is - niks.
+v1;110;Parakalo peÃ­te mou! / Alsjeblieft, zeg het me!
+v2;130;EÃ­nai mono oti i zoÃ­ mou edo eÃ­nai toso varetÃ­. / Mijn leven hier is zo saai.
+v2;160;Efchomai pragmatikÃ¡ eÃ­cha apofasÃ­sei na pÃ¡ei se mia poli otan Ã­moun nÃ©os! / Ik had echt naar een grote stad moeten gaan toen ik jong was!
 
 newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
-v1;0;Adelfos $targetfirstname, eínai kalo na sas doúme! / Broeder $targetfirstname, het is goed je te zien!
-v1;30;Vríka ton palio xılino spathí mas! / Ik heb zojuist ons oude houten zwaard gevonden!
-v1;50;Thymáste? / Weet je nog?
-v2;80;Periménete! Eínai afto to xífos tou patéra mas, mas édose? / Wacht! Is dit het zwaard dat onze vader gaf?
-v1;110;Eínai! Thymáste tous agones mas me afto? / Die ja! Kan je je onze gevechten ermee nog herinneren?
-v2;140;Pos tha boroúsa na xecháso! Exakoloutho na écho kápoia simádia. / Hoe kan ik dat vergeten! Ik heb nog steeds littekens.
-v2;170;An skéfteste perissotero gi 'afto ... / Terwijl we er toch over denken...
-v2;200;Ítan to eídos tis sklirís tou patéra mas gia na mas dosei mono éna spathí! / Het was best wreed dat hij maar één zwaard gaf!
-v2;240;Íxere oti tha agonistoúme gia afto! / Hij wist dat we erom gingen vechten!
-v1;270;Ypothéto oti eínai entáxei! / Ik denk dat het goed zit!
-v2;300;Epeidí to krátisa! / Omdat jij hem gehouden hebt!
+v1;0;Adelfos $targetfirstname, eÃ­nai kalo na sas doÃºme! / Broeder $targetfirstname, het is goed je te zien!
+v1;30;VrÃ­ka ton palio xÃ½lino spathÃ­ mas! / Ik heb zojuist ons oude houten zwaard gevonden!
+v1;50;ThymÃ¡ste? / Weet je nog?
+v2;80;PerimÃ©nete! EÃ­nai afto to xÃ­fos tou patÃ©ra mas, mas Ã©dose? / Wacht! Is dit het zwaard dat onze vader gaf?
+v1;110;EÃ­nai! ThymÃ¡ste tous agones mas me afto? / Die ja! Kan je je onze gevechten ermee nog herinneren?
+v2;140;Pos tha boroÃºsa na xechÃ¡so! Exakoloutho na Ã©cho kÃ¡poia simÃ¡dia. / Hoe kan ik dat vergeten! Ik heb nog steeds littekens.
+v2;170;An skÃ©fteste perissotero gi 'afto ... / Terwijl we er toch over denken...
+v2;200;Ãtan to eÃ­dos tis sklirÃ­s tou patÃ©ra mas gia na mas dosei mono Ã©na spathÃ­! / Het was best wreed dat hij maar Ã©Ã©n zwaard gaf!
+v2;240;Ãxere oti tha agonistoÃºme gia afto! / Hij wist dat we erom gingen vechten!
+v1;270;YpothÃ©to oti eÃ­nai entÃ¡xei! / Ik denk dat het goed zit!
+v2;300;EpeidÃ­ to krÃ¡tisa! / Omdat jij hem gehouden hebt!
 
 newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
-v1;0;Thymáste ton iníocho pou agápise toso polı stin paidikí ilikía mas? / Kan je je die strijdwagenman nog herinneren?
-v2;30;Apo tin adelfí poreía. Ímastan oi megalıteroi opadoí! / Natuurlijk zuster. We waren de grootste fans!
-v1;60;Anarotiémai ti synévi s 'afton. / Ik vraag me af wat er gebeurd is met hem. 
-v1;90;Tha akoúsei típota gi 'afton pia ... / Je hoort niks meer van hem...
-v2;120;Eínai pithanon enkatastáthikan s 'éna chorio san ti dikí mas kai eíche mia sızygo kai ta paidiá. / Hij is waarschijnlijk in een dorpje gaan wonen met vrouw en kinderen.
-v1;150;Télos pánton exakoloutho na elpízo na ton synantíso kápoia stigmí! / Ik hoop hoe dan ook hem nog een keer te zien!
+v1;0;ThymÃ¡ste ton inÃ­ocho pou agÃ¡pise toso polÃ½ stin paidikÃ­ ilikÃ­a mas? / Kan je je die strijdwagenman nog herinneren?
+v2;30;Apo tin adelfÃ­ poreÃ­a. Ãmastan oi megalÃ½teroi opadoÃ­! / Natuurlijk zuster. We waren de grootste fans!
+v1;60;AnarotiÃ©mai ti synÃ©vi s 'afton. / Ik vraag me af wat er gebeurd is met hem. 
+v1;90;Tha akoÃºsei tÃ­pota gi 'afton pia ... / Je hoort niks meer van hem...
+v2;120;EÃ­nai pithanon enkatastÃ¡thikan s 'Ã©na chorio san ti dikÃ­ mas kai eÃ­che mia sÃ½zygo kai ta paidiÃ¡. / Hij is waarschijnlijk in een dorpje gaan wonen met vrouw en kinderen.
+v1;150;TÃ©los pÃ¡nton exakoloutho na elpÃ­zo na ton synantÃ­so kÃ¡poia stigmÃ­! / Ik hoop hoe dan ook hem nog een keer te zien!
 v2;180;Ki ego! / Ik ook!
 
 newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
-v1;0;$targetfirstname, i adelfí mou, pánta íthela na mátho giatí pantréftike afto to trántagma. / $targetfirstname, mijn zuster, ik heb altijd willen weten waarom je die sukkel getrouwd hebt.
-v2;30;Epeidí ton agapo! / Omdat ik van hem houd!
-v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai toso kako! / En nu is je naam $targetlastname. $targetlastname! Het klinkt zo slecht!
-v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sınkrousi. / Hey! Wees niet zo naar! Jij begon het gedoe.
-v2;110;Tha ítan methysménos! / Jij was dronken!
+v1;0;$targetfirstname, i adelfÃ­ mou, pÃ¡nta Ã­thela na mÃ¡tho giatÃ­ pantrÃ©ftike afto to trÃ¡ntagma. / $targetfirstname, mijn zuster, ik heb altijd willen weten waarom je die sukkel getrouwd hebt.
+v2;30;EpeidÃ­ ton agapo! / Omdat ik van hem houd!
+v1;60;Kai tora to onomÃ¡ sas eÃ­nai $targetlastname. $targetlastname! AkoÃºgetai toso kako! / En nu is je naam $targetlastname. $targetlastname! Het klinkt zo slecht!
+v2;90;Hey! Min simaÃ­nei Ã©tsi! Ãtan eseÃ­s pou xekÃ­nise i sÃ½nkrousi. / Hey! Wees niet zo naar! Jij begon het gedoe.
+v2;110;Tha Ã­tan methysmÃ©nos! / Jij was dronken!
 
-newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
-v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, mijn zoon, ik heb je niet zien bidden vandaag!
-v2;30;Patéras $targetlastname, ego sígoura ékane. / Vader $targetlastname, dat heb ik echt.
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+v1;0;$targetfirstname, o gios mou, ego den eÃ­da na prosÃ©fchetai sÃ­mera! / $targetfirstname, mijn zoon, ik heb je niet zien bidden vandaag!
+v2;30;PatÃ©ras $targetlastname, ego sÃ­goura Ã©kane. / Vader $targetlastname, dat heb ik echt.
 
-newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
-v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, mijn dochter, ik heb jou niet zien bidden vandaag!
-v2;30;Patéras $targetlastname, ego sígoura ékane. / Vader $targetlastname, dat heb ik echt.
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+v1;0;$targetfirstname, kori mou, ego den eÃ­da na prosÃ©fchetai sÃ­mera! / $targetfirstname, mijn dochter, ik heb jou niet zien bidden vandaag!
+v2;30;PatÃ©ras $targetlastname, ego sÃ­goura Ã©kane. / Vader $targetlastname, dat heb ik echt.

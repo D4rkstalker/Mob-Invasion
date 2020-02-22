@@ -1,6 +1,13 @@
+//*     Name of the villager types
+//*     Empty for the Normans in French since the original are already in French
+//* 
+//* 
+//* 
+//* 
+
+
 culture.norman=Norman
 culture.fullname=The Normans
-
 village.agricole=agricultural village
 village.artisans=artisan village
 village.bourg_autonome=autonomous town
@@ -13,13 +20,11 @@ village.hameau_agricole=agricultural hamlet
 village.hameau_artisans=artisan hamlet
 village.notredame=cathedral
 village.militaire=military village
-
-//Norman:
 villager.abbot=Abbot
 villager.boy=Boy
 villager.carpenter=Carpenter
-villager.cattleFarmerFemale=Cowherd
-villager.cattleFarmerMale=Cowherd
+villager.cattlefarmerfemale=Cowherd
+villager.cattlefarmermale=Cowherd
 villager.farmer=Farmer
 villager.girl=Girl
 villager.guard=Guard
@@ -37,17 +42,16 @@ villager.merchant_wool=Textile Merchant
 villager.miner=Miner
 villager.monk=Monk
 villager.pigherd=Swineherd
-villager.pigherdF=Swineherd
+villager.pigherdf=Swineherd
 villager.priest=Priest
 villager.seneschal=Bailiff
 villager.shepherd=Shepherd
-villager.shepherdF=Shepherd
+villager.shepherdf=Shepherd
 villager.smith=Smith
-villager.teenagerFemale=Youth
-villager.teenagerMale=Youth
+villager.teenagerfemale=Youth
+villager.teenagermale=Youth
 villager.wife=Village Woman
 villager.ciderproducer=Cider Producer
-
 villager.alchemist=Alchemist
 villager.alchemistapprentice=Apprentice Alchemist
 villager.alchemistassistant=Assistant Alchemist
@@ -67,17 +71,13 @@ villager.lonewife=Lone Wife
 villager.merchant_weapons=Arms Merchant
 villager.robberbaron=Bandit Leader
 villager.robberleader=Bandit Leader
-
-
 villager.glassblower=Glassblower
 villager.herbalist=Herbalist
 villager.weaver=Weaver
-
 villager.architect=Architect
 villager.marvelbuilder=Marvel Builder
 villager.pilgrim=Pilgrim
 villager.pilgrimfemale=Pilgrim
-
 villager.bishop=Bishop
 villager.host=Host
 villager.hostess=Hostess
@@ -85,7 +85,6 @@ villager.marvelpriest=
 villager.orderguard=
 villager.ordervicar=Head of the Order
 villager.vicar=Vicar
-
 shop.alchemyworkshop=Alchemical Products
 shop.armoury=Armours & weapons
 shop.bakery=Bread
@@ -105,4 +104,6 @@ shop.tavern=Alcohol
 shop.townhall=Central Store
 shop.notredame=Warehouse
 shop.glassblower=Stained Glass & Pigments
+shop.glassblower=Stained Glass & Pigments
 shop.weaver=Carpets & Pigments
+shop.lumberman=Cider Apples

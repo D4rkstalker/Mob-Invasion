@@ -1,6 +1,11 @@
 {
   "name": "banshee",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityBanshee",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBanshee",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelBanshee",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -37,8 +42,8 @@
   "damage": 2,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 10,
   "knockbackResistance": 0,

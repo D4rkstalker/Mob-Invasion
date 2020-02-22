@@ -1,6 +1,11 @@
 {
   "name": "maka",
-  "class": "com.lycanitesmobs.plainsmobs.entity.EntityMaka",
+  "creatureType": "beast",
+  "groups": [
+    "animal"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityMaka",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelMaka",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,10 +47,10 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#AA8855",
   "eggForeColor": "#221100",
@@ -62,7 +67,11 @@
     }
   ],
   "element": "order",
+  "diets": [
+    "herbivore"
+  ],
   "peaceful": true,
+  "farmable": true,
   "summonable": false,
   "tameable": false,
   "mountable": false,
@@ -76,10 +85,10 @@
       "chance": 1
     },
     {
-      "item": "plainsmobs:makameatraw",
-      "burningItem": "plainsmobs:makameatcooked",
+      "item": "lycanitesmobs:raw_maka_meat",
+      "burningItem": "lycanitesmobs:cooked_maka_meat",
       "minAmount": 1,
-      "maxAmount": 3,
+      "maxAmount": 2,
       "chance": 1
     }
   ],

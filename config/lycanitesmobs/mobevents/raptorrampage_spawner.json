@@ -39,11 +39,11 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "plainsmobs:ventoraptor",
+      "mobId": "lycanitesmobs:ventoraptor",
       "weight": 8
     },
     {
-      "mobId": "junglemobs:uvaraptor",
+      "mobId": "lycanitesmobs:uvaraptor",
       "weight": 8
     }
   ]

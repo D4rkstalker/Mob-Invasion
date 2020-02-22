@@ -1,6 +1,11 @@
 {
   "name": "beholder",
-  "class": "com.lycanitesmobs.mountainmobs.entity.EntityBeholder",
+  "creatureType": "aberration",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBeholder",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelBeholder",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -39,8 +44,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 1,
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0.25,
@@ -58,7 +63,18 @@
       "type": "uncommon"
     }
   ],
-  "element": "void",
+  "elements": [
+    "gravity",
+    "void"
+  ],
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
@@ -91,12 +107,18 @@
       "chance": 0.25
     },
     {
-      "item": "mountainmobs:arcanelaserstormcharge",
+      "item": "lycanitesmobs:arcanelaserstormcharge",
       "minAmount": 2,
       "maxAmount": 3,
-      "chance": 0.25
+      "chance": 1
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "griefing",
+      "value": true
+    }
+  ]
 }

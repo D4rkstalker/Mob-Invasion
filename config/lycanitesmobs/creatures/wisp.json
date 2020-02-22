@@ -1,6 +1,9 @@
 {
   "name": "wisp",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityWisp",
+  "creatureType": "elemental",
+  "groups": [],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWisp",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelWisp",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -35,10 +38,10 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 30,
-  "amplifier": 0,
+  "effectDuration": 30,
+  "effectAmplifier": 0,
   "pierce": 0,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#f0eab6",
   "eggForeColor": "#fefcef",
@@ -75,10 +78,10 @@
       "chance": 0.5
     },
     {
-      "item": "elementalmobs:lightball",
+      "item": "lycanitesmobs:lightball",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

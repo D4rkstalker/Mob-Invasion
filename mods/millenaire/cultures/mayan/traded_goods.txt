@@ -74,6 +74,10 @@ diamondPickaxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
 diamondAxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
 diamondShovel,0,3*64*1,0,0, 0,false,,0,foreigntrade
 diamondHoe,0,3*64*2,0,0, 0,false,,0,foreigntrade
+byzantinePickaxe,0,10*80,0,0,,,,0,foreigntrade
+byzantineAxe,0,10*80,0,0,,,,0,foreigntrade
+byzantineShovel,0,10*80,0,0,,,,0,foreigntrade
+byzantineHoe,0,10*80,0,0,,,,0,foreigntrade
 
 feather,2,1,16,64,4,false,,0,crafting
 bow,50,40,0,0,2*254,false,,0,weapons
@@ -133,3 +137,10 @@ summoningwand,2*64*64,0,0,0,0,true,,8*64*64,playeritem
 maize,3,2,16,32,3,false,,0,agriculture
 mayangold,64,60,0,512,,,,2*64*64,construction
 mayanstatue,64,60,0,512,,,,2*64*64,construction
+
+banner_white,64,58,4,16,0,false,,0,construction
+maypattern,64,0,0,0,0,true,,8192,crafting
+maypattern1,64,0,0,0,0,true,,8192,crafting
+maypattern2,64,0,0,0,0,true,,8192,crafting
+maypattern3,64,0,0,0,0,true,,8192,crafting
+maypattern4,64,0,0,0,0,true,,8192,crafting

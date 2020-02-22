@@ -12,6 +12,7 @@ initial.startlevel=-3
 initial.nativename=Auberge
 initial.male=host
 initial.female=hostess
+initial.tag=autospawnvillagers
 initial.pathlevel=1
 
 //Parameters for specific upgrades

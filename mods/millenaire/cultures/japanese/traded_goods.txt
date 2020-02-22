@@ -76,6 +76,10 @@ mayanpickaxe,0,7*64,0,0, 0,false,,0,foreigntrade
 mayanaxe,0,7*64,0,0, 0,false,,0,foreigntrade
 mayanshovel,0,7*64,0,0, 0,false,,0,foreigntrade
 mayanhoe,0,7*64,0,0, 0,false,,0,foreigntrade
+byzantinePickaxe,0,10*80,0,0,,,,0,foreigntrade
+byzantineAxe,0,10*80,0,0,,,,0,foreigntrade
+byzantineShovel,0,10*80,0,0,,,,0,foreigntrade
+byzantineHoe,0,10*80,0,0,,,,0,foreigntrade
  
 leather,20,15,16,64,25,false,,0,crafting
 yumibow,5*64,4*64,0,0,7*64,false,,0,weapons
@@ -133,5 +137,9 @@ thatch,12,8,128,512,,,,2*64*64,construction
 
 bookshelves,220,166,0,0,0,false,,0,construction
 
-
-
+banner_white,64,58,4,16,0,false,,0,construction
+jappattern,64,0,0,0,0,true,,8192,crafting
+jappattern1,64,0,0,0,0,true,,8192,crafting
+jappattern2,64,0,0,0,0,true,,8192,crafting
+jappattern3,64,0,0,0,0,true,,8192,crafting
+jappattern4,64,0,0,0,0,true,,8192,crafting

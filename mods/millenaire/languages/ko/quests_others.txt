@@ -1,31 +1,26 @@
-//normanbasic:
 
 guardwife_0_label=남편의 점심
-guardwife_0_description=남편 $guard_villagername$ 에게 점심을 가져다주는것을 잊어버렸어!
+guardwife_0_description=남편 $guard_villagername$ 에게 점심을 가져다주는 것을 잊어버렸어요! 우리 남편에게 이 음식을 갖다줄 수 있나요?
 guardwife_0_description_success=감사합니다!
-guardwife_0_description_refuse=당신은 친절하지는 않군요.
+guardwife_0_description_refuse=썩 친절한 사람은 아닌 것 같군요.
 guardwife_1_label=배고파!
-guardwife_1_description=내 아내가 내 점심을 잊어버렸어!
-guardwife_1_description_success=정말 감사합니다!.
-guardwife_1_description_refuse=외부인은 믿지 않아.
-guardwife_1_description_timeup=당신은 점심을 제시간에 배달하지 못했습니다. 마을사람$guard_villagename$ 은 절대 잊지 않을겁니다..
-guardwife_1_listing=이 점심을$guard_villagername$에게 가져다줘!.
-
+guardwife_1_description=우리 마누라가 내 점심을 또 잊어버렸어!
+guardwife_1_description_success=아니 이렇게 친절한 사람이 있을 줄이야!
+guardwife_1_description_refuse=망할 외국인놈.
+guardwife_1_description_timeup=당신은 점심을 제시간에 배달하지 못했습니다. 주민 $guard_villagename$ 은(는) 이 일을 절대 잊지 않을겁니다.
+guardwife_1_listing=이 점심을 $guard_villagername$ 에게 가져다주세요!
 lumbermancider_0_label=목말라!!
-lumbermancider_0_description=나무를 자르는건 너무 어려워... 누군가 나에게 사이다 한병만 가져다 줬다면!
-lumbermancider_0_description_success=오.. 나는 그것이 필요했었어! 감사합니다!!
-lumbermancider_0_description_refuse=나무가 필요할때는 다른사람을 찾아보슈!!
-
+lumbermancider_0_description=나무를 자르는건 너무 어려워... 누가 사이다 한병만 가져다 줬으면!
+lumbermancider_0_description_success=마침 그게 필요했었는데, 고맙구나!
+lumbermancider_0_description_refuse=나무가 필요하면 다른사람을 찾아보슈!
 lonelumbermancalva_0_label=알코올이 필요해!!
-lonelumbermancalva_0_description=숲이 너무 추워서 칼바를 만들 사과를 찾을수 없다! 한병만 있었어도 좋을텐데!
-lonelumbermancalva_0_description_success=믿을수 없어! 건배!!
-lonelumbermancalva_0_description_refuse=일년에 한 사람씩 이렇게 오지... 그리고 그는 나눌 술 한 병 조차 없어..
-
-loneminerfood_0_label=진짜 식사가 필요해
-loneminerfood_0_description=진짜 식사를 해본지 벌써 1달째야. 여기 박혀서 딱딱한 빵이나 먹는게 이제 싫어!
-loneminerfood_0_description_success=이제야 제대로 된 식사를 하는군...!
-loneminerfood_0_description_refuse=그래, 다시 빵이나 먹어야지..
-
+lonelumbermancalva_0_description=숲은 너무 춥고... 칼바를 만들 사과도 없네.... 딱 한병만 있으면 좋을텐데!
+lonelumbermancalva_0_description_success=고마워! 건배하자!
+lonelumbermancalva_0_description_refuse=일년에 한 사람씩 이렇게 오지... 술 한병 조차 안 챙겨오고 말이야...
+loneminerfood_0_label=제대로 된 식사가 필요해
+loneminerfood_0_description=제대로 된 식사를 해본지 벌써 1달째야. 여기 박혀서 딱딱한 빵이나 먹는건 이제 지긋지긋해.
+loneminerfood_0_description_success=이제야 노르만 사람 다운 식사를 하는구나..!
+loneminerfood_0_description_refuse=그래, 다시 빵이나 먹어야지...
 knightstonedelivery_0_label=돌이 필요해
 knightstonedelivery_0_description=$name,  $startvillager_villagename$ 마을을 막기 위해 지을 건물을 지을 돌이 더 필요해!! 근처의 $miner_direction$ 에 사는 $miner_villagername$에게서 모든것을 지원받기로 약속했지만 아무런 소식이 없습니다. 알아봐 주실수 있으세요?
 knightstonedelivery_0_description_success=좋은 여행 되세요!!
@@ -41,8 +36,7 @@ knightstonedelivery_2_description=돌을 가져오셨나요! 당신의 노르만
 knightstonedelivery_2_description_success=감사합니다!.
 knightstonedelivery_2_description_refuse=반역자! 살아있는것을 감사하게 생각하세요!.
 knightstonedelivery_2_description_timeup=$startvillager_villagername$에게 돌을 제시간에 가져다 주지 못했습니다.
-knightstonedelivery_2_listing=$startvillager_villagename$에게 돌을 가져다 줍니다. 
-
+knightstonedelivery_2_listing=$startvillager_villagename$에게 돌을 가져다 줍니다.
 abbotbooksdelivery_0_label=보낼 편지
 abbotbooksdelivery_0_description=오, $name, 만나서 반갑네. 나는 $loneabbot_villagename$ 에 있는 몇가지 귀중한 책들이 필요하다. 어이 늙은이의 부탁을 들어 $loneabbot_villagername$에게 그것들을 요청해 주시겠습니까? 소개 편지를 주겠네 $loneabbot_direction$ 근처 $loneabbot_distance$  블럭 내에서 그의 수도원을 찾을 수 있을 겁니다.
 abbotbooksdelivery_0_description_success=여행에 신께서 함께하시리..
@@ -59,9 +53,6 @@ abbotbooksdelivery_2_description_success=신께서 함께 하시길.
 abbotbooksdelivery_2_description_refuse=왜 그렇게 나를 조롱하는거지?
 abbotbooksdelivery_2_description_timeup=당신은 책을 $startvillager_villagername$ 에게 시간내에 보내지 못했습니다..
 abbotbooksdelivery_2_listing=$loneabbot_villagename$의 원장 $startvillager_villagername$에게서 $startvillager_villagername$에게 책을 배달합니다
-
-//hindibasic:
-
 rajadiamondsword_0_label=비밀 임무
 rajadiamondsword_0_description=안녕하세요, $name. 당신은 $startvillager_villagename$ 에게 친절을 보였습니다. 저는 이 특수 임무를 위해 믿을 수 있는 사람이 필요합니다. 일반인 $general_villagername$ 이 충성적인 군인임을 입증하고 보상을 할 시간입니다. $general_direction$  방향, $general_distance$ 거리의  $general_villagename$ 마을에 있는 요세에 있는 그에게  이 귀중한 다이아몬드 칼을 보내주시겠어요?
 rajadiamondsword_0_description_success=당신의 목숨과 바꿔서라도 이 칼을 지키세요!!
@@ -72,7 +63,6 @@ rajadiamondsword_1_description_success=전하께서 나에게 이런 명예를 �
 rajadiamondsword_1_description_refuse=도둑놈!!
 rajadiamondsword_1_description_timeup=당신은 이 칼을 $general_villagername$ 에게 시간내에 보내지 못했습니다.. 라자와 그는 당신에게 화가 났습니다.
 rajadiamondsword_1_listing=그의 요세 $general_villagename$에 있는$general_villagername$ 에게 다이아 칼을 배달합니다.
-
 adivasifarmdelivery_0_label=배달이 필요해!
 adivasifarmdelivery_0_description=우리는 우리가 겨우 먹을 쌀과 심황이 있어요. 생활이 어려워요. 불쌍한 우리를 도와주시겠어요? $peasant_villagername$의 마을에서 고기와 라스굴라를 우리의 물품과 물물교환하려 합니다. $peasant_villagename$ 에 가서 그것들을 사올 수 있다면 우리는 매우 감사하게 생각할 것입니다. 그 마을은 여기서 $peasant_direction$ 방향으로 $peasant_distance$ 거리에 있습니다.
 adivasifarmdelivery_0_description_success=고맙네, 나의 친구
@@ -89,7 +79,6 @@ adivasifarmdelivery_2_description_success=여신이 당신을 축복하실 겁�
 adivasifarmdelivery_2_description_refuse=가난한 사람들에게서 훔치는건 더욱 나쁜 행동입니다.
 adivasifarmdelivery_2_description_timeup=당신은 상품을 $startvillager_villagername$ 에 시간내에 보내지 못했습니다..
 adivasifarmdelivery_2_listing=상품을 $peasant_villagename$ 에서 $startvillager_villagername$의 농장으로 배달하세요, 농부의 마을은 $peasant village name$ 마을로부터  $peasant startvillager direction$ 방향으로  $peasant_startvilla.ger_distance$ 거리에 있습니다.
-
 traderdiamonds_0_label=보석 배달
 traderdiamonds_0_description=안녕하세요 $name. 나는 자네가 인도 문화권에서 친구로 통한다는 걸 들었어요. 그리고 나는 자네에게 부탁할 귀중한 물건이 있습니다. $rani_villagename$ 마을에 사는 우리의 사랑스러운 $rani_villagername$ 는 이 귀중한 보석을 가져다주라고 했습니다. 그녀의 궁전에 이 보석을 무사히 가져갈 수 있나요? 궁전은 $rani_direction$ 방향으로 $rani_distance$ 거리에 있어요. 자네는 이 2개의 보석을 잘 지켜야 해요.
 traderdiamonds_0_description_success=아무에게도 이 다이아몬드를 보여주지 마세요! 누구든 이걸 보면 탐낼거에요!
@@ -100,21 +89,14 @@ traderdiamonds_1_description_success=I shall go and try those out!
 traderdiamonds_1_description_refuse=당신은 라자의 코끼리에 의해 뭉개질 겁니다!
 traderdiamonds_1_description_timeup=당신은 다이아몬드를 $rani_villagername$ 에게 시간내에 보내지 못했습니다.. 인도 문화권에 대한 당신의 지지도는 크게 낮아졌습니다..
 traderdiamonds_1_listing=다이아몬드를 상인 $startvillager_villagername$ 로부터 $rani_villagename$ 에 있는 $rani_villagername$ 에게 보내세요
-
-//mystery basic:
-
 normanrasgullas_0_label=아픈 어린이
 normanrasgullas_0_description=내 아들 $child_villagername$ 는 최근에 몹시 아파요. 그는 지금 잘 먹지도 못해요! 좀 도와주실 수 있나요?
 normanrasgullas_0_description_success=이건 달고 맛있어요! 한번 스스로 먹어봐야겠어요.
 normanrasgullas_0_description_refuse=저는 이미 칼바를 시도해 보았습니다. 잘 먹히더군요.
-
 mayanlumbermanaxe_0_label=속상한 나무꾼
 mayanlumbermanaxe_0_description=이 도끼는 쓸모 없어. 왜 마야 장인들이 만든 도구는 이렇게 형편없지? 나는 더 좋은 도끼가 필요해..
 mayanlumbermanaxe_0_description_success=이 도끼는 작업 속도가 엄청나! 신이 만든 것 같아!
 mayanlumbermanaxe_0_description_refuse=일이나 하자..
-
-
-
 losttapestry_0_label=잃어버린 태피스트리
 losttapestry_0_description=안녕하세요 $name! 저는 길에 떨어진 태피스트리를 찾았어요. 주인에게 돌려주실 수 있겠나요?
 losttapestry_0_description_success=감사해요 $name!
@@ -124,7 +106,6 @@ losttapestry_1_description=누군가 잃어버린 태피스트리를 제가 가�
 losttapestry_1_description_success=찾아줘서 고마워요
 losttapestry_1_description_refuse=뭔가 숨기는거 같아요, 저는  다 알지요.
 losttapestry_1_listing=태피스트리의 주인을 찾아주세요.
-
 spiders_0_label=친구의 실종
 spiders_0_description=광부 $miner_villagername$ 의 친구는 거의 매일 나를 만나요. 이상한건 그가 오늘 안나타난다는 거에요. -- 그가 약속 시간보다 훨씬 늦어도 안 보이네요, 그래서 좀 걱정되요.. $name, $miner_villagername$ 를 찾아주실 수 있나요?
 spiders_0_description_success=감사합니다, 나의 진정한 친구여!
@@ -145,17 +126,14 @@ spiders_3_description_success=나는 나의 아내 $wife_villagername$ 가 나�
 spiders_3_description_refuse=내가 죽기를 원하는 거야?!
 spiders_3_description_timeup=당신은 $miner_villagername$ 의 해독제를 $miner_villagername$ 에게 시간내에 보내지 못했습니다..
 spiders_3_listing=$miner_villagername$ 의 해독제를 $miner_villagername$ 에게 가져다주세요.
-
 findtheegg_0_label=달걀 찾기
 findtheegg_0_description=여기에는 너무 닭이 많아요!. 저희는 닭들을 몰아내고 달걀을 얻어야 합니다.. 도와주실 수 있나요?
 findtheegg_0_description_success=아주 좋아, $name 님 저는 이 알을 부화시키는 곳에 보낼 거에요!
 findtheegg_0_description_refuse=달걀이 부족해요 더 모은뒤에 오세요!
-
 feathercrafter_0_label=더 많은 깃털
 feathercrafter_0_description=나의 아내가 베게를 만드는데 아주 아주 많은 깃털이 필요하다네, 자네가 도와줄 수 있겠나?
 feathercrafter_0_description_success= 아주 좋아요, $name. 이제 이 깃털을 아내에게 줄 수 있어요!
 feathercrafter_0_description_refuse=할 수 없지. 나무 배게를 쓰는수밖에..
-
 watersample_0_label=이상한 보고
 watersample_0_description=우리 마을의 우물 물이 무언가 심상치 않다는 보고를 받았습니다, 이 물 양동이를 들고 가서 물 셈플을 만들어 오세요.
 watersample_0_description_success=서둘러 주세요.. 우리 아이들이 아프기 전에요..
@@ -166,7 +144,6 @@ watersample_1_description_success=갑사합니다! 이 샘플이 우리의 문�
 watersample_1_description_refuse=경고합니다, 우리가 다음번에 도움을 청할 일은 어려울 거에요, $name!
 watersample_1_description_timeup=ㄷ물 셈플을 $startvillager_villagername$ 에게 시간내에 보내지 못했습니다..
 watersample_1_listing= $startvillager_villagename$ 에 사는 $startvillager_villagername$ 는 당신이 그에게 물 셈플을 가져다 주기를 원합니다.
-
 lordssword_0_label=부셔진 검
 lordssword_0_description=내 남편 $knight_villagername$ 의 검이 또 부셔졌어! 그에게 새 검을 줄 수 있니?
 lordssword_0_description_success=감사합니다!!
@@ -177,7 +154,6 @@ lordssword_1_description_success=감사합니다!
 lordssword_1_description_refuse=제가 검 없이 싸울 수 있다 생각하나요?
 lordssword_1_description_timeup=$knight_villagername$. 에게 검을 제 시간에 가져다주지 못했습니다. 주민들은 이 일을 절대 잊지 못할 겁니다.
 lordssword_1_listing=$startvillager_villagename$ 에 사는 $startvillager_villagername$ 은 당신이 그에게 새 검을 가져다 주기를 원합니다.
-
 sweettrader_0_label=사촌 동생의 생일
 sweettrader_0_description=제 사촌 동생 $girl_villagername$ 는 오늘이 생일이에요. 케이크를 가져다 줄 수 있나요?
 sweettrader_0_description_success=도와줘서 고마워요
@@ -187,7 +163,6 @@ sweettrader_1_description=아무도 내 생일을 축하하지 않아..
 sweettrader_1_description_success=감사해요!!!!!!!!!!!
 sweettrader_1_description_refuse=아무도 나 같지 않아.
 sweettrader_1_listing=케이크를 $startvillager_villagename$ 에 있는 $girl_villagername$ 에게 가져다주세요.
-
 fishingfrenzy_0_label=낚시꾼의 부탁
 fishingfrenzy_0_description=안녕하세요 제 이름은 $startvillager_villagername$ 에요! 낚시는 시간이 걸리는 일이죠, 오늘 제 할당량을 충족시켜 줄 수 있나요?
 fishingfrenzy_0_description_success=감사해요. 이 물고기를 우리 아내에게 갔다주세요
@@ -198,19 +173,14 @@ fishingfrenzy_1_description_success=아주 좋아, 싱싱한 생선을 가져다
 fishingfrenzy_1_description_refuse=아.. 당신은 도움이 전혀 안되는군요!
 fishingfrenzy_1_description_timeup=생선을 시간내에 보내지 못했습니다.. $startvillager_villagename$ 는 당신에게 실망했습니다.
 fishingfrenzy_1_listing=물고기 4마리를 잡아 $wife_villagername$ 에게 보내주세요
-
 poems_0_label=시 쓰기
 poems_0_description=$name 님, 저를 도와주실 수 있나요? <ret> 저는 수도에 사는 제 친구가 정말 그리워요.. 우리는 한때 서로 시를 만들고 불렀었죠. 저는 그때가 생각나서 시를 쓰고 싶어요. 저는 지금 두 장의 종이와 검은색, 노란색 그리고 빨간색 염료가 필요해요.
 poems_0_description_success=감사합니다! 여기 제 보상이 있어요!
 poems_0_description_refuse=할 수 없죠.. 저 혼자 시를 쓰는수밖에요..
-
-
 startingtrader_0_label=야심찬 상인
 startingtrader_0_description=이보시오! 당신은 상인인가요..?좋은 거래를 원하시나요l? 우리는 다른 마을과 거래할 계획이라네.<ret>나는 다이아몬드 두개와 금 여덟 개가 필요하다네, 그걸 나에게 팔 수 있는가?
 startingtrader_0_description_success=좋아! 아주 좋다네! 이제 이걸로 다른 마을하고 거래할 수 있을 거야!
 startingtrader_0_description_refuse=거래할 돈이 없어요!
-
-
 architectwife_0_label=남편의 점심
 architectwife_0_description=나의 남편인 건축가 $architect_villagername$ 는 몹시 배고파요. 왜냐면 음식을 싸주는걸 깜박했거든요! 이 생선을 가져다 줄 수 있나요?
 architectwife_0_description_success=감사합니다!!
@@ -221,7 +191,6 @@ architectwife_1_description_success=정말 감사합니다!.
 architectwife_1_description_refuse=외부인은 믿지 않아.
 architectwife_1_description_timeup=당신은 점심을 제시간에 배달하지 못했습니다. 마을사람$architect_villagename$ 은 절대 잊지 않을겁니다..
 architectwife_1_listing= $architect_villagename$ 에 있는 $architect_villagername$ 에게 점심을 가져다 주세요.
-
 lumbermanwine_0_label=목말라!!
 lumbermanwine_0_description=나무를 베는 일은 힘들어.. 누군가 와인 한 병을 가져다주었으면 해!
 lumbermanwine_0_description_success=오.. 나는 그것이 필요했었어! 감사합니다!!

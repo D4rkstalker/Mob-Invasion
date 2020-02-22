@@ -64,7 +64,12 @@ Range from destination from which the goal is doable.
 Default value: 3
 
 leasure (boolean):
-If true, this is a leisure activity that can be interrupted by other goals. False by default.
+If true, this is a leisure activity that can be interrupted by other goals.
+Default value: false
+
+sprint (boolean):
+If true, villagers performing this goal will move faster than normal.
+Default value: true
 
 tag (string (case-insensitive, multiple parameters possible)):
 A tag to use when referring to the goal elsewhere, such as in generic visit targeting. Has no effects on the goal itself.

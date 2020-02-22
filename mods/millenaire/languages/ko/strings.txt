@@ -2,25 +2,33 @@
 startup.loadproblem=모드를 로딩하는 중에 오류가 발생했습니다! <0>.
 startup.checkload=cultures 폴더가 마인크래프트 폴더 내에 있는 millenaire 폴더에 있는지 확인해 보세요.
 startup.millenaireloaded=<0> 이(가) 로딩되었습니다. 더 탐사하고 '<1>' 키를 눌러 마을을 찾아보세요.
-startup.radiuswarning=경고! 마을의 크기를 너무 높게 하면 렉이 유발될 수 있습니다. <0> 이상의 값은 권장되지 않습니다!
+startup.radiuswarning=경고:마을의 규모를 너무 크게 하면 오류가 생길 수 있습니다. <0> 이상의 값은 권장되지 않습니다.
 startup.bonus=보너스 구성요소가 적용되었습니다.
-
-command.nogenerate=<0> 이 월드의 새로운 청크에 마을을 생성하지 않도록 되었습니다.
-command.willgenerate=<0>  이 월드의 새로운 청크에 마을을 생성하도록 되었습니다.
+startup.devmode1=개발자 모드가 작동중입니다. 이 모드는 밀레네어 모드를 테스트 하기 위함이지 플레이 하는 용도가 아닙니다.
+startup.devmode2=이 기능을 사용하지 않으려면 millenaire-custom으로 가서, "devmode" 줄을 제거하십시오.
+startup.outdatedversion=Millénaire 버전 <0>을 사용 중입니다. <2>와(과) 같은 변경사항이 있는 버전 <1>을 (를) 사용할 수 있습니다. www.millenaire.org에서 다운로드 할 수 있습니다.
+startup.outdatedversiondev=Millénaire의 테스트 버전 <0>을 사용 중입니다. <2>와(과) 같은 변경사항이 있는 테스트 버전 <1>을 (를) 사용할 수 있습니다. www.millenaire.org에서 다운로드 할 수 있습니다.
+command.nogenerate=<0>은(는) 더 이상 이 세상의 새로운 청크에 마을을 생성하지 않습니다.
+command.willgenerate=<0>은 이제 이 세상의 새로운 청크에 마을을 생성합니다.
 command.astarpathing=A* 경로 지정 사용하기
 command.binarypathing=바이너리 경로 지정 사용하기
 command.minecraftpathing=마인크래프트 경로 지정 사용하기
 command.inactive=비활성
 command.active=활성
-command.frozen=정지됨
+command.frozen=정지
 command.villagelist=<4>: <0> (<1>) 이(가) <2> 블럭 거리에 있으며 <3> 방향에 있습니다.
+command.villagelisttranslated=<4> (<5>): <0> (<1>) 이(가) <2> 블럭 거리에 있으며 <3> 방향에 있습니다.
 command.villagelistkeylonebuilding=<0> 이(가) <1> 블럭 거리에 있으며 <2> 방향에 있습니다.
+command.facingdirection=<0> 방향을 보고 있습니다.
 command.noknowvillage=2000블럭 내에 마을이 없습니다. 계속 찾아보세요!
 command.newvillagefound=새로운 마을을 찾았습니다: 종류는 <0> 이고 문화는 <1> 입니다. 또한, <2> 은(는) <3> 블럭 거리에 있습니다. 방향은 <4>입니다.
+command.newvillagefoundtranslated=새로운 마을을 찾았습니다: 종류는 <0> (<5>) 이고 문화는 <1>입니다. 또한, <2> 은(는) <3> 블럭 거리에 있습니다. 방향은 <4>입니다
 command.newlonebuildingfound=새로운 건물을 찾았습니다: <0> 이(가) <1> 블럭 떨어져 있으며 <2> 방향에 있습니다.
 command.pathrebuild=<0> 에 있는 지도와 길이 다시 지어졌습니다.
-
-//Text used in various UI parts, in no specific order:
+command.renamevillage_notification=<0> 이(가) 마을 이름을 <1> 에서 <2> 로 바꿨습니다.
+command.tp_nomatchingvillage=일치하는 마을을 찾지 못했습니다.
+command.tp_multiplematchingvillages=일치하는 마을 <0> 을(를) 찾았습니다.
+command.spawnvillage_unknownvillage=알수없는 마을. 유형: <0>
 ui.lockedchest=잠긴 상자
 ui.largelockedchest=큰 잠긴 상자
 ui.unlockedchest=열린 상자
@@ -33,34 +41,39 @@ ui.missingequipment=장비 부족
 ui.noneininventory=인벤토리에 가지고 있지 않습니다.
 ui.selling=판매하기
 ui.buying=구매하기
+ui.donatinggoods=기부하기
+ui.repgain=누적 지지도: <0>
+ui.trade_donation=상품 기부하기 (대금없음, 높은 지지도)
+ui.trade_buying=상품 판매하기(대금있음, 낮은 지지도)
 ui.buybuilding=구매: <0> (<1>)
 ui.buybonusbuilding=요청 보너스: <0>
-ui.sellercoming=<0>: 제가 거기로 가겠습니다, $name 님!
-ui.tradecomplete=<0>: 당신이 우리와 거래했으면 해. 좋은 날 되게.
-ui.sellerboycott=<0>: 우리는 너와 다시는 절대로 거래 안할거야!
-ui.sellernotcurrently possible=<0>: 우리 마을이 초토화가 됬는데 거래할 생각이 있나요?
-ui.wesell=저희는 물건을 팝니다
-ui.webuy=저희는 물건을 삽니다
-ui.isell=저는 물건을 팝니다
+ui.sellercoming=<0>: 조금만 기다려주세요, $name 님!
+ui.tradecomplete=<0>: 우리와의 거래가 마음에 들었으면 좋겠네요. 좋은 하루 보내세요.
+ui.sellerboycott=<0>: 다시는 당신같은 야만인과 거래하지 않을겁니다!
+ui.sellernotcurrently possible=<0>: 마을이 초토화가 되었는데 어떻게 거래할 수 있겠어요?
+ui.wesell=물건 팝니다
+ui.webuy=물건 삽니다
+ui.isell=물건 팝니다
 ui.inventory=인벤토리
-ui.villagechief=<0> 마을의 족장
-ui.yourstatus=당신의 상태
-ui.possiblehousing=가능한 집
+ui.villagechief=<0> 마을의 영주
+ui.yourstatus=당신의 지위
+ui.possiblehousing=가능한 주택
 ui.alreadybuilt=이미 건설되었습니다
 ui.alreadyrequested=이미 요청되었습니다
 ui.notavailableyet=아직 불가능합니다
 ui.available=가능합니다
-ui.bonusavailable=가능합니다 (특별선물)
+ui.bonusavailable=가능합니다 (특별한 선물)
 ui.youaremissing=<0> 이(가) 부족합니다.
-ui.scrollsnoreputation=마을 스크롤을 사려면 더 많은 지지도가 필요합니다.
-ui.scrollsnotenoughmoney=스크롤을 구매하는데 <0> 데니어가 부족합니다.
-ui.scrollsok=마을 스크롤을 구매 가능합니다.
-ui.buyscroll=마을 스크롤 구매하기
+ui.scrollsnoreputation=마을 두루마리를 사려면 더 많은 지지도가 필요합니다.
+ui.scrollsnotenoughmoney=두루마리를 구매하는데 <0> 데니어가 부족합니다.
+ui.scrollsok=마을 두루마리가 구매 가능합니다.
+ui.buyscroll=마을 두루마리 구매하기
 ui.cost=비용
-ui.clicktorequest=클릭하면 요청됩니다.
-ui.scrollbought=<0>: 당신은 마을 정보를 담은 양피지를 손에 넣었습니다!
-ui.housebought=<0>: 당신을 위한 <1> 가 곧 시작될 겁니다.
+ui.clicktorequest=클릭해서 요청하기
+ui.scrollbought=<0>: 당신은 마을의 정보를 담은 두루마리를 손에 넣었습니다!
+ui.housebought=<0>: 그대를 위한 <1> 이(가) 곧 시작될 것이다!
 ui.inhabitantof=<0> 의 주민
+ui.resources=자원
 ui.inconstruction=공사중
 ui.nospace=공간 부족
 ui.reservedforvillager1=주민에게
@@ -72,39 +85,53 @@ ui.visitorslist2=목록
 ui.goodstraded=거래된 상품
 ui.imports=수입
 ui.exports=수출
-ui.import_total=Total 수입: <0>
-ui.export_total=Total 수출: <0>
+ui.import_total=총수입: <0>
+ui.export_total=총수출: <0>
 ui.merchants=상인:
+ui.visitors=방문객:
 ui.goalscompleted1=모든 건물
 ui.goalscompleted2=목표 달성
 ui.project=프로젝트
 ui.noconstruction1=건설 안함
 ui.noconstruction2=작업중
+ui.xconstructions=<0> 작업중
+ui.planinconstruction=<0> 건설
+ui.planupgrading=<0> (<1>) 업그레이드
 ui.upgrading=업그레이드 중 (<0>)
-ui.construction=건설중 <0>:
+ui.progress=<0>% 진행중
+ui.progressnopercent=진행중
 ui.population=인구:
 ui.populationnumber=인구: <0>
+ui.borderpost_visitorswelcome=방문 환영
+ui.borderpost_constructionforbidden=건물 없음
 ui.adults=성인: <0> (<1>/<2>)
 ui.teens=청년: <0> (<1>/<2>)
 ui.children=어린이: <0> (<1>/<2>)
 ui.villagemap=마을 지도
 ui.nbbuildings=<0> 건물
-ui.wandwrongblock=이 지팡이는 흑요석 또는 다음과 같은 블럭에만 사용 가능합니다:
+ui.nbwalls=<0> 성벽 영역
+ui.wandwrongblock=이 지팡이는 무작위 마을 생성을 위해 흑요석에서 사용하거나 다음 블록에서 사용가능합니다:
 ui.wandblocklist=<0> 부터 <1>
 ui.wandblocklistcontrolled=<0>부터 <1> (이 문화에서의 지도력이 필요합니다.)
+ui.wand_locationinuse=이 장소는 이미 사용중입니다
+ui.wand_invillagerange=마을과 너무 가깝습니다: <0>
 ui.brickinstructions=벽돌을 만들기 위해 모래와 흙이 적어도 각각 한개씩이 필요합니다.
+ui.sodnoplank=뗏장 블록을 만들기 위해서는 판자가(아무종류나) 필요합니다.(판자 하나에 뗏장 두개)
+ui.sodnodirt=뗏장 블록을 만들기 위해서는 흙 블록이 필요합니다.(흙 하나에 뗏장 두개)
 ui.buildingscentre=중앙 건물
 ui.buildingsstarting=시작 건물
 ui.buildingsplayer=플레이어의 건물
 ui.buildingskey=키포인트 건물
 ui.buildingssecondary=이차 건물
 ui.buildingsextra=별도 건물
+ui.buildingcustom=커스텀 건물
+ui.buildingswall=성벽
 ui.worldnotgenerated=이 지역이 완전히 생성되지 않았습니다. 더 멀리 갔다가 돌아와 보세요.
-ui.tooclosetospawn=스폰과 너무 가까운곳에 마을 생성을 할 수 없습니다.
+ui.tooclosetospawn=스폰지점과 너무 가까운곳에 마을 생성을 할 수 없습니다.
 ui.generatenotenoughspace=마을 광장을 지을 장소를 찾을 수 없습니다.
 ui.generatenotenoughspacevillage=마을 건설에 필요한 공간이 부족합니다.
 ui.lackingresources=자원 부족
-ui.lockedchestwarning=경고: 잠긴 상자를 파괴하면 마을이 제대로 일하지 못하게 됩니다. 마을을 제거하고 싶을때만 해 주십시오.
+ui.lockedchestwarning=경고: 잠긴 상자를 파괴하면 마을이 제대로 일하지 못하게 됩니다. 마을을 제거하고 싶을때만 해 주세요.
 ui.xoutofy=<0> / <1>
 ui.extraresneeded1=<0> 다른 자원
 ui.extraresneeded2=필요
@@ -112,15 +139,21 @@ ui.woodforplanks=원목 (아무 종류)
 ui.woodoak=참나무 원목
 ui.woodpine=가문비나무 원목
 ui.woodbirch=자작나무 원목
-ui.woodjungle=정글 원목
+ui.woodjungle=정글나무 원목
+ui.woodacacia=아카시아 원목
+ui.wooddarkoak=짙은 참나무 원목
 ui.anyenchanted=인첸트된 아이템
 ui.enchantedsword=인첸트된 검
 ui.selectabuildingproject=건축 프로젝트를 선택하세요
+ui.selectabuildingproject_custom=이미 건축된 건물에 입주하세요
+ui.selectabuildingproject_standard=건설을 위한 Millénaire 건물:
+ui.custom=커스텀:
+ui.millenaireplan=Millénaire 디자인:
 ui.projectadded=프로젝트가 목록에 추가되었습니다.
 ui.problemat=<0>: <1> 에 문제가 발생했습니다.
 ui.constructionforbidden=건설이 금지됩니다
 ui.locationclash=다른 건물과 충돌됩니다
-ui.outsideradius=마을 범위를 벗어났습니다 
+ui.outsideradius=마을 범위를 벗어났습니다
 ui.wrongelevation=건설 가능한 높이를 벗어났습니다
 ui.danger=위험한 블럭이 있습니다
 ui.notreachable=닿을 수 없는 곳입니다
@@ -131,72 +164,89 @@ ui.allowupgrades=업그레이드 허용
 ui.cancelbuilding=건물 제거
 ui.level=레벨
 ui.notyetbuilt=지어지지 않았습니다
+ui.obsoleteplan=구식 계획
 ui.nbinhabitants=주민 인구: <0>
 ui.wandnocontrol=<0> 문화권의 지도자가 아니기 때문에 해당 마을을 생성할 수 없습니다.
-ui.control_ok=당신이 많은 공을 세웠기에 <0> 의 사람들은 당신을 지도자로 인정했습니다. 이제 당신은 당신만의 마을을 건설 가능합니다.
+ui.control_ok=당신이 마을에서 세운 공덕 덕분에 <0> 의 사람들은 당신을 지도자로 인정했습니다. 이제 당신은 당신만의 마을을 건설 할 수 있습니다.
 ui.control_noreputation=당신의 지지도가 <0> 사람들의 인정을 받기에는 불충분합니다. 지지도를 더 높인 뒤 시도하세요.
 ui.control_alreadydone=당신은 이미 <0> 마을의 사람들에게 지도자로 인정받았습니다.
-ui.control_get=지도자로 인정받기위한 요청하기
-ui.control_gotten=<0>: 나는 공식적으로 너를 우리 마을을 이끌기 위한 인정하였다, 우리의 <1> 사람들이어!  이제 당신은 새로운 마을을 만들 수 있다네!
+ui.control_get=지도자로 인정받기 위해 요청하기
+ui.control_gotten=<0>: 나는 공식적으로 자네를 우리 <1> 사람들을 이끌 새로운 지도자로 받아들였네. 이제 자네는 새로운 마을을 만들 수 있다네!
 ui.selectavillage=생성을 원하는 마을 종류 선택
 ui.leadershipstatus=리더십 상태
-ui.leaderin=당신은 <0> 문화권의 리더입니다. 당신은 당신이 직접 통제 가능한 마을을 만들 수 있습니다.
+ui.leaderin=당신은 <0> 문화권의 지도자입니다. 당신은 직접 통제 가능한 마을을 만들 수 있습니다.
 ui.notleaderin=당신은 <0> 문화권의 지도자가 아닙니다.
 ui.leaderinstruction=해당 문화권의 지도자가 되려면 지지도를 "자연적 리더" 까지 올리거나, 특정 퀘스트를 수행해야 합니다.
 ui.wandinstruction=지팡이를 흑요석에 사용하면 렌덤으로 마을이 시작합니다. 좀더 선택 가능한 마을을 만드려면 금 블럭에 지팡이를 사용하세요.
-ui.controlled=통제됨
+ui.controlled=통제가능함
+ui.controlledcustom=커스텀, 통제가능함
 ui.villagerelations=<0> (<1>, <2>): <3>
-ui.relationlist=다른 마을간의 관계
-ui.relationpraise=칭찬
+ui.relationlist=다른 마을과의 관계
+ui.relationpraise=호평
 ui.relationslander=비난
 ui.relationpoints=포인트 사용 가능: <0>
-ui.villagerelationsnobutton=당신은 충분한 포인트와 마을에 영향을 미칠 수 있는 높은 지지도를 가지고 있어야 합니다.
+ui.villagerelationsnobutton=충분한 포인트와 마을에 영향을 미칠 수 있는 높은 지지도를 가지고 있어야 합니다.
 ui.relationhelp=관계 도움<ret><ret>마을관의 관계는 그들이 서로 협력할것인지 아닌지를 결정합니다.<ret><ret>지역적 거래 (상인들이 아이템을 거래 하는 등) 도 마을사이 거래에 영향을 받습니다. <ret><ret>좋은 관계를 가지는 마을 사이에서는 상거래가 활발할 것입니다.<ret><ret>아주 좋은 관계를 가지는 마을끼리는 십대들도 서로의 마을에 일을 하러 갈 것입니다.<ret><ret>같은 문화권의 마을끼리는 대체적으로 관계가 좋거나 중립입니다.<ret><ret>매일마다 플레이어는 마을과의 관계를 확인 가능합니다.
 ui.relationfriendly=<0> 과(와) <1> 마을 사이의 관계가 개선되었습니다. 현재 관계 상태: <2>
 ui.relationunfriendly=<0> 과(와) <1> 마을 사이의 관계 상태가 악화되었습니다. 현재 관계 상태: <2>
-ui.cropplantingknowledge=<0> 을(를). 재배하는 방법은 마을 족장에게 물어보면 됩니다.
-ui.cropsknown=이 문화권에 알려진 작물
+ui.cropplantingknowledge=<0> 을(를). 재배하는 방법은 마을 영주에게 물어보면 됩니다.
+ui.cropsknown=이 문화권에서 알려 작물
 ui.cropknown=<0> 작물을 기르는 방법을 배웠습니다.
 ui.cropinsufficientreputation=<0> 작물을 기르는 방법을 배우기 위해서는 더 많은 지지도가 필요합니다.
 ui.cropnotenoughmoney=<0> 작물을 심는 법을 배우려면 <1>  만큼의 돈이 더 필요합니다.
 ui.cropoktolearn=이 마을은 당신에게 <0> 작물을 재배하는 방법을 알려줄 수 있습니다.
 ui.croplearn=학습 (<0>)
 ui.croplearned=<0>: 당신은 <1> 의 재배의 신비를 밝혀내었습니다!
+ui.huntingdropsknown=이 문화권에 알려진 사냥 기술
+ui.huntingdropknown=<0> 을(를) 모으는 방법을 배웠습니다
+ui.huntingdropinsufficientreputation=사냥술을 배우기에는 아직 지지도가 낮습니다
+ui.huntingdropnotenoughmoney=사냥술을 배우기 위해선 <1> 만큼의 돈이 더 필요합니다.
+ui.huntingdropoktolearn=마을은 <0> 모으는 방법을 알려줄 수 있습니다.
+ui.huntingdroplearn=학습 (<0>)
+ui.huntingdroplearned=<0>: <1> 고기를 모으는 법을 배웠습니다.
+ui.huntingdrop.seafood_raw=해산물
+ui.huntingdrop.wolfmeat_raw=늑대고기
+ui.crop.rice=쌀
+ui.crop.turmeric=강황
+ui.crop.maize=옥수수
+ui.crop.grapes=포도
+ui.crop.sapling_appletree=사과나무
 ui.raider=침입자
-
 ui.communicationexplanations=마을 주민과 소통하려면, 우클릭 하세요. 우클릭하면 뜨는 창에서 마을 주민과 거래하거나 퀘스트를 받을 수 있습니다.
 ui.helpbutton=밀리네어 도움말
 ui.chunkbutton=청크 지도
 ui.configbutton=설정
+ui.travelbookbutton=견문록
 ui.serverimportforbidden=서버 관리자만 건물을 가져올 수 있습니다.
-
+ui.inhabitants=거주자
 ui.controldiplomacy=외교
 ui.raidinprogress=침략 진행중!
-ui.otherraidinprogress=다른 침략이 진행중입니다.
-ui.otherraidplanned=다른 침략이 계획중
+ui.otherraidinprogress=다른 침략 진행중
+ui.otherraidplanned=다른 침략 계획중
 ui.raidcancel=침략 취소함
 ui.raidplanned=침략 계획됨
 ui.relgood=우수함
 ui.relneutral=중립
 ui.relbad=중복
 ui.raid=침략 계획중
-
-
+ui.custombuilding_resneededintro=필요한 자원:
+custombuilding.chest=상자
+custombuilding.craft=작업대
+custombuilding.sign=표지판
+custombuilding.field=평원
 help.tab_1=보편적인 마을의 특성
 help.tab_2=교역
-help.tab_3=지지도 및 마을 족장
+help.tab_3=지지도 및 마을 영주
 help.tab_4=마을 성장
 help.tab_5=전투와 침략
 help.tab_6=마을의 생성과 파괴
 help.tab_7=퀘스트
-help.tab_8=노르만 문화권
-help.tab_9=인도 문화권
-help.tab_10=마야 문화권
-help.tab_11=일본 문화권
-help.tab_12=비잔틴 문화권
+help.tab_8=노르만
+help.tab_9=인도
+help.tab_10=마야
+help.tab_11=일본
+help.tab_12=비잔티움
 help.tab_13=FAQ
-
-
 quest.obtained=획득함
 quest.lackingcondition=다음이 부족합니다:
 quest.lackinghiddengoods=이 작업에 필요한 상품을 가지고 있지 않습니다.
@@ -211,20 +261,14 @@ quest.hours=시간 남음
 quest.noquestsvisible=진행 목록에 표시할 수 있는 퀘스트가 없습니다.
 quest.questlist=퀘스트가 진행중입니다.
 quest.reputationlost=지지도 하락
-
 quest.creationqueststatus=생성 퀘스트 상태
 quest.creationqueststatusshort=생성 퀘스트:
-
-quest.cqchaptersadhu=강물
+quest.cqchaptersadhu=현자
 quest.cqsadhustartexplanation=당신의 지지도가 "마을의 친구" 이상인 인도 마을에서 당신을 안내해줄 인도 주민을 찾으세요.
-
 quest.cqchapteralchemist=연금술사
 quest.cqalchemiststartexplanation=당신의 지지도가 "마을의 친구" 이상인 노르만 마을에서 당신을 안내해줄 노르만 주민을 찾으세요.
-
-quest.cqchapterfallenking=몰락한 왕
+quest.cqchapterfallenking=타락한 왕
 quest.cqfallenkingstartexplanation=당신의 지지도가 "마을의 친구" 이상인 마야 마을에서 당신을 안내해줄 마야 주민을 찾으세요.
-
-
 quest.cqallcompleted=축하합니다. 당신은 현재 가능한 모든 생성 퀘스트를 성공했습니다.
 quest.cqcheckforupdates=미래의 업데이트나 새로운 임무에 대해서는 www.millenaire.org 홈페이지를 참고해 주세요.
 quest.cqchapternotstarted=챕터 "<0>" 을(를) 시작하지 않았습니다.
@@ -234,19 +278,8 @@ quest.cqchapternotstartedshort=챕터 "<0>": 시작되지 않았습니다.
 quest.cqchapterinprogressshort=챕터 "<0>": <1>/<2>.
 quest.cqchaptercompletedshort=챕터 "<0>": 완료되었습니다.
 quest.cqcheckquestlistandhelp='<0>' 키를 눌러 밀리네어 모드의 도움말을 볼 수 있습니다.
-
-
-
-
-
 error.unknownitem=알 수 없는 아이템 이름입니다.
-
-
-
-//Errors
-ui.updateEntity=TileEntityBuilding.updateEntity(). 에 오류가 발생했습니다. 자세한 오류 로그는 millenaire.log 파일을 참조해 주세요.
-
-//Panels & parchments
+ui.updateentity=TileEntityBuilding.updateEntity(). 에 오류가 발생했습니다. 자세한 오류 로그는 millenaire.log 파일을 참조해 주세요.
 panels.notextfound=이 책에서 다음의 단어를 찾지 못하였습니다: <0>
 panels.invalidid=마을 ID가 잘못되었습니다.
 panels.toofar=기록하기에 너무 마을이 멉니다.
@@ -257,7 +290,7 @@ panels.father=아빠
 panels.spouse=배우자
 panels.dead=일시적인 사망
 panels.awayraiding=멀리 습격
-panels.awayhired=플레이어에 의해 고용
+panels.awayhired=플레이어에 의한 고용
 panels.invaderincoming=수입
 panels.missing=부족합니다!
 panels.multiple=선물 <0> 회!
@@ -270,6 +303,7 @@ panels.notyetbuilt=아직 지어지지 않았습니다
 panels.nbupgradesleft=<0> 개의 업그레이드가 남아 있습니다.
 panels.finished=건설 완료
 panels.houseunoccupied=이 건물은 비어있습니다. 충분히 자란 어린 주민이 와서 성인으로 성장할 수 있는 장소입니다.
+panels.house=집
 panels.man=남성
 panels.woman=여성
 panels.children=어린이
@@ -293,6 +327,7 @@ panels.maplightblue=밝은 파랑색: 물입니다.
 panels.mapbrown=갈색: 다른 구역 (건설 가능 고도를 초과한 지역 등).
 panels.unreachablebuilding=도달 불가능!
 panels.merchantlist=상인 목록
+panels.visitorlist=방문객 목록
 panels.capacity=수용량
 panels.nbnightsin=마을에 <0> 번째 밤부터 있었습니다.
 panels.storedexports=<0> 수출을 위해 다음을 저장: <1>
@@ -322,7 +357,7 @@ panels.raider=침입자
 panels.health=체력
 panels.weapons=무기
 panels.armour=갑옷
-panels.militarystrength=군사 세기
+panels.militarystrength=군사력
 panels.unknownattacker=알 수 없는 장소
 panels.raidsperformed=침입 시도했습니다
 panels.raidssuffered=침입 당했습니다
@@ -330,106 +365,97 @@ panels.nameand=<0> 그리고
 panels.buildingproject=현재 계획:
 panels.currentconstruction=현재 건설중:
 panels.villagesummary=중요 정보
-
-//Goals (text displayed above the villager when he is doing it)
 goal.gorest=휴식중
 goal.godrink=음료 마시는 중
 goal.gopray=기도하는 중
-goal.GatherGoods=상품 획득
-goal.BringBackResourcesHome=자원을 가지고 돌아오는중
-goal.GetTool=도구 얻는중
-goal.huntMonster=몹과 싸우는중
-goal.getGoodsHousehold=집을 위해 상품 구하는중
-goal.DeliverGoodsHousehold=집을 위해 상품 조달중
-goal.GetHouseTHResources=집에서 자원 가져오는 중
-goal.DeliverResourcesShop=자원 조달중
+goal.gathergoods=상품 획득
+goal.bringbackresourceshome=자원을 가지고 돌아오는중
+goal.gettool=도구 얻는중
+goal.huntmonster=몹과 싸우는중
+goal.getgoodshousehold=집을 위해 상품 구하는중
+goal.delivergoodshousehold=집을 위해 상품 조달중
+goal.gethousethresources=집에서 자원 가져오는 중
+goal.deliverresourcesshop=자원 조달중
 goal.raidvillage=마을 침략중
 goal.defendvillage=마을 지키는중
 goal.hide=대피하는 중
-
-goal.CollectCrop=작물 수확중
-goal.PlantSeeds=씨앗 심는중
-goal.ChopTrees=나무 캐는중
-goal.PlantSaplings=묘목 심는중
-goal.GetResourcesForBuild=건설에 필요한 자원 수집중
-goal.MakeBread=빵 만드는중
-goal.BeSeller=플레이어에게 파는 중
-goal.MakeCider=사이다 만드는중
-goal.MakeCalva=칼바 만드는중
-goal.Construction=공사중
-goal.GoPlay=노는중
-goal.BecomeAdult=이사중
-goal.MakeNormanTools=도구 제작중
-goal.MakeNormanWeapons=무기 제작중
-goal.Patrol=순찰중
-goal.Butcher=동물 잡는중
-goal.MakeBoudin=부댕 만드는 중
-goal.MakeTripes=트라이프 만드는 중
-goal.Mining=채광
-goal.Cooking=자원 굽는중
-goal.MakeBooks=양피지 제작중
-goal.MakeTapestry=테피스트리 제작중
-goal.VisitInn=여인숙에 가는 중
-goal.VisitBuilding=가게에 가는 중
-goal.MakeAmulet=부적 만드는 중
-goal.KeepStall=매점 지키는 중
-goal.MakeTimberFrame=목제 프레임 제작중
-goal.DryBrick=벽돌 말리는 중
-goal.GatherBrick=건조된 벽돌을 구하는 중
-goal.CookBrick=벽돌을 굽는 중
-goal.PlantRice=쌀을 심는 중
-goal.HarvestRice=쌀을 수확하는 중
-goal.PlantTurmeric=강황을 심는 중
-goal.HarvestTurmeric=강황을 수확하는 중
-goal.SlaughterChicken=닭을 잡는 중
-goal.PlantSugarCane=사탕수수를 심는 중
-goal.HarvestSugarCane=사탕수수를 수확 중
-goal.MakeRasgulla=라스귤라스르르 만드는 중
-goal.Makesteelaxe=강철 도끼를 만드는 중
-goal.Makesteelpickaxe=강철 곡괭이를 만드는 중
-goal.Makesteelshovel=강철 삽을 만드는 중
-goal.Makesteelhoe=강철 괭이를 만드는 중
-goal.Makesteelsword=강철 검을 만드는 중
-
+goal.collectcrop=작물 수확중
+goal.plantseeds=씨앗 심는중
+goal.choptrees=나무 캐는중
+goal.plantsaplings=묘목 심는중
+goal.getresourcesforbuild=건설에 필요한 자원 수집중
+goal.makebread=빵 만드는중
+goal.beseller=플레이어에게 파는 중
+goal.makecider=사이다 만드는중
+goal.makecalva=칼바 만드는중
+goal.construction=공사중
+goal.goplay=노는중
+goal.becomeadult=이사중
+goal.patrol=순찰중
+goal.butcher=동물 잡는중
+goal.makeboudin=부댕 만드는 중
+goal.maketripes=트라이프 만드는 중
+goal.cooking=자원 굽는중
+goal.makebooks=양피지 제작중
+goal.maketapestry=테피스트리 제작중
+goal.visitinn=여인숙에 가는 중
+goal.visitbuilding=가게에 가는 중
+goal.makeamulet=부적 만드는 중
+goal.keepstall=매점 지키는 중
+goal.maketimberframe=팀버프레임 제작중
+goal.drybrick=벽돌 말리는 중
+goal.gatherbrick=건조된 벽돌을 구하는 중
+goal.cookbrick=벽돌을 굽는 중
+goal.plantrice=쌀을 심는 중
+goal.harvestrice=쌀을 수확하는 중
+goal.plantturmeric=강황을 심는 중
+goal.harvestturmeric=강황을 수확하는 중
+goal.slaughterchicken=닭을 잡는 중
+goal.plantsugarcane=사탕수수를 심는 중
+goal.harvestsugarcane=사탕수수를 수확 중
+goal.makerasgulla=라스굴라 만드는 중
+goal.makesteelaxe=강철 도끼를 만드는 중
+goal.makesteelpickaxe=강철 곡괭이를 만드는 중
+goal.makesteelshovel=강철 삽을 만드는 중
+goal.makesteelhoe=강철 괭이를 만드는 중
+goal.makesteelsword=강철 검을 만드는 중
 goal.makesteelchest=강철 갑옷을 만드는 중
 goal.makesteelhelmet=강철 헬멧을 만드는 중
 goal.makesteellegs=강철 레깅스를 만드는 중
 goal.makesteelboots=강철 부츠를 만드느 중
-
 goal.makeindianstatue=조각상을 조각하는 중
-goal.performpujas=푸자를 수행하는 중
-goal.bepujaperformer=푸자가 가능합니다
+goal.performpujas=예배 중
+goal.bepujaperformer=예배가 가능합니다
 goal.performsacrifices=제물 배치는 중
-goal.besacrificeperformer=제물이 가능합니다
-
-goal.PlantMaize=옥수수 심는 중
-goal.HarvestMaize=옥수수 수확 중
-goal.makemayanGoldBlock=금 장식 블럭 만드는 중
+goal.besacrificeperformer=제물을 바칠 수 있습니다
+goal.plantmaize=옥수수 심는 중
+goal.harvestmaize=옥수수 수확 중
+goal.makemayangoldblock=금 장식 블럭 만드는 중
 goal.makemayanstatue=조각상을 조각하는 중
-goal.Makestoneaxe=돌 도끼를 만드는 중
-goal.Makestonepickaxe=돌 곡괭이를 만드는 중
-goal.Makestoneshovel=돌 삽을 만드는 중
-goal.Makestonehoe=돌 괭이를 만드는 중
-goal.Makestonesword=돌 검을 만드는 중
-goal.makeleatherboots=가죽 부츠를 만드는 중
-goal.makeleatherchest=가죽 갑옷을 만드는 중
-goal.makeleatherhelmet=가죽 헬멧을 만드는 중
-goal.makeleatherlegs=가죽 레깅스를 만드는 중
+goal.makestoneaxe=돌 도끼를 만드는 중
+goal.makestonepickaxe=돌 곡괭이를 만드는 중
+goal.makestoneshovel=돌 삽을 만드는 중
+goal.makestonehoe=돌 괭이를 만드는 중
+goal.makestonesword=돌 검을 만드는 중
+goal.makeleatherboots=가죽 부츠 만드는 중
+goal.makeleatherchest=가죽 갑옷 만드는 중
+goal.makeleatherhelmet=가죽 투구 만드는 중
+goal.makeleatherlegs=가죽 레깅스 만드는 중
 goal.makemayanaxe=흑요석 도끼를 만드는 중
 goal.makemayanpickaxe=흑요석 곡괭이를 만드는 중
 goal.makemayanshovel=흑요석 삽을 만드는 중
 goal.makemayanhoe=흑요석 괭이를 만드는 중
-goal.makemayanmace=흑요석 메이스를 만드는 중
+goal.makemayanmace=흑요석 몽둥이를 만드는 중
 goal.makeobsidianflake=흑요석을 파쇄해 조각으로 만드는 중
 goal.harvestcocoa=코코아를 모으는 중
 goal.plantcocoa=코코아를 심는 중
 goal.makecacauhaa=코코아 음료를 준비하는 중
-
 goal.fish=낚시하는 중
+goal.fishinuit=낚시하는 중
 goal.makethatch=초가를 만드는 중
 goal.makepaper=종이를 만드는 중
-goal.makepaperrice=라이스 페이퍼를 만드는 중
-goal.makepaperwoodpulp=나무 펄프로 종이를 만드는 중
+goal.makepaperrice=종이를 만드는 중
+goal.makepaperwoodpulp=종이를 만드는 중
 goal.makepaperwall=종이 벽을 만드는 중
 goal.cookfish=생선을 굽는 중
 goal.cooksteak=소고기를 굽는 중
@@ -437,16 +463,14 @@ goal.cooklamb=양고기를 굽는 중
 goal.cookpork=돼지고기를 굽는 중
 goal.cookchicken=닭고기를 굽는 중
 goal.makeudon=우동을 만드는 중
-goal.maketachi=타치 검을 만드는 중
+goal.maketachi=검을 만드는 중
 goal.makejapaneseweapons=일본 무기를 만드는 중
 goal.makesake=사케 발효중
 goal.slaughtersquid=오징어를 낚시하는 중
-
 goal.brewpotions=포션 제조중
 goal.harvestwarts=지옥 사마귀 수확중
 goal.makeglassbottles=유리병 만드는 중
 goal.plantwarts=지옥 사마귀 심는 중
-
 goal.plantvines=덩굴 수확중
 goal.harvestvines=포도 수확중
 goal.gathersilk=비단 얻는 중
@@ -458,24 +482,20 @@ goal.makebrick=벽돌 만드는 중
 goal.training=연습중
 goal.paintpainting=프레임을 칠하는 중
 goal.makebook=책을 쓰는 중
-goal.makebyzantinemace=비잔틴 메이스를 만드는 중
-goal.makebyzantinechest=비잔틴 갑옷을 만드는 중
-goal.makebyzantinelegs=비잔틴 레깅스를 만드는 중
-goal.makebyzantinehelmet=비잔틴 헬멧을 만드는 중
-goal.makebyzantineboots=비잔틴 부츠를 만드는 중
-
+goal.makebyzantinemace=비잔티움 철퇴를 만드는 중
+goal.makebyzantinechest=비잔티움 갑옷을 만드는 중
+goal.makebyzantinelegs=비잔티움 각반을 만드는 중
+goal.makebyzantinehelmet=비잔티움 투구를 만드는 중
+goal.makebyzantineboots=비잔티움 부츠를 만드는 중
 goal.makebow=활 제작중
 goal.makerottenflesh=썩은 고기를 만드는 중
 goal.makearrow=화살 제작중
-
 goal.sleep=자는 중
 goal.sleep_travelling=자는 중
-
-
 goal.makeclothes_byz_wool=천을 짜는 중
 goal.makemasa=마사를 준비하는 중
 goal.slaughterpig=돼지 잡는 중
-goal.makesouvlaki=소블라키를 준비하는 중
+goal.makesouvlaki=수블라키를 준비하는 중
 goal.makewah=와를 준비하는 중
 goal.makecurry=야채 카레를 준비하는 중
 goal.makeclothes_byz_silk=실크 천을 짜는 중
@@ -485,17 +505,13 @@ goal.breed=동물 교배중
 goal.shearsheep=양털을 깎는 중
 goal.makemurgh=치킨 카레를 준비 중
 goal.getitemtokeep=아이템을 줍는 중
-
 goal.buildpath=길을 만드는 중
 goal.clearoldpath=오래된 길을 치우는 중
-
 goal.gosocialise=대화 안하는 중
 goal.chat=대화중
-
 goal.makedirtwall=흙 벽 블럭을 만드는 중
 goal.makepath=길에 사용될 블럭을 만드는 중
-
-//other
+goal.mining=채광
 other.west=서쪽
 other.east=동쪽
 other.north=북쪽
@@ -504,39 +520,25 @@ other.north-west=북서쪽
 other.south=남쪽
 other.south-east=남동쪽
 other.south-west=남서쪽
-
 other.tothewest=서쪽
 other.totheeast=동쪽
 other.tothenorth=북쪽
-other.tothenorth-북동쪽
-other.tothenorth-북서쪽
 other.tothesouth=남쪽
-other.tothesouth-남동쪽
-other.tothesouth-남서쪽
-
-other.west_short=서
-other.east_short=동
-other.north_short=북
-other.south_short=남
+other.west_short=서쪽
+other.east_short=동쪽
+other.north_short=북쪽
+other.south_short=남쪽
 other.shortdistancedirection=<0>블럭 <1>
-
 other.metre=블럭
 other.kilometre=×1000 블럭
 other.andhalf=그리고 반
-
 other.directionshort=<1> <0>
 other.exploredbuilding=당신은 다음의 건물을 탐험했습니다 <0>.
-
 other.malevillager=밀리네어 주민 남성
 other.femalevillager=밀리네어 주민 여성
-
 other.buildinghealing=<0> 은(는) 당신을 치유하고 있습니다.
-
-
-other.localmerchantinteract=이 상인은 지역 상인입니다. 지역 상인은 마을에서 마을로 상품을 나르는 일을 합니다. 당신은 이 상인과 거래할 수 없습니다.
-
+other.localmerchantinteract=이 상인은 행상입니다. 행상은 마을에서 마을로 상품을 나르는 일을 합니다. 당신은 이 상인과 거래할 수 없습니다.
 other.chattosomeone=<0> / <1>
-
 hire.health=체력
 hire.strength=힘
 hire.cost=하루당 임금
@@ -546,54 +548,39 @@ hire.timeleft=<0> 시간동안 고용되었습니다.
 hire.hiredvillager=이 주민은 고용되었고 <0> 만큼의 제한 시간이 다 지날때까지 일할 것입니다.<ret><ret>버튼 '<1>' 을 눌러 주민은 공격적 자세를 취하게 하거나 왼쪽 시프트 + '<1>'키를 누르면 평화적 자세를 취합니다.
 hire.hireablevillager=이 마을 주민을 고용 가능합니다. 이 주민은 제한 시간이 될때까지 일할 것입니다. 공격적 자세를 취한 주민은 몹이나 적을 공격 가능합니다.
 hire.hireablevillagernoreputation=당신은 적어도 지지도가 "마음에 드는 상인" 이상이여야 마을주민을 고용 가능합니다.
-hire.extend=확장
-hire.release=해제
+hire.extend=연장
+hire.release=해고
 hire.close=취소
 hire.hire=고용
-hire.hireover=<0> 의 고용 시간이 끝났습니다. 이제 집으로 돌아갈 겁니다.
-hire.hiredied=<0> 은(는) 사망했습니다. 그는 집에서 리스폰될겁니다.
+hire.hireover=<0> 의 고용 시간이 끝났습니다. 이제 집으로 돌아갈 것입니다.
+hire.hiredied=<0> 이(가) 사망했습니다. 곧 집에서 리스폰 될 것입니다.
 hire.hiredbyotherplayer=<0> 은(는) 이미 <1> 에게 고용되었습니다!
 hire.hiredby=<0> 이(가) 고용중
-
 actions.forest_success=당신은 성공적으로 이 숲을 탐사했습니다.
 actions.forest_continue=현재 당신은 <0>% 만큼 숲을 탐사했습니다.
-
 actions.desert_success=당신은 성공적으로 이 사막을 탐사했습니다.
 actions.desert_continue=현재 당신은 <0>% 만큼 사막을 탐사했습니다.
-
 actions.mountain_success=당신은 산을 성공적으로 탐사하였습니다.
 actions.mountain_continue=현재 당신은 <0>% 만큼 산을 탐사했습니다.
-
 actions.underwaterglass_success=심해 관측창을 만드는데 성공하였습니다.
 actions.underwaterglass_notdeepenough=이 바다는 충분히 깊지 않습니다.
-
 actions.underwaterdive_success=성공적으로 심해를 탐사했습니다.
-
 actions.bottomoftheworld_success=더 이상 아래로 팔 수 없는듯 해보입니다. 세계의 뿌리일지도 몰라요!
-
 actions.topoftheworld_success=더 이상 위로 올라갈 수 없는듯 합니다. 세계의 천장일지도 몰라요!
-
 actions.borehole_nblineok=<0>개의 기반암 블럭이 하늘에 노출되었습니다. 5x5크기 정사각형 형태로 25개가 노출되어야 합니다.
 actions.borehole_success=구멍을 파는데 성공하셨습니다!
-
 actions.boreholetnt_success=충분한 TNT가 설치되었습니다. 이제 폭파 가능합니다.
 actions.boreholetnt_nbtnt=<0> TNT 블럭이 설치되었고 흑요석으로 감싸져 있습니다. 모두 20개가 필요합니다.
-
 actions.boreholetntlit_success=TNT가 점화되었습니다. 결과를 관측하고 연금술사에게 보고하세요!
-
 actions.thevoid_success=공허로 가는 구멍을 만들었습니다!
-
 actions.enchantmenttable_success=사두에 가까운 인첸트 테이블을 만들었습니다.
-
 actions.mayan_siege_start=피라미드가 공격받고 있습니다! <0> 마리의 가스트, <1> 마리의 블레이즈, <2> 마리의 스켈레톤이 공격중입니다. 그들을 제거하세요!
 actions.mayan_siege_success=피라미드를 공격하던 적들을 모두 제거했습니다!
 actions.mayan_siege_update=가스트 <0> 마리, 블레이즈 <1> 마리, 스켈레톤 <2> 마리가 남았습니다.
-
 info.culturetitle=문화
 info.culture=<0> 문화권
 info.culturereputation=지지도: <0>
 info.culturelanguage=언어 레벨: <0>
-
 culturereputation.scourgeofgod=신의 징벌
 culturereputation.dreadful=무서움
 culturereputation.bad=나쁨
@@ -602,35 +589,27 @@ culturereputation.excellent=훌륭함
 culturereputation.good=좋음
 culturereputation.decent=보통
 culturereputation.neutral=중립적
-
 culturelanguage.fluent=유창함
 culturelanguage.moderate=상당함
 culturelanguage.beginner=초보자
 culturelanguage.minimal=거의 모름
-
-
 weapon.criticalstrike=크리티컬 히트! 데미지가 <0> 배 더 셉니다!
-
 negationwand.villagelocked=<0> 은(는) 여전히 잠겨있습니다. 모든 마을 주민을 제거해야만 열 수 있습니다.
 negationwand.confirmmessage=<0> 을(를) 파괴하고 싶은가요? 파괴하면 건물은 남지만, 주민들은 영원히 사라질겁니다.
 negationwand.confirm=확인
 negationwand.cancel=취소
 negationwand.destroyed=<0> 은(는) 파괴되었습니다! 이제 건물들은 버려졌고 주민들은 영영 다시 오지 않을겁니다!
-
 relation.excellent=흘륭함
 relation.verygood=매우 좋음
 relation.good=좋음
 relation.decent=보통
 relation.fair=그럭저럭함
-
 relation.openconflict=갈등이 있음
 relation.atrocious=심함
 relation.verybad=매우 나쁨
 relation.bad=나쁨
 relation.chilly=냉소적
-
 relation.neutral=중립적
-
 raid.planningstarted=<0> 은(는) <1> 을(를) 침략할 계획을 세우는 중입니다.
 raid.started=<0> 은(는) <1> 을(를) 침략하기 시작했습니다! <2> 명의 싸움꾼이 합류하였습니다.
 raid.raidsuccesfull=<0> 은(는) 침략에 성공했습니다. <1> 를 훔쳤고, <2> 를 얻었습니다!
@@ -640,7 +619,6 @@ raid.historysuccess=<0> 을(를) 침략했습니다. 점수: <1>
 raid.historyraided=<0> 에 의해 침략당했습니다. 점수: <1>
 raid.historyfailure=<0> 을(를) 침략하는데 실패하였습니다.
 raid.historydefended=<0> 에 의한 침략을 성공적으로 막았습니다.
-
 hof.hof=명예의 전당
 hof.modcreator=모드 제작자
 hof.creatorofmayan1=마야 문화의
@@ -651,7 +629,6 @@ hof.creatorofbyzantine1=비잔틴 문화의
 hof.creatorofbyzantine2=제작자
 hof.creatorofindianskins1=인도인 스킨
 hof.creatorofindianskins2=제작자
-
 hof.skinmaker=스킨 제작자
 hof.buildingmaker=건물 제작자
 hof.wikiadmin=위키 관리자
@@ -678,7 +655,6 @@ hof.hofidea2=아이디어
 hof.donor=기증자
 hof.variousimprovements1=다양한 부분
 hof.variousimprovements2=개선
-
 pujas.invanme=입찰
 pujas.panditfee=팬딧의 가격
 pujas.offering=제공
@@ -691,43 +667,28 @@ pujas.offeringslot=신에게 제공
 pujas.offeringslot2=그들은 아무것도 받아들이지 않습니다. 실험입니다.
 pujas.moneyslot=팬딧을 위해 돈을 넣어주세요.
 pujas.toolslot=인첸트를 하고싶은 도구를 올려놓으세요.
-
 sacrifices.priestcoming=<0>: 제물을 받쳐야 하는가? 이것은 신을 위한 것이다.
 sacrifices.panditfee=주술사에게
 sacrifices.offering=제물
-
 mayan.god0=Ah Puch - 생존을 위해
 mayan.god1=K'inich Ajaw - 불을 위해
 mayan.god2=Cabrakan - 충돌을 위해
 mayan.god3=Ah Tabai - 화살을 위해
 mayan.god4=Cum Hau - 복수를 위해
-
 mayan.god5=Uqux Cho - 카이만의 호흡을 위해
 mayan.god6=Uqux Palo - 파도 아래서 일할수 있게 하기 위해
-
 mayan.god7=Alom - 빛을 위해
-
 mayan.god8=Buluc Chabtan - 폭력을 위해
 mayan.god9=Ah Puch - 죽음과 싸우기 위해
 mayan.god10=Cum Hau - 몹들과 싸우기 위해
-
 mayan.god11=Huracan - 강한 호흡을 위해
 mayan.god12=K'inich Ajaw - 화염을 위해
 mayan.god13=Ek Chuah - 행운을 위해
-
 mayan.god14=Buluc Chabtan - 폭력을 위해
 mayan.god15=Huracan - 강한 호흡을 위해
 mayan.god16=K'inich Ajaw - 화염을 위해
 mayan.god17=Ek Chuah - 행운을 위해
-
 mayan.god18=Witz - 힘을 위해
-
-culture.norman=노르만
-culture.indian=인도
-culture.japanese=일본
-culture.mayan=마야
-culture.byzantines=비잔티움
-
 export.errornoname=건물 설계도의 이름을 첫번째 줄에 놓아야 합니다.
 export.errornoendsigneast=동쪽 방향에 있는 표지를 찾지 못했습니다. 표지는 시작점에서 일직선 방향으로 256블럭 거리내에 있어야 합니다.
 export.errornoendsignsouth=남쪽 방향에 있는 표지를 찾지 못했습니다. 표지는 시작점에서 일직선 방향으로 256블럭 거리내에 있어야 합니다.
@@ -737,24 +698,21 @@ export.errorstartinglevel= 세번째 줄에 시작 레벨이 올바르지 않습
 export.defaultstartinglevel=시작 레벨이 감지되지 않았습니다. -1 을 기본으로 설정하였습니다.
 export.errorunknownblockid=알 수 없는 블럭이 감지되었습니다: <0>
 export.buildingexported=건물을 <0> 으로 출력하였습니다.
-
 import.notonserver=서버에서는 건물을 가져올 수 없습니다.
 import.errornoname=첫번째 줄에 건물 설계도의 이름을 적어야 합니다.
 import.errornotfound=millenaire-custom/exports 폴더에 해당 건물의 설계도가 없습니다.
 import.buildingupto=최대 <0> 레벨까지 건설 가능합니다.
-import.errorinvalidupgradelevel=표지의 두번째 줄에 
+import.errorinvalidupgradelevel=표지의 두번째 줄에
 import.buildinginitialphase=업그레이드 레벨이 정해지지 않았습니다, 초기 단계만 구축합니다.
 import.errorupgradeleveltoohigh=요청한 업그레이드 레벨이 가능한 수치보다 높습니다.
 import.doublevertical=수직 높이를 두 배로 하였습니다.
 import.buildinglevel=건물 레벨: <0>
-
 effect.towncentre=마을 중앙 건물
 effect.shop=가게: <0>
 effect.irrigation=농업: 생산량 <0>% 증가
 effect.pujalocation=입찰 개최
 effect.sacrificeslocation=제사 개최
 effect.healing=플레이어 회복
-
 chunk.chunkmap=청크 지도
 chunk.caption=표기법
 chunk.captiongeneral=각 청크는 2x2 픽셀 크기로 표시됩니다. 축척: 1픽셀= 마인크래프트에서의 8x8 블럭
@@ -768,10 +726,6 @@ chunk.explanations=밀리네어 마을은 청크가 로딩되어야만 활성화
 chunk.chunkcoords=청크: <0>
 chunk.village=<0>
 chunk.chunkforced=강제 로딩됨
-
-
-
-
 config.pagetitle=밀리네어 설정
 config.page.uisettings=GUI 설정
 config.page.worldgeneration=월드 구조물 생성
@@ -779,113 +733,68 @@ config.page.worldgeneration.desc=이 설정은 싱글플레이어 월드에서�
 config.page.villagebehaviour=마을의 행동
 config.page.villagebehaviour.desc=이 설정은 싱글플레이어 월드에서만 적용됩니다. (서버에서는 통하지 않습니다)
 config.page.devtools=개발 도구
-
 config.village_list_key.label=마을 목록 키
 config.village_list_key.desc=주변의 마을을 알려주는 단축키입니다. 기본 설정: <0>.
-
 config.quest_list_key.label=정보 패널 키
 config.quest_list_key.desc=밀리네어의 정보 패널을 표시하는 키입니다. 기본 설정: <0>.
-
 config.escort_key.label=공격 설정 키
 config.escort_key.desc=고용한 마을 주민을 적대적 또는 방어적으로 전환합니다. 기본 설정: <0>.
-
-
 config.fallback_language.label=대체 언어
 config.fallback_language.desc=두번째 게임 언어. 첫번째가 불가능할때 사용됩니다.
-
-config.dynamic_textures.label=변동적인 텍스쳐
-config.dynamic_textures.desc=64x 해상도를 가진 텍스쳐팩을 사용할 경우 자동으로 텍스쳐가 64x로 전환됩니다.
-
 config.language_learning.label=언어 배우기
 config.language_learning.desc=충분히 해당 문화권과 상호작용해야만 마을 주민들의 말이 번역됩니다.
-
 config.load_all_languages.label=모든 언어 불러오기
 config.load_all_languages.desc=가능한 모든 언어를 불러옵니다. 클라이언트에 필요할때 통역을 제공하기 위함입니다.
-
 config.display_start.label=시작 화면에 텍스트 표기하기
 config.display_start.desc=시작할때 밀리네어 버전과 생성 퀘스트 진행도를  표기합니다.
-
 config.display_names.label=마을 주민 이름 표시하기
 config.display_names.desc=플레이어처럼 마을 주민들의 이름표가 보이게 해 줍니다.
-
 config.villagers_names_distance.label=이름 표시되는 거리
 config.villagers_names_distance.desc=마을 주민의 이름표가 표시되는 거리입니다. 기본 설정: <0>.
-
 config.villagers_sentence_in_chat_distance_client.label=채팅에 문장 표시하기 (멀티플레이)
 config.villagers_sentence_in_chat_distance_client.desc=멀티플레이에서 마을의 메세지를 표시하는 거리입니다. 기본 설정: <0>.
-
 config.villagers_sentence_in_chat_distance_sp.label=채팅에 문장 표시하기 (싱글플레이)
 config.villagers_sentence_in_chat_distance_sp.desc=멀티플레이에서 마을의 메세지를 표시하는 거리입니다. 기본 설정: <0>.
-
 config.generate_villages.label=마을 생성
 config.generate_villages.desc=새로 생성되는 청크에 밀리네어 마을이 나올지를 결정합니다.
-
 config.generate_lone_buildings.label=고립된 건물 생성하기
 config.generate_lone_buildings.desc=새로 생성되는 청크에 고립된 건물이 나올지를 결정합니다.
-
 config.keep_active_radius.label=청크 로딩 범위
 config.keep_active_radius.desc=플레이어가 이 거리 안에 있으면 마을의 청크가 로딩됩니다. 기본 설정: <0>.
-
 config.min_village_distance.label=마을 사이의 최소 거리
 config.min_village_distance.desc=마을과 마을 사이의 최소 거리를 결정합니다. 기본 설정: <0>.
-
 config.min_village_lonebuilding_distance.label=마을과 고립된 건물간의 최소 거리
 config.min_village_lonebuilding_distance.desc=마을과 고립된 건물 사이의 최소 거리를 결정합니다. 기본 설정: <0>.
-
 config.min_lonebuilding_distance.label=고립된 건물간의 최소 거리
 config.min_lonebuilding_distance.desc=고립된 건물과 고립된 건물 사이의 최소 거리를 결정합니다. 기본 설정: <0>.
-
 config.spawn_protection_radius.label=스폰 보호 범위
 config.spawn_protection_radius.desc=스폰 주변에 마을을 짓지 못하는 구역의 범위를 결정합니다 기본 설정: <0>.
-
 config.village_radius.label=마을의 반경
 config.village_radius.desc=일반적인 마을의 최대 반경을 설정합니다. 기본 설정: <0>.
-
 config.min_distance_between_buildings.label=건물 사이의 최소 거리
 config.min_distance_between_buildings.desc=건물 간의 최소한의 한계 거리입니다. 기본 설정: <0>.
-
 config.village_paths.label=마을에 길 건설
 config.village_paths.desc=마을이 발전할 때 주민들이 길을 건설하게 해줍니다
-
 config.max_children_number.label=주민당 최대 아이 수
 config.max_children_number.desc=한 주민이 돌볼 수 있는 최소한의 아이 수를 결정합니다. 기본 설정: <0>.
-
 config.background_radius.label=마을 관계 범위
-config.background_radius.desc=마을과 마을이 서로 거래,침략 등을 하는 최대 범위 설정입니다. 기본 설정: <0>. 
-
+config.background_radius.desc=마을과 마을이 서로 거래,침략 등을 하는 최대 범위 설정입니다. 기본 설정: <0>.
 config.bandit_raid_radius.label=산적 침략 범위
 config.bandit_raid_radius.desc=이 범위 안에 있는 산적은 마을을 침략할 것입니다. 기본 설정: <0>.
-
 config.raiding_rate.label=침략 확률 (%)
 config.raiding_rate.desc=100으로 설정하면 매일 밤마다 마을 주민들이 서로를 침략합니다. 기본 설정: <0>.
-
-
-
-config.generate_colour_chart.label=색 차트 생성하기
-config.generate_colour_chart.desc=건축 설계도에 사용 가능한 색 차트를 생성합니다.
-
 config.generate_building_res.label=자원 목록 생성하기
 config.generate_building_res.desc=건설에 필요한 자원의 목록을 생성합니다.
-
 config.generate_translation_gap.label=번역 안된 부분 표시하기
 config.generate_translation_gap.desc=텍스트가 부족하거나 없는 부분을 지적해 줍니다.
-
-config.generate_goods_list.label=상품 목록 표시하기
-config.generate_goods_list.desc=밀리네어에 알려진 아이템 목록을 표시합니다.
-
 config.valuetrue=ON
 config.valuefalse=OFF
-
 config.page.bonus=기여자 보너스
 config.page.bonus.desc=밀리네어에 직/간접적으로 기여한 사람에게는, 족장이 집을 제공해 줍니다.
-
 config.bonus_code.label=보너스 코드
 config.bonus_code.desc=보너스를 사용하기 위한 코드
-
 config.validbonuscode=코드가 올바릅니다. 보너스가 발동됩니다.
 config.invalidbonuscode=코드가 올바르지 못합니다. 다시 확인해 주세요.
-
-
 tradehelp.title=<0> - 거래
 tradehelp.goodssold=상품 판매
 tradehelp.goodsbought=상품 구매
@@ -893,24 +802,22 @@ tradehelp.buyingprice=구매:
 tradehelp.sellingprice=판매:
 tradehelp.helptitle=통상적인 거래
 tradehelp.helptext=각 상점에서는 재고가 마을에 있으면 아이템을 구매 가능합니다. 다음의 아이템을 제외하면 말이죠: 공짜 아이템 (예: 길 블럭) 또는 특별 아이템 (예: 지팡이) 등이 그 예입니다. 재고가 무한대인 일반 마인크래프트 주민과 다르게, 밀리네어 주민들은 재고가 떨어지면 물건을 팔지 못합니다.
-
 tradehelp.freeblock=이 블럭들은 공짜로 만들어졌고, 마을에서 무한정 구할 수 있습니다.
 tradehelp.wood=마을 주민들은 나무 농장에서 나무를 길러 집과 건물을 짓는 데 사용합니다.
 tradehelp.stone=마을 주민들은 돌과 유리를 채석장에서 구합니다. 만약 마을에 채석장이 없다면, 모든 돌과 유리는 플레이어에게 의존해야 합니다.
 tradehelp.whitewool=흰 양털은 몇몇 건물에 쓰입니다. 주민들이 원한다면, 색을 입히기도 합니다.
-tradehelp.clay=마을 주민들은 채석장에서 얻어진 점토로 
+tradehelp.clay=마을 주민들은 채석장에서 얻어진 점토로
 tradehelp.genericfood=여러가지 다양한 음식은 어린 주민이 자라는데 도움을 줍니다.
 tradehelp.genericfoodraw=마을 주민들은 고기를 먹기 전에 굽습니다.
 tradehelp.genericfoodsweet=술과 단것은 주민들이 아기를 가질 확률을 높입니다.
 tradehelp.seeds=마을 주민들은 씨앗을 닭의 먹이로 주거나, 밀을 심는데 사용합니다.
-tradehelp.carrot=마을 주민들은 
+tradehelp.carrot=마을 주민들은
 tradehelp.feathers=깃털은 화살의 재료로 쓰입니다..
 tradehelp.generictools=높은 레벨은 가진도구는 마을 주민들의 효율을 높여줍니다.
 tradehelp.genericweapon=높은 레벨을 가진 무기는 마을 주민들 더 강하게 해줍니다.
 tradehelp.purse=예금 제도는 여러분의 데니어를 안전하게 보관할 수 있게 해줍니다.
 tradehelp.wand=마을 소환 지팡이는 원하는 곳에 자신만의 마을을 생성 가능하게 해줍니다. 이는 언제나 사용 가능합니다.
 tradehelp.parchments=양피지는 밀리네어에 관한 정보를 줍니다. 이는 언제나 사용 가능합니다.
-
 tradehelp.normanwhitewool=흰 양털은 일부 건물과 노르만 태피스트리의 주요 재료입니다.
 tradehelp.normantapestrywool=회색, 진한 회색, 검은색 양털은 일부 태피스트리의 재료로 들어갑니다.
 tradehelp.normanleather=노르만 수도사들은 가죽을 이용해 책을 만듭니다.
@@ -922,26 +829,15 @@ tradehelp.normantripesboudin=노르만인들은 소와 돼지고기로부터 트
 tradehelp.normantapestry=노르만 숙녀들은 다양한 색의 양털로부터 태피스트리를 만들 수 있습니다.
 tradehelp.normantimberframes=노르만 목수는 나무로부터 목재 프레임을 만들어 냅니다.
 tradehelp.normanwheat=노르만 주민들은 밀을 사용해 빵을 만들거나 가축에게 먹이로 줍니다.
-
 tradehelp.byzantinetools=비잔틴 대장장이는 가죽과 철을 조합해 비잔틴 갑옷을 만듭니다.
 tradehelp.byzantinefeta=비잔틴인들은 양의 우유로 페타라고 불리는 치즈를 만듭니다. 이는 플레이어를 회복시켜주거나, 마을 주민이 아기를 가질 확률을 높여줍니다.
 tradehelp.byzantinebooks=비잔틴인들은 나무와 가죽으로부터 책을 생산합니다.
 tradehelp.byzantinewine=비잔틴인들은 포도를 이용해 와인을 만듭니다. 와인은 주민이 아기를 가질 확률을 높이거나, 플레이어에게 저항 포션 효과를 줍니다.
 tradehelp.byzantinesilk=비잔틴인들은 누에를 농사해 비단을 만들어 냅니다.
 tradehelp.byzantineclothes=비잔틴인들은 또한 비단으로 옷을 만들기도 합니다. 비단옷을 입고 있는 주민의 아름다워보이게 합니다.
-tradehelp.byzantinetiles=비잔틴인들은 돌과 점토를 사용해 타일을 만들어 냅니다.
 tradehelp.byzantinefood=비잔틴인들은 양고기와 페타 치즈를 합해 소블라키라는 음식을 만들 수 있습니다. 이는 플레이어를 회복시켜주거나, 어린 주민이 자라는데 도움을 줍니다.
 tradehelp.byzantineweapons=비잔틴인들은 가죽과 철로 강한 갑옷을 만들어 냅니다.
 tradehelp.byzantinewheat=비잔틴인들은 빵을 주식으로 삼습니다.
-
-tradehelp.hinditools=인도 대장장이는 철로 도구와 갑옷을 만듭니다.
-tradehelp.hindigenericfood=다양한 종류의 음식은 인도 어린이를 빨리 자라게 해줍니다. ※주의! 인도인들은 종교적 이유로 소와 돼지고기를 먹지 않습니다.
-tradehelp.hindigenericfoodsweet=간식 종류 음식은 마을 주민들이 아기를 가질 확률을 높입니다. ※주의! 인도인들은 종교적 이유로 술을 마시지 않습니다.
-tradehelp.hindirasgulla=인도인들은 사탕수수로부터 라슈귤라라는 사탕을 만듭니다. 이는 주민이 아기를 가질 확률을 높이거나, 플레이어에게 "성급함" 포션효과를 줍니다.
-tradehelp.hindicurry=인도인들은 쌀과 심황으로 카레를 만듭니다. 카레는 플레이어를 회복시켜주거나, 어린 주민이 자라는데 도움을 줍니다.  닭고기를 도하면 치킨 카레가 되는데, 이는 플레이어에게 일시적으로 화염 저항 포션 효과를 줍니다.
-tradehelp.hindibricks=인도인들은 주형을 사용해 모래와 흙을 젖은 벽돌로 만들어 햇볕에 말립니다. 주형은 플레이어가 구매 가능합니다.
-tradehelp.hindistatue=인도 조각상은 힌두교 신들을 상징하며, 힌두교 사원에 배치되어 있습니다.
-
 tradehelp.japanesegold=일본인들은 일부 건물에 금 장식을 씁니다.
 tradehelp.japaneseudon=일본 요리중 하나인 우동은 플레이어를 회복시켜주거나, 어린 주민이 자라는데 도움을 줍니다.
 tradehelp.japanesetools=일본 대장장이는 가죽과 철로 일본식 갑옷과 도구를 만듭니다.
@@ -953,10 +849,31 @@ tradehelp.japanesewheat=일본인들은 밀을 요리해 우동을 만들 수 �
 tradehelp.japanesethatch=일본인들은 밀로부터 초가 블럭을 만들 수 있습니다.
 tradehelp.japanesesake=일본 사케 양조자는 쌀을 사케로 발효시킵니다. 이는 플레이어의 체력을 회복시켜주거나, 마을 주민이 아기를 가질 확률을 높여줍니다.
 tradehelp.japaneseikayaki=이 일본식 오징어 요리는 오징어를 구워 만든 것입니다. 이는 플레이어를 회복시켜주거나, 어린 주민이 자라는데 도움을 줍니다. 또한, 일시적으로 "수중 호흡" 포션효과를 줍니다.
-
 tradehelp.mayangold=마야 장인은 금을 사용해 장식 블럭을 만듭니다. 이 금의 공급은 전적으로 플레이어에게 의존합니다.
 tradehelp.mayanfood=마야인들은 옥수수를 이용해 마사와 와라는 음식을 만듭니다. 와는 플레이어를 회복시켜주거나, 어린 주민이 자라는데 도움을 줍니다. 또한, 일시적으로 "속도" 포션효과를 줍니다.
 tradehelp.mayanobsidian=마야 장인은 흑요석으로 도구를 만듭니다. 이 도구는 효율적이지 않지만, 인첸트 확률이 좋습니다.
 tradehelp.mayanstonetools=마야 장인은 돌로 도구와 검을 만들 수 있습니다.
 tradehelp.mayanweapons=마야 장인은 돌 검과 가죽 갑옷을 만듭니다. 흑요석 제작자는 인첸트 확률이 좋고 강력한 흑요석 메이스를 만들 수 있습니다.
 tradehelp.mayancocoa=마야인들은 카카오 열매를 사용해 코코아 음료를 만들 수 있습니다. 이 음료는 주민이 아기를 가질 확률을 높이거나, 플레이어에게 야간 투시 효과를 줍니다.
+ui.construction=건설중 <0>:
+goal.makenormantools=도구 제작중
+goal.makenormanweapons=무기 제작중
+culture.norman=노르만
+culture.indian=인도
+culture.japanese=일본
+culture.mayan=마야
+culture.byzantines=비잔티움
+config.dynamic_textures.label=변동적인 텍스쳐
+config.dynamic_textures.desc=64x 해상도를 가진 텍스쳐팩을 사용할 경우 자동으로 텍스쳐가 64x로 전환됩니다.
+config.generate_colour_chart.label=색 차트 생성하기
+config.generate_colour_chart.desc=건축 설계도에 사용 가능한 색 차트를 생성합니다.
+config.generate_goods_list.label=상품 목록 표시하기
+config.generate_goods_list.desc=밀리네어에 알려진 아이템 목록을 표시합니다.
+tradehelp.byzantinetiles=비잔틴인들은 돌과 점토를 사용해 타일을 만들어 냅니다.
+tradehelp.hinditools=인도 대장장이는 철로 도구와 갑옷을 만듭니다.
+tradehelp.hindigenericfood=다양한 종류의 음식은 인도 어린이를 빨리 자라게 해줍니다. ※주의! 인도인들은 종교적 이유로 소와 돼지고기를 먹지 않습니다.
+tradehelp.hindigenericfoodsweet=간식 종류 음식은 마을 주민들이 아기를 가질 확률을 높입니다. ※주의! 인도인들은 종교적 이유로 술을 마시지 않습니다.
+tradehelp.hindirasgulla=인도인들은 사탕수수로부터 라슈귤라라는 사탕을 만듭니다. 이는 주민이 아기를 가질 확률을 높이거나, 플레이어에게 "성급함" 포션효과를 줍니다.
+tradehelp.hindicurry=인도인들은 쌀과 심황으로 카레를 만듭니다. 카레는 플레이어를 회복시켜주거나, 어린 주민이 자라는데 도움을 줍니다.  닭고기를 도하면 치킨 카레가 되는데, 이는 플레이어에게 일시적으로 화염 저항 포션 효과를 줍니다.
+tradehelp.hindibricks=인도인들은 주형을 사용해 모래와 흙을 젖은 벽돌로 만들어 햇볕에 말립니다. 주형은 플레이어가 구매 가능합니다.
+tradehelp.hindistatue=인도 조각상은 힌두교 신들을 상징하며, 힌두교 사원에 배치되어 있습니다.

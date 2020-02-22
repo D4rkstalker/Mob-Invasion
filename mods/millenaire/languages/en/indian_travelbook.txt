@@ -41,7 +41,7 @@ travelbook.building.deserttradeoutpost.desc=This small outpost in the desert hos
 travelbook.building.forge.desc=A simple village forge, producing unassuming but efficient tools for the village.
 travelbook.building.fort.desc=This massive fort is an enduring testament to the Rajput generals' love of sandstone.<ret><ret>Players have been known to weep looking at the costs of later upgrades.
 travelbook.building.fort_A_forge.desc=Sheltered within the Fort's walls, this little forge produces weaponry for the garrison.
-travelbook.building.fort_A_soldierhouse.desc=A simple barrack that provides accommodation to the fort's soldiers.
+travelbook.building.fort_A_soldierhouse.desc=A simple barrack that provides accommodation to a soldier and his family.
 travelbook.building.gifthouse.desc=Complete with a cake, this little house rewards players that contributed to Millénaire.
 travelbook.building.grove.desc=Surrounded by brick walls, this grove provides the village with acacia wood.
 travelbook.building.guesthouse.desc=This simple guest house hosts visiting traders in villages too small to have an inn.
@@ -74,5 +74,40 @@ travelbook.building.tank.desc=This impressive water tank keeps the village's cro
 travelbook.building.villagetemple.desc=A handsome structure of stone and sandstone to host the village's protective divinities.
 travelbook.building.villagetree.desc=This tree planted near the centre of the village provides shade in hot summer days.
 travelbook.building.well.desc=A deep well to better fetch the water required by the villagers.
-travelbook.trade_good.sandstone.desc=Indians are very found of sandstone, excessively so in the opinion of Indian miners and players trying to get them to finish a fort or a palace.
 travelbook.trade_good.rice.desc=Rice is a versatile grain used in a multitude of Indian cuisine. Vegetarian and Murgh Curry all require rice as part of their recipes.
+
+
+travelbook.villager.indian_craftsman.desc=A real handyman, this Indian craftsman makes wonders from acacia wood.
+travelbook.villager.indian_painter.desc=The village artist adds just the right touch of fantasy to the village houses with his decorated bricks.
+travelbook.villager.indian_weaver.desc=An expert at making wool from cotton, something once thought impossible. Can also dye it and make carpets.
+
+
+travelbook.building.cottonfield.desc=A small field where the Indians plant the miraculous cotton and flowers to dye it with.
+travelbook.building.craftsmanhouse.desc=A little village house for the craftsman, with a practical workshop attached.
+travelbook.building.fort_A_cistern.desc=This deep cistern built under the fort provides water for the crops in peace time and is vital during a siege.
+travelbook.building.fort_A_soldierhouse2.desc=A simple barrack that provides accommodation to a soldier and his family.
+travelbook.building.fort_A_temple.desc=A simple temple housed within the fort, for use by the garrison as well as the village people.
+travelbook.building.painterhouse.desc=A house with a touch of fantasy for the village's painter.
+travelbook.building.palace_temple.desc=The Raja's own temple, graciously opened to the villagers.
+travelbook.building.playerpalace_temple.desc=A private temple for the player - or just for the villagers.
+travelbook.building.weaverhouse.desc=The weaver's house, comfortable and with a covered working space for his loom.
+
+travelbook.trade_good.bed_charpoy.desc=Charpoy beds are a traditional Indian design. They work pretty much like regular ones, but with a touch of exoticism.
+travelbook.trade_good.cotton.desc=This miraculous Indian plant is basically a mutton you can grow!
+travelbook.trade_good.decoratedbrickwhite.desc=Hand-painted bricks for a fancy touch. Can be repainted in any colour with dyed whitewash buckets.
+travelbook.trade_good.paintbucketwhite.desc=A bucket of whitewash. Can be dyed in any colour and used to repaint bricks!
+travelbook.trade_good.paintedbrickwhite.desc=A white-washed Indian brick. Can be repainted in any colour with dyed whitewash buckets.
+
+travelbook.trade_good.sandstone.desc=Indians are very found of sandstone, excessively so in the opinion of Indian miners and players trying to get them to finish a fort or a palace.
+travelbook.trade_good.redsandstone.desc=Red sandstone is a new passion for the Indians, either to produce carved red sandstone or combined with regular sandstone to produce ochre carved sandstone.
+
+travelbook.trade_good.ochre_sandstone_carved.desc=In the opinion of most Indian architects, regular sandstone is too pale and red sandstone is too bright. Ochre sandstone is just right!
+travelbook.trade_good.red_sandstone_carved.desc=A red version of carved sandstone which provides a nice contrast with the regular one.
+travelbook.trade_good.sandstone_carved.desc=Finally-carved sandstone, ideal for impressive but elegant buildings - preferably in huge quantities.
+
+
+travelbook.trade_good.woodenbars.desc=Simple and sturdy wooden bars, ideal to keep air coming in and zombies out.
+travelbook.trade_good.woodenbarsindian.desc=These fancy carved windows add a touch of glamour to Indian buildings.
+travelbook.trade_good.woodenbarsrosette.desc=A delicate and polyvalent window frame, also used to great effect for doorways.
+
+

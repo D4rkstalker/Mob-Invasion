@@ -1,5 +1,5 @@
 villager.greeting=Bonjour, $name! / Salve, $name!
-villager.greeting=Belle journée, n'est pas? / Bella giornata, non è vero?
+villager.greeting=Belle journée, n'est ce pas? / Bella giornata, non è vero?
 villager.greeting=Il va pleuvoir, je le sens / Sta per piovere, lo posso sentire.
 villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Non ricordavo la Normandia esattamente così.
 guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Sembri un po' magro, $name. Ti proteggerò se ti metterai nei guai.

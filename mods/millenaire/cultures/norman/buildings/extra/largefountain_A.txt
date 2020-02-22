@@ -10,6 +10,7 @@ initial.startlevel=-1
 initial.nativename=Grande fontaine
 initial.priority=750
 initial.tag=pathnode
+initial.tag=leasure
 
 //Parameters for specific upgrades
 upgrade1.priority=70

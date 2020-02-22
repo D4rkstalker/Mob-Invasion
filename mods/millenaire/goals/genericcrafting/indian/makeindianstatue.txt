@@ -5,7 +5,7 @@
 priority=25
 
 //en/in millisecondes
-duration=60000
+duration=30000
 
 
 //spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même

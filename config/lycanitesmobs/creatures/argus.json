@@ -1,6 +1,11 @@
 {
   "name": "argus",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityArgus",
+  "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityArgus",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelArgus",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +41,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 1,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
@@ -76,10 +81,10 @@
       "chance": 0.5
     },
     {
-      "item": "elementalmobs:chaosorbcharge",
-      "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "item": "lycanitesmobs:chaosorbcharge",
+      "minAmount": 3,
+      "maxAmount": 5,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

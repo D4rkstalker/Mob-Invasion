@@ -20,3 +20,5 @@ allowrandommoves=true
 leasure=true
 
 lookatgoal=true
+
+sprint=false

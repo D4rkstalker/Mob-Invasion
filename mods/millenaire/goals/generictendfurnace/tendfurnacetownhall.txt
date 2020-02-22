@@ -18,3 +18,5 @@ labelkey=tendfurnace
 minimumfuel=3
 
 helditems=planks_oak
+
+maxsimultaneousinbuilding=1

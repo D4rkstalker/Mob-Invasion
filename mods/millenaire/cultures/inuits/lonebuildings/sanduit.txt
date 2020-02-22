@@ -1,5 +1,5 @@
 name=Autsituqpuq
-weight=38
+weight=1
 radius=5
 carriesraid=false
 
@@ -9,7 +9,7 @@ mindistancefromspawn=420
 
 biome=cold beach
 biome=stone beach
-biome=sunflower plains
+//biome=sunflower plains
 biome=river
 biome=beach
 biome=mushroom island

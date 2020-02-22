@@ -30,6 +30,7 @@ goal=makecarpet_yellow
 goal=makecarpet_red
 goal=dyewool_red
 goal=dyewool_yellow
+goal=makebannerwool
 
 
 requiredGood=wool_white,64

@@ -1,7 +1,8 @@
+
+
 newchat;key:rain,tag:notraining,weigth:10
 v1;0;Je sens qu'il va pleuvoir. / Sinto que vai chover.
 v2;30;Il pleut toujours en Normandie. / Está sempre a chover na Normandia...
-
 
 newchat;key:beautifulvillage,weigth:10
 v1;0;Il est beau notre village, tu ne trouve pas? / A nossa aldeia é maravilhosa, não acha?
@@ -22,8 +23,6 @@ v2;30;Il paraît qu'ils sont très bizarres. / Dizem que eles são deveras estra
 v1;60;J'ai même entendu dire que leur nourriture brûle! / Parece que a comida deles arde!
 v2;100;Comme du calva? / Como a calva?
 v1;120;Non, pire! / Não, pior!
-
-
 
 newchat;key:byzantines,v1:adult,v2:adult,weigth:5
 v1;0;Ces byzantins m'énervent! / Aqueles Bizantinos enervam-me!
@@ -79,7 +78,6 @@ v2;30;Il y a des vaches, des moutons et des cochons. / Há vacas, ovelhas e porc
 v2;60;Que faudrait-il de plus? / De que mais precisamos?
 v1;60;Des chevaux? Et des poneys! / De cavalos? E póneis!
 v2;90;Parce que tu veux un poney, maintenant? / Isto tudo porque tu queres um pónei, certo?
-
 
 newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
 v1;0;Les tripes, ça c'est un plat d'homme. / Tripes, isso é que é um prato de homem.
@@ -153,7 +151,6 @@ v2;30;Dormez-vous? Dormez-vous? / Dormes tu? Dormes tu?
 v1;60;Sonnez les matines! Sonnez les matines! / Vai tocar o sino! Vai tocar o sino!
 v2;100;Ding, daing, dong. Ding, daing, dong! / Dlin dlin dlão! Dlin dlin dlão!
 
-
 newchat;key:alouette,v1:child,v2:child,weigth:10
 v1;0;Alouette, gentille alouette, / Alauda, que lindo alauda,
 v2;0;Alouette, gentille alouette, / Alauda, que lindo alauda,
@@ -165,7 +162,6 @@ v1;90;Et la tête! Et la tête! / E arrancar-te a cabeça! E arrancar-te a cabe�
 v2;90;Et la tête! Et la tête! / E arrancar-te a cabeça! E arrancar-te a cabeça!
 v1;120;Pauvre alouette quand même... / Coitadinho do alauda...
 v2;160;Pourquoi? C'est drôle! / Porquê? É divertido!
-
 
 newchat;key:loupyesttu,v1:child,v2:child,weigth:10
 v1;0;Promenons-nous dans les bois, / Andamos nós pelo bosque,
@@ -182,7 +178,6 @@ v1;150;Il nous mangera pas. / Ele não nos vai comer.
 v2;150;Il nous mangera pas... / Ele não nos vai comer.
 v2;180;Euh, tu es sûr? / Er, tens a certeza?
 v1;200;Lâche! / Cobarde!
-
 
 newchat;key:dagobert,v1:child,v2:child,weigth:10
 v1;0;Le bon roi Dagobert / O bom Rei Dagoberto
@@ -203,7 +198,6 @@ v2;40;Mais mon Père, je n'ai pas péché! / Mas Padre, eu não pequei!
 v1;70;Tout le monde pèche dans ce bas monde. / Todos nós pecamos neste mundo perdido.
 v2;110;Même vous, mon père? / Até vós, meu Padre?
 v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / Não seja insolente! Vá rezar dez Pais Nossos em penitência!
-
 
 newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
 v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / Minha filha, já faz muito tempo desde a sua última confissão.
@@ -238,7 +232,6 @@ v1;80;Et maintenant je suis coincé ici. / E agora estou preso neste sítio.
 v1;110;A m'occuper d'abrutis. / A tomar conta de idiotas.
 v2;130;Hein, quoi? / Er, desculpe?
 v1;150;*soupir* / *suspiro*
-
 
 newchat;key:knight,v1:vtype:knight,weigth:10
 v1;0;Regarde mon château! Une vraie forteresse! / Olhe para o meu castelo! Uma verdadeira fortaleza!
@@ -313,13 +306,11 @@ v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / A verdadei
 v2;40;Et donc leurs forgerons? / E, portanto, nos seus ferreiros?
 v1;60;Voilà! / Evidentemente!
 
-
 newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
 v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Por que é que têm de ser sempre as mulheres a construir?
 v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / Se te incomoda, eu posso construir a próxima casa.
 v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / A sério? Que amável da tua parte! Então, relativamente aos cortinados, não te esqueças de...
 v2;120;En fait non, je vais te laisser faire. / Pensando melhor, não, deixa estar, acho que prefiro que sejas tu a fazê-lo.
-
 
 newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
 v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / Ontem passei pela oficina do alquimista.
@@ -346,19 +337,24 @@ v1;0;Notre église est vraiment superbe. / A nossa igreja é magnífica!
 v2;30;Elle montre que nous sommes un village pieux. / Isso só monstra o quão piedosa é a nossa aldeia.
 v1;60;Et elle est plus grande que celle du village voisin! / E é maior do que a da aldeia ao lado!
 
-
 newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Agora que temos uma albergaria, podemos negociar!
 v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / Ou seja, os comerciantes vão passar por aqui e apropriar-se dos nossos bens.
 v1;80;Tu as toujours été cynique. / És sempre tão cínico.
-
 
 newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
 v1;0;J'adore le marché! Tellement de marchandises superbes! / Adoro o mercado! Tantas mercadorias soberbas!
 v2;40;On se sent moins isolé maintenant. / Agora que ele existe, sentimo-nos um pouco menos isolados.
 v2;80;Mais pas plus riches... / Mas não mais ricos...
 
-
 newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
 v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / A taberna é decerto a melhor coisa que alguma vez se construiu aqui na aldeia.
 v2;40;Personne ici ne dira le contraire! / Ninguém aqui dirá o contrário!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / Hahaha! Nós somos imparáveis. Nossos impressionantes navios e honrados cavaleiros são o flagelo do mundo!
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / E quais são nossos inimigos? Um bando de trapaceiros romanos e amantes de pedras maias?
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / Não se esqueça dos tolos da neve que nem sequer têm o conceito de dinheiro!
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / Hahaha! A vida normanda é a melhor do mundo! Sidra Maravilhosa, as melhores ferramentas. Ah, esta é a nossa idade de ouro.
+v1;160;Et nous arrivons à le partager! / E nós podemos compartilhar!
+v2;200;Hahaha! / Hahaha!

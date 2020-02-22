@@ -1,6 +1,11 @@
 {
   "name": "nymph",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityNymph",
+  "creatureType": "elemental",
+  "groups": [
+    "mystic"
+  ],
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityNymph",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelNymph",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -35,10 +40,10 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 20,
-  "amplifier": 0,
+  "effectDuration": 20,
+  "effectAmplifier": 0,
   "pierce": 0,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#f9b1fc",
   "eggForeColor": "#ffc5c1",
@@ -149,10 +154,10 @@
       "chance": 0.1
     },
     {
-      "item": "elementalmobs:faeboltcharge",
+      "item": "lycanitesmobs:faeboltcharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     },
     {
       "item": "lycanitesmobs:immunizer",
@@ -162,5 +167,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "healingRate",
+      "value": 20
+    }
+  ]
 }
