@@ -3618,6 +3618,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2020-02-22 12:09:55 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_the_recipe": "2020-02-20 14:09:40 +0800"

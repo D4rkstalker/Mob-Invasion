@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -107,8 +107,13 @@ key_pe.key.charge:47
 key_pe.key.extra_function:0
 key_pe.key.fire_projectile:19
 key_pe.key.mode:0
-key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -127,13 +132,8 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_key.toggle_shaders:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:35
@@ -240,9 +240,6 @@ key_key.effortlessbuilding.mode.desc:221
 key_key.effortlessbuilding.undo.desc:44:CONTROL
 key_key.effortlessbuilding.redo.desc:21:CONTROL
 key_key.effortlessbuilding.altplacement.desc:29
-key_Mekanism Item Mode Switch:46
-key_Mekanism Armor Mode Switch:210
-key_Mekanism Feet Mode Switch:210
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_invtweaks.key.sort:41
@@ -311,7 +308,7 @@ key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 key_Command Key: /help:0
 key_Command Key: /weather thunder:0
-soundCategory_master:0.11258278
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
