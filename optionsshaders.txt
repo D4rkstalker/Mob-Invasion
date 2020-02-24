@@ -1,5 +1,5 @@
-#Sat Feb 22 13:53:29 SGT 2020
-shaderPack=Sildurs Vibrant Shaders v1.22 Medium.zip
+#Sat Feb 22 19:57:50 SGT 2020
+shaderPack=OFF
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true

@@ -327,28 +327,6 @@
 					"state": "variant=granite"
 				}
 			]
-		},
-		"draconium_ore": {
-			"retrogen": false,
-			"enabled": true,
-			"feature": "precision",
-			"replaces": "default",
-			"dimensions": [],
-			"biomes": {
-				"excludes": []
-			},
-			"parameters": {
-				"size": 3,
-				"numObjects": 2,
-				"minHeight": 0,
-				"maxHeight": 16
-			},
-			"blocks": [
-				{
-					"name": "draconicevolution:draconium_ore",
-					"chance": 50
-				}
-			]
 		}
 	}
 }

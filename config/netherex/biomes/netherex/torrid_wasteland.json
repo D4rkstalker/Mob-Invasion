@@ -1,6 +1,6 @@
 {
 	"biome": "netherex:torrid_wasteland",
-	"generationWeight": 6,
+	"generationWeight": 2,
 	"useDefaultDecorations": true,
 	"isSubBiome": false,
 	"isEnabled": true,
@@ -21,7 +21,7 @@
 			"block": "netherex:fiery_netherrack"
 		},
 		"fluidBlock": {
-			"block": "minecraft:lava"
+			"block": "thermalfoundation:fluid_pyrotheum"
 		}
 	},
 	"entities": [
@@ -62,7 +62,7 @@
 				"block": "netherex:fiery_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:flowing_lava"
+				"block": "thermalfoundation:fluid_pyrotheum"
 			},
 			"generationStage": "terrain_alteration"
 		}, 
@@ -77,7 +77,7 @@
 				"block": "netherex:fiery_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:flowing_lava"
+				"block": "thermalfoundation:fluid_pyrotheum"
 			},
 			"generateFalling": false,
 			"generationStage": "decoration"
@@ -141,9 +141,25 @@
 				"block": "netherex:fiery_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:flowing_lava"
+				"block": "thermalfoundation:fluid_pyrotheum"
 			},
 			"generateFalling": true,
+			"generationStage": "decoration"
+		}, 
+		{
+			"trait": "libraryex:cluster",
+			"generationAttempts": 10,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 1,
+			"maximumGenerationHeight": 128,
+			"direction": "down",
+			"blockToAttachTo": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "thermalfoundation:fluid_glowstone"
+			},
 			"generationStage": "decoration"
 		}, 
 		{

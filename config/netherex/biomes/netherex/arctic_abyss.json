@@ -21,7 +21,7 @@
 			"block": "netherex:icy_netherrack"
 		},
 		"fluidBlock": {
-			"block": "minecraft:magma"
+			"block": "thermalfoundation:fluid_cryotheum"
 		}
 	},
 	"entities": [
@@ -50,10 +50,46 @@
 			"maximumGroupCount": 1
 		}, 
 		{
+			"entity": "thermalfoundation:blizz",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "lycanitesmobs:reiver",
+			"spawnWeight": 8,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "lycanitesmobs:frostweaver",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "lycanitesmobs:wendigo",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "lycanitesmobs:arix",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
 			"entity": "natura:imp",
 			"spawnWeight": 10,
 			"minimumGroupCount": 8,
 			"maximumGroupCount": 12
+		}, 
+		{
+			"entity": "iceandfire:icedragon",
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
 		}
 	],
 	"traits": [
@@ -100,7 +136,7 @@
 				"block": "netherex:icy_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:glowstone"
+				"block": "minecraft:packed_ice"
 			},
 			"generationStage": "decoration"
 		}, 
@@ -116,7 +152,7 @@
 				"block": "netherex:icy_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:glowstone"
+				"block": "minecraft:packed_ice"
 			},
 			"generationStage": "decoration"
 		}, 

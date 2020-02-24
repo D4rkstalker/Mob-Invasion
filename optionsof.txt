@@ -38,7 +38,7 @@ ofStars:true
 ofSunMoon:true
 ofVignette:1
 ofChunkUpdates:1
-ofChunkUpdatesDynamic:false
+ofChunkUpdatesDynamic:true
 ofTime:0
 ofClearWater:true
 ofAaLevel:0
@@ -60,13 +60,13 @@ ofRenderRegions:true
 ofSmartAnimations:true
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:3
+ofDynamicLights:2
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
 ofShowGlErrors:true
 ofFullscreenMode:Default
 ofFastMath:true
-ofFastRender:false
+ofFastRender:true
 ofTranslucentBlocks:1
 key_of.key.zoom:56

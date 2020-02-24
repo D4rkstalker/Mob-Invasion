@@ -43,24 +43,6 @@
 			"maximumGroupCount": 2
 		}, 
 		{
-			"entity": "dungeonmobs:dmnetherhound",
-			"spawnWeight": 10,
-			"minimumGroupCount": 4,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "dungeonmobs:dmthoqqua",
-			"spawnWeight": 6,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "dungeonmobs:dmfallenangel",
-			"spawnWeight": 1,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
 			"entity": "minecraft:blaze",
 			"spawnWeight": 5,
 			"minimumGroupCount": 1,
@@ -83,6 +65,66 @@
 			"spawnWeight": 10,
 			"minimumGroupCount": 8,
 			"maximumGroupCount": 12
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
 		}, 
 		{
 			"entity": "mocreatures:ant",

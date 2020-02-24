@@ -1,4 +1,5 @@
 {
+	"priority": 1000000000000,
 	"populate": {
 		"dirt": {
 
@@ -14,10 +15,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -35,10 +36,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -61,10 +62,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -87,10 +88,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -113,10 +114,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -134,10 +135,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -155,10 +156,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -176,10 +177,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -197,10 +198,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -212,16 +213,16 @@
 				"material": "minecraft:stone",
 				"cluster-size": 8
 			},
-			"cluster-count": 5,
+			"cluster-count": 1,
 			"min-height": 0,
-			"max-height": 20,
+			"max-height": 16,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -239,10 +240,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -278,10 +279,10 @@
 				]
 			},
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},
@@ -304,61 +305,10 @@
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
-				]
-			}
-		},
-		"draconium": {
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "draconicevolution:draconium_ore",
-					"metadata": 0
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 1
-			},
-			"cluster-count": {
-				"min": 3,
-				"max": 6
-			},
-			"min-height": 4,
-			"max-height": 28,
-			"retrogen": false,
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					0
-
-				]
-			}
-		},
-		"draconium_nether": {
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "draconicevolution:draconium_ore",
-					"metadata": 1
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 3
-			},
-			"cluster-count": {
-				"min": 5,
-				"max": 10
-			},
-			"min-height": 0,
-			"max-height": 200,
-			"retrogen": false,
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					-1
+					-1,
+					1
 				]
 			}
 		},
@@ -379,26 +329,12 @@
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": false,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"extreme_hills",
-							"smaller_extreme_hills",
-							"extreme_hills_with_trees",
-							"mutated_extreme_hills",
-							"mutated_extreme_hills_with_trees"
-						]
-					}
-				]
-			},
+			"biome": "all",
 			"dimension": {
-				"restriction": "whitelist",
+				"restriction": "blacklist",
 				"value": [
-					0
-
+					-1,
+					1
 				]
 			}
 		},

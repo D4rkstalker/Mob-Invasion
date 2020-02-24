@@ -38,11 +38,11 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 4,
+				"size": 2,
 				"variation": 8,
 				"frequency": 12,
 				"minHeight": 0,
-				"maxHeight": 100
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
@@ -65,9 +65,9 @@
 			"parameters": {
 				"size": 4,
 				"variation": 8,
-				"frequency": 8,
+				"frequency": 12,
 				"minHeight": 0,
-				"maxHeight": 75
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
@@ -92,7 +92,7 @@
 				"variation": 8,
 				"frequency": 12,
 				"minHeight": 0,
-				"maxHeight": 150
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
@@ -201,6 +201,31 @@
 				}
 			]
 		},
+		"nether_bismuth_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 8,
+				"variation": 4,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_bismuth_ore",
+					"chance": 100
+				}
+			]
+		},
 		"nether_copper_ore": {
 			"retrogen": false,
 			"enabled": true,
@@ -251,6 +276,31 @@
 				}
 			]
 		},
+		"nether_mercury_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 4,
+				"variation": 4,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_mercury_ore",
+					"chance": 100
+				}
+			]
+		},
 		"nether_nickel_ore": {
 			"retrogen": false,
 			"enabled": true,
@@ -267,7 +317,7 @@
 				"variation": 4,
 				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 100
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
@@ -288,11 +338,11 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 8,
+				"size": 2,
 				"variation": 4,
-				"frequency": 5,
+				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 50
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
@@ -401,6 +451,56 @@
 				}
 			]
 		},
+		"nether_cadmium_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 4,
+				"variation": 8,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_cadmium_ore",
+					"chance": 100
+				}
+			]
+		},
+		"nether_chromium_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 4,
+				"variation": 8,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_chromium_ore",
+					"chance": 100
+				}
+			]
+		},
 		"nether_iridium_ore": {
 			"retrogen": false,
 			"enabled": true,
@@ -417,11 +517,61 @@
 				"variation": 8,
 				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 50
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
 					"name": "nethermetals:nether_iridium_ore",
+					"chance": 100
+				}
+			]
+		},
+		"nether_magnesium_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 6,
+				"variation": 8,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_magnesium_ore",
+					"chance": 100
+				}
+			]
+		},
+		"nether_manganese_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 6,
+				"variation": 8,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_manganese_ore",
 					"chance": 100
 				}
 			]
@@ -476,7 +626,7 @@
 				}
 			]
 		},
-		"nether_titanium_ore": {
+		"nether_rutile_ore": {
 			"retrogen": false,
 			"enabled": true,
 			"feature": "default",
@@ -490,9 +640,59 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 5,
+				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 50
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_rutile_ore",
+					"chance": 100
+				}
+			]
+		},
+		"nether_tantalum_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 8,
+				"variation": 8,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_tantalum_ore",
+					"chance": 100
+				}
+			]
+		},
+		"nether_titanium_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 4,
+				"variation": 4,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
@@ -515,9 +715,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 5,
+				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 50
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
@@ -542,7 +742,7 @@
 				"variation": 4,
 				"frequency": 10,
 				"minHeight": 0,
-				"maxHeight": 80
+				"maxHeight": 200
 			},
 			"blocks": [
 				{
@@ -551,5 +751,30 @@
 				}
 			]
 		},
+		"nether_zirconium_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 8,
+				"variation": 8,
+				"frequency": 10,
+				"minHeight": 0,
+				"maxHeight": 200
+			},
+			"blocks": [
+				{
+					"name": "nethermetals:nether_zirconium_ore",
+					"chance": 100
+				}
+			]
+		}
 	}
 }

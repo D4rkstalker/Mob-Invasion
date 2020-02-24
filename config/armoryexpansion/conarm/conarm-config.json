@@ -66,32 +66,6 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "awakened_plustic",
-    "material": true,
-    "fluid": false,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
     "name": "silentgems:lepidolite",
     "material": true,
     "fluid": false,
@@ -119,6 +93,32 @@
       "enableProjectile": false
     },
     "name": "silentgems:garnet_super",
+    "material": true,
+    "fluid": false,
+    "traits": true,
+    "armorOptions": {
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
+    }
+  },
+  {
+    "toolOptions": {
+      "enableTool": false,
+      "enableHead": false,
+      "enableHandle": false,
+      "enableExtra": false
+    },
+    "rangedOptions": {
+      "enableRanged": false,
+      "enableBow": false,
+      "enableBowString": false,
+      "enableShaft": false,
+      "enableFletching": false,
+      "enableProjectile": false
+    },
+    "name": "awakened_plustic",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -431,6 +431,32 @@
       "enableProjectile": false
     },
     "name": "silentgems:amber_super",
+    "material": true,
+    "fluid": false,
+    "traits": true,
+    "armorOptions": {
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
+    }
+  },
+  {
+    "toolOptions": {
+      "enableTool": false,
+      "enableHead": false,
+      "enableHandle": false,
+      "enableExtra": false
+    },
+    "rangedOptions": {
+      "enableRanged": false,
+      "enableBow": false,
+      "enableBowString": false,
+      "enableShaft": false,
+      "enableFletching": false,
+      "enableProjectile": false
+    },
+    "name": "awakeneddraconium",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -822,7 +848,7 @@
     },
     "name": "draconium",
     "material": true,
-    "fluid": true,
+    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -1366,7 +1392,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "fusewood_plustic",
+    "name": "silentgems:garnet",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -1392,7 +1418,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "silentgems:garnet",
+    "name": "fusewood_plustic",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -1447,6 +1473,32 @@
     "name": "malachite_gem",
     "material": true,
     "fluid": false,
+    "traits": true,
+    "armorOptions": {
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
+    }
+  },
+  {
+    "toolOptions": {
+      "enableTool": false,
+      "enableHead": false,
+      "enableHandle": false,
+      "enableExtra": false
+    },
+    "rangedOptions": {
+      "enableRanged": false,
+      "enableBow": false,
+      "enableBowString": false,
+      "enableShaft": false,
+      "enableFletching": false,
+      "enableProjectile": false
+    },
+    "name": "aluminum",
+    "material": true,
+    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -3524,32 +3576,6 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "brass",
-    "material": true,
-    "fluid": true,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
     "name": "soularium",
     "material": true,
     "fluid": true,
@@ -3914,9 +3940,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "mithril",
+    "name": "chaoticdraconium",
     "material": true,
-    "fluid": true,
+    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -3966,7 +3992,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "chaotic_plustic",
+    "name": "silentgems:moldavite",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -3992,7 +4018,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "silentgems:moldavite",
+    "name": "chaotic_plustic",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -4174,32 +4200,6 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "iridium",
-    "material": true,
-    "fluid": true,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
     "name": "energetic_alloy",
     "material": true,
     "fluid": true,
@@ -4281,6 +4281,32 @@
     "name": "signalum",
     "material": true,
     "fluid": true,
+    "traits": true,
+    "armorOptions": {
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
+    }
+  },
+  {
+    "toolOptions": {
+      "enableTool": false,
+      "enableHead": false,
+      "enableHandle": false,
+      "enableExtra": false
+    },
+    "rangedOptions": {
+      "enableRanged": false,
+      "enableBow": false,
+      "enableBowString": false,
+      "enableShaft": false,
+      "enableFletching": false,
+      "enableProjectile": false
+    },
+    "name": "wyverndraconium",
+    "material": true,
+    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -4590,32 +4616,6 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "nickel",
-    "material": true,
-    "fluid": true,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
     "name": "silentgems:turquoise_super",
     "material": true,
     "fluid": false,
@@ -4671,32 +4671,6 @@
     "name": "silentgems:pearl_super",
     "material": true,
     "fluid": false,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
-    "name": "osmium",
-    "material": true,
-    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
