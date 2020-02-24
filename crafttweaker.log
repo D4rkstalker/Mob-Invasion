@@ -74,7 +74,7 @@ java.lang.NullPointerException
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:69)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1122_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1148_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -118,7 +118,7 @@ java.lang.NullPointerException
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:69)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1122_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1148_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -135,7 +135,7 @@ java.lang.NullPointerException
 	at java.lang.reflect.Method.invoke(Method.java:497)
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 615ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 635ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dark Steel Armor Plating with name ct_shaped448154969
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux-Infused Chestplate Assembly with name ct_shaped510989015

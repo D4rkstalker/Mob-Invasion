@@ -1882,6 +1882,8 @@ betternether:stalagnate_bowl_mushroom, Mushroom Stew
 betternether:stalagnate_bowl_apple, Black Apple
 betternether:cincinnasite_axe, Cincinnasite Axe
 betternether:cincinnasite_axe_diamond, Cincinnasite-Diamond Axe
+carryon:tile_item, item.tile_item.name
+carryon:entity_item, item.entity_item.name
 chickenchunks:chunk_loader:0, Chunk Loader
 chickenchunks:chunk_loader:1, Spot Loader
 reccomplex:block_selector, Block Selector
@@ -10567,6 +10569,29 @@ appliedenergistics2:facade:0, Cable Facade - Colored Tritanium Plate
 appliedenergistics2:facade:0, Cable Facade - Colored Tritanium Plate
 appliedenergistics2:facade:0, Cable Facade - Colored Tritanium Plate
 appliedenergistics2:facade:0, Cable Facade - Engine Exhaust Plasma
+appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
+appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
+appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Biotite
+appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Basalt
+appliedenergistics2:facade:0, Cable Facade - Marble
+appliedenergistics2:facade:0, Cable Facade - Limestone
+appliedenergistics2:facade:0, Cable Facade - Jasper
+appliedenergistics2:facade:0, Cable Facade - Slate
+appliedenergistics2:facade:0, Cable Facade - Brimstone
+appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
+appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
+appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
+appliedenergistics2:facade:0, Cable Facade - Glowcelium
+appliedenergistics2:facade:0, Cable Facade - Glowshroom
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -10595,29 +10620,6 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
-appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
-appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
-appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Biotite
-appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Basalt
-appliedenergistics2:facade:0, Cable Facade - Marble
-appliedenergistics2:facade:0, Cable Facade - Limestone
-appliedenergistics2:facade:0, Cable Facade - Jasper
-appliedenergistics2:facade:0, Cable Facade - Slate
-appliedenergistics2:facade:0, Cable Facade - Brimstone
-appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
-appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
-appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
-appliedenergistics2:facade:0, Cable Facade - Glowcelium
-appliedenergistics2:facade:0, Cable Facade - Glowshroom
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
 appliedenergistics2:facade:0, Cable Facade - Antimony Ore
 appliedenergistics2:facade:0, Cable Facade - Block of Antimony
 appliedenergistics2:facade:0, Cable Facade - Bismuth Ore
@@ -12362,46 +12364,46 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Greatblade Core Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Full Guard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Battery Cell Pattern
 tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Greatblade Core Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Full Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -12420,6 +12422,7 @@ tconstruct:shard:0, Bone Shard
 tconstruct:shard:0, Obsidian Shard
 tconstruct:shard:0, Prismarine Shard
 tconstruct:shard:0, End Shard
+tconstruct:shard:0, Paper Shard
 tconstruct:shard:0, Sponge Shard
 tconstruct:shard:0, Firewood Shard
 tconstruct:shard:0, Iron Shard
@@ -12444,21 +12447,6 @@ tconstruct:shard:0, Jungle Myrmex Chitin Shard
 tconstruct:shard:0, Fire Dragonsteel Shard
 tconstruct:shard:0, Ice Dragonsteel Shard
 tconstruct:shard:0, Weezer Shard
-tconstruct:shard:0, Adamantine Shard
-tconstruct:shard:0, Antimony Shard
-tconstruct:shard:0, Aquarium Shard
-tconstruct:shard:0, Bismuth Shard
-tconstruct:shard:0, Brass Shard
-tconstruct:shard:0, Cold-Iron Shard
-tconstruct:shard:0, Cupronickel Shard
-tconstruct:shard:0, Invar Shard
-tconstruct:shard:0, Mithril Shard
-tconstruct:shard:0, Nickel Shard
-tconstruct:shard:0, Pewter Shard
-tconstruct:shard:0, Platinum Shard
-tconstruct:shard:0, Star-Steel Shard
-tconstruct:shard:0, Tin Shard
-tconstruct:shard:0, Zinc Shard
 tconstruct:shard:0, Beryllium Shard
 tconstruct:shard:0, Boron Shard
 tconstruct:shard:0, Cadmium Shard
@@ -12478,6 +12466,21 @@ tconstruct:shard:0, Titanium Shard
 tconstruct:shard:0, Tungsten Shard
 tconstruct:shard:0, Uranium Shard
 tconstruct:shard:0, Zirconium Shard
+tconstruct:shard:0, Adamantine Shard
+tconstruct:shard:0, Antimony Shard
+tconstruct:shard:0, Aquarium Shard
+tconstruct:shard:0, Bismuth Shard
+tconstruct:shard:0, Brass Shard
+tconstruct:shard:0, Cold-Iron Shard
+tconstruct:shard:0, Cupronickel Shard
+tconstruct:shard:0, Invar Shard
+tconstruct:shard:0, Mithril Shard
+tconstruct:shard:0, Nickel Shard
+tconstruct:shard:0, Pewter Shard
+tconstruct:shard:0, Platinum Shard
+tconstruct:shard:0, Star-Steel Shard
+tconstruct:shard:0, Tin Shard
+tconstruct:shard:0, Zinc Shard
 tconstruct:shard:0, Treated Wood Shard
 tconstruct:shard:0, Constantan Shard
 tconstruct:shard:0, Magical Wooden Shard
@@ -12553,7 +12556,6 @@ tconstruct:shard:0, Kyronite Shard
 tconstruct:shard:0, Pladium Shard
 tconstruct:shard:0, Ionite Shard
 tconstruct:shard:0, Aethium Shard
-tconstruct:shard:0, Emerald Shard
 tconstruct:shard:0, Wyvern Shard
 tconstruct:shard:0, Awakened Shard
 tconstruct:shard:0, Chaotic Shard
@@ -12561,6 +12563,7 @@ tconstruct:shard:0, Bloodwood Shard
 tconstruct:shard:0, Fusewood Shard
 tconstruct:shard:0, Ghostwood Shard
 tconstruct:shard:0, Darkwood Shard
+tconstruct:shard:0, Emerald Shard
 tconstruct:sharpening_kit:0, Electrical Sharpening Kit
 tconstruct:sharpening_kit:0, Energetic Sharpening Kit
 tconstruct:sharpening_kit:0, Vibrant Sharpening Kit
@@ -12579,6 +12582,7 @@ tconstruct:sharpening_kit:0, Bone Sharpening Kit
 tconstruct:sharpening_kit:0, Obsidian Sharpening Kit
 tconstruct:sharpening_kit:0, Prismarine Sharpening Kit
 tconstruct:sharpening_kit:0, End Sharpening Kit
+tconstruct:sharpening_kit:0, Paper Sharpening Kit
 tconstruct:sharpening_kit:0, Sponge Sharpening Kit
 tconstruct:sharpening_kit:0, Firewood Sharpening Kit
 tconstruct:sharpening_kit:0, Iron Sharpening Kit
@@ -12605,21 +12609,6 @@ tconstruct:sharpening_kit:0, Ice Dragonsteel Sharpening Kit
 tconstruct:sharpening_kit:0, Weezer Sharpening Kit
 tconstruct:sharpening_kit:0, Dilithium Sharpening Kit
 tconstruct:sharpening_kit:0, Tritanium Sharpening Kit
-tconstruct:sharpening_kit:0, Adamantine Sharpening Kit
-tconstruct:sharpening_kit:0, Antimony Sharpening Kit
-tconstruct:sharpening_kit:0, Aquarium Sharpening Kit
-tconstruct:sharpening_kit:0, Bismuth Sharpening Kit
-tconstruct:sharpening_kit:0, Brass Sharpening Kit
-tconstruct:sharpening_kit:0, Cold-Iron Sharpening Kit
-tconstruct:sharpening_kit:0, Cupronickel Sharpening Kit
-tconstruct:sharpening_kit:0, Invar Sharpening Kit
-tconstruct:sharpening_kit:0, Mithril Sharpening Kit
-tconstruct:sharpening_kit:0, Nickel Sharpening Kit
-tconstruct:sharpening_kit:0, Pewter Sharpening Kit
-tconstruct:sharpening_kit:0, Platinum Sharpening Kit
-tconstruct:sharpening_kit:0, Star-Steel Sharpening Kit
-tconstruct:sharpening_kit:0, Tin Sharpening Kit
-tconstruct:sharpening_kit:0, Zinc Sharpening Kit
 tconstruct:sharpening_kit:0, Beryllium Sharpening Kit
 tconstruct:sharpening_kit:0, Boron Sharpening Kit
 tconstruct:sharpening_kit:0, Cadmium Sharpening Kit
@@ -12639,6 +12628,21 @@ tconstruct:sharpening_kit:0, Titanium Sharpening Kit
 tconstruct:sharpening_kit:0, Tungsten Sharpening Kit
 tconstruct:sharpening_kit:0, Uranium Sharpening Kit
 tconstruct:sharpening_kit:0, Zirconium Sharpening Kit
+tconstruct:sharpening_kit:0, Adamantine Sharpening Kit
+tconstruct:sharpening_kit:0, Antimony Sharpening Kit
+tconstruct:sharpening_kit:0, Aquarium Sharpening Kit
+tconstruct:sharpening_kit:0, Bismuth Sharpening Kit
+tconstruct:sharpening_kit:0, Brass Sharpening Kit
+tconstruct:sharpening_kit:0, Cold-Iron Sharpening Kit
+tconstruct:sharpening_kit:0, Cupronickel Sharpening Kit
+tconstruct:sharpening_kit:0, Invar Sharpening Kit
+tconstruct:sharpening_kit:0, Mithril Sharpening Kit
+tconstruct:sharpening_kit:0, Nickel Sharpening Kit
+tconstruct:sharpening_kit:0, Pewter Sharpening Kit
+tconstruct:sharpening_kit:0, Platinum Sharpening Kit
+tconstruct:sharpening_kit:0, Star-Steel Sharpening Kit
+tconstruct:sharpening_kit:0, Tin Sharpening Kit
+tconstruct:sharpening_kit:0, Zinc Sharpening Kit
 tconstruct:sharpening_kit:0, Treated Wood Sharpening Kit
 tconstruct:sharpening_kit:0, Constantan Sharpening Kit
 tconstruct:sharpening_kit:0, Magical Wooden Sharpening Kit
@@ -12714,7 +12718,6 @@ tconstruct:sharpening_kit:0, Kyronite Sharpening Kit
 tconstruct:sharpening_kit:0, Pladium Sharpening Kit
 tconstruct:sharpening_kit:0, Ionite Sharpening Kit
 tconstruct:sharpening_kit:0, Aethium Sharpening Kit
-tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:sharpening_kit:0, Wyvern Sharpening Kit
 tconstruct:sharpening_kit:0, Awakened Sharpening Kit
 tconstruct:sharpening_kit:0, Chaotic Sharpening Kit
@@ -12722,6 +12725,7 @@ tconstruct:sharpening_kit:0, Bloodwood Sharpening Kit
 tconstruct:sharpening_kit:0, Fusewood Sharpening Kit
 tconstruct:sharpening_kit:0, Ghostwood Sharpening Kit
 tconstruct:sharpening_kit:0, Darkwood Sharpening Kit
+tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:pick_head:0, Electrical Pickaxe Head
 tconstruct:pick_head:0, Energetic Pickaxe Head
 tconstruct:pick_head:0, Vibrant Pickaxe Head
@@ -12740,6 +12744,7 @@ tconstruct:pick_head:0, Bone Pickaxe Head
 tconstruct:pick_head:0, Obsidian Pickaxe Head
 tconstruct:pick_head:0, Prismarine Pickaxe Head
 tconstruct:pick_head:0, End Pickaxe Head
+tconstruct:pick_head:0, Paper Pickaxe Head
 tconstruct:pick_head:0, Sponge Pickaxe Head
 tconstruct:pick_head:0, Firewood Pickaxe Head
 tconstruct:pick_head:0, Iron Pickaxe Head
@@ -12766,21 +12771,6 @@ tconstruct:pick_head:0, Ice Dragonsteel Pickaxe Head
 tconstruct:pick_head:0, Weezer Pickaxe Head
 tconstruct:pick_head:0, Dilithium Pickaxe Head
 tconstruct:pick_head:0, Tritanium Pickaxe Head
-tconstruct:pick_head:0, Adamantine Pickaxe Head
-tconstruct:pick_head:0, Antimony Pickaxe Head
-tconstruct:pick_head:0, Aquarium Pickaxe Head
-tconstruct:pick_head:0, Bismuth Pickaxe Head
-tconstruct:pick_head:0, Brass Pickaxe Head
-tconstruct:pick_head:0, Cold-Iron Pickaxe Head
-tconstruct:pick_head:0, Cupronickel Pickaxe Head
-tconstruct:pick_head:0, Invar Pickaxe Head
-tconstruct:pick_head:0, Mithril Pickaxe Head
-tconstruct:pick_head:0, Nickel Pickaxe Head
-tconstruct:pick_head:0, Pewter Pickaxe Head
-tconstruct:pick_head:0, Platinum Pickaxe Head
-tconstruct:pick_head:0, Star-Steel Pickaxe Head
-tconstruct:pick_head:0, Tin Pickaxe Head
-tconstruct:pick_head:0, Zinc Pickaxe Head
 tconstruct:pick_head:0, Beryllium Pickaxe Head
 tconstruct:pick_head:0, Boron Pickaxe Head
 tconstruct:pick_head:0, Cadmium Pickaxe Head
@@ -12800,6 +12790,21 @@ tconstruct:pick_head:0, Titanium Pickaxe Head
 tconstruct:pick_head:0, Tungsten Pickaxe Head
 tconstruct:pick_head:0, Uranium Pickaxe Head
 tconstruct:pick_head:0, Zirconium Pickaxe Head
+tconstruct:pick_head:0, Adamantine Pickaxe Head
+tconstruct:pick_head:0, Antimony Pickaxe Head
+tconstruct:pick_head:0, Aquarium Pickaxe Head
+tconstruct:pick_head:0, Bismuth Pickaxe Head
+tconstruct:pick_head:0, Brass Pickaxe Head
+tconstruct:pick_head:0, Cold-Iron Pickaxe Head
+tconstruct:pick_head:0, Cupronickel Pickaxe Head
+tconstruct:pick_head:0, Invar Pickaxe Head
+tconstruct:pick_head:0, Mithril Pickaxe Head
+tconstruct:pick_head:0, Nickel Pickaxe Head
+tconstruct:pick_head:0, Pewter Pickaxe Head
+tconstruct:pick_head:0, Platinum Pickaxe Head
+tconstruct:pick_head:0, Star-Steel Pickaxe Head
+tconstruct:pick_head:0, Tin Pickaxe Head
+tconstruct:pick_head:0, Zinc Pickaxe Head
 tconstruct:pick_head:0, Treated Wood Pickaxe Head
 tconstruct:pick_head:0, Constantan Pickaxe Head
 tconstruct:pick_head:0, Magical Wooden Pickaxe Head
@@ -12875,7 +12880,6 @@ tconstruct:pick_head:0, Kyronite Pickaxe Head
 tconstruct:pick_head:0, Pladium Pickaxe Head
 tconstruct:pick_head:0, Ionite Pickaxe Head
 tconstruct:pick_head:0, Aethium Pickaxe Head
-tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:pick_head:0, Wyvern Pickaxe Head
 tconstruct:pick_head:0, Awakened Pickaxe Head
 tconstruct:pick_head:0, Chaotic Pickaxe Head
@@ -12883,6 +12887,7 @@ tconstruct:pick_head:0, Bloodwood Pickaxe Head
 tconstruct:pick_head:0, Fusewood Pickaxe Head
 tconstruct:pick_head:0, Ghostwood Pickaxe Head
 tconstruct:pick_head:0, Darkwood Pickaxe Head
+tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:shovel_head:0, Electrical Shovel Head
 tconstruct:shovel_head:0, Energetic Shovel Head
 tconstruct:shovel_head:0, Vibrant Shovel Head
@@ -12901,6 +12906,7 @@ tconstruct:shovel_head:0, Bone Shovel Head
 tconstruct:shovel_head:0, Obsidian Shovel Head
 tconstruct:shovel_head:0, Prismarine Shovel Head
 tconstruct:shovel_head:0, End Shovel Head
+tconstruct:shovel_head:0, Paper Shovel Head
 tconstruct:shovel_head:0, Sponge Shovel Head
 tconstruct:shovel_head:0, Firewood Shovel Head
 tconstruct:shovel_head:0, Iron Shovel Head
@@ -12927,21 +12933,6 @@ tconstruct:shovel_head:0, Ice Dragonsteel Shovel Head
 tconstruct:shovel_head:0, Weezer Shovel Head
 tconstruct:shovel_head:0, Dilithium Shovel Head
 tconstruct:shovel_head:0, Tritanium Shovel Head
-tconstruct:shovel_head:0, Adamantine Shovel Head
-tconstruct:shovel_head:0, Antimony Shovel Head
-tconstruct:shovel_head:0, Aquarium Shovel Head
-tconstruct:shovel_head:0, Bismuth Shovel Head
-tconstruct:shovel_head:0, Brass Shovel Head
-tconstruct:shovel_head:0, Cold-Iron Shovel Head
-tconstruct:shovel_head:0, Cupronickel Shovel Head
-tconstruct:shovel_head:0, Invar Shovel Head
-tconstruct:shovel_head:0, Mithril Shovel Head
-tconstruct:shovel_head:0, Nickel Shovel Head
-tconstruct:shovel_head:0, Pewter Shovel Head
-tconstruct:shovel_head:0, Platinum Shovel Head
-tconstruct:shovel_head:0, Star-Steel Shovel Head
-tconstruct:shovel_head:0, Tin Shovel Head
-tconstruct:shovel_head:0, Zinc Shovel Head
 tconstruct:shovel_head:0, Beryllium Shovel Head
 tconstruct:shovel_head:0, Boron Shovel Head
 tconstruct:shovel_head:0, Cadmium Shovel Head
@@ -12961,6 +12952,21 @@ tconstruct:shovel_head:0, Titanium Shovel Head
 tconstruct:shovel_head:0, Tungsten Shovel Head
 tconstruct:shovel_head:0, Uranium Shovel Head
 tconstruct:shovel_head:0, Zirconium Shovel Head
+tconstruct:shovel_head:0, Adamantine Shovel Head
+tconstruct:shovel_head:0, Antimony Shovel Head
+tconstruct:shovel_head:0, Aquarium Shovel Head
+tconstruct:shovel_head:0, Bismuth Shovel Head
+tconstruct:shovel_head:0, Brass Shovel Head
+tconstruct:shovel_head:0, Cold-Iron Shovel Head
+tconstruct:shovel_head:0, Cupronickel Shovel Head
+tconstruct:shovel_head:0, Invar Shovel Head
+tconstruct:shovel_head:0, Mithril Shovel Head
+tconstruct:shovel_head:0, Nickel Shovel Head
+tconstruct:shovel_head:0, Pewter Shovel Head
+tconstruct:shovel_head:0, Platinum Shovel Head
+tconstruct:shovel_head:0, Star-Steel Shovel Head
+tconstruct:shovel_head:0, Tin Shovel Head
+tconstruct:shovel_head:0, Zinc Shovel Head
 tconstruct:shovel_head:0, Treated Wood Shovel Head
 tconstruct:shovel_head:0, Constantan Shovel Head
 tconstruct:shovel_head:0, Magical Wooden Shovel Head
@@ -13036,7 +13042,6 @@ tconstruct:shovel_head:0, Kyronite Shovel Head
 tconstruct:shovel_head:0, Pladium Shovel Head
 tconstruct:shovel_head:0, Ionite Shovel Head
 tconstruct:shovel_head:0, Aethium Shovel Head
-tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:shovel_head:0, Wyvern Shovel Head
 tconstruct:shovel_head:0, Awakened Shovel Head
 tconstruct:shovel_head:0, Chaotic Shovel Head
@@ -13044,6 +13049,7 @@ tconstruct:shovel_head:0, Bloodwood Shovel Head
 tconstruct:shovel_head:0, Fusewood Shovel Head
 tconstruct:shovel_head:0, Ghostwood Shovel Head
 tconstruct:shovel_head:0, Darkwood Shovel Head
+tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:axe_head:0, Electrical Axe Head
 tconstruct:axe_head:0, Energetic Axe Head
 tconstruct:axe_head:0, Vibrant Axe Head
@@ -13062,6 +13068,7 @@ tconstruct:axe_head:0, Bone Axe Head
 tconstruct:axe_head:0, Obsidian Axe Head
 tconstruct:axe_head:0, Prismarine Axe Head
 tconstruct:axe_head:0, End Axe Head
+tconstruct:axe_head:0, Paper Axe Head
 tconstruct:axe_head:0, Sponge Axe Head
 tconstruct:axe_head:0, Firewood Axe Head
 tconstruct:axe_head:0, Iron Axe Head
@@ -13088,21 +13095,6 @@ tconstruct:axe_head:0, Ice Dragonsteel Axe Head
 tconstruct:axe_head:0, Weezer Axe Head
 tconstruct:axe_head:0, Dilithium Axe Head
 tconstruct:axe_head:0, Tritanium Axe Head
-tconstruct:axe_head:0, Adamantine Axe Head
-tconstruct:axe_head:0, Antimony Axe Head
-tconstruct:axe_head:0, Aquarium Axe Head
-tconstruct:axe_head:0, Bismuth Axe Head
-tconstruct:axe_head:0, Brass Axe Head
-tconstruct:axe_head:0, Cold-Iron Axe Head
-tconstruct:axe_head:0, Cupronickel Axe Head
-tconstruct:axe_head:0, Invar Axe Head
-tconstruct:axe_head:0, Mithril Axe Head
-tconstruct:axe_head:0, Nickel Axe Head
-tconstruct:axe_head:0, Pewter Axe Head
-tconstruct:axe_head:0, Platinum Axe Head
-tconstruct:axe_head:0, Star-Steel Axe Head
-tconstruct:axe_head:0, Tin Axe Head
-tconstruct:axe_head:0, Zinc Axe Head
 tconstruct:axe_head:0, Beryllium Axe Head
 tconstruct:axe_head:0, Boron Axe Head
 tconstruct:axe_head:0, Cadmium Axe Head
@@ -13122,6 +13114,21 @@ tconstruct:axe_head:0, Titanium Axe Head
 tconstruct:axe_head:0, Tungsten Axe Head
 tconstruct:axe_head:0, Uranium Axe Head
 tconstruct:axe_head:0, Zirconium Axe Head
+tconstruct:axe_head:0, Adamantine Axe Head
+tconstruct:axe_head:0, Antimony Axe Head
+tconstruct:axe_head:0, Aquarium Axe Head
+tconstruct:axe_head:0, Bismuth Axe Head
+tconstruct:axe_head:0, Brass Axe Head
+tconstruct:axe_head:0, Cold-Iron Axe Head
+tconstruct:axe_head:0, Cupronickel Axe Head
+tconstruct:axe_head:0, Invar Axe Head
+tconstruct:axe_head:0, Mithril Axe Head
+tconstruct:axe_head:0, Nickel Axe Head
+tconstruct:axe_head:0, Pewter Axe Head
+tconstruct:axe_head:0, Platinum Axe Head
+tconstruct:axe_head:0, Star-Steel Axe Head
+tconstruct:axe_head:0, Tin Axe Head
+tconstruct:axe_head:0, Zinc Axe Head
 tconstruct:axe_head:0, Treated Wood Axe Head
 tconstruct:axe_head:0, Constantan Axe Head
 tconstruct:axe_head:0, Magical Wooden Axe Head
@@ -13197,7 +13204,6 @@ tconstruct:axe_head:0, Kyronite Axe Head
 tconstruct:axe_head:0, Pladium Axe Head
 tconstruct:axe_head:0, Ionite Axe Head
 tconstruct:axe_head:0, Aethium Axe Head
-tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:axe_head:0, Wyvern Axe Head
 tconstruct:axe_head:0, Awakened Axe Head
 tconstruct:axe_head:0, Chaotic Axe Head
@@ -13205,6 +13211,7 @@ tconstruct:axe_head:0, Bloodwood Axe Head
 tconstruct:axe_head:0, Fusewood Axe Head
 tconstruct:axe_head:0, Ghostwood Axe Head
 tconstruct:axe_head:0, Darkwood Axe Head
+tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:broad_axe_head:0, Electrical Broad Axe Head
 tconstruct:broad_axe_head:0, Energetic Broad Axe Head
 tconstruct:broad_axe_head:0, Vibrant Broad Axe Head
@@ -13223,6 +13230,7 @@ tconstruct:broad_axe_head:0, Bone Broad Axe Head
 tconstruct:broad_axe_head:0, Obsidian Broad Axe Head
 tconstruct:broad_axe_head:0, Prismarine Broad Axe Head
 tconstruct:broad_axe_head:0, End Broad Axe Head
+tconstruct:broad_axe_head:0, Paper Broad Axe Head
 tconstruct:broad_axe_head:0, Sponge Broad Axe Head
 tconstruct:broad_axe_head:0, Firewood Broad Axe Head
 tconstruct:broad_axe_head:0, Iron Broad Axe Head
@@ -13249,21 +13257,6 @@ tconstruct:broad_axe_head:0, Ice Dragonsteel Broad Axe Head
 tconstruct:broad_axe_head:0, Weezer Broad Axe Head
 tconstruct:broad_axe_head:0, Dilithium Broad Axe Head
 tconstruct:broad_axe_head:0, Tritanium Broad Axe Head
-tconstruct:broad_axe_head:0, Adamantine Broad Axe Head
-tconstruct:broad_axe_head:0, Antimony Broad Axe Head
-tconstruct:broad_axe_head:0, Aquarium Broad Axe Head
-tconstruct:broad_axe_head:0, Bismuth Broad Axe Head
-tconstruct:broad_axe_head:0, Brass Broad Axe Head
-tconstruct:broad_axe_head:0, Cold-Iron Broad Axe Head
-tconstruct:broad_axe_head:0, Cupronickel Broad Axe Head
-tconstruct:broad_axe_head:0, Invar Broad Axe Head
-tconstruct:broad_axe_head:0, Mithril Broad Axe Head
-tconstruct:broad_axe_head:0, Nickel Broad Axe Head
-tconstruct:broad_axe_head:0, Pewter Broad Axe Head
-tconstruct:broad_axe_head:0, Platinum Broad Axe Head
-tconstruct:broad_axe_head:0, Star-Steel Broad Axe Head
-tconstruct:broad_axe_head:0, Tin Broad Axe Head
-tconstruct:broad_axe_head:0, Zinc Broad Axe Head
 tconstruct:broad_axe_head:0, Beryllium Broad Axe Head
 tconstruct:broad_axe_head:0, Boron Broad Axe Head
 tconstruct:broad_axe_head:0, Cadmium Broad Axe Head
@@ -13283,6 +13276,21 @@ tconstruct:broad_axe_head:0, Titanium Broad Axe Head
 tconstruct:broad_axe_head:0, Tungsten Broad Axe Head
 tconstruct:broad_axe_head:0, Uranium Broad Axe Head
 tconstruct:broad_axe_head:0, Zirconium Broad Axe Head
+tconstruct:broad_axe_head:0, Adamantine Broad Axe Head
+tconstruct:broad_axe_head:0, Antimony Broad Axe Head
+tconstruct:broad_axe_head:0, Aquarium Broad Axe Head
+tconstruct:broad_axe_head:0, Bismuth Broad Axe Head
+tconstruct:broad_axe_head:0, Brass Broad Axe Head
+tconstruct:broad_axe_head:0, Cold-Iron Broad Axe Head
+tconstruct:broad_axe_head:0, Cupronickel Broad Axe Head
+tconstruct:broad_axe_head:0, Invar Broad Axe Head
+tconstruct:broad_axe_head:0, Mithril Broad Axe Head
+tconstruct:broad_axe_head:0, Nickel Broad Axe Head
+tconstruct:broad_axe_head:0, Pewter Broad Axe Head
+tconstruct:broad_axe_head:0, Platinum Broad Axe Head
+tconstruct:broad_axe_head:0, Star-Steel Broad Axe Head
+tconstruct:broad_axe_head:0, Tin Broad Axe Head
+tconstruct:broad_axe_head:0, Zinc Broad Axe Head
 tconstruct:broad_axe_head:0, Treated Wood Broad Axe Head
 tconstruct:broad_axe_head:0, Constantan Broad Axe Head
 tconstruct:broad_axe_head:0, Magical Wooden Broad Axe Head
@@ -13358,7 +13366,6 @@ tconstruct:broad_axe_head:0, Kyronite Broad Axe Head
 tconstruct:broad_axe_head:0, Pladium Broad Axe Head
 tconstruct:broad_axe_head:0, Ionite Broad Axe Head
 tconstruct:broad_axe_head:0, Aethium Broad Axe Head
-tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:broad_axe_head:0, Wyvern Broad Axe Head
 tconstruct:broad_axe_head:0, Awakened Broad Axe Head
 tconstruct:broad_axe_head:0, Chaotic Broad Axe Head
@@ -13366,6 +13373,7 @@ tconstruct:broad_axe_head:0, Bloodwood Broad Axe Head
 tconstruct:broad_axe_head:0, Fusewood Broad Axe Head
 tconstruct:broad_axe_head:0, Ghostwood Broad Axe Head
 tconstruct:broad_axe_head:0, Darkwood Broad Axe Head
+tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:sword_blade:0, Electrical Sword Blade
 tconstruct:sword_blade:0, Energetic Sword Blade
 tconstruct:sword_blade:0, Vibrant Sword Blade
@@ -13384,6 +13392,7 @@ tconstruct:sword_blade:0, Bone Sword Blade
 tconstruct:sword_blade:0, Obsidian Sword Blade
 tconstruct:sword_blade:0, Prismarine Sword Blade
 tconstruct:sword_blade:0, End Sword Blade
+tconstruct:sword_blade:0, Paper Sword Blade
 tconstruct:sword_blade:0, Sponge Sword Blade
 tconstruct:sword_blade:0, Firewood Sword Blade
 tconstruct:sword_blade:0, Iron Sword Blade
@@ -13410,21 +13419,6 @@ tconstruct:sword_blade:0, Ice Dragonsteel Sword Blade
 tconstruct:sword_blade:0, Weezer Sword Blade
 tconstruct:sword_blade:0, Dilithium Sword Blade
 tconstruct:sword_blade:0, Tritanium Sword Blade
-tconstruct:sword_blade:0, Adamantine Sword Blade
-tconstruct:sword_blade:0, Antimony Sword Blade
-tconstruct:sword_blade:0, Aquarium Sword Blade
-tconstruct:sword_blade:0, Bismuth Sword Blade
-tconstruct:sword_blade:0, Brass Sword Blade
-tconstruct:sword_blade:0, Cold-Iron Sword Blade
-tconstruct:sword_blade:0, Cupronickel Sword Blade
-tconstruct:sword_blade:0, Invar Sword Blade
-tconstruct:sword_blade:0, Mithril Sword Blade
-tconstruct:sword_blade:0, Nickel Sword Blade
-tconstruct:sword_blade:0, Pewter Sword Blade
-tconstruct:sword_blade:0, Platinum Sword Blade
-tconstruct:sword_blade:0, Star-Steel Sword Blade
-tconstruct:sword_blade:0, Tin Sword Blade
-tconstruct:sword_blade:0, Zinc Sword Blade
 tconstruct:sword_blade:0, Beryllium Sword Blade
 tconstruct:sword_blade:0, Boron Sword Blade
 tconstruct:sword_blade:0, Cadmium Sword Blade
@@ -13444,6 +13438,21 @@ tconstruct:sword_blade:0, Titanium Sword Blade
 tconstruct:sword_blade:0, Tungsten Sword Blade
 tconstruct:sword_blade:0, Uranium Sword Blade
 tconstruct:sword_blade:0, Zirconium Sword Blade
+tconstruct:sword_blade:0, Adamantine Sword Blade
+tconstruct:sword_blade:0, Antimony Sword Blade
+tconstruct:sword_blade:0, Aquarium Sword Blade
+tconstruct:sword_blade:0, Bismuth Sword Blade
+tconstruct:sword_blade:0, Brass Sword Blade
+tconstruct:sword_blade:0, Cold-Iron Sword Blade
+tconstruct:sword_blade:0, Cupronickel Sword Blade
+tconstruct:sword_blade:0, Invar Sword Blade
+tconstruct:sword_blade:0, Mithril Sword Blade
+tconstruct:sword_blade:0, Nickel Sword Blade
+tconstruct:sword_blade:0, Pewter Sword Blade
+tconstruct:sword_blade:0, Platinum Sword Blade
+tconstruct:sword_blade:0, Star-Steel Sword Blade
+tconstruct:sword_blade:0, Tin Sword Blade
+tconstruct:sword_blade:0, Zinc Sword Blade
 tconstruct:sword_blade:0, Treated Wood Sword Blade
 tconstruct:sword_blade:0, Constantan Sword Blade
 tconstruct:sword_blade:0, Magical Wooden Sword Blade
@@ -13519,7 +13528,6 @@ tconstruct:sword_blade:0, Kyronite Sword Blade
 tconstruct:sword_blade:0, Pladium Sword Blade
 tconstruct:sword_blade:0, Ionite Sword Blade
 tconstruct:sword_blade:0, Aethium Sword Blade
-tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:sword_blade:0, Wyvern Sword Blade
 tconstruct:sword_blade:0, Awakened Sword Blade
 tconstruct:sword_blade:0, Chaotic Sword Blade
@@ -13527,6 +13535,7 @@ tconstruct:sword_blade:0, Bloodwood Sword Blade
 tconstruct:sword_blade:0, Fusewood Sword Blade
 tconstruct:sword_blade:0, Ghostwood Sword Blade
 tconstruct:sword_blade:0, Darkwood Sword Blade
+tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:large_sword_blade:0, Electrical Large Sword Blade
 tconstruct:large_sword_blade:0, Energetic Large Sword Blade
 tconstruct:large_sword_blade:0, Vibrant Large Sword Blade
@@ -13545,6 +13554,7 @@ tconstruct:large_sword_blade:0, Bone Large Sword Blade
 tconstruct:large_sword_blade:0, Obsidian Large Sword Blade
 tconstruct:large_sword_blade:0, Prismarine Large Sword Blade
 tconstruct:large_sword_blade:0, End Large Sword Blade
+tconstruct:large_sword_blade:0, Paper Large Sword Blade
 tconstruct:large_sword_blade:0, Sponge Large Sword Blade
 tconstruct:large_sword_blade:0, Firewood Large Sword Blade
 tconstruct:large_sword_blade:0, Iron Large Sword Blade
@@ -13571,21 +13581,6 @@ tconstruct:large_sword_blade:0, Ice Dragonsteel Large Sword Blade
 tconstruct:large_sword_blade:0, Weezer Large Sword Blade
 tconstruct:large_sword_blade:0, Dilithium Large Sword Blade
 tconstruct:large_sword_blade:0, Tritanium Large Sword Blade
-tconstruct:large_sword_blade:0, Adamantine Large Sword Blade
-tconstruct:large_sword_blade:0, Antimony Large Sword Blade
-tconstruct:large_sword_blade:0, Aquarium Large Sword Blade
-tconstruct:large_sword_blade:0, Bismuth Large Sword Blade
-tconstruct:large_sword_blade:0, Brass Large Sword Blade
-tconstruct:large_sword_blade:0, Cold-Iron Large Sword Blade
-tconstruct:large_sword_blade:0, Cupronickel Large Sword Blade
-tconstruct:large_sword_blade:0, Invar Large Sword Blade
-tconstruct:large_sword_blade:0, Mithril Large Sword Blade
-tconstruct:large_sword_blade:0, Nickel Large Sword Blade
-tconstruct:large_sword_blade:0, Pewter Large Sword Blade
-tconstruct:large_sword_blade:0, Platinum Large Sword Blade
-tconstruct:large_sword_blade:0, Star-Steel Large Sword Blade
-tconstruct:large_sword_blade:0, Tin Large Sword Blade
-tconstruct:large_sword_blade:0, Zinc Large Sword Blade
 tconstruct:large_sword_blade:0, Beryllium Large Sword Blade
 tconstruct:large_sword_blade:0, Boron Large Sword Blade
 tconstruct:large_sword_blade:0, Cadmium Large Sword Blade
@@ -13605,6 +13600,21 @@ tconstruct:large_sword_blade:0, Titanium Large Sword Blade
 tconstruct:large_sword_blade:0, Tungsten Large Sword Blade
 tconstruct:large_sword_blade:0, Uranium Large Sword Blade
 tconstruct:large_sword_blade:0, Zirconium Large Sword Blade
+tconstruct:large_sword_blade:0, Adamantine Large Sword Blade
+tconstruct:large_sword_blade:0, Antimony Large Sword Blade
+tconstruct:large_sword_blade:0, Aquarium Large Sword Blade
+tconstruct:large_sword_blade:0, Bismuth Large Sword Blade
+tconstruct:large_sword_blade:0, Brass Large Sword Blade
+tconstruct:large_sword_blade:0, Cold-Iron Large Sword Blade
+tconstruct:large_sword_blade:0, Cupronickel Large Sword Blade
+tconstruct:large_sword_blade:0, Invar Large Sword Blade
+tconstruct:large_sword_blade:0, Mithril Large Sword Blade
+tconstruct:large_sword_blade:0, Nickel Large Sword Blade
+tconstruct:large_sword_blade:0, Pewter Large Sword Blade
+tconstruct:large_sword_blade:0, Platinum Large Sword Blade
+tconstruct:large_sword_blade:0, Star-Steel Large Sword Blade
+tconstruct:large_sword_blade:0, Tin Large Sword Blade
+tconstruct:large_sword_blade:0, Zinc Large Sword Blade
 tconstruct:large_sword_blade:0, Treated Wood Large Sword Blade
 tconstruct:large_sword_blade:0, Constantan Large Sword Blade
 tconstruct:large_sword_blade:0, Magical Wooden Large Sword Blade
@@ -13680,7 +13690,6 @@ tconstruct:large_sword_blade:0, Kyronite Large Sword Blade
 tconstruct:large_sword_blade:0, Pladium Large Sword Blade
 tconstruct:large_sword_blade:0, Ionite Large Sword Blade
 tconstruct:large_sword_blade:0, Aethium Large Sword Blade
-tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:large_sword_blade:0, Wyvern Large Sword Blade
 tconstruct:large_sword_blade:0, Awakened Large Sword Blade
 tconstruct:large_sword_blade:0, Chaotic Large Sword Blade
@@ -13688,6 +13697,7 @@ tconstruct:large_sword_blade:0, Bloodwood Large Sword Blade
 tconstruct:large_sword_blade:0, Fusewood Large Sword Blade
 tconstruct:large_sword_blade:0, Ghostwood Large Sword Blade
 tconstruct:large_sword_blade:0, Darkwood Large Sword Blade
+tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:hammer_head:0, Electrical Hammer Head
 tconstruct:hammer_head:0, Energetic Hammer Head
 tconstruct:hammer_head:0, Vibrant Hammer Head
@@ -13706,6 +13716,7 @@ tconstruct:hammer_head:0, Bone Hammer Head
 tconstruct:hammer_head:0, Obsidian Hammer Head
 tconstruct:hammer_head:0, Prismarine Hammer Head
 tconstruct:hammer_head:0, End Hammer Head
+tconstruct:hammer_head:0, Paper Hammer Head
 tconstruct:hammer_head:0, Sponge Hammer Head
 tconstruct:hammer_head:0, Firewood Hammer Head
 tconstruct:hammer_head:0, Iron Hammer Head
@@ -13732,21 +13743,6 @@ tconstruct:hammer_head:0, Ice Dragonsteel Hammer Head
 tconstruct:hammer_head:0, Weezer Hammer Head
 tconstruct:hammer_head:0, Dilithium Hammer Head
 tconstruct:hammer_head:0, Tritanium Hammer Head
-tconstruct:hammer_head:0, Adamantine Hammer Head
-tconstruct:hammer_head:0, Antimony Hammer Head
-tconstruct:hammer_head:0, Aquarium Hammer Head
-tconstruct:hammer_head:0, Bismuth Hammer Head
-tconstruct:hammer_head:0, Brass Hammer Head
-tconstruct:hammer_head:0, Cold-Iron Hammer Head
-tconstruct:hammer_head:0, Cupronickel Hammer Head
-tconstruct:hammer_head:0, Invar Hammer Head
-tconstruct:hammer_head:0, Mithril Hammer Head
-tconstruct:hammer_head:0, Nickel Hammer Head
-tconstruct:hammer_head:0, Pewter Hammer Head
-tconstruct:hammer_head:0, Platinum Hammer Head
-tconstruct:hammer_head:0, Star-Steel Hammer Head
-tconstruct:hammer_head:0, Tin Hammer Head
-tconstruct:hammer_head:0, Zinc Hammer Head
 tconstruct:hammer_head:0, Beryllium Hammer Head
 tconstruct:hammer_head:0, Boron Hammer Head
 tconstruct:hammer_head:0, Cadmium Hammer Head
@@ -13766,6 +13762,21 @@ tconstruct:hammer_head:0, Titanium Hammer Head
 tconstruct:hammer_head:0, Tungsten Hammer Head
 tconstruct:hammer_head:0, Uranium Hammer Head
 tconstruct:hammer_head:0, Zirconium Hammer Head
+tconstruct:hammer_head:0, Adamantine Hammer Head
+tconstruct:hammer_head:0, Antimony Hammer Head
+tconstruct:hammer_head:0, Aquarium Hammer Head
+tconstruct:hammer_head:0, Bismuth Hammer Head
+tconstruct:hammer_head:0, Brass Hammer Head
+tconstruct:hammer_head:0, Cold-Iron Hammer Head
+tconstruct:hammer_head:0, Cupronickel Hammer Head
+tconstruct:hammer_head:0, Invar Hammer Head
+tconstruct:hammer_head:0, Mithril Hammer Head
+tconstruct:hammer_head:0, Nickel Hammer Head
+tconstruct:hammer_head:0, Pewter Hammer Head
+tconstruct:hammer_head:0, Platinum Hammer Head
+tconstruct:hammer_head:0, Star-Steel Hammer Head
+tconstruct:hammer_head:0, Tin Hammer Head
+tconstruct:hammer_head:0, Zinc Hammer Head
 tconstruct:hammer_head:0, Treated Wood Hammer Head
 tconstruct:hammer_head:0, Constantan Hammer Head
 tconstruct:hammer_head:0, Magical Wooden Hammer Head
@@ -13841,7 +13852,6 @@ tconstruct:hammer_head:0, Kyronite Hammer Head
 tconstruct:hammer_head:0, Pladium Hammer Head
 tconstruct:hammer_head:0, Ionite Hammer Head
 tconstruct:hammer_head:0, Aethium Hammer Head
-tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:hammer_head:0, Wyvern Hammer Head
 tconstruct:hammer_head:0, Awakened Hammer Head
 tconstruct:hammer_head:0, Chaotic Hammer Head
@@ -13849,6 +13859,7 @@ tconstruct:hammer_head:0, Bloodwood Hammer Head
 tconstruct:hammer_head:0, Fusewood Hammer Head
 tconstruct:hammer_head:0, Ghostwood Hammer Head
 tconstruct:hammer_head:0, Darkwood Hammer Head
+tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:excavator_head:0, Electrical Excavator Head
 tconstruct:excavator_head:0, Energetic Excavator Head
 tconstruct:excavator_head:0, Vibrant Excavator Head
@@ -13867,6 +13878,7 @@ tconstruct:excavator_head:0, Bone Excavator Head
 tconstruct:excavator_head:0, Obsidian Excavator Head
 tconstruct:excavator_head:0, Prismarine Excavator Head
 tconstruct:excavator_head:0, End Excavator Head
+tconstruct:excavator_head:0, Paper Excavator Head
 tconstruct:excavator_head:0, Sponge Excavator Head
 tconstruct:excavator_head:0, Firewood Excavator Head
 tconstruct:excavator_head:0, Iron Excavator Head
@@ -13893,21 +13905,6 @@ tconstruct:excavator_head:0, Ice Dragonsteel Excavator Head
 tconstruct:excavator_head:0, Weezer Excavator Head
 tconstruct:excavator_head:0, Dilithium Excavator Head
 tconstruct:excavator_head:0, Tritanium Excavator Head
-tconstruct:excavator_head:0, Adamantine Excavator Head
-tconstruct:excavator_head:0, Antimony Excavator Head
-tconstruct:excavator_head:0, Aquarium Excavator Head
-tconstruct:excavator_head:0, Bismuth Excavator Head
-tconstruct:excavator_head:0, Brass Excavator Head
-tconstruct:excavator_head:0, Cold-Iron Excavator Head
-tconstruct:excavator_head:0, Cupronickel Excavator Head
-tconstruct:excavator_head:0, Invar Excavator Head
-tconstruct:excavator_head:0, Mithril Excavator Head
-tconstruct:excavator_head:0, Nickel Excavator Head
-tconstruct:excavator_head:0, Pewter Excavator Head
-tconstruct:excavator_head:0, Platinum Excavator Head
-tconstruct:excavator_head:0, Star-Steel Excavator Head
-tconstruct:excavator_head:0, Tin Excavator Head
-tconstruct:excavator_head:0, Zinc Excavator Head
 tconstruct:excavator_head:0, Beryllium Excavator Head
 tconstruct:excavator_head:0, Boron Excavator Head
 tconstruct:excavator_head:0, Cadmium Excavator Head
@@ -13927,6 +13924,21 @@ tconstruct:excavator_head:0, Titanium Excavator Head
 tconstruct:excavator_head:0, Tungsten Excavator Head
 tconstruct:excavator_head:0, Uranium Excavator Head
 tconstruct:excavator_head:0, Zirconium Excavator Head
+tconstruct:excavator_head:0, Adamantine Excavator Head
+tconstruct:excavator_head:0, Antimony Excavator Head
+tconstruct:excavator_head:0, Aquarium Excavator Head
+tconstruct:excavator_head:0, Bismuth Excavator Head
+tconstruct:excavator_head:0, Brass Excavator Head
+tconstruct:excavator_head:0, Cold-Iron Excavator Head
+tconstruct:excavator_head:0, Cupronickel Excavator Head
+tconstruct:excavator_head:0, Invar Excavator Head
+tconstruct:excavator_head:0, Mithril Excavator Head
+tconstruct:excavator_head:0, Nickel Excavator Head
+tconstruct:excavator_head:0, Pewter Excavator Head
+tconstruct:excavator_head:0, Platinum Excavator Head
+tconstruct:excavator_head:0, Star-Steel Excavator Head
+tconstruct:excavator_head:0, Tin Excavator Head
+tconstruct:excavator_head:0, Zinc Excavator Head
 tconstruct:excavator_head:0, Treated Wood Excavator Head
 tconstruct:excavator_head:0, Constantan Excavator Head
 tconstruct:excavator_head:0, Magical Wooden Excavator Head
@@ -14002,7 +14014,6 @@ tconstruct:excavator_head:0, Kyronite Excavator Head
 tconstruct:excavator_head:0, Pladium Excavator Head
 tconstruct:excavator_head:0, Ionite Excavator Head
 tconstruct:excavator_head:0, Aethium Excavator Head
-tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:excavator_head:0, Wyvern Excavator Head
 tconstruct:excavator_head:0, Awakened Excavator Head
 tconstruct:excavator_head:0, Chaotic Excavator Head
@@ -14010,6 +14021,7 @@ tconstruct:excavator_head:0, Bloodwood Excavator Head
 tconstruct:excavator_head:0, Fusewood Excavator Head
 tconstruct:excavator_head:0, Ghostwood Excavator Head
 tconstruct:excavator_head:0, Darkwood Excavator Head
+tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:kama_head:0, Electrical Kama Head
 tconstruct:kama_head:0, Energetic Kama Head
 tconstruct:kama_head:0, Vibrant Kama Head
@@ -14028,6 +14040,7 @@ tconstruct:kama_head:0, Bone Kama Head
 tconstruct:kama_head:0, Obsidian Kama Head
 tconstruct:kama_head:0, Prismarine Kama Head
 tconstruct:kama_head:0, End Kama Head
+tconstruct:kama_head:0, Paper Kama Head
 tconstruct:kama_head:0, Sponge Kama Head
 tconstruct:kama_head:0, Firewood Kama Head
 tconstruct:kama_head:0, Iron Kama Head
@@ -14054,21 +14067,6 @@ tconstruct:kama_head:0, Ice Dragonsteel Kama Head
 tconstruct:kama_head:0, Weezer Kama Head
 tconstruct:kama_head:0, Dilithium Kama Head
 tconstruct:kama_head:0, Tritanium Kama Head
-tconstruct:kama_head:0, Adamantine Kama Head
-tconstruct:kama_head:0, Antimony Kama Head
-tconstruct:kama_head:0, Aquarium Kama Head
-tconstruct:kama_head:0, Bismuth Kama Head
-tconstruct:kama_head:0, Brass Kama Head
-tconstruct:kama_head:0, Cold-Iron Kama Head
-tconstruct:kama_head:0, Cupronickel Kama Head
-tconstruct:kama_head:0, Invar Kama Head
-tconstruct:kama_head:0, Mithril Kama Head
-tconstruct:kama_head:0, Nickel Kama Head
-tconstruct:kama_head:0, Pewter Kama Head
-tconstruct:kama_head:0, Platinum Kama Head
-tconstruct:kama_head:0, Star-Steel Kama Head
-tconstruct:kama_head:0, Tin Kama Head
-tconstruct:kama_head:0, Zinc Kama Head
 tconstruct:kama_head:0, Beryllium Kama Head
 tconstruct:kama_head:0, Boron Kama Head
 tconstruct:kama_head:0, Cadmium Kama Head
@@ -14088,6 +14086,21 @@ tconstruct:kama_head:0, Titanium Kama Head
 tconstruct:kama_head:0, Tungsten Kama Head
 tconstruct:kama_head:0, Uranium Kama Head
 tconstruct:kama_head:0, Zirconium Kama Head
+tconstruct:kama_head:0, Adamantine Kama Head
+tconstruct:kama_head:0, Antimony Kama Head
+tconstruct:kama_head:0, Aquarium Kama Head
+tconstruct:kama_head:0, Bismuth Kama Head
+tconstruct:kama_head:0, Brass Kama Head
+tconstruct:kama_head:0, Cold-Iron Kama Head
+tconstruct:kama_head:0, Cupronickel Kama Head
+tconstruct:kama_head:0, Invar Kama Head
+tconstruct:kama_head:0, Mithril Kama Head
+tconstruct:kama_head:0, Nickel Kama Head
+tconstruct:kama_head:0, Pewter Kama Head
+tconstruct:kama_head:0, Platinum Kama Head
+tconstruct:kama_head:0, Star-Steel Kama Head
+tconstruct:kama_head:0, Tin Kama Head
+tconstruct:kama_head:0, Zinc Kama Head
 tconstruct:kama_head:0, Treated Wood Kama Head
 tconstruct:kama_head:0, Constantan Kama Head
 tconstruct:kama_head:0, Magical Wooden Kama Head
@@ -14163,7 +14176,6 @@ tconstruct:kama_head:0, Kyronite Kama Head
 tconstruct:kama_head:0, Pladium Kama Head
 tconstruct:kama_head:0, Ionite Kama Head
 tconstruct:kama_head:0, Aethium Kama Head
-tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:kama_head:0, Wyvern Kama Head
 tconstruct:kama_head:0, Awakened Kama Head
 tconstruct:kama_head:0, Chaotic Kama Head
@@ -14171,6 +14183,7 @@ tconstruct:kama_head:0, Bloodwood Kama Head
 tconstruct:kama_head:0, Fusewood Kama Head
 tconstruct:kama_head:0, Ghostwood Kama Head
 tconstruct:kama_head:0, Darkwood Kama Head
+tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:scythe_head:0, Electrical Scythe Head
 tconstruct:scythe_head:0, Energetic Scythe Head
 tconstruct:scythe_head:0, Vibrant Scythe Head
@@ -14189,6 +14202,7 @@ tconstruct:scythe_head:0, Bone Scythe Head
 tconstruct:scythe_head:0, Obsidian Scythe Head
 tconstruct:scythe_head:0, Prismarine Scythe Head
 tconstruct:scythe_head:0, End Scythe Head
+tconstruct:scythe_head:0, Paper Scythe Head
 tconstruct:scythe_head:0, Sponge Scythe Head
 tconstruct:scythe_head:0, Firewood Scythe Head
 tconstruct:scythe_head:0, Iron Scythe Head
@@ -14215,21 +14229,6 @@ tconstruct:scythe_head:0, Ice Dragonsteel Scythe Head
 tconstruct:scythe_head:0, Weezer Scythe Head
 tconstruct:scythe_head:0, Dilithium Scythe Head
 tconstruct:scythe_head:0, Tritanium Scythe Head
-tconstruct:scythe_head:0, Adamantine Scythe Head
-tconstruct:scythe_head:0, Antimony Scythe Head
-tconstruct:scythe_head:0, Aquarium Scythe Head
-tconstruct:scythe_head:0, Bismuth Scythe Head
-tconstruct:scythe_head:0, Brass Scythe Head
-tconstruct:scythe_head:0, Cold-Iron Scythe Head
-tconstruct:scythe_head:0, Cupronickel Scythe Head
-tconstruct:scythe_head:0, Invar Scythe Head
-tconstruct:scythe_head:0, Mithril Scythe Head
-tconstruct:scythe_head:0, Nickel Scythe Head
-tconstruct:scythe_head:0, Pewter Scythe Head
-tconstruct:scythe_head:0, Platinum Scythe Head
-tconstruct:scythe_head:0, Star-Steel Scythe Head
-tconstruct:scythe_head:0, Tin Scythe Head
-tconstruct:scythe_head:0, Zinc Scythe Head
 tconstruct:scythe_head:0, Beryllium Scythe Head
 tconstruct:scythe_head:0, Boron Scythe Head
 tconstruct:scythe_head:0, Cadmium Scythe Head
@@ -14249,6 +14248,21 @@ tconstruct:scythe_head:0, Titanium Scythe Head
 tconstruct:scythe_head:0, Tungsten Scythe Head
 tconstruct:scythe_head:0, Uranium Scythe Head
 tconstruct:scythe_head:0, Zirconium Scythe Head
+tconstruct:scythe_head:0, Adamantine Scythe Head
+tconstruct:scythe_head:0, Antimony Scythe Head
+tconstruct:scythe_head:0, Aquarium Scythe Head
+tconstruct:scythe_head:0, Bismuth Scythe Head
+tconstruct:scythe_head:0, Brass Scythe Head
+tconstruct:scythe_head:0, Cold-Iron Scythe Head
+tconstruct:scythe_head:0, Cupronickel Scythe Head
+tconstruct:scythe_head:0, Invar Scythe Head
+tconstruct:scythe_head:0, Mithril Scythe Head
+tconstruct:scythe_head:0, Nickel Scythe Head
+tconstruct:scythe_head:0, Pewter Scythe Head
+tconstruct:scythe_head:0, Platinum Scythe Head
+tconstruct:scythe_head:0, Star-Steel Scythe Head
+tconstruct:scythe_head:0, Tin Scythe Head
+tconstruct:scythe_head:0, Zinc Scythe Head
 tconstruct:scythe_head:0, Treated Wood Scythe Head
 tconstruct:scythe_head:0, Constantan Scythe Head
 tconstruct:scythe_head:0, Magical Wooden Scythe Head
@@ -14324,7 +14338,6 @@ tconstruct:scythe_head:0, Kyronite Scythe Head
 tconstruct:scythe_head:0, Pladium Scythe Head
 tconstruct:scythe_head:0, Ionite Scythe Head
 tconstruct:scythe_head:0, Aethium Scythe Head
-tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:scythe_head:0, Wyvern Scythe Head
 tconstruct:scythe_head:0, Awakened Scythe Head
 tconstruct:scythe_head:0, Chaotic Scythe Head
@@ -14332,6 +14345,7 @@ tconstruct:scythe_head:0, Bloodwood Scythe Head
 tconstruct:scythe_head:0, Fusewood Scythe Head
 tconstruct:scythe_head:0, Ghostwood Scythe Head
 tconstruct:scythe_head:0, Darkwood Scythe Head
+tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:pan_head:0, Electrical Pan
 tconstruct:pan_head:0, Energetic Pan
 tconstruct:pan_head:0, Vibrant Pan
@@ -14350,6 +14364,7 @@ tconstruct:pan_head:0, Bone Pan
 tconstruct:pan_head:0, Obsidian Pan
 tconstruct:pan_head:0, Prismarine Pan
 tconstruct:pan_head:0, End Pan
+tconstruct:pan_head:0, Paper Pan
 tconstruct:pan_head:0, Sponge Pan
 tconstruct:pan_head:0, Firewood Pan
 tconstruct:pan_head:0, Iron Pan
@@ -14376,21 +14391,6 @@ tconstruct:pan_head:0, Ice Dragonsteel Pan
 tconstruct:pan_head:0, Weezer Pan
 tconstruct:pan_head:0, Dilithium Pan
 tconstruct:pan_head:0, Tritanium Pan
-tconstruct:pan_head:0, Adamantine Pan
-tconstruct:pan_head:0, Antimony Pan
-tconstruct:pan_head:0, Aquarium Pan
-tconstruct:pan_head:0, Bismuth Pan
-tconstruct:pan_head:0, Brass Pan
-tconstruct:pan_head:0, Cold-Iron Pan
-tconstruct:pan_head:0, Cupronickel Pan
-tconstruct:pan_head:0, Invar Pan
-tconstruct:pan_head:0, Mithril Pan
-tconstruct:pan_head:0, Nickel Pan
-tconstruct:pan_head:0, Pewter Pan
-tconstruct:pan_head:0, Platinum Pan
-tconstruct:pan_head:0, Star-Steel Pan
-tconstruct:pan_head:0, Tin Pan
-tconstruct:pan_head:0, Zinc Pan
 tconstruct:pan_head:0, Beryllium Pan
 tconstruct:pan_head:0, Boron Pan
 tconstruct:pan_head:0, Cadmium Pan
@@ -14410,6 +14410,21 @@ tconstruct:pan_head:0, Titanium Pan
 tconstruct:pan_head:0, Tungsten Pan
 tconstruct:pan_head:0, Uranium Pan
 tconstruct:pan_head:0, Zirconium Pan
+tconstruct:pan_head:0, Adamantine Pan
+tconstruct:pan_head:0, Antimony Pan
+tconstruct:pan_head:0, Aquarium Pan
+tconstruct:pan_head:0, Bismuth Pan
+tconstruct:pan_head:0, Brass Pan
+tconstruct:pan_head:0, Cold-Iron Pan
+tconstruct:pan_head:0, Cupronickel Pan
+tconstruct:pan_head:0, Invar Pan
+tconstruct:pan_head:0, Mithril Pan
+tconstruct:pan_head:0, Nickel Pan
+tconstruct:pan_head:0, Pewter Pan
+tconstruct:pan_head:0, Platinum Pan
+tconstruct:pan_head:0, Star-Steel Pan
+tconstruct:pan_head:0, Tin Pan
+tconstruct:pan_head:0, Zinc Pan
 tconstruct:pan_head:0, Treated Wood Pan
 tconstruct:pan_head:0, Constantan Pan
 tconstruct:pan_head:0, Magical Wooden Pan
@@ -14485,7 +14500,6 @@ tconstruct:pan_head:0, Kyronite Pan
 tconstruct:pan_head:0, Pladium Pan
 tconstruct:pan_head:0, Ionite Pan
 tconstruct:pan_head:0, Aethium Pan
-tconstruct:pan_head:0, Emerald Pan
 tconstruct:pan_head:0, Wyvern Pan
 tconstruct:pan_head:0, Awakened Pan
 tconstruct:pan_head:0, Chaotic Pan
@@ -14493,6 +14507,7 @@ tconstruct:pan_head:0, Bloodwood Pan
 tconstruct:pan_head:0, Fusewood Pan
 tconstruct:pan_head:0, Ghostwood Pan
 tconstruct:pan_head:0, Darkwood Pan
+tconstruct:pan_head:0, Emerald Pan
 tconstruct:sign_head:0, Electrical Sign Plate
 tconstruct:sign_head:0, Energetic Sign Plate
 tconstruct:sign_head:0, Vibrant Sign Plate
@@ -14511,6 +14526,7 @@ tconstruct:sign_head:0, Bone Sign Plate
 tconstruct:sign_head:0, Obsidian Sign Plate
 tconstruct:sign_head:0, Prismarine Sign Plate
 tconstruct:sign_head:0, End Sign Plate
+tconstruct:sign_head:0, Paper Sign Plate
 tconstruct:sign_head:0, Sponge Sign Plate
 tconstruct:sign_head:0, Firewood Sign Plate
 tconstruct:sign_head:0, Iron Sign Plate
@@ -14537,21 +14553,6 @@ tconstruct:sign_head:0, Ice Dragonsteel Sign Plate
 tconstruct:sign_head:0, Weezer Sign Plate
 tconstruct:sign_head:0, Dilithium Sign Plate
 tconstruct:sign_head:0, Tritanium Sign Plate
-tconstruct:sign_head:0, Adamantine Sign Plate
-tconstruct:sign_head:0, Antimony Sign Plate
-tconstruct:sign_head:0, Aquarium Sign Plate
-tconstruct:sign_head:0, Bismuth Sign Plate
-tconstruct:sign_head:0, Brass Sign Plate
-tconstruct:sign_head:0, Cold-Iron Sign Plate
-tconstruct:sign_head:0, Cupronickel Sign Plate
-tconstruct:sign_head:0, Invar Sign Plate
-tconstruct:sign_head:0, Mithril Sign Plate
-tconstruct:sign_head:0, Nickel Sign Plate
-tconstruct:sign_head:0, Pewter Sign Plate
-tconstruct:sign_head:0, Platinum Sign Plate
-tconstruct:sign_head:0, Star-Steel Sign Plate
-tconstruct:sign_head:0, Tin Sign Plate
-tconstruct:sign_head:0, Zinc Sign Plate
 tconstruct:sign_head:0, Beryllium Sign Plate
 tconstruct:sign_head:0, Boron Sign Plate
 tconstruct:sign_head:0, Cadmium Sign Plate
@@ -14571,6 +14572,21 @@ tconstruct:sign_head:0, Titanium Sign Plate
 tconstruct:sign_head:0, Tungsten Sign Plate
 tconstruct:sign_head:0, Uranium Sign Plate
 tconstruct:sign_head:0, Zirconium Sign Plate
+tconstruct:sign_head:0, Adamantine Sign Plate
+tconstruct:sign_head:0, Antimony Sign Plate
+tconstruct:sign_head:0, Aquarium Sign Plate
+tconstruct:sign_head:0, Bismuth Sign Plate
+tconstruct:sign_head:0, Brass Sign Plate
+tconstruct:sign_head:0, Cold-Iron Sign Plate
+tconstruct:sign_head:0, Cupronickel Sign Plate
+tconstruct:sign_head:0, Invar Sign Plate
+tconstruct:sign_head:0, Mithril Sign Plate
+tconstruct:sign_head:0, Nickel Sign Plate
+tconstruct:sign_head:0, Pewter Sign Plate
+tconstruct:sign_head:0, Platinum Sign Plate
+tconstruct:sign_head:0, Star-Steel Sign Plate
+tconstruct:sign_head:0, Tin Sign Plate
+tconstruct:sign_head:0, Zinc Sign Plate
 tconstruct:sign_head:0, Treated Wood Sign Plate
 tconstruct:sign_head:0, Constantan Sign Plate
 tconstruct:sign_head:0, Magical Wooden Sign Plate
@@ -14646,7 +14662,6 @@ tconstruct:sign_head:0, Kyronite Sign Plate
 tconstruct:sign_head:0, Pladium Sign Plate
 tconstruct:sign_head:0, Ionite Sign Plate
 tconstruct:sign_head:0, Aethium Sign Plate
-tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:sign_head:0, Wyvern Sign Plate
 tconstruct:sign_head:0, Awakened Sign Plate
 tconstruct:sign_head:0, Chaotic Sign Plate
@@ -14654,6 +14669,7 @@ tconstruct:sign_head:0, Bloodwood Sign Plate
 tconstruct:sign_head:0, Fusewood Sign Plate
 tconstruct:sign_head:0, Ghostwood Sign Plate
 tconstruct:sign_head:0, Darkwood Sign Plate
+tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:tool_rod:0, Electrical Tool Rod
 tconstruct:tool_rod:0, Energetic Tool Rod
 tconstruct:tool_rod:0, Vibrant Tool Rod
@@ -14672,6 +14688,7 @@ tconstruct:tool_rod:0, Bone Tool Rod
 tconstruct:tool_rod:0, Obsidian Tool Rod
 tconstruct:tool_rod:0, Prismarine Tool Rod
 tconstruct:tool_rod:0, End Tool Rod
+tconstruct:tool_rod:0, Paper Tool Rod
 tconstruct:tool_rod:0, Sponge Tool Rod
 tconstruct:tool_rod:0, Firewood Tool Rod
 tconstruct:tool_rod:0, Iron Tool Rod
@@ -14698,21 +14715,6 @@ tconstruct:tool_rod:0, Ice Dragonsteel Tool Rod
 tconstruct:tool_rod:0, Weezer Tool Rod
 tconstruct:tool_rod:0, Dilithium Tool Rod
 tconstruct:tool_rod:0, Tritanium Tool Rod
-tconstruct:tool_rod:0, Adamantine Tool Rod
-tconstruct:tool_rod:0, Antimony Tool Rod
-tconstruct:tool_rod:0, Aquarium Tool Rod
-tconstruct:tool_rod:0, Bismuth Tool Rod
-tconstruct:tool_rod:0, Brass Tool Rod
-tconstruct:tool_rod:0, Cold-Iron Tool Rod
-tconstruct:tool_rod:0, Cupronickel Tool Rod
-tconstruct:tool_rod:0, Invar Tool Rod
-tconstruct:tool_rod:0, Mithril Tool Rod
-tconstruct:tool_rod:0, Nickel Tool Rod
-tconstruct:tool_rod:0, Pewter Tool Rod
-tconstruct:tool_rod:0, Platinum Tool Rod
-tconstruct:tool_rod:0, Star-Steel Tool Rod
-tconstruct:tool_rod:0, Tin Tool Rod
-tconstruct:tool_rod:0, Zinc Tool Rod
 tconstruct:tool_rod:0, Beryllium Tool Rod
 tconstruct:tool_rod:0, Boron Tool Rod
 tconstruct:tool_rod:0, Cadmium Tool Rod
@@ -14732,6 +14734,21 @@ tconstruct:tool_rod:0, Titanium Tool Rod
 tconstruct:tool_rod:0, Tungsten Tool Rod
 tconstruct:tool_rod:0, Uranium Tool Rod
 tconstruct:tool_rod:0, Zirconium Tool Rod
+tconstruct:tool_rod:0, Adamantine Tool Rod
+tconstruct:tool_rod:0, Antimony Tool Rod
+tconstruct:tool_rod:0, Aquarium Tool Rod
+tconstruct:tool_rod:0, Bismuth Tool Rod
+tconstruct:tool_rod:0, Brass Tool Rod
+tconstruct:tool_rod:0, Cold-Iron Tool Rod
+tconstruct:tool_rod:0, Cupronickel Tool Rod
+tconstruct:tool_rod:0, Invar Tool Rod
+tconstruct:tool_rod:0, Mithril Tool Rod
+tconstruct:tool_rod:0, Nickel Tool Rod
+tconstruct:tool_rod:0, Pewter Tool Rod
+tconstruct:tool_rod:0, Platinum Tool Rod
+tconstruct:tool_rod:0, Star-Steel Tool Rod
+tconstruct:tool_rod:0, Tin Tool Rod
+tconstruct:tool_rod:0, Zinc Tool Rod
 tconstruct:tool_rod:0, Treated Wood Tool Rod
 tconstruct:tool_rod:0, Constantan Tool Rod
 tconstruct:tool_rod:0, Magical Wooden Tool Rod
@@ -14807,7 +14824,6 @@ tconstruct:tool_rod:0, Kyronite Tool Rod
 tconstruct:tool_rod:0, Pladium Tool Rod
 tconstruct:tool_rod:0, Ionite Tool Rod
 tconstruct:tool_rod:0, Aethium Tool Rod
-tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tool_rod:0, Wyvern Tool Rod
 tconstruct:tool_rod:0, Awakened Tool Rod
 tconstruct:tool_rod:0, Chaotic Tool Rod
@@ -14815,6 +14831,7 @@ tconstruct:tool_rod:0, Bloodwood Tool Rod
 tconstruct:tool_rod:0, Fusewood Tool Rod
 tconstruct:tool_rod:0, Ghostwood Tool Rod
 tconstruct:tool_rod:0, Darkwood Tool Rod
+tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tough_tool_rod:0, Electrical Tough Tool Rod
 tconstruct:tough_tool_rod:0, Energetic Tough Tool Rod
 tconstruct:tough_tool_rod:0, Vibrant Tough Tool Rod
@@ -14833,6 +14850,7 @@ tconstruct:tough_tool_rod:0, Bone Tough Tool Rod
 tconstruct:tough_tool_rod:0, Obsidian Tough Tool Rod
 tconstruct:tough_tool_rod:0, Prismarine Tough Tool Rod
 tconstruct:tough_tool_rod:0, End Tough Tool Rod
+tconstruct:tough_tool_rod:0, Paper Tough Tool Rod
 tconstruct:tough_tool_rod:0, Sponge Tough Tool Rod
 tconstruct:tough_tool_rod:0, Firewood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Iron Tough Tool Rod
@@ -14859,21 +14877,6 @@ tconstruct:tough_tool_rod:0, Ice Dragonsteel Tough Tool Rod
 tconstruct:tough_tool_rod:0, Weezer Tough Tool Rod
 tconstruct:tough_tool_rod:0, Dilithium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Tritanium Tough Tool Rod
-tconstruct:tough_tool_rod:0, Adamantine Tough Tool Rod
-tconstruct:tough_tool_rod:0, Antimony Tough Tool Rod
-tconstruct:tough_tool_rod:0, Aquarium Tough Tool Rod
-tconstruct:tough_tool_rod:0, Bismuth Tough Tool Rod
-tconstruct:tough_tool_rod:0, Brass Tough Tool Rod
-tconstruct:tough_tool_rod:0, Cold-Iron Tough Tool Rod
-tconstruct:tough_tool_rod:0, Cupronickel Tough Tool Rod
-tconstruct:tough_tool_rod:0, Invar Tough Tool Rod
-tconstruct:tough_tool_rod:0, Mithril Tough Tool Rod
-tconstruct:tough_tool_rod:0, Nickel Tough Tool Rod
-tconstruct:tough_tool_rod:0, Pewter Tough Tool Rod
-tconstruct:tough_tool_rod:0, Platinum Tough Tool Rod
-tconstruct:tough_tool_rod:0, Star-Steel Tough Tool Rod
-tconstruct:tough_tool_rod:0, Tin Tough Tool Rod
-tconstruct:tough_tool_rod:0, Zinc Tough Tool Rod
 tconstruct:tough_tool_rod:0, Beryllium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Boron Tough Tool Rod
 tconstruct:tough_tool_rod:0, Cadmium Tough Tool Rod
@@ -14893,6 +14896,21 @@ tconstruct:tough_tool_rod:0, Titanium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Tungsten Tough Tool Rod
 tconstruct:tough_tool_rod:0, Uranium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Zirconium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Adamantine Tough Tool Rod
+tconstruct:tough_tool_rod:0, Antimony Tough Tool Rod
+tconstruct:tough_tool_rod:0, Aquarium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Bismuth Tough Tool Rod
+tconstruct:tough_tool_rod:0, Brass Tough Tool Rod
+tconstruct:tough_tool_rod:0, Cold-Iron Tough Tool Rod
+tconstruct:tough_tool_rod:0, Cupronickel Tough Tool Rod
+tconstruct:tough_tool_rod:0, Invar Tough Tool Rod
+tconstruct:tough_tool_rod:0, Mithril Tough Tool Rod
+tconstruct:tough_tool_rod:0, Nickel Tough Tool Rod
+tconstruct:tough_tool_rod:0, Pewter Tough Tool Rod
+tconstruct:tough_tool_rod:0, Platinum Tough Tool Rod
+tconstruct:tough_tool_rod:0, Star-Steel Tough Tool Rod
+tconstruct:tough_tool_rod:0, Tin Tough Tool Rod
+tconstruct:tough_tool_rod:0, Zinc Tough Tool Rod
 tconstruct:tough_tool_rod:0, Treated Wood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Constantan Tough Tool Rod
 tconstruct:tough_tool_rod:0, Magical Wooden Tough Tool Rod
@@ -14968,7 +14986,6 @@ tconstruct:tough_tool_rod:0, Kyronite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Pladium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ionite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Aethium Tough Tool Rod
-tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:tough_tool_rod:0, Wyvern Tough Tool Rod
 tconstruct:tough_tool_rod:0, Awakened Tough Tool Rod
 tconstruct:tough_tool_rod:0, Chaotic Tough Tool Rod
@@ -14976,6 +14993,7 @@ tconstruct:tough_tool_rod:0, Bloodwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Fusewood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ghostwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Darkwood Tough Tool Rod
+tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:binding:0, Electrical Binding
 tconstruct:binding:0, Energetic Binding
 tconstruct:binding:0, Vibrant Binding
@@ -14994,6 +15012,7 @@ tconstruct:binding:0, Bone Binding
 tconstruct:binding:0, Obsidian Binding
 tconstruct:binding:0, Prismarine Binding
 tconstruct:binding:0, End Binding
+tconstruct:binding:0, Paper Binding
 tconstruct:binding:0, Sponge Binding
 tconstruct:binding:0, Firewood Binding
 tconstruct:binding:0, Iron Binding
@@ -15020,21 +15039,6 @@ tconstruct:binding:0, Ice Dragonsteel Binding
 tconstruct:binding:0, Weezer Binding
 tconstruct:binding:0, Dilithium Binding
 tconstruct:binding:0, Tritanium Binding
-tconstruct:binding:0, Adamantine Binding
-tconstruct:binding:0, Antimony Binding
-tconstruct:binding:0, Aquarium Binding
-tconstruct:binding:0, Bismuth Binding
-tconstruct:binding:0, Brass Binding
-tconstruct:binding:0, Cold-Iron Binding
-tconstruct:binding:0, Cupronickel Binding
-tconstruct:binding:0, Invar Binding
-tconstruct:binding:0, Mithril Binding
-tconstruct:binding:0, Nickel Binding
-tconstruct:binding:0, Pewter Binding
-tconstruct:binding:0, Platinum Binding
-tconstruct:binding:0, Star-Steel Binding
-tconstruct:binding:0, Tin Binding
-tconstruct:binding:0, Zinc Binding
 tconstruct:binding:0, Beryllium Binding
 tconstruct:binding:0, Boron Binding
 tconstruct:binding:0, Cadmium Binding
@@ -15054,6 +15058,21 @@ tconstruct:binding:0, Titanium Binding
 tconstruct:binding:0, Tungsten Binding
 tconstruct:binding:0, Uranium Binding
 tconstruct:binding:0, Zirconium Binding
+tconstruct:binding:0, Adamantine Binding
+tconstruct:binding:0, Antimony Binding
+tconstruct:binding:0, Aquarium Binding
+tconstruct:binding:0, Bismuth Binding
+tconstruct:binding:0, Brass Binding
+tconstruct:binding:0, Cold-Iron Binding
+tconstruct:binding:0, Cupronickel Binding
+tconstruct:binding:0, Invar Binding
+tconstruct:binding:0, Mithril Binding
+tconstruct:binding:0, Nickel Binding
+tconstruct:binding:0, Pewter Binding
+tconstruct:binding:0, Platinum Binding
+tconstruct:binding:0, Star-Steel Binding
+tconstruct:binding:0, Tin Binding
+tconstruct:binding:0, Zinc Binding
 tconstruct:binding:0, Treated Wood Binding
 tconstruct:binding:0, Constantan Binding
 tconstruct:binding:0, Magical Wooden Binding
@@ -15129,7 +15148,6 @@ tconstruct:binding:0, Kyronite Binding
 tconstruct:binding:0, Pladium Binding
 tconstruct:binding:0, Ionite Binding
 tconstruct:binding:0, Aethium Binding
-tconstruct:binding:0, Emerald Binding
 tconstruct:binding:0, Wyvern Binding
 tconstruct:binding:0, Awakened Binding
 tconstruct:binding:0, Chaotic Binding
@@ -15137,6 +15155,7 @@ tconstruct:binding:0, Bloodwood Binding
 tconstruct:binding:0, Fusewood Binding
 tconstruct:binding:0, Ghostwood Binding
 tconstruct:binding:0, Darkwood Binding
+tconstruct:binding:0, Emerald Binding
 tconstruct:tough_binding:0, Electrical Tough Binding
 tconstruct:tough_binding:0, Energetic Tough Binding
 tconstruct:tough_binding:0, Vibrant Tough Binding
@@ -15155,6 +15174,7 @@ tconstruct:tough_binding:0, Bone Tough Binding
 tconstruct:tough_binding:0, Obsidian Tough Binding
 tconstruct:tough_binding:0, Prismarine Tough Binding
 tconstruct:tough_binding:0, End Tough Binding
+tconstruct:tough_binding:0, Paper Tough Binding
 tconstruct:tough_binding:0, Sponge Tough Binding
 tconstruct:tough_binding:0, Firewood Tough Binding
 tconstruct:tough_binding:0, Iron Tough Binding
@@ -15181,21 +15201,6 @@ tconstruct:tough_binding:0, Ice Dragonsteel Tough Binding
 tconstruct:tough_binding:0, Weezer Tough Binding
 tconstruct:tough_binding:0, Dilithium Tough Binding
 tconstruct:tough_binding:0, Tritanium Tough Binding
-tconstruct:tough_binding:0, Adamantine Tough Binding
-tconstruct:tough_binding:0, Antimony Tough Binding
-tconstruct:tough_binding:0, Aquarium Tough Binding
-tconstruct:tough_binding:0, Bismuth Tough Binding
-tconstruct:tough_binding:0, Brass Tough Binding
-tconstruct:tough_binding:0, Cold-Iron Tough Binding
-tconstruct:tough_binding:0, Cupronickel Tough Binding
-tconstruct:tough_binding:0, Invar Tough Binding
-tconstruct:tough_binding:0, Mithril Tough Binding
-tconstruct:tough_binding:0, Nickel Tough Binding
-tconstruct:tough_binding:0, Pewter Tough Binding
-tconstruct:tough_binding:0, Platinum Tough Binding
-tconstruct:tough_binding:0, Star-Steel Tough Binding
-tconstruct:tough_binding:0, Tin Tough Binding
-tconstruct:tough_binding:0, Zinc Tough Binding
 tconstruct:tough_binding:0, Beryllium Tough Binding
 tconstruct:tough_binding:0, Boron Tough Binding
 tconstruct:tough_binding:0, Cadmium Tough Binding
@@ -15215,6 +15220,21 @@ tconstruct:tough_binding:0, Titanium Tough Binding
 tconstruct:tough_binding:0, Tungsten Tough Binding
 tconstruct:tough_binding:0, Uranium Tough Binding
 tconstruct:tough_binding:0, Zirconium Tough Binding
+tconstruct:tough_binding:0, Adamantine Tough Binding
+tconstruct:tough_binding:0, Antimony Tough Binding
+tconstruct:tough_binding:0, Aquarium Tough Binding
+tconstruct:tough_binding:0, Bismuth Tough Binding
+tconstruct:tough_binding:0, Brass Tough Binding
+tconstruct:tough_binding:0, Cold-Iron Tough Binding
+tconstruct:tough_binding:0, Cupronickel Tough Binding
+tconstruct:tough_binding:0, Invar Tough Binding
+tconstruct:tough_binding:0, Mithril Tough Binding
+tconstruct:tough_binding:0, Nickel Tough Binding
+tconstruct:tough_binding:0, Pewter Tough Binding
+tconstruct:tough_binding:0, Platinum Tough Binding
+tconstruct:tough_binding:0, Star-Steel Tough Binding
+tconstruct:tough_binding:0, Tin Tough Binding
+tconstruct:tough_binding:0, Zinc Tough Binding
 tconstruct:tough_binding:0, Treated Wood Tough Binding
 tconstruct:tough_binding:0, Constantan Tough Binding
 tconstruct:tough_binding:0, Magical Wooden Tough Binding
@@ -15290,7 +15310,6 @@ tconstruct:tough_binding:0, Kyronite Tough Binding
 tconstruct:tough_binding:0, Pladium Tough Binding
 tconstruct:tough_binding:0, Ionite Tough Binding
 tconstruct:tough_binding:0, Aethium Tough Binding
-tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:tough_binding:0, Wyvern Tough Binding
 tconstruct:tough_binding:0, Awakened Tough Binding
 tconstruct:tough_binding:0, Chaotic Tough Binding
@@ -15298,6 +15317,7 @@ tconstruct:tough_binding:0, Bloodwood Tough Binding
 tconstruct:tough_binding:0, Fusewood Tough Binding
 tconstruct:tough_binding:0, Ghostwood Tough Binding
 tconstruct:tough_binding:0, Darkwood Tough Binding
+tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:wide_guard:0, Electrical Wide Guard
 tconstruct:wide_guard:0, Energetic Wide Guard
 tconstruct:wide_guard:0, Vibrant Wide Guard
@@ -15316,6 +15336,7 @@ tconstruct:wide_guard:0, Bone Wide Guard
 tconstruct:wide_guard:0, Obsidian Wide Guard
 tconstruct:wide_guard:0, Prismarine Wide Guard
 tconstruct:wide_guard:0, End Wide Guard
+tconstruct:wide_guard:0, Paper Wide Guard
 tconstruct:wide_guard:0, Sponge Wide Guard
 tconstruct:wide_guard:0, Firewood Wide Guard
 tconstruct:wide_guard:0, Iron Wide Guard
@@ -15342,21 +15363,6 @@ tconstruct:wide_guard:0, Ice Dragonsteel Wide Guard
 tconstruct:wide_guard:0, Weezer Wide Guard
 tconstruct:wide_guard:0, Dilithium Wide Guard
 tconstruct:wide_guard:0, Tritanium Wide Guard
-tconstruct:wide_guard:0, Adamantine Wide Guard
-tconstruct:wide_guard:0, Antimony Wide Guard
-tconstruct:wide_guard:0, Aquarium Wide Guard
-tconstruct:wide_guard:0, Bismuth Wide Guard
-tconstruct:wide_guard:0, Brass Wide Guard
-tconstruct:wide_guard:0, Cold-Iron Wide Guard
-tconstruct:wide_guard:0, Cupronickel Wide Guard
-tconstruct:wide_guard:0, Invar Wide Guard
-tconstruct:wide_guard:0, Mithril Wide Guard
-tconstruct:wide_guard:0, Nickel Wide Guard
-tconstruct:wide_guard:0, Pewter Wide Guard
-tconstruct:wide_guard:0, Platinum Wide Guard
-tconstruct:wide_guard:0, Star-Steel Wide Guard
-tconstruct:wide_guard:0, Tin Wide Guard
-tconstruct:wide_guard:0, Zinc Wide Guard
 tconstruct:wide_guard:0, Beryllium Wide Guard
 tconstruct:wide_guard:0, Boron Wide Guard
 tconstruct:wide_guard:0, Cadmium Wide Guard
@@ -15376,6 +15382,21 @@ tconstruct:wide_guard:0, Titanium Wide Guard
 tconstruct:wide_guard:0, Tungsten Wide Guard
 tconstruct:wide_guard:0, Uranium Wide Guard
 tconstruct:wide_guard:0, Zirconium Wide Guard
+tconstruct:wide_guard:0, Adamantine Wide Guard
+tconstruct:wide_guard:0, Antimony Wide Guard
+tconstruct:wide_guard:0, Aquarium Wide Guard
+tconstruct:wide_guard:0, Bismuth Wide Guard
+tconstruct:wide_guard:0, Brass Wide Guard
+tconstruct:wide_guard:0, Cold-Iron Wide Guard
+tconstruct:wide_guard:0, Cupronickel Wide Guard
+tconstruct:wide_guard:0, Invar Wide Guard
+tconstruct:wide_guard:0, Mithril Wide Guard
+tconstruct:wide_guard:0, Nickel Wide Guard
+tconstruct:wide_guard:0, Pewter Wide Guard
+tconstruct:wide_guard:0, Platinum Wide Guard
+tconstruct:wide_guard:0, Star-Steel Wide Guard
+tconstruct:wide_guard:0, Tin Wide Guard
+tconstruct:wide_guard:0, Zinc Wide Guard
 tconstruct:wide_guard:0, Treated Wood Wide Guard
 tconstruct:wide_guard:0, Constantan Wide Guard
 tconstruct:wide_guard:0, Magical Wooden Wide Guard
@@ -15451,7 +15472,6 @@ tconstruct:wide_guard:0, Kyronite Wide Guard
 tconstruct:wide_guard:0, Pladium Wide Guard
 tconstruct:wide_guard:0, Ionite Wide Guard
 tconstruct:wide_guard:0, Aethium Wide Guard
-tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:wide_guard:0, Wyvern Wide Guard
 tconstruct:wide_guard:0, Awakened Wide Guard
 tconstruct:wide_guard:0, Chaotic Wide Guard
@@ -15459,6 +15479,7 @@ tconstruct:wide_guard:0, Bloodwood Wide Guard
 tconstruct:wide_guard:0, Fusewood Wide Guard
 tconstruct:wide_guard:0, Ghostwood Wide Guard
 tconstruct:wide_guard:0, Darkwood Wide Guard
+tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:hand_guard:0, Electrical Hand Guard
 tconstruct:hand_guard:0, Energetic Hand Guard
 tconstruct:hand_guard:0, Vibrant Hand Guard
@@ -15477,6 +15498,7 @@ tconstruct:hand_guard:0, Bone Hand Guard
 tconstruct:hand_guard:0, Obsidian Hand Guard
 tconstruct:hand_guard:0, Prismarine Hand Guard
 tconstruct:hand_guard:0, End Hand Guard
+tconstruct:hand_guard:0, Paper Hand Guard
 tconstruct:hand_guard:0, Sponge Hand Guard
 tconstruct:hand_guard:0, Firewood Hand Guard
 tconstruct:hand_guard:0, Iron Hand Guard
@@ -15503,21 +15525,6 @@ tconstruct:hand_guard:0, Ice Dragonsteel Hand Guard
 tconstruct:hand_guard:0, Weezer Hand Guard
 tconstruct:hand_guard:0, Dilithium Hand Guard
 tconstruct:hand_guard:0, Tritanium Hand Guard
-tconstruct:hand_guard:0, Adamantine Hand Guard
-tconstruct:hand_guard:0, Antimony Hand Guard
-tconstruct:hand_guard:0, Aquarium Hand Guard
-tconstruct:hand_guard:0, Bismuth Hand Guard
-tconstruct:hand_guard:0, Brass Hand Guard
-tconstruct:hand_guard:0, Cold-Iron Hand Guard
-tconstruct:hand_guard:0, Cupronickel Hand Guard
-tconstruct:hand_guard:0, Invar Hand Guard
-tconstruct:hand_guard:0, Mithril Hand Guard
-tconstruct:hand_guard:0, Nickel Hand Guard
-tconstruct:hand_guard:0, Pewter Hand Guard
-tconstruct:hand_guard:0, Platinum Hand Guard
-tconstruct:hand_guard:0, Star-Steel Hand Guard
-tconstruct:hand_guard:0, Tin Hand Guard
-tconstruct:hand_guard:0, Zinc Hand Guard
 tconstruct:hand_guard:0, Beryllium Hand Guard
 tconstruct:hand_guard:0, Boron Hand Guard
 tconstruct:hand_guard:0, Cadmium Hand Guard
@@ -15537,6 +15544,21 @@ tconstruct:hand_guard:0, Titanium Hand Guard
 tconstruct:hand_guard:0, Tungsten Hand Guard
 tconstruct:hand_guard:0, Uranium Hand Guard
 tconstruct:hand_guard:0, Zirconium Hand Guard
+tconstruct:hand_guard:0, Adamantine Hand Guard
+tconstruct:hand_guard:0, Antimony Hand Guard
+tconstruct:hand_guard:0, Aquarium Hand Guard
+tconstruct:hand_guard:0, Bismuth Hand Guard
+tconstruct:hand_guard:0, Brass Hand Guard
+tconstruct:hand_guard:0, Cold-Iron Hand Guard
+tconstruct:hand_guard:0, Cupronickel Hand Guard
+tconstruct:hand_guard:0, Invar Hand Guard
+tconstruct:hand_guard:0, Mithril Hand Guard
+tconstruct:hand_guard:0, Nickel Hand Guard
+tconstruct:hand_guard:0, Pewter Hand Guard
+tconstruct:hand_guard:0, Platinum Hand Guard
+tconstruct:hand_guard:0, Star-Steel Hand Guard
+tconstruct:hand_guard:0, Tin Hand Guard
+tconstruct:hand_guard:0, Zinc Hand Guard
 tconstruct:hand_guard:0, Treated Wood Hand Guard
 tconstruct:hand_guard:0, Constantan Hand Guard
 tconstruct:hand_guard:0, Magical Wooden Hand Guard
@@ -15612,7 +15634,6 @@ tconstruct:hand_guard:0, Kyronite Hand Guard
 tconstruct:hand_guard:0, Pladium Hand Guard
 tconstruct:hand_guard:0, Ionite Hand Guard
 tconstruct:hand_guard:0, Aethium Hand Guard
-tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:hand_guard:0, Wyvern Hand Guard
 tconstruct:hand_guard:0, Awakened Hand Guard
 tconstruct:hand_guard:0, Chaotic Hand Guard
@@ -15620,6 +15641,7 @@ tconstruct:hand_guard:0, Bloodwood Hand Guard
 tconstruct:hand_guard:0, Fusewood Hand Guard
 tconstruct:hand_guard:0, Ghostwood Hand Guard
 tconstruct:hand_guard:0, Darkwood Hand Guard
+tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:cross_guard:0, Electrical Cross Guard
 tconstruct:cross_guard:0, Energetic Cross Guard
 tconstruct:cross_guard:0, Vibrant Cross Guard
@@ -15638,6 +15660,7 @@ tconstruct:cross_guard:0, Bone Cross Guard
 tconstruct:cross_guard:0, Obsidian Cross Guard
 tconstruct:cross_guard:0, Prismarine Cross Guard
 tconstruct:cross_guard:0, End Cross Guard
+tconstruct:cross_guard:0, Paper Cross Guard
 tconstruct:cross_guard:0, Sponge Cross Guard
 tconstruct:cross_guard:0, Firewood Cross Guard
 tconstruct:cross_guard:0, Iron Cross Guard
@@ -15664,21 +15687,6 @@ tconstruct:cross_guard:0, Ice Dragonsteel Cross Guard
 tconstruct:cross_guard:0, Weezer Cross Guard
 tconstruct:cross_guard:0, Dilithium Cross Guard
 tconstruct:cross_guard:0, Tritanium Cross Guard
-tconstruct:cross_guard:0, Adamantine Cross Guard
-tconstruct:cross_guard:0, Antimony Cross Guard
-tconstruct:cross_guard:0, Aquarium Cross Guard
-tconstruct:cross_guard:0, Bismuth Cross Guard
-tconstruct:cross_guard:0, Brass Cross Guard
-tconstruct:cross_guard:0, Cold-Iron Cross Guard
-tconstruct:cross_guard:0, Cupronickel Cross Guard
-tconstruct:cross_guard:0, Invar Cross Guard
-tconstruct:cross_guard:0, Mithril Cross Guard
-tconstruct:cross_guard:0, Nickel Cross Guard
-tconstruct:cross_guard:0, Pewter Cross Guard
-tconstruct:cross_guard:0, Platinum Cross Guard
-tconstruct:cross_guard:0, Star-Steel Cross Guard
-tconstruct:cross_guard:0, Tin Cross Guard
-tconstruct:cross_guard:0, Zinc Cross Guard
 tconstruct:cross_guard:0, Beryllium Cross Guard
 tconstruct:cross_guard:0, Boron Cross Guard
 tconstruct:cross_guard:0, Cadmium Cross Guard
@@ -15698,6 +15706,21 @@ tconstruct:cross_guard:0, Titanium Cross Guard
 tconstruct:cross_guard:0, Tungsten Cross Guard
 tconstruct:cross_guard:0, Uranium Cross Guard
 tconstruct:cross_guard:0, Zirconium Cross Guard
+tconstruct:cross_guard:0, Adamantine Cross Guard
+tconstruct:cross_guard:0, Antimony Cross Guard
+tconstruct:cross_guard:0, Aquarium Cross Guard
+tconstruct:cross_guard:0, Bismuth Cross Guard
+tconstruct:cross_guard:0, Brass Cross Guard
+tconstruct:cross_guard:0, Cold-Iron Cross Guard
+tconstruct:cross_guard:0, Cupronickel Cross Guard
+tconstruct:cross_guard:0, Invar Cross Guard
+tconstruct:cross_guard:0, Mithril Cross Guard
+tconstruct:cross_guard:0, Nickel Cross Guard
+tconstruct:cross_guard:0, Pewter Cross Guard
+tconstruct:cross_guard:0, Platinum Cross Guard
+tconstruct:cross_guard:0, Star-Steel Cross Guard
+tconstruct:cross_guard:0, Tin Cross Guard
+tconstruct:cross_guard:0, Zinc Cross Guard
 tconstruct:cross_guard:0, Treated Wood Cross Guard
 tconstruct:cross_guard:0, Constantan Cross Guard
 tconstruct:cross_guard:0, Magical Wooden Cross Guard
@@ -15773,7 +15796,6 @@ tconstruct:cross_guard:0, Kyronite Cross Guard
 tconstruct:cross_guard:0, Pladium Cross Guard
 tconstruct:cross_guard:0, Ionite Cross Guard
 tconstruct:cross_guard:0, Aethium Cross Guard
-tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:cross_guard:0, Wyvern Cross Guard
 tconstruct:cross_guard:0, Awakened Cross Guard
 tconstruct:cross_guard:0, Chaotic Cross Guard
@@ -15781,6 +15803,7 @@ tconstruct:cross_guard:0, Bloodwood Cross Guard
 tconstruct:cross_guard:0, Fusewood Cross Guard
 tconstruct:cross_guard:0, Ghostwood Cross Guard
 tconstruct:cross_guard:0, Darkwood Cross Guard
+tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:large_plate:0, Electrical Large Plate
 tconstruct:large_plate:0, Energetic Large Plate
 tconstruct:large_plate:0, Vibrant Large Plate
@@ -15799,6 +15822,7 @@ tconstruct:large_plate:0, Bone Large Plate
 tconstruct:large_plate:0, Obsidian Large Plate
 tconstruct:large_plate:0, Prismarine Large Plate
 tconstruct:large_plate:0, End Large Plate
+tconstruct:large_plate:0, Paper Large Plate
 tconstruct:large_plate:0, Sponge Large Plate
 tconstruct:large_plate:0, Firewood Large Plate
 tconstruct:large_plate:0, Iron Large Plate
@@ -15825,21 +15849,6 @@ tconstruct:large_plate:0, Ice Dragonsteel Large Plate
 tconstruct:large_plate:0, Weezer Large Plate
 tconstruct:large_plate:0, Dilithium Large Plate
 tconstruct:large_plate:0, Tritanium Large Plate
-tconstruct:large_plate:0, Adamantine Large Plate
-tconstruct:large_plate:0, Antimony Large Plate
-tconstruct:large_plate:0, Aquarium Large Plate
-tconstruct:large_plate:0, Bismuth Large Plate
-tconstruct:large_plate:0, Brass Large Plate
-tconstruct:large_plate:0, Cold-Iron Large Plate
-tconstruct:large_plate:0, Cupronickel Large Plate
-tconstruct:large_plate:0, Invar Large Plate
-tconstruct:large_plate:0, Mithril Large Plate
-tconstruct:large_plate:0, Nickel Large Plate
-tconstruct:large_plate:0, Pewter Large Plate
-tconstruct:large_plate:0, Platinum Large Plate
-tconstruct:large_plate:0, Star-Steel Large Plate
-tconstruct:large_plate:0, Tin Large Plate
-tconstruct:large_plate:0, Zinc Large Plate
 tconstruct:large_plate:0, Beryllium Large Plate
 tconstruct:large_plate:0, Boron Large Plate
 tconstruct:large_plate:0, Cadmium Large Plate
@@ -15859,6 +15868,21 @@ tconstruct:large_plate:0, Titanium Large Plate
 tconstruct:large_plate:0, Tungsten Large Plate
 tconstruct:large_plate:0, Uranium Large Plate
 tconstruct:large_plate:0, Zirconium Large Plate
+tconstruct:large_plate:0, Adamantine Large Plate
+tconstruct:large_plate:0, Antimony Large Plate
+tconstruct:large_plate:0, Aquarium Large Plate
+tconstruct:large_plate:0, Bismuth Large Plate
+tconstruct:large_plate:0, Brass Large Plate
+tconstruct:large_plate:0, Cold-Iron Large Plate
+tconstruct:large_plate:0, Cupronickel Large Plate
+tconstruct:large_plate:0, Invar Large Plate
+tconstruct:large_plate:0, Mithril Large Plate
+tconstruct:large_plate:0, Nickel Large Plate
+tconstruct:large_plate:0, Pewter Large Plate
+tconstruct:large_plate:0, Platinum Large Plate
+tconstruct:large_plate:0, Star-Steel Large Plate
+tconstruct:large_plate:0, Tin Large Plate
+tconstruct:large_plate:0, Zinc Large Plate
 tconstruct:large_plate:0, Treated Wood Large Plate
 tconstruct:large_plate:0, Constantan Large Plate
 tconstruct:large_plate:0, Magical Wooden Large Plate
@@ -15934,7 +15958,6 @@ tconstruct:large_plate:0, Kyronite Large Plate
 tconstruct:large_plate:0, Pladium Large Plate
 tconstruct:large_plate:0, Ionite Large Plate
 tconstruct:large_plate:0, Aethium Large Plate
-tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:large_plate:0, Wyvern Large Plate
 tconstruct:large_plate:0, Awakened Large Plate
 tconstruct:large_plate:0, Chaotic Large Plate
@@ -15942,6 +15965,7 @@ tconstruct:large_plate:0, Bloodwood Large Plate
 tconstruct:large_plate:0, Fusewood Large Plate
 tconstruct:large_plate:0, Ghostwood Large Plate
 tconstruct:large_plate:0, Darkwood Large Plate
+tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:knife_blade:0, Electrical Knife Blade
 tconstruct:knife_blade:0, Energetic Knife Blade
 tconstruct:knife_blade:0, Vibrant Knife Blade
@@ -15960,6 +15984,7 @@ tconstruct:knife_blade:0, Bone Knife Blade
 tconstruct:knife_blade:0, Obsidian Knife Blade
 tconstruct:knife_blade:0, Prismarine Knife Blade
 tconstruct:knife_blade:0, End Knife Blade
+tconstruct:knife_blade:0, Paper Knife Blade
 tconstruct:knife_blade:0, Sponge Knife Blade
 tconstruct:knife_blade:0, Firewood Knife Blade
 tconstruct:knife_blade:0, Iron Knife Blade
@@ -15986,21 +16011,6 @@ tconstruct:knife_blade:0, Ice Dragonsteel Knife Blade
 tconstruct:knife_blade:0, Weezer Knife Blade
 tconstruct:knife_blade:0, Dilithium Knife Blade
 tconstruct:knife_blade:0, Tritanium Knife Blade
-tconstruct:knife_blade:0, Adamantine Knife Blade
-tconstruct:knife_blade:0, Antimony Knife Blade
-tconstruct:knife_blade:0, Aquarium Knife Blade
-tconstruct:knife_blade:0, Bismuth Knife Blade
-tconstruct:knife_blade:0, Brass Knife Blade
-tconstruct:knife_blade:0, Cold-Iron Knife Blade
-tconstruct:knife_blade:0, Cupronickel Knife Blade
-tconstruct:knife_blade:0, Invar Knife Blade
-tconstruct:knife_blade:0, Mithril Knife Blade
-tconstruct:knife_blade:0, Nickel Knife Blade
-tconstruct:knife_blade:0, Pewter Knife Blade
-tconstruct:knife_blade:0, Platinum Knife Blade
-tconstruct:knife_blade:0, Star-Steel Knife Blade
-tconstruct:knife_blade:0, Tin Knife Blade
-tconstruct:knife_blade:0, Zinc Knife Blade
 tconstruct:knife_blade:0, Beryllium Knife Blade
 tconstruct:knife_blade:0, Boron Knife Blade
 tconstruct:knife_blade:0, Cadmium Knife Blade
@@ -16020,6 +16030,21 @@ tconstruct:knife_blade:0, Titanium Knife Blade
 tconstruct:knife_blade:0, Tungsten Knife Blade
 tconstruct:knife_blade:0, Uranium Knife Blade
 tconstruct:knife_blade:0, Zirconium Knife Blade
+tconstruct:knife_blade:0, Adamantine Knife Blade
+tconstruct:knife_blade:0, Antimony Knife Blade
+tconstruct:knife_blade:0, Aquarium Knife Blade
+tconstruct:knife_blade:0, Bismuth Knife Blade
+tconstruct:knife_blade:0, Brass Knife Blade
+tconstruct:knife_blade:0, Cold-Iron Knife Blade
+tconstruct:knife_blade:0, Cupronickel Knife Blade
+tconstruct:knife_blade:0, Invar Knife Blade
+tconstruct:knife_blade:0, Mithril Knife Blade
+tconstruct:knife_blade:0, Nickel Knife Blade
+tconstruct:knife_blade:0, Pewter Knife Blade
+tconstruct:knife_blade:0, Platinum Knife Blade
+tconstruct:knife_blade:0, Star-Steel Knife Blade
+tconstruct:knife_blade:0, Tin Knife Blade
+tconstruct:knife_blade:0, Zinc Knife Blade
 tconstruct:knife_blade:0, Treated Wood Knife Blade
 tconstruct:knife_blade:0, Constantan Knife Blade
 tconstruct:knife_blade:0, Magical Wooden Knife Blade
@@ -16095,7 +16120,6 @@ tconstruct:knife_blade:0, Kyronite Knife Blade
 tconstruct:knife_blade:0, Pladium Knife Blade
 tconstruct:knife_blade:0, Ionite Knife Blade
 tconstruct:knife_blade:0, Aethium Knife Blade
-tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:knife_blade:0, Wyvern Knife Blade
 tconstruct:knife_blade:0, Awakened Knife Blade
 tconstruct:knife_blade:0, Chaotic Knife Blade
@@ -16103,6 +16127,7 @@ tconstruct:knife_blade:0, Bloodwood Knife Blade
 tconstruct:knife_blade:0, Fusewood Knife Blade
 tconstruct:knife_blade:0, Ghostwood Knife Blade
 tconstruct:knife_blade:0, Darkwood Knife Blade
+tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:bow_limb:0, Electrical Bowlimb
 tconstruct:bow_limb:0, Energetic Bowlimb
 tconstruct:bow_limb:0, Vibrant Bowlimb
@@ -16121,6 +16146,7 @@ tconstruct:bow_limb:0, Bone Bowlimb
 tconstruct:bow_limb:0, Obsidian Bowlimb
 tconstruct:bow_limb:0, Prismarine Bowlimb
 tconstruct:bow_limb:0, End Bowlimb
+tconstruct:bow_limb:0, Paper Bowlimb
 tconstruct:bow_limb:0, Sponge Bowlimb
 tconstruct:bow_limb:0, Firewood Bowlimb
 tconstruct:bow_limb:0, Iron Bowlimb
@@ -16147,21 +16173,6 @@ tconstruct:bow_limb:0, Ice Dragonsteel Bowlimb
 tconstruct:bow_limb:0, Weezer Bowlimb
 tconstruct:bow_limb:0, Dilithium Bowlimb
 tconstruct:bow_limb:0, Tritanium Bowlimb
-tconstruct:bow_limb:0, Adamantine Bowlimb
-tconstruct:bow_limb:0, Antimony Bowlimb
-tconstruct:bow_limb:0, Aquarium Bowlimb
-tconstruct:bow_limb:0, Bismuth Bowlimb
-tconstruct:bow_limb:0, Brass Bowlimb
-tconstruct:bow_limb:0, Cold-Iron Bowlimb
-tconstruct:bow_limb:0, Cupronickel Bowlimb
-tconstruct:bow_limb:0, Invar Bowlimb
-tconstruct:bow_limb:0, Mithril Bowlimb
-tconstruct:bow_limb:0, Nickel Bowlimb
-tconstruct:bow_limb:0, Pewter Bowlimb
-tconstruct:bow_limb:0, Platinum Bowlimb
-tconstruct:bow_limb:0, Star-Steel Bowlimb
-tconstruct:bow_limb:0, Tin Bowlimb
-tconstruct:bow_limb:0, Zinc Bowlimb
 tconstruct:bow_limb:0, Beryllium Bowlimb
 tconstruct:bow_limb:0, Boron Bowlimb
 tconstruct:bow_limb:0, Cadmium Bowlimb
@@ -16181,6 +16192,21 @@ tconstruct:bow_limb:0, Titanium Bowlimb
 tconstruct:bow_limb:0, Tungsten Bowlimb
 tconstruct:bow_limb:0, Uranium Bowlimb
 tconstruct:bow_limb:0, Zirconium Bowlimb
+tconstruct:bow_limb:0, Adamantine Bowlimb
+tconstruct:bow_limb:0, Antimony Bowlimb
+tconstruct:bow_limb:0, Aquarium Bowlimb
+tconstruct:bow_limb:0, Bismuth Bowlimb
+tconstruct:bow_limb:0, Brass Bowlimb
+tconstruct:bow_limb:0, Cold-Iron Bowlimb
+tconstruct:bow_limb:0, Cupronickel Bowlimb
+tconstruct:bow_limb:0, Invar Bowlimb
+tconstruct:bow_limb:0, Mithril Bowlimb
+tconstruct:bow_limb:0, Nickel Bowlimb
+tconstruct:bow_limb:0, Pewter Bowlimb
+tconstruct:bow_limb:0, Platinum Bowlimb
+tconstruct:bow_limb:0, Star-Steel Bowlimb
+tconstruct:bow_limb:0, Tin Bowlimb
+tconstruct:bow_limb:0, Zinc Bowlimb
 tconstruct:bow_limb:0, Treated Wood Bowlimb
 tconstruct:bow_limb:0, Constantan Bowlimb
 tconstruct:bow_limb:0, Magical Wooden Bowlimb
@@ -16254,7 +16280,6 @@ tconstruct:bow_limb:0, Kyronite Bowlimb
 tconstruct:bow_limb:0, Pladium Bowlimb
 tconstruct:bow_limb:0, Ionite Bowlimb
 tconstruct:bow_limb:0, Aethium Bowlimb
-tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_limb:0, Wyvern Bowlimb
 tconstruct:bow_limb:0, Awakened Bowlimb
 tconstruct:bow_limb:0, Chaotic Bowlimb
@@ -16262,26 +16287,12 @@ tconstruct:bow_limb:0, Bloodwood Bowlimb
 tconstruct:bow_limb:0, Fusewood Bowlimb
 tconstruct:bow_limb:0, Ghostwood Bowlimb
 tconstruct:bow_limb:0, Darkwood Bowlimb
+tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_string:0, Souled Bowstring
 tconstruct:bow_string:0, String Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
 tconstruct:bow_string:0, Vines Bowstring
-tconstruct:bow_string:0, Adamantine Bowstring
-tconstruct:bow_string:0, Antimony Bowstring
-tconstruct:bow_string:0, Aquarium Bowstring
-tconstruct:bow_string:0, Bismuth Bowstring
-tconstruct:bow_string:0, Brass Bowstring
-tconstruct:bow_string:0, Cold-Iron Bowstring
-tconstruct:bow_string:0, Cupronickel Bowstring
-tconstruct:bow_string:0, Invar Bowstring
-tconstruct:bow_string:0, Mithril Bowstring
-tconstruct:bow_string:0, Nickel Bowstring
-tconstruct:bow_string:0, Pewter Bowstring
-tconstruct:bow_string:0, Platinum Bowstring
-tconstruct:bow_string:0, Star-Steel Bowstring
-tconstruct:bow_string:0, Tin Bowstring
-tconstruct:bow_string:0, Zinc Bowstring
 tconstruct:bow_string:0, Beryllium Bowstring
 tconstruct:bow_string:0, Boron Bowstring
 tconstruct:bow_string:0, Cadmium Bowstring
@@ -16301,6 +16312,21 @@ tconstruct:bow_string:0, Titanium Bowstring
 tconstruct:bow_string:0, Tungsten Bowstring
 tconstruct:bow_string:0, Uranium Bowstring
 tconstruct:bow_string:0, Zirconium Bowstring
+tconstruct:bow_string:0, Adamantine Bowstring
+tconstruct:bow_string:0, Antimony Bowstring
+tconstruct:bow_string:0, Aquarium Bowstring
+tconstruct:bow_string:0, Bismuth Bowstring
+tconstruct:bow_string:0, Brass Bowstring
+tconstruct:bow_string:0, Cold-Iron Bowstring
+tconstruct:bow_string:0, Cupronickel Bowstring
+tconstruct:bow_string:0, Invar Bowstring
+tconstruct:bow_string:0, Mithril Bowstring
+tconstruct:bow_string:0, Nickel Bowstring
+tconstruct:bow_string:0, Pewter Bowstring
+tconstruct:bow_string:0, Platinum Bowstring
+tconstruct:bow_string:0, Star-Steel Bowstring
+tconstruct:bow_string:0, Tin Bowstring
+tconstruct:bow_string:0, Zinc Bowstring
 tconstruct:bow_string:0, Hemp Fiber Bowstring
 tconstruct:bow_string:0, Draconium Bowstring
 tconstruct:bow_string:0, Rubber Bowstring
@@ -16323,6 +16349,7 @@ tconstruct:arrow_head:0, Bone Arrow Head
 tconstruct:arrow_head:0, Obsidian Arrow Head
 tconstruct:arrow_head:0, Prismarine Arrow Head
 tconstruct:arrow_head:0, End Arrow Head
+tconstruct:arrow_head:0, Paper Arrow Head
 tconstruct:arrow_head:0, Sponge Arrow Head
 tconstruct:arrow_head:0, Firewood Arrow Head
 tconstruct:arrow_head:0, Iron Arrow Head
@@ -16349,21 +16376,6 @@ tconstruct:arrow_head:0, Ice Dragonsteel Arrow Head
 tconstruct:arrow_head:0, Weezer Arrow Head
 tconstruct:arrow_head:0, Dilithium Arrow Head
 tconstruct:arrow_head:0, Tritanium Arrow Head
-tconstruct:arrow_head:0, Adamantine Arrow Head
-tconstruct:arrow_head:0, Antimony Arrow Head
-tconstruct:arrow_head:0, Aquarium Arrow Head
-tconstruct:arrow_head:0, Bismuth Arrow Head
-tconstruct:arrow_head:0, Brass Arrow Head
-tconstruct:arrow_head:0, Cold-Iron Arrow Head
-tconstruct:arrow_head:0, Cupronickel Arrow Head
-tconstruct:arrow_head:0, Invar Arrow Head
-tconstruct:arrow_head:0, Mithril Arrow Head
-tconstruct:arrow_head:0, Nickel Arrow Head
-tconstruct:arrow_head:0, Pewter Arrow Head
-tconstruct:arrow_head:0, Platinum Arrow Head
-tconstruct:arrow_head:0, Star-Steel Arrow Head
-tconstruct:arrow_head:0, Tin Arrow Head
-tconstruct:arrow_head:0, Zinc Arrow Head
 tconstruct:arrow_head:0, Beryllium Arrow Head
 tconstruct:arrow_head:0, Boron Arrow Head
 tconstruct:arrow_head:0, Cadmium Arrow Head
@@ -16383,6 +16395,21 @@ tconstruct:arrow_head:0, Titanium Arrow Head
 tconstruct:arrow_head:0, Tungsten Arrow Head
 tconstruct:arrow_head:0, Uranium Arrow Head
 tconstruct:arrow_head:0, Zirconium Arrow Head
+tconstruct:arrow_head:0, Adamantine Arrow Head
+tconstruct:arrow_head:0, Antimony Arrow Head
+tconstruct:arrow_head:0, Aquarium Arrow Head
+tconstruct:arrow_head:0, Bismuth Arrow Head
+tconstruct:arrow_head:0, Brass Arrow Head
+tconstruct:arrow_head:0, Cold-Iron Arrow Head
+tconstruct:arrow_head:0, Cupronickel Arrow Head
+tconstruct:arrow_head:0, Invar Arrow Head
+tconstruct:arrow_head:0, Mithril Arrow Head
+tconstruct:arrow_head:0, Nickel Arrow Head
+tconstruct:arrow_head:0, Pewter Arrow Head
+tconstruct:arrow_head:0, Platinum Arrow Head
+tconstruct:arrow_head:0, Star-Steel Arrow Head
+tconstruct:arrow_head:0, Tin Arrow Head
+tconstruct:arrow_head:0, Zinc Arrow Head
 tconstruct:arrow_head:0, Treated Wood Arrow Head
 tconstruct:arrow_head:0, Constantan Arrow Head
 tconstruct:arrow_head:0, Magical Wooden Arrow Head
@@ -16458,7 +16485,6 @@ tconstruct:arrow_head:0, Kyronite Arrow Head
 tconstruct:arrow_head:0, Pladium Arrow Head
 tconstruct:arrow_head:0, Ionite Arrow Head
 tconstruct:arrow_head:0, Aethium Arrow Head
-tconstruct:arrow_head:0, Emerald Arrow Head
 tconstruct:arrow_head:0, Wyvern Arrow Head
 tconstruct:arrow_head:0, Awakened Arrow Head
 tconstruct:arrow_head:0, Chaotic Arrow Head
@@ -16466,6 +16492,7 @@ tconstruct:arrow_head:0, Bloodwood Arrow Head
 tconstruct:arrow_head:0, Fusewood Arrow Head
 tconstruct:arrow_head:0, Ghostwood Arrow Head
 tconstruct:arrow_head:0, Darkwood Arrow Head
+tconstruct:arrow_head:0, Emerald Arrow Head
 tconstruct:arrow_shaft:0, Wooden Arrow Shaft
 tconstruct:arrow_shaft:0, Bone Arrow Shaft
 tconstruct:arrow_shaft:0, Blazerod Arrow Shaft
@@ -16473,21 +16500,6 @@ tconstruct:arrow_shaft:0, Reeds Arrow Shaft
 tconstruct:arrow_shaft:0, Ice Arrow Shaft
 tconstruct:arrow_shaft:0, Endrod Arrow Shaft
 tconstruct:arrow_shaft:0, Dragon Bone Arrow Shaft
-tconstruct:arrow_shaft:0, Adamantine Arrow Shaft
-tconstruct:arrow_shaft:0, Antimony Arrow Shaft
-tconstruct:arrow_shaft:0, Aquarium Arrow Shaft
-tconstruct:arrow_shaft:0, Bismuth Arrow Shaft
-tconstruct:arrow_shaft:0, Brass Arrow Shaft
-tconstruct:arrow_shaft:0, Cold-Iron Arrow Shaft
-tconstruct:arrow_shaft:0, Cupronickel Arrow Shaft
-tconstruct:arrow_shaft:0, Invar Arrow Shaft
-tconstruct:arrow_shaft:0, Mithril Arrow Shaft
-tconstruct:arrow_shaft:0, Nickel Arrow Shaft
-tconstruct:arrow_shaft:0, Pewter Arrow Shaft
-tconstruct:arrow_shaft:0, Platinum Arrow Shaft
-tconstruct:arrow_shaft:0, Star-Steel Arrow Shaft
-tconstruct:arrow_shaft:0, Tin Arrow Shaft
-tconstruct:arrow_shaft:0, Zinc Arrow Shaft
 tconstruct:arrow_shaft:0, Beryllium Arrow Shaft
 tconstruct:arrow_shaft:0, Boron Arrow Shaft
 tconstruct:arrow_shaft:0, Cadmium Arrow Shaft
@@ -16507,6 +16519,21 @@ tconstruct:arrow_shaft:0, Titanium Arrow Shaft
 tconstruct:arrow_shaft:0, Tungsten Arrow Shaft
 tconstruct:arrow_shaft:0, Uranium Arrow Shaft
 tconstruct:arrow_shaft:0, Zirconium Arrow Shaft
+tconstruct:arrow_shaft:0, Adamantine Arrow Shaft
+tconstruct:arrow_shaft:0, Antimony Arrow Shaft
+tconstruct:arrow_shaft:0, Aquarium Arrow Shaft
+tconstruct:arrow_shaft:0, Bismuth Arrow Shaft
+tconstruct:arrow_shaft:0, Brass Arrow Shaft
+tconstruct:arrow_shaft:0, Cold-Iron Arrow Shaft
+tconstruct:arrow_shaft:0, Cupronickel Arrow Shaft
+tconstruct:arrow_shaft:0, Invar Arrow Shaft
+tconstruct:arrow_shaft:0, Mithril Arrow Shaft
+tconstruct:arrow_shaft:0, Nickel Arrow Shaft
+tconstruct:arrow_shaft:0, Pewter Arrow Shaft
+tconstruct:arrow_shaft:0, Platinum Arrow Shaft
+tconstruct:arrow_shaft:0, Star-Steel Arrow Shaft
+tconstruct:arrow_shaft:0, Tin Arrow Shaft
+tconstruct:arrow_shaft:0, Zinc Arrow Shaft
 tconstruct:arrow_shaft:0, Treated Wood Arrow Shaft
 tconstruct:arrow_shaft:0, Draconium Arrow Shaft
 tconstruct:arrow_shaft:0, TNT Arrow Shaft
@@ -16519,21 +16546,6 @@ tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Leaf Fletching
 tconstruct:fletching:0, Stymphalian Bird Feather Fletching
 tconstruct:fletching:0, Amphithere Feather Fletching
-tconstruct:fletching:0, Adamantine Fletching
-tconstruct:fletching:0, Antimony Fletching
-tconstruct:fletching:0, Aquarium Fletching
-tconstruct:fletching:0, Bismuth Fletching
-tconstruct:fletching:0, Brass Fletching
-tconstruct:fletching:0, Cold-Iron Fletching
-tconstruct:fletching:0, Cupronickel Fletching
-tconstruct:fletching:0, Invar Fletching
-tconstruct:fletching:0, Mithril Fletching
-tconstruct:fletching:0, Nickel Fletching
-tconstruct:fletching:0, Pewter Fletching
-tconstruct:fletching:0, Platinum Fletching
-tconstruct:fletching:0, Star-Steel Fletching
-tconstruct:fletching:0, Tin Fletching
-tconstruct:fletching:0, Zinc Fletching
 tconstruct:fletching:0, Beryllium Fletching
 tconstruct:fletching:0, Boron Fletching
 tconstruct:fletching:0, Cadmium Fletching
@@ -16553,6 +16565,21 @@ tconstruct:fletching:0, Titanium Fletching
 tconstruct:fletching:0, Tungsten Fletching
 tconstruct:fletching:0, Uranium Fletching
 tconstruct:fletching:0, Zirconium Fletching
+tconstruct:fletching:0, Adamantine Fletching
+tconstruct:fletching:0, Antimony Fletching
+tconstruct:fletching:0, Aquarium Fletching
+tconstruct:fletching:0, Bismuth Fletching
+tconstruct:fletching:0, Brass Fletching
+tconstruct:fletching:0, Cold-Iron Fletching
+tconstruct:fletching:0, Cupronickel Fletching
+tconstruct:fletching:0, Invar Fletching
+tconstruct:fletching:0, Mithril Fletching
+tconstruct:fletching:0, Nickel Fletching
+tconstruct:fletching:0, Pewter Fletching
+tconstruct:fletching:0, Platinum Fletching
+tconstruct:fletching:0, Star-Steel Fletching
+tconstruct:fletching:0, Tin Fletching
+tconstruct:fletching:0, Zinc Fletching
 tconstruct:fletching:0, Draconium Fletching
 tconstruct:bolt_core:0, Wood-Iron Bolt Core
 tconstruct:bolt_core:0, Bone-Iron Bolt Core
@@ -16561,21 +16588,6 @@ tconstruct:bolt_core:0, Reeds-Iron Bolt Core
 tconstruct:bolt_core:0, Ice-Iron Bolt Core
 tconstruct:bolt_core:0, Endrod-Iron Bolt Core
 tconstruct:bolt_core:0, Dragon Bone-Iron Bolt Core
-tconstruct:bolt_core:0, Adamantine-Iron Bolt Core
-tconstruct:bolt_core:0, Antimony-Iron Bolt Core
-tconstruct:bolt_core:0, Aquarium-Iron Bolt Core
-tconstruct:bolt_core:0, Bismuth-Iron Bolt Core
-tconstruct:bolt_core:0, Brass-Iron Bolt Core
-tconstruct:bolt_core:0, Cold-Iron-Iron Bolt Core
-tconstruct:bolt_core:0, Cupronickel-Iron Bolt Core
-tconstruct:bolt_core:0, Invar-Iron Bolt Core
-tconstruct:bolt_core:0, Mithril-Iron Bolt Core
-tconstruct:bolt_core:0, Nickel-Iron Bolt Core
-tconstruct:bolt_core:0, Pewter-Iron Bolt Core
-tconstruct:bolt_core:0, Platinum-Iron Bolt Core
-tconstruct:bolt_core:0, Star-Steel-Iron Bolt Core
-tconstruct:bolt_core:0, Tin-Iron Bolt Core
-tconstruct:bolt_core:0, Zinc-Iron Bolt Core
 tconstruct:bolt_core:0, Beryllium-Iron Bolt Core
 tconstruct:bolt_core:0, Boron-Iron Bolt Core
 tconstruct:bolt_core:0, Cadmium-Iron Bolt Core
@@ -16595,6 +16607,21 @@ tconstruct:bolt_core:0, Titanium-Iron Bolt Core
 tconstruct:bolt_core:0, Tungsten-Iron Bolt Core
 tconstruct:bolt_core:0, Uranium-Iron Bolt Core
 tconstruct:bolt_core:0, Zirconium-Iron Bolt Core
+tconstruct:bolt_core:0, Adamantine-Iron Bolt Core
+tconstruct:bolt_core:0, Antimony-Iron Bolt Core
+tconstruct:bolt_core:0, Aquarium-Iron Bolt Core
+tconstruct:bolt_core:0, Bismuth-Iron Bolt Core
+tconstruct:bolt_core:0, Brass-Iron Bolt Core
+tconstruct:bolt_core:0, Cold-Iron-Iron Bolt Core
+tconstruct:bolt_core:0, Cupronickel-Iron Bolt Core
+tconstruct:bolt_core:0, Invar-Iron Bolt Core
+tconstruct:bolt_core:0, Mithril-Iron Bolt Core
+tconstruct:bolt_core:0, Nickel-Iron Bolt Core
+tconstruct:bolt_core:0, Pewter-Iron Bolt Core
+tconstruct:bolt_core:0, Platinum-Iron Bolt Core
+tconstruct:bolt_core:0, Star-Steel-Iron Bolt Core
+tconstruct:bolt_core:0, Tin-Iron Bolt Core
+tconstruct:bolt_core:0, Zinc-Iron Bolt Core
 tconstruct:bolt_core:0, Treated Wood-Iron Bolt Core
 tconstruct:bolt_core:0, Draconium-Iron Bolt Core
 tconstruct:bolt_core:0, TNT-Iron Bolt Core
@@ -16935,90 +16962,90 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Greatblade Core Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Fletching Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Polishing Kit Cast
 tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Full Guard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Battery Cell Cast
 tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Greatblade Core Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Full Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Greatblade Core Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Fletching Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Full Guard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Greatblade Core Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Full Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -17117,6 +17144,7 @@ conarm:helmet_core:0, Bone Helmet Core
 conarm:helmet_core:0, Obsidian Helmet Core
 conarm:helmet_core:0, Prismarine Helmet Core
 conarm:helmet_core:0, End Helmet Core
+conarm:helmet_core:0, Paper Helmet Core
 conarm:helmet_core:0, Sponge Helmet Core
 conarm:helmet_core:0, Firewood Helmet Core
 conarm:helmet_core:0, Iron Helmet Core
@@ -17164,21 +17192,6 @@ conarm:helmet_core:0, Green Sea Serpent Scales Helmet Core
 conarm:helmet_core:0, Silver Dragon Scales Helmet Core
 conarm:helmet_core:0, Dilithium Helmet Core
 conarm:helmet_core:0, Tritanium Helmet Core
-conarm:helmet_core:0, Adamantine Helmet Core
-conarm:helmet_core:0, Antimony Helmet Core
-conarm:helmet_core:0, Aquarium Helmet Core
-conarm:helmet_core:0, Bismuth Helmet Core
-conarm:helmet_core:0, Brass Helmet Core
-conarm:helmet_core:0, Cold-Iron Helmet Core
-conarm:helmet_core:0, Cupronickel Helmet Core
-conarm:helmet_core:0, Invar Helmet Core
-conarm:helmet_core:0, Mithril Helmet Core
-conarm:helmet_core:0, Nickel Helmet Core
-conarm:helmet_core:0, Pewter Helmet Core
-conarm:helmet_core:0, Platinum Helmet Core
-conarm:helmet_core:0, Star-Steel Helmet Core
-conarm:helmet_core:0, Tin Helmet Core
-conarm:helmet_core:0, Zinc Helmet Core
 conarm:helmet_core:0, Beryllium Helmet Core
 conarm:helmet_core:0, Boron Helmet Core
 conarm:helmet_core:0, Cadmium Helmet Core
@@ -17198,6 +17211,21 @@ conarm:helmet_core:0, Titanium Helmet Core
 conarm:helmet_core:0, Tungsten Helmet Core
 conarm:helmet_core:0, Uranium Helmet Core
 conarm:helmet_core:0, Zirconium Helmet Core
+conarm:helmet_core:0, Adamantine Helmet Core
+conarm:helmet_core:0, Antimony Helmet Core
+conarm:helmet_core:0, Aquarium Helmet Core
+conarm:helmet_core:0, Bismuth Helmet Core
+conarm:helmet_core:0, Brass Helmet Core
+conarm:helmet_core:0, Cold-Iron Helmet Core
+conarm:helmet_core:0, Cupronickel Helmet Core
+conarm:helmet_core:0, Invar Helmet Core
+conarm:helmet_core:0, Mithril Helmet Core
+conarm:helmet_core:0, Nickel Helmet Core
+conarm:helmet_core:0, Pewter Helmet Core
+conarm:helmet_core:0, Platinum Helmet Core
+conarm:helmet_core:0, Star-Steel Helmet Core
+conarm:helmet_core:0, Tin Helmet Core
+conarm:helmet_core:0, Zinc Helmet Core
 conarm:helmet_core:0, Treated Wood Helmet Core
 conarm:helmet_core:0, Constantan Helmet Core
 conarm:helmet_core:0, Magical Wooden Helmet Core
@@ -17273,7 +17301,6 @@ conarm:helmet_core:0, Kyronite Helmet Core
 conarm:helmet_core:0, Pladium Helmet Core
 conarm:helmet_core:0, Ionite Helmet Core
 conarm:helmet_core:0, Aethium Helmet Core
-conarm:helmet_core:0, Emerald Helmet Core
 conarm:helmet_core:0, Wyvern Helmet Core
 conarm:helmet_core:0, Awakened Helmet Core
 conarm:helmet_core:0, Chaotic Helmet Core
@@ -17281,6 +17308,7 @@ conarm:helmet_core:0, Bloodwood Helmet Core
 conarm:helmet_core:0, Fusewood Helmet Core
 conarm:helmet_core:0, Ghostwood Helmet Core
 conarm:helmet_core:0, Darkwood Helmet Core
+conarm:helmet_core:0, Emerald Helmet Core
 conarm:armor_trim:0, Electrical Armor Trim
 conarm:armor_trim:0, Energetic Armor Trim
 conarm:armor_trim:0, Vibrant Armor Trim
@@ -17299,6 +17327,7 @@ conarm:armor_trim:0, Bone Armor Trim
 conarm:armor_trim:0, Obsidian Armor Trim
 conarm:armor_trim:0, Prismarine Armor Trim
 conarm:armor_trim:0, End Armor Trim
+conarm:armor_trim:0, Paper Armor Trim
 conarm:armor_trim:0, Sponge Armor Trim
 conarm:armor_trim:0, Firewood Armor Trim
 conarm:armor_trim:0, Iron Armor Trim
@@ -17346,21 +17375,6 @@ conarm:armor_trim:0, Green Sea Serpent Scales Armor Trim
 conarm:armor_trim:0, Silver Dragon Scales Armor Trim
 conarm:armor_trim:0, Dilithium Armor Trim
 conarm:armor_trim:0, Tritanium Armor Trim
-conarm:armor_trim:0, Adamantine Armor Trim
-conarm:armor_trim:0, Antimony Armor Trim
-conarm:armor_trim:0, Aquarium Armor Trim
-conarm:armor_trim:0, Bismuth Armor Trim
-conarm:armor_trim:0, Brass Armor Trim
-conarm:armor_trim:0, Cold-Iron Armor Trim
-conarm:armor_trim:0, Cupronickel Armor Trim
-conarm:armor_trim:0, Invar Armor Trim
-conarm:armor_trim:0, Mithril Armor Trim
-conarm:armor_trim:0, Nickel Armor Trim
-conarm:armor_trim:0, Pewter Armor Trim
-conarm:armor_trim:0, Platinum Armor Trim
-conarm:armor_trim:0, Star-Steel Armor Trim
-conarm:armor_trim:0, Tin Armor Trim
-conarm:armor_trim:0, Zinc Armor Trim
 conarm:armor_trim:0, Beryllium Armor Trim
 conarm:armor_trim:0, Boron Armor Trim
 conarm:armor_trim:0, Cadmium Armor Trim
@@ -17380,6 +17394,21 @@ conarm:armor_trim:0, Titanium Armor Trim
 conarm:armor_trim:0, Tungsten Armor Trim
 conarm:armor_trim:0, Uranium Armor Trim
 conarm:armor_trim:0, Zirconium Armor Trim
+conarm:armor_trim:0, Adamantine Armor Trim
+conarm:armor_trim:0, Antimony Armor Trim
+conarm:armor_trim:0, Aquarium Armor Trim
+conarm:armor_trim:0, Bismuth Armor Trim
+conarm:armor_trim:0, Brass Armor Trim
+conarm:armor_trim:0, Cold-Iron Armor Trim
+conarm:armor_trim:0, Cupronickel Armor Trim
+conarm:armor_trim:0, Invar Armor Trim
+conarm:armor_trim:0, Mithril Armor Trim
+conarm:armor_trim:0, Nickel Armor Trim
+conarm:armor_trim:0, Pewter Armor Trim
+conarm:armor_trim:0, Platinum Armor Trim
+conarm:armor_trim:0, Star-Steel Armor Trim
+conarm:armor_trim:0, Tin Armor Trim
+conarm:armor_trim:0, Zinc Armor Trim
 conarm:armor_trim:0, Treated Wood Armor Trim
 conarm:armor_trim:0, Constantan Armor Trim
 conarm:armor_trim:0, Magical Wooden Armor Trim
@@ -17455,7 +17484,6 @@ conarm:armor_trim:0, Kyronite Armor Trim
 conarm:armor_trim:0, Pladium Armor Trim
 conarm:armor_trim:0, Ionite Armor Trim
 conarm:armor_trim:0, Aethium Armor Trim
-conarm:armor_trim:0, Emerald Armor Trim
 conarm:armor_trim:0, Wyvern Armor Trim
 conarm:armor_trim:0, Awakened Armor Trim
 conarm:armor_trim:0, Chaotic Armor Trim
@@ -17463,6 +17491,7 @@ conarm:armor_trim:0, Bloodwood Armor Trim
 conarm:armor_trim:0, Fusewood Armor Trim
 conarm:armor_trim:0, Ghostwood Armor Trim
 conarm:armor_trim:0, Darkwood Armor Trim
+conarm:armor_trim:0, Emerald Armor Trim
 conarm:armor_plate:0, Electrical Armor Plates
 conarm:armor_plate:0, Energetic Armor Plates
 conarm:armor_plate:0, Vibrant Armor Plates
@@ -17481,6 +17510,7 @@ conarm:armor_plate:0, Bone Armor Plates
 conarm:armor_plate:0, Obsidian Armor Plates
 conarm:armor_plate:0, Prismarine Armor Plates
 conarm:armor_plate:0, End Armor Plates
+conarm:armor_plate:0, Paper Armor Plates
 conarm:armor_plate:0, Sponge Armor Plates
 conarm:armor_plate:0, Firewood Armor Plates
 conarm:armor_plate:0, Iron Armor Plates
@@ -17528,21 +17558,6 @@ conarm:armor_plate:0, Green Sea Serpent Scales Armor Plates
 conarm:armor_plate:0, Silver Dragon Scales Armor Plates
 conarm:armor_plate:0, Dilithium Armor Plates
 conarm:armor_plate:0, Tritanium Armor Plates
-conarm:armor_plate:0, Adamantine Armor Plates
-conarm:armor_plate:0, Antimony Armor Plates
-conarm:armor_plate:0, Aquarium Armor Plates
-conarm:armor_plate:0, Bismuth Armor Plates
-conarm:armor_plate:0, Brass Armor Plates
-conarm:armor_plate:0, Cold-Iron Armor Plates
-conarm:armor_plate:0, Cupronickel Armor Plates
-conarm:armor_plate:0, Invar Armor Plates
-conarm:armor_plate:0, Mithril Armor Plates
-conarm:armor_plate:0, Nickel Armor Plates
-conarm:armor_plate:0, Pewter Armor Plates
-conarm:armor_plate:0, Platinum Armor Plates
-conarm:armor_plate:0, Star-Steel Armor Plates
-conarm:armor_plate:0, Tin Armor Plates
-conarm:armor_plate:0, Zinc Armor Plates
 conarm:armor_plate:0, Beryllium Armor Plates
 conarm:armor_plate:0, Boron Armor Plates
 conarm:armor_plate:0, Cadmium Armor Plates
@@ -17562,6 +17577,21 @@ conarm:armor_plate:0, Titanium Armor Plates
 conarm:armor_plate:0, Tungsten Armor Plates
 conarm:armor_plate:0, Uranium Armor Plates
 conarm:armor_plate:0, Zirconium Armor Plates
+conarm:armor_plate:0, Adamantine Armor Plates
+conarm:armor_plate:0, Antimony Armor Plates
+conarm:armor_plate:0, Aquarium Armor Plates
+conarm:armor_plate:0, Bismuth Armor Plates
+conarm:armor_plate:0, Brass Armor Plates
+conarm:armor_plate:0, Cold-Iron Armor Plates
+conarm:armor_plate:0, Cupronickel Armor Plates
+conarm:armor_plate:0, Invar Armor Plates
+conarm:armor_plate:0, Mithril Armor Plates
+conarm:armor_plate:0, Nickel Armor Plates
+conarm:armor_plate:0, Pewter Armor Plates
+conarm:armor_plate:0, Platinum Armor Plates
+conarm:armor_plate:0, Star-Steel Armor Plates
+conarm:armor_plate:0, Tin Armor Plates
+conarm:armor_plate:0, Zinc Armor Plates
 conarm:armor_plate:0, Treated Wood Armor Plates
 conarm:armor_plate:0, Constantan Armor Plates
 conarm:armor_plate:0, Magical Wooden Armor Plates
@@ -17637,7 +17667,6 @@ conarm:armor_plate:0, Kyronite Armor Plates
 conarm:armor_plate:0, Pladium Armor Plates
 conarm:armor_plate:0, Ionite Armor Plates
 conarm:armor_plate:0, Aethium Armor Plates
-conarm:armor_plate:0, Emerald Armor Plates
 conarm:armor_plate:0, Wyvern Armor Plates
 conarm:armor_plate:0, Awakened Armor Plates
 conarm:armor_plate:0, Chaotic Armor Plates
@@ -17645,6 +17674,7 @@ conarm:armor_plate:0, Bloodwood Armor Plates
 conarm:armor_plate:0, Fusewood Armor Plates
 conarm:armor_plate:0, Ghostwood Armor Plates
 conarm:armor_plate:0, Darkwood Armor Plates
+conarm:armor_plate:0, Emerald Armor Plates
 conarm:chest_core:0, Electrical Chestplate Core
 conarm:chest_core:0, Energetic Chestplate Core
 conarm:chest_core:0, Vibrant Chestplate Core
@@ -17663,6 +17693,7 @@ conarm:chest_core:0, Bone Chestplate Core
 conarm:chest_core:0, Obsidian Chestplate Core
 conarm:chest_core:0, Prismarine Chestplate Core
 conarm:chest_core:0, End Chestplate Core
+conarm:chest_core:0, Paper Chestplate Core
 conarm:chest_core:0, Sponge Chestplate Core
 conarm:chest_core:0, Firewood Chestplate Core
 conarm:chest_core:0, Iron Chestplate Core
@@ -17710,21 +17741,6 @@ conarm:chest_core:0, Green Sea Serpent Scales Chestplate Core
 conarm:chest_core:0, Silver Dragon Scales Chestplate Core
 conarm:chest_core:0, Dilithium Chestplate Core
 conarm:chest_core:0, Tritanium Chestplate Core
-conarm:chest_core:0, Adamantine Chestplate Core
-conarm:chest_core:0, Antimony Chestplate Core
-conarm:chest_core:0, Aquarium Chestplate Core
-conarm:chest_core:0, Bismuth Chestplate Core
-conarm:chest_core:0, Brass Chestplate Core
-conarm:chest_core:0, Cold-Iron Chestplate Core
-conarm:chest_core:0, Cupronickel Chestplate Core
-conarm:chest_core:0, Invar Chestplate Core
-conarm:chest_core:0, Mithril Chestplate Core
-conarm:chest_core:0, Nickel Chestplate Core
-conarm:chest_core:0, Pewter Chestplate Core
-conarm:chest_core:0, Platinum Chestplate Core
-conarm:chest_core:0, Star-Steel Chestplate Core
-conarm:chest_core:0, Tin Chestplate Core
-conarm:chest_core:0, Zinc Chestplate Core
 conarm:chest_core:0, Beryllium Chestplate Core
 conarm:chest_core:0, Boron Chestplate Core
 conarm:chest_core:0, Cadmium Chestplate Core
@@ -17744,6 +17760,21 @@ conarm:chest_core:0, Titanium Chestplate Core
 conarm:chest_core:0, Tungsten Chestplate Core
 conarm:chest_core:0, Uranium Chestplate Core
 conarm:chest_core:0, Zirconium Chestplate Core
+conarm:chest_core:0, Adamantine Chestplate Core
+conarm:chest_core:0, Antimony Chestplate Core
+conarm:chest_core:0, Aquarium Chestplate Core
+conarm:chest_core:0, Bismuth Chestplate Core
+conarm:chest_core:0, Brass Chestplate Core
+conarm:chest_core:0, Cold-Iron Chestplate Core
+conarm:chest_core:0, Cupronickel Chestplate Core
+conarm:chest_core:0, Invar Chestplate Core
+conarm:chest_core:0, Mithril Chestplate Core
+conarm:chest_core:0, Nickel Chestplate Core
+conarm:chest_core:0, Pewter Chestplate Core
+conarm:chest_core:0, Platinum Chestplate Core
+conarm:chest_core:0, Star-Steel Chestplate Core
+conarm:chest_core:0, Tin Chestplate Core
+conarm:chest_core:0, Zinc Chestplate Core
 conarm:chest_core:0, Treated Wood Chestplate Core
 conarm:chest_core:0, Constantan Chestplate Core
 conarm:chest_core:0, Magical Wooden Chestplate Core
@@ -17819,7 +17850,6 @@ conarm:chest_core:0, Kyronite Chestplate Core
 conarm:chest_core:0, Pladium Chestplate Core
 conarm:chest_core:0, Ionite Chestplate Core
 conarm:chest_core:0, Aethium Chestplate Core
-conarm:chest_core:0, Emerald Chestplate Core
 conarm:chest_core:0, Wyvern Chestplate Core
 conarm:chest_core:0, Awakened Chestplate Core
 conarm:chest_core:0, Chaotic Chestplate Core
@@ -17827,6 +17857,7 @@ conarm:chest_core:0, Bloodwood Chestplate Core
 conarm:chest_core:0, Fusewood Chestplate Core
 conarm:chest_core:0, Ghostwood Chestplate Core
 conarm:chest_core:0, Darkwood Chestplate Core
+conarm:chest_core:0, Emerald Chestplate Core
 conarm:leggings_core:0, Electrical Leggings Core
 conarm:leggings_core:0, Energetic Leggings Core
 conarm:leggings_core:0, Vibrant Leggings Core
@@ -17845,6 +17876,7 @@ conarm:leggings_core:0, Bone Leggings Core
 conarm:leggings_core:0, Obsidian Leggings Core
 conarm:leggings_core:0, Prismarine Leggings Core
 conarm:leggings_core:0, End Leggings Core
+conarm:leggings_core:0, Paper Leggings Core
 conarm:leggings_core:0, Sponge Leggings Core
 conarm:leggings_core:0, Firewood Leggings Core
 conarm:leggings_core:0, Iron Leggings Core
@@ -17892,21 +17924,6 @@ conarm:leggings_core:0, Green Sea Serpent Scales Leggings Core
 conarm:leggings_core:0, Silver Dragon Scales Leggings Core
 conarm:leggings_core:0, Dilithium Leggings Core
 conarm:leggings_core:0, Tritanium Leggings Core
-conarm:leggings_core:0, Adamantine Leggings Core
-conarm:leggings_core:0, Antimony Leggings Core
-conarm:leggings_core:0, Aquarium Leggings Core
-conarm:leggings_core:0, Bismuth Leggings Core
-conarm:leggings_core:0, Brass Leggings Core
-conarm:leggings_core:0, Cold-Iron Leggings Core
-conarm:leggings_core:0, Cupronickel Leggings Core
-conarm:leggings_core:0, Invar Leggings Core
-conarm:leggings_core:0, Mithril Leggings Core
-conarm:leggings_core:0, Nickel Leggings Core
-conarm:leggings_core:0, Pewter Leggings Core
-conarm:leggings_core:0, Platinum Leggings Core
-conarm:leggings_core:0, Star-Steel Leggings Core
-conarm:leggings_core:0, Tin Leggings Core
-conarm:leggings_core:0, Zinc Leggings Core
 conarm:leggings_core:0, Beryllium Leggings Core
 conarm:leggings_core:0, Boron Leggings Core
 conarm:leggings_core:0, Cadmium Leggings Core
@@ -17926,6 +17943,21 @@ conarm:leggings_core:0, Titanium Leggings Core
 conarm:leggings_core:0, Tungsten Leggings Core
 conarm:leggings_core:0, Uranium Leggings Core
 conarm:leggings_core:0, Zirconium Leggings Core
+conarm:leggings_core:0, Adamantine Leggings Core
+conarm:leggings_core:0, Antimony Leggings Core
+conarm:leggings_core:0, Aquarium Leggings Core
+conarm:leggings_core:0, Bismuth Leggings Core
+conarm:leggings_core:0, Brass Leggings Core
+conarm:leggings_core:0, Cold-Iron Leggings Core
+conarm:leggings_core:0, Cupronickel Leggings Core
+conarm:leggings_core:0, Invar Leggings Core
+conarm:leggings_core:0, Mithril Leggings Core
+conarm:leggings_core:0, Nickel Leggings Core
+conarm:leggings_core:0, Pewter Leggings Core
+conarm:leggings_core:0, Platinum Leggings Core
+conarm:leggings_core:0, Star-Steel Leggings Core
+conarm:leggings_core:0, Tin Leggings Core
+conarm:leggings_core:0, Zinc Leggings Core
 conarm:leggings_core:0, Treated Wood Leggings Core
 conarm:leggings_core:0, Constantan Leggings Core
 conarm:leggings_core:0, Magical Wooden Leggings Core
@@ -18001,7 +18033,6 @@ conarm:leggings_core:0, Kyronite Leggings Core
 conarm:leggings_core:0, Pladium Leggings Core
 conarm:leggings_core:0, Ionite Leggings Core
 conarm:leggings_core:0, Aethium Leggings Core
-conarm:leggings_core:0, Emerald Leggings Core
 conarm:leggings_core:0, Wyvern Leggings Core
 conarm:leggings_core:0, Awakened Leggings Core
 conarm:leggings_core:0, Chaotic Leggings Core
@@ -18009,6 +18040,7 @@ conarm:leggings_core:0, Bloodwood Leggings Core
 conarm:leggings_core:0, Fusewood Leggings Core
 conarm:leggings_core:0, Ghostwood Leggings Core
 conarm:leggings_core:0, Darkwood Leggings Core
+conarm:leggings_core:0, Emerald Leggings Core
 conarm:boots_core:0, Electrical Boots Core
 conarm:boots_core:0, Energetic Boots Core
 conarm:boots_core:0, Vibrant Boots Core
@@ -18027,6 +18059,7 @@ conarm:boots_core:0, Bone Boots Core
 conarm:boots_core:0, Obsidian Boots Core
 conarm:boots_core:0, Prismarine Boots Core
 conarm:boots_core:0, End Boots Core
+conarm:boots_core:0, Paper Boots Core
 conarm:boots_core:0, Sponge Boots Core
 conarm:boots_core:0, Firewood Boots Core
 conarm:boots_core:0, Iron Boots Core
@@ -18074,21 +18107,6 @@ conarm:boots_core:0, Green Sea Serpent Scales Boots Core
 conarm:boots_core:0, Silver Dragon Scales Boots Core
 conarm:boots_core:0, Dilithium Boots Core
 conarm:boots_core:0, Tritanium Boots Core
-conarm:boots_core:0, Adamantine Boots Core
-conarm:boots_core:0, Antimony Boots Core
-conarm:boots_core:0, Aquarium Boots Core
-conarm:boots_core:0, Bismuth Boots Core
-conarm:boots_core:0, Brass Boots Core
-conarm:boots_core:0, Cold-Iron Boots Core
-conarm:boots_core:0, Cupronickel Boots Core
-conarm:boots_core:0, Invar Boots Core
-conarm:boots_core:0, Mithril Boots Core
-conarm:boots_core:0, Nickel Boots Core
-conarm:boots_core:0, Pewter Boots Core
-conarm:boots_core:0, Platinum Boots Core
-conarm:boots_core:0, Star-Steel Boots Core
-conarm:boots_core:0, Tin Boots Core
-conarm:boots_core:0, Zinc Boots Core
 conarm:boots_core:0, Beryllium Boots Core
 conarm:boots_core:0, Boron Boots Core
 conarm:boots_core:0, Cadmium Boots Core
@@ -18108,6 +18126,21 @@ conarm:boots_core:0, Titanium Boots Core
 conarm:boots_core:0, Tungsten Boots Core
 conarm:boots_core:0, Uranium Boots Core
 conarm:boots_core:0, Zirconium Boots Core
+conarm:boots_core:0, Adamantine Boots Core
+conarm:boots_core:0, Antimony Boots Core
+conarm:boots_core:0, Aquarium Boots Core
+conarm:boots_core:0, Bismuth Boots Core
+conarm:boots_core:0, Brass Boots Core
+conarm:boots_core:0, Cold-Iron Boots Core
+conarm:boots_core:0, Cupronickel Boots Core
+conarm:boots_core:0, Invar Boots Core
+conarm:boots_core:0, Mithril Boots Core
+conarm:boots_core:0, Nickel Boots Core
+conarm:boots_core:0, Pewter Boots Core
+conarm:boots_core:0, Platinum Boots Core
+conarm:boots_core:0, Star-Steel Boots Core
+conarm:boots_core:0, Tin Boots Core
+conarm:boots_core:0, Zinc Boots Core
 conarm:boots_core:0, Treated Wood Boots Core
 conarm:boots_core:0, Constantan Boots Core
 conarm:boots_core:0, Magical Wooden Boots Core
@@ -18183,7 +18216,6 @@ conarm:boots_core:0, Kyronite Boots Core
 conarm:boots_core:0, Pladium Boots Core
 conarm:boots_core:0, Ionite Boots Core
 conarm:boots_core:0, Aethium Boots Core
-conarm:boots_core:0, Emerald Boots Core
 conarm:boots_core:0, Wyvern Boots Core
 conarm:boots_core:0, Awakened Boots Core
 conarm:boots_core:0, Chaotic Boots Core
@@ -18191,6 +18223,7 @@ conarm:boots_core:0, Bloodwood Boots Core
 conarm:boots_core:0, Fusewood Boots Core
 conarm:boots_core:0, Ghostwood Boots Core
 conarm:boots_core:0, Darkwood Boots Core
+conarm:boots_core:0, Emerald Boots Core
 conarm:helmet, Helmet
 conarm:chestplate, Chestplate
 conarm:leggings, Leggings
@@ -18235,6 +18268,7 @@ conarm:polishing_kit:0, Bone Polishing Kit
 conarm:polishing_kit:0, Obsidian Polishing Kit
 conarm:polishing_kit:0, Prismarine Polishing Kit
 conarm:polishing_kit:0, End Polishing Kit
+conarm:polishing_kit:0, Paper Polishing Kit
 conarm:polishing_kit:0, Sponge Polishing Kit
 conarm:polishing_kit:0, Firewood Polishing Kit
 conarm:polishing_kit:0, Iron Polishing Kit
@@ -18282,21 +18316,6 @@ conarm:polishing_kit:0, Green Sea Serpent Scales Polishing Kit
 conarm:polishing_kit:0, Silver Dragon Scales Polishing Kit
 conarm:polishing_kit:0, Dilithium Polishing Kit
 conarm:polishing_kit:0, Tritanium Polishing Kit
-conarm:polishing_kit:0, Adamantine Polishing Kit
-conarm:polishing_kit:0, Antimony Polishing Kit
-conarm:polishing_kit:0, Aquarium Polishing Kit
-conarm:polishing_kit:0, Bismuth Polishing Kit
-conarm:polishing_kit:0, Brass Polishing Kit
-conarm:polishing_kit:0, Cold-Iron Polishing Kit
-conarm:polishing_kit:0, Cupronickel Polishing Kit
-conarm:polishing_kit:0, Invar Polishing Kit
-conarm:polishing_kit:0, Mithril Polishing Kit
-conarm:polishing_kit:0, Nickel Polishing Kit
-conarm:polishing_kit:0, Pewter Polishing Kit
-conarm:polishing_kit:0, Platinum Polishing Kit
-conarm:polishing_kit:0, Star-Steel Polishing Kit
-conarm:polishing_kit:0, Tin Polishing Kit
-conarm:polishing_kit:0, Zinc Polishing Kit
 conarm:polishing_kit:0, Beryllium Polishing Kit
 conarm:polishing_kit:0, Boron Polishing Kit
 conarm:polishing_kit:0, Cadmium Polishing Kit
@@ -18316,6 +18335,21 @@ conarm:polishing_kit:0, Titanium Polishing Kit
 conarm:polishing_kit:0, Tungsten Polishing Kit
 conarm:polishing_kit:0, Uranium Polishing Kit
 conarm:polishing_kit:0, Zirconium Polishing Kit
+conarm:polishing_kit:0, Adamantine Polishing Kit
+conarm:polishing_kit:0, Antimony Polishing Kit
+conarm:polishing_kit:0, Aquarium Polishing Kit
+conarm:polishing_kit:0, Bismuth Polishing Kit
+conarm:polishing_kit:0, Brass Polishing Kit
+conarm:polishing_kit:0, Cold-Iron Polishing Kit
+conarm:polishing_kit:0, Cupronickel Polishing Kit
+conarm:polishing_kit:0, Invar Polishing Kit
+conarm:polishing_kit:0, Mithril Polishing Kit
+conarm:polishing_kit:0, Nickel Polishing Kit
+conarm:polishing_kit:0, Pewter Polishing Kit
+conarm:polishing_kit:0, Platinum Polishing Kit
+conarm:polishing_kit:0, Star-Steel Polishing Kit
+conarm:polishing_kit:0, Tin Polishing Kit
+conarm:polishing_kit:0, Zinc Polishing Kit
 conarm:polishing_kit:0, Treated Wood Polishing Kit
 conarm:polishing_kit:0, Constantan Polishing Kit
 conarm:polishing_kit:0, Magical Wooden Polishing Kit
@@ -18391,7 +18425,6 @@ conarm:polishing_kit:0, Kyronite Polishing Kit
 conarm:polishing_kit:0, Pladium Polishing Kit
 conarm:polishing_kit:0, Ionite Polishing Kit
 conarm:polishing_kit:0, Aethium Polishing Kit
-conarm:polishing_kit:0, Emerald Polishing Kit
 conarm:polishing_kit:0, Wyvern Polishing Kit
 conarm:polishing_kit:0, Awakened Polishing Kit
 conarm:polishing_kit:0, Chaotic Polishing Kit
@@ -18399,6 +18432,7 @@ conarm:polishing_kit:0, Bloodwood Polishing Kit
 conarm:polishing_kit:0, Fusewood Polishing Kit
 conarm:polishing_kit:0, Ghostwood Polishing Kit
 conarm:polishing_kit:0, Darkwood Polishing Kit
+conarm:polishing_kit:0, Emerald Polishing Kit
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
@@ -18875,6 +18909,80 @@ iceandfire:stymphalian_skull, Stymphalian Bird Skull
 iceandfire:troll_skull, Troll Skull
 iceandfire:amphithere_skull, Amphithere Skull
 iceandfire:seaserpent_skull, Sea Serpent Skull
+matteroverdrive:dilithium_ore, Dilithium Ore
+matteroverdrive:tritanium_ore, Tritanium Ore
+matteroverdrive:tritanium_block, Tritanium Block
+matteroverdrive:machine_hull, Machine Hull
+matteroverdrive:decomposer, Matter Decomposer
+matteroverdrive:matter_recycler, Matter Recycler
+matteroverdrive:replicator, Matter Replicator
+matteroverdrive:matter_pipe, Matter Transport Pipe
+matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
+matteroverdrive:network_pipe, Matter Network Cable
+matteroverdrive:network_router, Matter Network Router
+matteroverdrive:matter_analyzer, Matter Analyzer
+matteroverdrive:pattern_monitor, Pattern Monitor
+matteroverdrive:pattern_storage, Pattern Storage
+matteroverdrive:network_switch, Matter Network Switch
+matteroverdrive:solar_panel, Solar Panel
+matteroverdrive:gravitational_anomaly, Gravitational Anomaly
+matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
+matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
+matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
+matteroverdrive:fusion_reactor_io, Fusion Reactor IO
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Tritanium Crate
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Molecular Inscriber
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Rogue Android Spawner
+matteroverdrive:spacetime_accelerator, Space-Time Accelerator
+matteroverdrive:pylon, Dimensional Pylon
+matteroverdrive:transporter, Transporter
+matteroverdrive:star_map, Star Map
+matteroverdrive:holo_sign, Holographic Sign
+matteroverdrive:weapon_station, Weapon Station
+matteroverdrive:android_station, Android Station
+matteroverdrive:charging_station, Charging Station
+matteroverdrive:decorative.stripes, Yellow Stripes
+matteroverdrive:decorative.coils, Coils
+matteroverdrive:decorative.clean, Tritanium Smooth Plate
+matteroverdrive:decorative.vent.dark, Dark Vent
+matteroverdrive:decorative.vent.bright, Vent
+matteroverdrive:decorative.holo_matrix, Holographic Matrix
+matteroverdrive:decorative.tritanium_plate, Tritanium Plate
+matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
+matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
+matteroverdrive:decorative.matter_tube, Matter Tube
+matteroverdrive:decorative.beams, Tritanium Grate
+matteroverdrive:decorative.floor_tiles, Floor Tiles
+matteroverdrive:decorative.floor_tile_white, White Floor Tiles
+matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
+matteroverdrive:decorative.floor_noise, Linoleum Floor
+matteroverdrive:decorative.white_plate, Soft Wall Plates
+matteroverdrive:decorative.separator, Tritanium Rail
+matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
+matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Microwave
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Bounding Block
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -18973,80 +19081,23 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
-matteroverdrive:dilithium_ore, Dilithium Ore
-matteroverdrive:tritanium_ore, Tritanium Ore
-matteroverdrive:tritanium_block, Tritanium Block
-matteroverdrive:machine_hull, Machine Hull
-matteroverdrive:decomposer, Matter Decomposer
-matteroverdrive:matter_recycler, Matter Recycler
-matteroverdrive:replicator, Matter Replicator
-matteroverdrive:matter_pipe, Matter Transport Pipe
-matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
-matteroverdrive:network_pipe, Matter Network Cable
-matteroverdrive:network_router, Matter Network Router
-matteroverdrive:matter_analyzer, Matter Analyzer
-matteroverdrive:pattern_monitor, Pattern Monitor
-matteroverdrive:pattern_storage, Pattern Storage
-matteroverdrive:network_switch, Matter Network Switch
-matteroverdrive:solar_panel, Solar Panel
-matteroverdrive:gravitational_anomaly, Gravitational Anomaly
-matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
-matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
-matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
-matteroverdrive:fusion_reactor_io, Fusion Reactor IO
-matteroverdrive:matter_plasma, tile.null.name
-matteroverdrive:molten_tritanium, tile.null.name
-matteroverdrive:tritanium_crate, Tritanium Crate
-matteroverdrive:tritanium_crate_white, White Tritanium Crate
-matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
-matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
-matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
-matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
-matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
-matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
-matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
-matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
-matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
-matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
-matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
-matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
-matteroverdrive:tritanium_crate_green, Green Tritanium Crate
-matteroverdrive:tritanium_crate_red, Red Tritanium Crate
-matteroverdrive:tritanium_crate_black, Black Tritanium Crate
-matteroverdrive:inscriber, Molecular Inscriber
-matteroverdrive:contract_market, Contract Market
-matteroverdrive:android_spawner, Rogue Android Spawner
-matteroverdrive:spacetime_accelerator, Space-Time Accelerator
-matteroverdrive:pylon, Dimensional Pylon
-matteroverdrive:transporter, Transporter
-matteroverdrive:star_map, Star Map
-matteroverdrive:holo_sign, Holographic Sign
-matteroverdrive:weapon_station, Weapon Station
-matteroverdrive:android_station, Android Station
-matteroverdrive:charging_station, Charging Station
-matteroverdrive:decorative.stripes, Yellow Stripes
-matteroverdrive:decorative.coils, Coils
-matteroverdrive:decorative.clean, Tritanium Smooth Plate
-matteroverdrive:decorative.vent.dark, Dark Vent
-matteroverdrive:decorative.vent.bright, Vent
-matteroverdrive:decorative.holo_matrix, Holographic Matrix
-matteroverdrive:decorative.tritanium_plate, Tritanium Plate
-matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
-matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
-matteroverdrive:decorative.matter_tube, Matter Tube
-matteroverdrive:decorative.beams, Tritanium Grate
-matteroverdrive:decorative.floor_tiles, Floor Tiles
-matteroverdrive:decorative.floor_tile_white, White Floor Tiles
-matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
-matteroverdrive:decorative.floor_noise, Linoleum Floor
-matteroverdrive:decorative.white_plate, Soft Wall Plates
-matteroverdrive:decorative.separator, Tritanium Rail
-matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
-matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
-matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
-matteroverdrive:microwave, Microwave
-matteroverdrive:industrial_glass, Industrial Glass
-matteroverdrive:bounding_box, Bounding Block
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
 quark:pickarang, item.pickarang.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
@@ -19080,23 +19131,246 @@ quark:parrot_egg:3, Cyan Parrot Egg
 quark:parrot_egg:4, Gray Parrot Egg
 quark:enderdragon_scale, item.enderdragon_scale.name
 quark:witch_hat, item.witch_hat.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
+quark:roots, tile.roots.name
+quark:root, item.root.name
+quark:roots_blue_flower, tile.roots_blue_flower.name
+quark:roots_black_flower, tile.roots_black_flower.name
+quark:roots_white_flower, tile.roots_white_flower.name
+quark:root_flower:0, Blue Sprout
+quark:root_flower:1, Black Sprout
+quark:root_flower:2, White Sprout
+quark:root_dye:0, Blue Dye
+quark:root_dye:1, Black Dye
+quark:root_dye:2, White Dye
+quark:diamond_heart, item.diamond_heart.name
+quark:archaeologist_hat, item.archaeologist_hat.name
+quark:variant_leaves:0, Swamp Oak Leaves
+quark:variant_leaves:1, Blossoming Leaves
+quark:variant_sapling:0, Swamp Oak Sapling
+quark:variant_sapling:1, Blossoming Sapling
+quark:crystal:0, White Cave Crystal
+quark:crystal:1, Red Cave Crystal
+quark:crystal:2, Orange Cave Crystal
+quark:crystal:3, Yellow Cave Crystal
+quark:crystal:4, Green Cave Crystal
+quark:crystal:5, Blue Cave Crystal
+quark:crystal:6, Indigo Cave Crystal
+quark:crystal:7, Violet Cave Crystal
+quark:crystal:8, Black Cave Crystal
+quark:crystal_pane:0, White Cave Crystal Sheet
+quark:crystal_pane:1, Red Cave Crystal Sheet
+quark:crystal_pane:2, Orange Cave Crystal Sheet
+quark:crystal_pane:3, Yellow Cave Crystal Sheet
+quark:crystal_pane:4, Green Cave Crystal Sheet
+quark:crystal_pane:5, Blue Cave Crystal Sheet
+quark:crystal_pane:6, Indigo Cave Crystal Sheet
+quark:crystal_pane:7, Violet Cave Crystal Sheet
+quark:crystal_pane:8, Black Cave Crystal Sheet
+quark:stone_speleothem, tile.stone_speleothem.name
+quark:granite_speleothem, tile.granite_speleothem.name
+quark:diorite_speleothem, tile.diorite_speleothem.name
+quark:andesite_speleothem, tile.andesite_speleothem.name
+quark:netherrack_speleothem, tile.netherrack_speleothem.name
+quark:basalt_speleothem, tile.basalt_speleothem.name
+quark:marble_speleothem, tile.marble_speleothem.name
+quark:limestone_speleothem, tile.limestone_speleothem.name
+quark:jasper_speleothem, tile.jasper_speleothem.name
+quark:slate_speleothem, tile.slate_speleothem.name
+quark:biotite_ore, tile.biotite_ore.name
+quark:biotite_block:0, Block of Biotite
+quark:biotite_block:1, Chiseled Biotite Block
+quark:biotite_block:2, Pillar Biotite Block
+quark:biotite, item.biotite.name
+quark:biotite_slab:0, Biotite Slab
+quark:biotite_stairs, tile.biotite_stairs.name
+quark:biotite_wall, tile.biotite_wall.name
+quark:monster_box, tile.monster_box.name
+quark:basalt:0, Basalt
+quark:basalt:1, Polished Basalt
+quark:stone_basalt_slab:0, Basalt Slab
+quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
+quark:basalt_wall, tile.basalt_wall.name
+quark:frog_leg, item.frog_leg.name
+quark:cooked_frog_leg, item.cooked_frog_leg.name
+quark:golden_frog_leg, item.golden_frog_leg.name
+quark:pirate_hat, item.pirate_hat.name
+quark:crab_leg, item.crab_leg.name
+quark:cooked_crab_leg, item.cooked_crab_leg.name
+quark:crab_shell, item.crab_shell.name
+quark:marble:0, Marble
+quark:marble:1, Polished Marble
+quark:stone_marble_slab:0, Marble Slab
+quark:stone_marble_stairs, tile.stone_marble_stairs.name
+quark:marble_wall, tile.marble_wall.name
+quark:limestone:0, Limestone
+quark:limestone:1, Polished Limestone
+quark:stone_limestone_slab:0, Limestone Slab
+quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
+quark:limestone_wall, tile.limestone_wall.name
+quark:jasper:0, Jasper
+quark:jasper:1, Polished Jasper
+quark:stone_jasper_slab:0, Jasper Slab
+quark:stone_jasper_stairs, tile.stone_jasper_stairs.name
+quark:jasper_wall, tile.jasper_wall.name
+quark:slate:0, Slate
+quark:slate:1, Polished Slate
+quark:stone_slate_slab:0, Slate Slab
+quark:stone_slate_stairs, tile.stone_slate_stairs.name
+quark:slate_wall, tile.slate_wall.name
+quark:biome_cobblestone:0, Brimstone
+quark:biome_cobblestone:1, Permafrost
+quark:biome_cobblestone:2, Cobbedstone
+quark:biome_brick:0, Brimstone Bricks
+quark:biome_brick:1, Permafrost Bricks
+quark:elder_prismarine:0, Elder Prismarine
+quark:elder_prismarine:1, Elder Prismarine Bricks
+quark:elder_prismarine:2, Dark Elder Prismarine
+quark:elder_sea_lantern, tile.elder_sea_lantern.name
+quark:fire_stone_slab:0, Brimstone Slab
+quark:fire_stone_stairs, tile.fire_stone_stairs.name
+quark:fire_stone_brick_slab:0, Brimstone Bricks Slab
+quark:fire_stone_brick_stairs, tile.fire_stone_brick_stairs.name
+quark:icy_stone_slab:0, Permafrost Slab
+quark:icy_stone_stairs, tile.icy_stone_stairs.name
+quark:icy_stone_brick_slab:0, Permafrost Bricks Slab
+quark:icy_stone_brick_stairs, tile.icy_stone_brick_stairs.name
+quark:cobbed_stone_slab:0, Cobbedstone Slab
+quark:cobbed_stone_stairs, tile.cobbed_stone_stairs.name
+quark:elder_prismarine_slab:0, Elder Prismarine Slab
+quark:elder_prismarine_stairs, tile.elder_prismarine_stairs.name
+quark:elder_prismarine_bricks_slab:0, Elder Prismarine Brick Slab
+quark:elder_prismarine_bricks_stairs, tile.elder_prismarine_bricks_stairs.name
+quark:elder_prismarine_dark_slab:0, Dark Elder Prismarine Slab
+quark:elder_prismarine_dark_stairs, tile.elder_prismarine_dark_stairs.name
+quark:fire_stone_wall, tile.fire_stone_wall.name
+quark:icy_stone_wall, tile.icy_stone_wall.name
+quark:cobbed_stone_wall, tile.cobbed_stone_wall.name
+quark:fire_stone_brick_wall, tile.fire_stone_brick_wall.name
+quark:icy_stone_brick_wall, tile.icy_stone_brick_wall.name
+quark:elder_prismarine_wall, tile.elder_prismarine_wall.name
+quark:elder_prismarine_bricks_wall, tile.elder_prismarine_bricks_wall.name
+quark:elder_prismarine_dark_wall, tile.elder_prismarine_dark_wall.name
+quark:glowcelium, tile.glowcelium.name
+quark:glowshroom, tile.glowshroom.name
+quark:glowshroom_block, tile.glowshroom_block.name
+quark:soul_bead, item.soul_bead.name
+quark:smoker, Smoker
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:candle:0, White Candle
+quark:candle:1, Orange Candle
+quark:candle:2, Magenta Candle
+quark:candle:3, Light Blue Candle
+quark:candle:4, Yellow Candle
+quark:candle:5, Lime Candle
+quark:candle:6, Pink Candle
+quark:candle:7, Gray Candle
+quark:candle:8, Light Gray Candle
+quark:candle:9, Cyan Candle
+quark:candle:10, Purple Candle
+quark:candle:11, Blue Candle
+quark:candle:12, Brown Candle
+quark:candle:13, Green Candle
+quark:candle:14, Red Candle
+quark:candle:15, Black Candle
+quark:tallow, item.tallow.name
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:leaf_carpet:6, Swamp Oak Leaf Carpet
+quark:leaf_carpet:7, Blossoming Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:grate, tile.grate.name
+quark:glass_item_frame, item.glass_item_frame.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -19417,246 +19691,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
-quark:roots, tile.roots.name
-quark:root, item.root.name
-quark:roots_blue_flower, tile.roots_blue_flower.name
-quark:roots_black_flower, tile.roots_black_flower.name
-quark:roots_white_flower, tile.roots_white_flower.name
-quark:root_flower:0, Blue Sprout
-quark:root_flower:1, Black Sprout
-quark:root_flower:2, White Sprout
-quark:root_dye:0, Blue Dye
-quark:root_dye:1, Black Dye
-quark:root_dye:2, White Dye
-quark:diamond_heart, item.diamond_heart.name
-quark:archaeologist_hat, item.archaeologist_hat.name
-quark:variant_leaves:0, Swamp Oak Leaves
-quark:variant_leaves:1, Blossoming Leaves
-quark:variant_sapling:0, Swamp Oak Sapling
-quark:variant_sapling:1, Blossoming Sapling
-quark:crystal:0, White Cave Crystal
-quark:crystal:1, Red Cave Crystal
-quark:crystal:2, Orange Cave Crystal
-quark:crystal:3, Yellow Cave Crystal
-quark:crystal:4, Green Cave Crystal
-quark:crystal:5, Blue Cave Crystal
-quark:crystal:6, Indigo Cave Crystal
-quark:crystal:7, Violet Cave Crystal
-quark:crystal:8, Black Cave Crystal
-quark:crystal_pane:0, White Cave Crystal Sheet
-quark:crystal_pane:1, Red Cave Crystal Sheet
-quark:crystal_pane:2, Orange Cave Crystal Sheet
-quark:crystal_pane:3, Yellow Cave Crystal Sheet
-quark:crystal_pane:4, Green Cave Crystal Sheet
-quark:crystal_pane:5, Blue Cave Crystal Sheet
-quark:crystal_pane:6, Indigo Cave Crystal Sheet
-quark:crystal_pane:7, Violet Cave Crystal Sheet
-quark:crystal_pane:8, Black Cave Crystal Sheet
-quark:stone_speleothem, tile.stone_speleothem.name
-quark:granite_speleothem, tile.granite_speleothem.name
-quark:diorite_speleothem, tile.diorite_speleothem.name
-quark:andesite_speleothem, tile.andesite_speleothem.name
-quark:netherrack_speleothem, tile.netherrack_speleothem.name
-quark:basalt_speleothem, tile.basalt_speleothem.name
-quark:marble_speleothem, tile.marble_speleothem.name
-quark:limestone_speleothem, tile.limestone_speleothem.name
-quark:jasper_speleothem, tile.jasper_speleothem.name
-quark:slate_speleothem, tile.slate_speleothem.name
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, Block of Biotite
-quark:biotite_block:1, Chiseled Biotite Block
-quark:biotite_block:2, Pillar Biotite Block
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, Biotite Slab
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:monster_box, tile.monster_box.name
-quark:basalt:0, Basalt
-quark:basalt:1, Polished Basalt
-quark:stone_basalt_slab:0, Basalt Slab
-quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
-quark:basalt_wall, tile.basalt_wall.name
-quark:frog_leg, item.frog_leg.name
-quark:cooked_frog_leg, item.cooked_frog_leg.name
-quark:golden_frog_leg, item.golden_frog_leg.name
-quark:pirate_hat, item.pirate_hat.name
-quark:crab_leg, item.crab_leg.name
-quark:cooked_crab_leg, item.cooked_crab_leg.name
-quark:crab_shell, item.crab_shell.name
-quark:marble:0, Marble
-quark:marble:1, Polished Marble
-quark:stone_marble_slab:0, Marble Slab
-quark:stone_marble_stairs, tile.stone_marble_stairs.name
-quark:marble_wall, tile.marble_wall.name
-quark:limestone:0, Limestone
-quark:limestone:1, Polished Limestone
-quark:stone_limestone_slab:0, Limestone Slab
-quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
-quark:limestone_wall, tile.limestone_wall.name
-quark:jasper:0, Jasper
-quark:jasper:1, Polished Jasper
-quark:stone_jasper_slab:0, Jasper Slab
-quark:stone_jasper_stairs, tile.stone_jasper_stairs.name
-quark:jasper_wall, tile.jasper_wall.name
-quark:slate:0, Slate
-quark:slate:1, Polished Slate
-quark:stone_slate_slab:0, Slate Slab
-quark:stone_slate_stairs, tile.stone_slate_stairs.name
-quark:slate_wall, tile.slate_wall.name
-quark:biome_cobblestone:0, Brimstone
-quark:biome_cobblestone:1, Permafrost
-quark:biome_cobblestone:2, Cobbedstone
-quark:biome_brick:0, Brimstone Bricks
-quark:biome_brick:1, Permafrost Bricks
-quark:elder_prismarine:0, Elder Prismarine
-quark:elder_prismarine:1, Elder Prismarine Bricks
-quark:elder_prismarine:2, Dark Elder Prismarine
-quark:elder_sea_lantern, tile.elder_sea_lantern.name
-quark:fire_stone_slab:0, Brimstone Slab
-quark:fire_stone_stairs, tile.fire_stone_stairs.name
-quark:fire_stone_brick_slab:0, Brimstone Bricks Slab
-quark:fire_stone_brick_stairs, tile.fire_stone_brick_stairs.name
-quark:icy_stone_slab:0, Permafrost Slab
-quark:icy_stone_stairs, tile.icy_stone_stairs.name
-quark:icy_stone_brick_slab:0, Permafrost Bricks Slab
-quark:icy_stone_brick_stairs, tile.icy_stone_brick_stairs.name
-quark:cobbed_stone_slab:0, Cobbedstone Slab
-quark:cobbed_stone_stairs, tile.cobbed_stone_stairs.name
-quark:elder_prismarine_slab:0, Elder Prismarine Slab
-quark:elder_prismarine_stairs, tile.elder_prismarine_stairs.name
-quark:elder_prismarine_bricks_slab:0, Elder Prismarine Brick Slab
-quark:elder_prismarine_bricks_stairs, tile.elder_prismarine_bricks_stairs.name
-quark:elder_prismarine_dark_slab:0, Dark Elder Prismarine Slab
-quark:elder_prismarine_dark_stairs, tile.elder_prismarine_dark_stairs.name
-quark:fire_stone_wall, tile.fire_stone_wall.name
-quark:icy_stone_wall, tile.icy_stone_wall.name
-quark:cobbed_stone_wall, tile.cobbed_stone_wall.name
-quark:fire_stone_brick_wall, tile.fire_stone_brick_wall.name
-quark:icy_stone_brick_wall, tile.icy_stone_brick_wall.name
-quark:elder_prismarine_wall, tile.elder_prismarine_wall.name
-quark:elder_prismarine_bricks_wall, tile.elder_prismarine_bricks_wall.name
-quark:elder_prismarine_dark_wall, tile.elder_prismarine_dark_wall.name
-quark:glowcelium, tile.glowcelium.name
-quark:glowshroom, tile.glowshroom.name
-quark:glowshroom_block, tile.glowshroom_block.name
-quark:soul_bead, item.soul_bead.name
-quark:smoker, Smoker
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:candle:0, White Candle
-quark:candle:1, Orange Candle
-quark:candle:2, Magenta Candle
-quark:candle:3, Light Blue Candle
-quark:candle:4, Yellow Candle
-quark:candle:5, Lime Candle
-quark:candle:6, Pink Candle
-quark:candle:7, Gray Candle
-quark:candle:8, Light Gray Candle
-quark:candle:9, Cyan Candle
-quark:candle:10, Purple Candle
-quark:candle:11, Blue Candle
-quark:candle:12, Brown Candle
-quark:candle:13, Green Candle
-quark:candle:14, Red Candle
-quark:candle:15, Black Candle
-quark:tallow, item.tallow.name
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:leaf_carpet:6, Swamp Oak Leaf Carpet
-quark:leaf_carpet:7, Blossoming Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:grate, tile.grate.name
-quark:glass_item_frame, item.glass_item_frame.name
 morphtool:tool, item.tool.name
 basemetals:human_detector, Security Pressure Plate
 basemetals:antimony_slab, Antimony Slab
@@ -20603,6 +20637,17 @@ betteranimalsplus:trillium, Trillium
 betteranimalsplus:handoffate, Hand Of Fate
 betteranimalsplus:turkey_raw, Raw Turkey
 betteranimalsplus:turkey_cooked, Cooked Turkey
+better_diving:limestone_outcrop, Limestone Outcrop
+better_diving:sandstone_outcrop, Sandstone Outcrop
+better_diving:creepvine, Creepvine Sample
+better_diving:creepvine_seed, Creepvine Seed
+better_diving:creepvine_top, Creepvine Top
+better_diving:seagrass, Seagrass
+better_diving:seagrass_tall_bottom, Seagrass Tall
+better_diving:seagrass_tall_top, Seagrass Tall Top
+better_diving:acid_mushroom, Acid Mushroom
+better_diving:structure_block, Structure Block (WIP)
+better_diving:solar_panel, Solar Panel
 better_diving:titanium, Titanium
 better_diving:copper_ore, Copper Ore
 better_diving:silver_ore, Silver Ore
@@ -20645,17 +20690,6 @@ better_diving:boomerang, Boomerang
 better_diving:boomerang_cooked, Cooked Boomerang
 better_diving:boomerang_cured, Cured Boomerang
 better_diving:habitat_builder, Habitat Builder (WIP)
-better_diving:limestone_outcrop, Limestone Outcrop
-better_diving:sandstone_outcrop, Sandstone Outcrop
-better_diving:creepvine, Creepvine Sample
-better_diving:creepvine_seed, Creepvine Seed
-better_diving:creepvine_top, Creepvine Top
-better_diving:seagrass, Seagrass
-better_diving:seagrass_tall_bottom, Seagrass Tall
-better_diving:seagrass_tall_top, Seagrass Tall Top
-better_diving:acid_mushroom, Acid Mushroom
-better_diving:structure_block, Structure Block (WIP)
-better_diving:solar_panel, Solar Panel
 bibliocraft:bookcase:0, Oak Bookcase
 bibliocraft:bookcase:1, Spruce Bookcase
 bibliocraft:bookcase:2, Birch Bookcase
@@ -20978,12 +21012,45 @@ bibliocraft:biblioglasses:2, Monocle
 bibliocraft:bibliodrill, Screw Gun
 bibliocraft:bibliocreativelock, Lock and Key
 bibliocraft:biblioclipboard, Clipboard
+catwalks:blowtorch, Blowtorch
 catwalks:cable, Classic Support Cables
 catwalks:catwalk, tile.catwalks.catwalk.name
 catwalks:ladder, Classic Ladder
 catwalks:stair, WORK IN PROGRESS
-catwalks:blowtorch, Blowtorch
 colytra:elytra_bauble, Elytra
+comforts:sleeping_bag:0, White Sleeping Bag
+comforts:sleeping_bag:1, Orange Sleeping Bag
+comforts:sleeping_bag:2, Magenta Sleeping Bag
+comforts:sleeping_bag:3, Light Blue Sleeping Bag
+comforts:sleeping_bag:4, Yellow Sleeping Bag
+comforts:sleeping_bag:5, Lime Sleeping Bag
+comforts:sleeping_bag:6, Pink Sleeping Bag
+comforts:sleeping_bag:7, Gray Sleeping Bag
+comforts:sleeping_bag:8, Light Gray Sleeping Bag
+comforts:sleeping_bag:9, Cyan Sleeping Bag
+comforts:sleeping_bag:10, Purple Sleeping Bag
+comforts:sleeping_bag:11, Blue Sleeping Bag
+comforts:sleeping_bag:12, Brown Sleeping Bag
+comforts:sleeping_bag:13, Green Sleeping Bag
+comforts:sleeping_bag:14, Red Sleeping Bag
+comforts:sleeping_bag:15, Black Sleeping Bag
+comforts:hammock:0, White Hammock Cloth
+comforts:hammock:1, Orange Hammock Cloth
+comforts:hammock:2, Magenta Hammock Cloth
+comforts:hammock:3, Light Blue Hammock Cloth
+comforts:hammock:4, Yellow Hammock Cloth
+comforts:hammock:5, Lime Hammock Cloth
+comforts:hammock:6, Pink Hammock Cloth
+comforts:hammock:7, Gray Hammock Cloth
+comforts:hammock:8, Light Gray Hammock Cloth
+comforts:hammock:9, Cyan Hammock Cloth
+comforts:hammock:10, Purple Hammock Cloth
+comforts:hammock:11, Blue Hammock Cloth
+comforts:hammock:12, Brown Hammock Cloth
+comforts:hammock:13, Green Hammock Cloth
+comforts:hammock:14, Red Hammock Cloth
+comforts:hammock:15, Black Hammock Cloth
+comforts:rope, Rope and Nail
 cookingforblockheads:cooking_table, Cooking Table
 cookingforblockheads:oven, Oven
 cookingforblockheads:fridge, Fridge
@@ -21179,20 +21246,6 @@ darkutils:charm_null, Null Charm
 darkutils:charm_portal, Portal Charm
 darkutils:charm_sleep, Sleep Charm
 darkutils:anti_slime, Anti-Slime Block
-mocreatures:mocstone:0, WyvernLair Stone
-mocreatures:mocstone:1, OgreLair Stone
-mocreatures:mocgrass:0, WyvernLair Grass
-mocreatures:mocgrass:1, OgreLair Grass
-mocreatures:mocdirt:0, WyvernLair Dirt
-mocreatures:mocdirt:1, OgreLair Dirt
-mocreatures:mocleaves:0, WyvernLair Leaves
-mocreatures:mocleaves:1, OgreLair Leaves
-mocreatures:moclog:0, WyvernLair Log
-mocreatures:moclog:1, OgreLair Log
-mocreatures:moctallgrass:0, WyvernLair Tall Grass
-mocreatures:moctallgrass:1, OgreLair Tall Grass
-mocreatures:mocwoodplank:0, WyvernLair Wood Plank
-mocreatures:mocwoodplank:1, OgreLair Wood Plank
 mocreatures:kittybed_white, White Kitty Bed
 mocreatures:kittybed_orange, Orange Kitty Bed
 mocreatures:kittybed_magenta, Magenta Kitty Bed
@@ -21368,6 +21421,20 @@ mocreatures:scrollofsale, Scroll of Sale
 mocreatures:scrollofowner, Scroll of Reset Owner
 mocreatures:crabraw, Raw Crab
 mocreatures:crabcooked, Cooked Crab
+mocreatures:mocstone:0, WyvernLair Stone
+mocreatures:mocstone:1, OgreLair Stone
+mocreatures:mocgrass:0, WyvernLair Grass
+mocreatures:mocgrass:1, OgreLair Grass
+mocreatures:mocdirt:0, WyvernLair Dirt
+mocreatures:mocdirt:1, OgreLair Dirt
+mocreatures:mocleaves:0, WyvernLair Leaves
+mocreatures:mocleaves:1, OgreLair Leaves
+mocreatures:moclog:0, WyvernLair Log
+mocreatures:moclog:1, OgreLair Log
+mocreatures:moctallgrass:0, WyvernLair Tall Grass
+mocreatures:moctallgrass:1, OgreLair Tall Grass
+mocreatures:mocwoodplank:0, WyvernLair Wood Plank
+mocreatures:mocwoodplank:1, OgreLair Wood Plank
 dynamictrees:dendropotion:0, Biochar Base Potion
 dynamictrees:dendropotion:1, Potion of Depletion
 dynamictrees:dendropotion:2, Potion of Defoliance
@@ -23595,8 +23662,6 @@ kindredlegacy:pokeraser, Pokeraser
 kindredlegacy:substitute_doll, Substitute Doll
 kindredlegacy:packed_aurum_dust, Packed Aurum Dust
 kindredlegacy:guardian_field, Guardian Field
-lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
-lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
 lcrdrfs:robo_dino_part, T-R3X 1000 Part
 lcrdrfs:jetpack_spider_part, ARTHR0-BORG JETLINER 2000 Part
 lcrdrfs:robo_dino_control_module, T-R3X Control Module
@@ -23638,6 +23703,10 @@ lcrdrfs:creepssile_bazookoid, Creepssile Bazookoid
 lcrdrfs:bazookoid_chamber, Bazookoid Chamber
 lcrdrfs:bazookoid_grip, Bazookoid Grip
 lcrdrfs:bazookoid_ignition, Bazookoid Ignition
+lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
+lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
+levelup2:respecbook, Book of Specialization Change
+levelup2:skillbook, Skill Book
 mekanismgenerators:solarpanel, Solar Panel
 mekanismgenerators:hohlraum, Hohlraum
 mekanismgenerators:turbineblade, Turbine Blade
@@ -23734,86 +23803,86 @@ millenaire:stone_deco:3, Byzantine Mosaic
 millenaire:stone_deco:4, Byzantine Fresco
 millenaire:earth_deco:0, Dirt Wall
 millenaire:wall_mud_brick, Mud Brick Wall
-millenaire:stairs_painted_brick_blue, Blue Painted Stairs
-millenaire:stairs_painted_brick_red, Red Painted Stairs
-millenaire:stairs_painted_brick_magenta, Magenta Painted Stairs
-millenaire:stairs_painted_brick_yellow, Yellow Painted Stairs
-millenaire:stairs_painted_brick_lime, Lime Painted Stairs
+millenaire:stairs_painted_brick_purple, Purple Painted Stairs
 millenaire:stairs_painted_brick_pink, Pink Painted Stairs
-millenaire:stairs_painted_brick_gray, Gray Painted Stairs
+millenaire:stairs_painted_brick_cyan, Cyan Painted Stairs
+millenaire:stairs_painted_brick_yellow, Yellow Painted Stairs
 millenaire:stairs_painted_brick_orange, Orange Painted Stairs
+millenaire:stairs_painted_brick_magenta, Magenta Painted Stairs
+millenaire:stairs_painted_brick_blue, Blue Painted Stairs
+millenaire:stairs_painted_brick_lime, Lime Painted Stairs
+millenaire:stairs_painted_brick_red, Red Painted Stairs
 millenaire:stairs_painted_brick_black, Black Painted Stairs
 millenaire:stairs_painted_brick_white, White Painted Stairs
-millenaire:stairs_painted_brick_brown, Brown Painted Stairs
-millenaire:stairs_painted_brick_green, Green Painted Stairs
 millenaire:stairs_painted_brick_light_blue, Light Blue Painted Stairs
-millenaire:stairs_painted_brick_purple, Purple Painted Stairs
 millenaire:stairs_painted_brick_silver, Silver Painted Stairs
-millenaire:stairs_painted_brick_cyan, Cyan Painted Stairs
-millenaire:painted_brick_blue, Blue Painted Brick
-millenaire:painted_brick_red, Red Painted Brick
-millenaire:painted_brick_magenta, Magenta Painted Brick
-millenaire:painted_brick_yellow, Yellow Painted Brick
-millenaire:painted_brick_lime, Lime Painted Brick
+millenaire:stairs_painted_brick_green, Green Painted Stairs
+millenaire:stairs_painted_brick_brown, Brown Painted Stairs
+millenaire:stairs_painted_brick_gray, Gray Painted Stairs
+millenaire:painted_brick_purple, Purple Painted Brick
 millenaire:painted_brick_pink, Pink Painted Brick
-millenaire:painted_brick_gray, Gray Painted Brick
+millenaire:painted_brick_cyan, Cyan Painted Brick
+millenaire:painted_brick_yellow, Yellow Painted Brick
 millenaire:painted_brick_orange, Orange Painted Brick
+millenaire:painted_brick_magenta, Magenta Painted Brick
+millenaire:painted_brick_blue, Blue Painted Brick
+millenaire:painted_brick_lime, Lime Painted Brick
+millenaire:painted_brick_red, Red Painted Brick
 millenaire:painted_brick_black, Black Painted Brick
 millenaire:painted_brick_white, White Painted Brick
-millenaire:painted_brick_brown, Brown Painted Brick
-millenaire:painted_brick_green, Green Painted Brick
 millenaire:painted_brick_light_blue, Light Blue Painted Brick
-millenaire:painted_brick_purple, Purple Painted Brick
 millenaire:painted_brick_silver, Silver Painted Brick
-millenaire:painted_brick_cyan, Cyan Painted Brick
-millenaire:wall_painted_brick_blue, Blue Painted Wall
-millenaire:wall_painted_brick_red, Red Painted Wall
-millenaire:wall_painted_brick_magenta, Magenta Painted Wall
-millenaire:wall_painted_brick_yellow, Yellow Painted Wall
-millenaire:wall_painted_brick_lime, Lime Painted Wall
+millenaire:painted_brick_green, Green Painted Brick
+millenaire:painted_brick_brown, Brown Painted Brick
+millenaire:painted_brick_gray, Gray Painted Brick
+millenaire:wall_painted_brick_purple, Purple Painted Wall
 millenaire:wall_painted_brick_pink, Pink Painted Wall
-millenaire:wall_painted_brick_gray, Gray Painted Wall
+millenaire:wall_painted_brick_cyan, Cyan Painted Wall
+millenaire:wall_painted_brick_yellow, Yellow Painted Wall
 millenaire:wall_painted_brick_orange, Orange Painted Wall
+millenaire:wall_painted_brick_magenta, Magenta Painted Wall
+millenaire:wall_painted_brick_blue, Blue Painted Wall
+millenaire:wall_painted_brick_lime, Lime Painted Wall
+millenaire:wall_painted_brick_red, Red Painted Wall
 millenaire:wall_painted_brick_black, Black Painted Wall
 millenaire:wall_painted_brick_white, White Painted Wall
-millenaire:wall_painted_brick_brown, Brown Painted Wall
-millenaire:wall_painted_brick_green, Green Painted Wall
 millenaire:wall_painted_brick_light_blue, Light Blue Painted Wall
-millenaire:wall_painted_brick_purple, Purple Painted Wall
 millenaire:wall_painted_brick_silver, Silver Painted Wall
-millenaire:wall_painted_brick_cyan, Cyan Painted Wall
-millenaire:slab_painted_brick_blue, Blue Painted Slab
-millenaire:slab_painted_brick_red, Red Painted Slab
-millenaire:slab_painted_brick_magenta, Magenta Painted Slab
-millenaire:slab_painted_brick_yellow, Yellow Painted Slab
-millenaire:slab_painted_brick_lime, Lime Painted Slab
+millenaire:wall_painted_brick_green, Green Painted Wall
+millenaire:wall_painted_brick_brown, Brown Painted Wall
+millenaire:wall_painted_brick_gray, Gray Painted Wall
+millenaire:slab_painted_brick_purple, Purple Painted Slab
 millenaire:slab_painted_brick_pink, Pink Painted Slab
-millenaire:slab_painted_brick_gray, Gray Painted Slab
+millenaire:slab_painted_brick_cyan, Cyan Painted Slab
+millenaire:slab_painted_brick_yellow, Yellow Painted Slab
 millenaire:slab_painted_brick_orange, Orange Painted Slab
+millenaire:slab_painted_brick_magenta, Magenta Painted Slab
+millenaire:slab_painted_brick_blue, Blue Painted Slab
+millenaire:slab_painted_brick_lime, Lime Painted Slab
+millenaire:slab_painted_brick_red, Red Painted Slab
 millenaire:slab_painted_brick_black, Black Painted Slab
 millenaire:slab_painted_brick_white, White Painted Slab
-millenaire:slab_painted_brick_brown, Brown Painted Slab
-millenaire:slab_painted_brick_green, Green Painted Slab
 millenaire:slab_painted_brick_light_blue, Light Blue Painted Slab
-millenaire:slab_painted_brick_purple, Purple Painted Slab
 millenaire:slab_painted_brick_silver, Silver Painted Slab
-millenaire:slab_painted_brick_cyan, Cyan Painted Slab
-millenaire:painted_brick_decorated_blue, Blue Decorated Brick
-millenaire:painted_brick_decorated_red, Red Decorated Brick
-millenaire:painted_brick_decorated_magenta, Magenta Decorated Brick
-millenaire:painted_brick_decorated_yellow, Yellow Decorated Brick
-millenaire:painted_brick_decorated_lime, Lime Decorated Brick
+millenaire:slab_painted_brick_green, Green Painted Slab
+millenaire:slab_painted_brick_brown, Brown Painted Slab
+millenaire:slab_painted_brick_gray, Gray Painted Slab
+millenaire:painted_brick_decorated_purple, Purple Decorated Brick
 millenaire:painted_brick_decorated_pink, Pink Decorated Brick
-millenaire:painted_brick_decorated_gray, Gray Decorated Brick
+millenaire:painted_brick_decorated_cyan, Cyan Decorated Brick
+millenaire:painted_brick_decorated_yellow, Yellow Decorated Brick
 millenaire:painted_brick_decorated_orange, Orange Decorated Brick
+millenaire:painted_brick_decorated_magenta, Magenta Decorated Brick
+millenaire:painted_brick_decorated_blue, Blue Decorated Brick
+millenaire:painted_brick_decorated_lime, Lime Decorated Brick
+millenaire:painted_brick_decorated_red, Red Decorated Brick
 millenaire:painted_brick_decorated_black, Black Decorated Brick
 millenaire:painted_brick_decorated_white, White Decorated Brick
-millenaire:painted_brick_decorated_brown, Brown Decorated Brick
-millenaire:painted_brick_decorated_green, Green Decorated Brick
 millenaire:painted_brick_decorated_light_blue, Light Blue Decorated Brick
-millenaire:painted_brick_decorated_purple, Purple Decorated Brick
 millenaire:painted_brick_decorated_silver, Silver Decorated Brick
-millenaire:painted_brick_decorated_cyan, Cyan Decorated Brick
+millenaire:painted_brick_decorated_green, Green Decorated Brick
+millenaire:painted_brick_decorated_brown, Brown Decorated Brick
+millenaire:painted_brick_decorated_gray, Gray Decorated Brick
 millenaire:slab_wood_deco:0, Timber Frame Slab
 millenaire:slab_wood_deco:2, Thatch Slab
 millenaire:slab_stone_deco:0, Mud Brick Slab
@@ -24494,6 +24563,60 @@ natura:netherquartz_axe, Quartz Hatchet
 natura:netherquartz_kama, Quartz Kama
 natura:flint_and_blaze, Flint and Blaze
 naturescompass:naturescompass, Nature's Compass
+netherex:gloomy_netherbrick, Gloomy Nether Brick
+netherex:lively_netherbrick, Lively Nether Brick
+netherex:fiery_netherbrick, Fiery Nether Brick
+netherex:icy_netherbrick, Icy Nether Brick
+netherex:wither_bone, Wither Bone
+netherex:wither_dust, Wither Dust
+netherex:frost_rod, Frost Rod
+netherex:frost_powder, Frost Powder
+netherex:blazed_wither_bone, Blazed Wither Bone
+netherex:frosted_wither_bone, Frosted Wither Bone
+netherex:orange_salamander_hide, Orange Salamander Hide
+netherex:black_salamander_hide, Black Salamander Hide
+netherex:amethyst_crystal, Nether Amethyst Crystal
+netherex:rime_crystal, Nether Rime Crystal
+netherex:rime_and_steel, Rime and Steel
+netherex:spore, Spore
+netherex:coolmar_spider_fang, Frost Fang
+netherex:ghast_queen_tear, Ghast Queen Tears
+netherex:obsidian_boat, Obsidian Boat
+netherex:ghast_meat_raw, Raw Ghast Meat
+netherex:ghast_meat_cooked, Cooked Ghast Meat
+netherex:congealed_magma_cream, Congealed Magma Cream
+netherex:enoki_mushroom, Enoki Mushroom
+netherex:dull_mirror, Dull Mirror
+netherex:withered_amedian_sword, Withered Amedian Sword
+netherex:withered_amedian_pickaxe, Withered Amedian Pickaxe
+netherex:withered_amedian_shovel, Withered Amedian Shovel
+netherex:withered_amedian_axe, Withered Amedian Axe
+netherex:withered_amedian_hoe, Withered Amedian Hoe
+netherex:withered_amedian_hammer, Withered Amedian Hammer
+netherex:blazed_amedian_sword, Blazed Amedian Sword
+netherex:blazed_amedian_pickaxe, Blazed Amedian Pickaxe
+netherex:blazed_amedian_shovel, Blazed Amedian Shovel
+netherex:blazed_amedian_axe, Blazed Amedian Axe
+netherex:blazed_amedian_hoe, Blazed Amedian Hoe
+netherex:blazed_amedian_hammer, Blazed Amedian Hammer
+netherex:frosted_amedian_sword, Frosted Amedian Sword
+netherex:frosted_amedian_pickaxe, Frosted Amedian Pickaxe
+netherex:frosted_amedian_shovel, Frosted Amedian Shovel
+netherex:frosted_amedian_axe, Frosted Amedian Axe
+netherex:frosted_amedian_hoe, Frosted Amedian Hoe
+netherex:frosted_amedian_hammer, Frosted Amedian Hammer
+netherex:wither_bone_helmet, Wither Bone Helmet
+netherex:wither_bone_chestplate, Wither Bone Chestplate
+netherex:wither_bone_leggings, Wither Bone Leggings
+netherex:wither_bone_boots, Wither Bone Boots
+netherex:orange_salamander_hide_helmet, OrangeSalamander Hide Helmet
+netherex:orange_salamander_hide_chestplate, Orange Salamander Hide Chestplate
+netherex:orange_salamander_hide_leggings, Orange Salamander Hide Leggings
+netherex:orange_salamander_hide_boots, Orange Salamander Hide Boots
+netherex:black_salamander_hide_helmet, Black Salamander Hide Helmet
+netherex:black_salamander_hide_chestplate, Black Salamander Hide Chestplate
+netherex:black_salamander_hide_leggings, Black Salamander Hide Leggings
+netherex:black_salamander_hide_boots, Black Salamander Hide Boots
 netherex:gloomy_netherrack, Gloomy Netherrack
 netherex:lively_netherrack, Lively Netherrack
 netherex:fiery_netherrack, Fiery Netherrack
@@ -24583,60 +24706,6 @@ netherex:gloomy_nether_brick_fence_gate, Gloomy Nether Brick Fence Gate
 netherex:lively_nether_brick_fence_gate, Lively Nether Brick Fence Gate
 netherex:fiery_nether_brick_fence_gate, Fiery Nether Brick Fence Gate
 netherex:icy_nether_brick_fence_gate, Icy Nether Brick Fence Gate
-netherex:gloomy_netherbrick, Gloomy Nether Brick
-netherex:lively_netherbrick, Lively Nether Brick
-netherex:fiery_netherbrick, Fiery Nether Brick
-netherex:icy_netherbrick, Icy Nether Brick
-netherex:wither_bone, Wither Bone
-netherex:wither_dust, Wither Dust
-netherex:frost_rod, Frost Rod
-netherex:frost_powder, Frost Powder
-netherex:blazed_wither_bone, Blazed Wither Bone
-netherex:frosted_wither_bone, Frosted Wither Bone
-netherex:orange_salamander_hide, Orange Salamander Hide
-netherex:black_salamander_hide, Black Salamander Hide
-netherex:amethyst_crystal, Nether Amethyst Crystal
-netherex:rime_crystal, Nether Rime Crystal
-netherex:rime_and_steel, Rime and Steel
-netherex:spore, Spore
-netherex:coolmar_spider_fang, Frost Fang
-netherex:ghast_queen_tear, Ghast Queen Tears
-netherex:obsidian_boat, Obsidian Boat
-netherex:ghast_meat_raw, Raw Ghast Meat
-netherex:ghast_meat_cooked, Cooked Ghast Meat
-netherex:congealed_magma_cream, Congealed Magma Cream
-netherex:enoki_mushroom, Enoki Mushroom
-netherex:dull_mirror, Dull Mirror
-netherex:withered_amedian_sword, Withered Amedian Sword
-netherex:withered_amedian_pickaxe, Withered Amedian Pickaxe
-netherex:withered_amedian_shovel, Withered Amedian Shovel
-netherex:withered_amedian_axe, Withered Amedian Axe
-netherex:withered_amedian_hoe, Withered Amedian Hoe
-netherex:withered_amedian_hammer, Withered Amedian Hammer
-netherex:blazed_amedian_sword, Blazed Amedian Sword
-netherex:blazed_amedian_pickaxe, Blazed Amedian Pickaxe
-netherex:blazed_amedian_shovel, Blazed Amedian Shovel
-netherex:blazed_amedian_axe, Blazed Amedian Axe
-netherex:blazed_amedian_hoe, Blazed Amedian Hoe
-netherex:blazed_amedian_hammer, Blazed Amedian Hammer
-netherex:frosted_amedian_sword, Frosted Amedian Sword
-netherex:frosted_amedian_pickaxe, Frosted Amedian Pickaxe
-netherex:frosted_amedian_shovel, Frosted Amedian Shovel
-netherex:frosted_amedian_axe, Frosted Amedian Axe
-netherex:frosted_amedian_hoe, Frosted Amedian Hoe
-netherex:frosted_amedian_hammer, Frosted Amedian Hammer
-netherex:wither_bone_helmet, Wither Bone Helmet
-netherex:wither_bone_chestplate, Wither Bone Chestplate
-netherex:wither_bone_leggings, Wither Bone Leggings
-netherex:wither_bone_boots, Wither Bone Boots
-netherex:orange_salamander_hide_helmet, OrangeSalamander Hide Helmet
-netherex:orange_salamander_hide_chestplate, Orange Salamander Hide Chestplate
-netherex:orange_salamander_hide_leggings, Orange Salamander Hide Leggings
-netherex:orange_salamander_hide_boots, Orange Salamander Hide Boots
-netherex:black_salamander_hide_helmet, Black Salamander Hide Helmet
-netherex:black_salamander_hide_chestplate, Black Salamander Hide Chestplate
-netherex:black_salamander_hide_leggings, Black Salamander Hide Leggings
-netherex:black_salamander_hide_boots, Black Salamander Hide Boots
 nethermetals:nether_iron_ore, Nether Iron Ore
 nethermetals:nether_gold_ore, Nether Gold Ore
 nethermetals:nether_diamond_ore, Nether Diamond Ore
@@ -24686,6 +24755,7 @@ plustic:pipe_piece:0, Bone Pipe Piece
 plustic:pipe_piece:0, Obsidian Pipe Piece
 plustic:pipe_piece:0, Prismarine Pipe Piece
 plustic:pipe_piece:0, End Pipe Piece
+plustic:pipe_piece:0, Paper Pipe Piece
 plustic:pipe_piece:0, Sponge Pipe Piece
 plustic:pipe_piece:0, Firewood Pipe Piece
 plustic:pipe_piece:0, Iron Pipe Piece
@@ -24712,21 +24782,6 @@ plustic:pipe_piece:0, Ice Dragonsteel Pipe Piece
 plustic:pipe_piece:0, Weezer Pipe Piece
 plustic:pipe_piece:0, Dilithium Pipe Piece
 plustic:pipe_piece:0, Tritanium Pipe Piece
-plustic:pipe_piece:0, Adamantine Pipe Piece
-plustic:pipe_piece:0, Antimony Pipe Piece
-plustic:pipe_piece:0, Aquarium Pipe Piece
-plustic:pipe_piece:0, Bismuth Pipe Piece
-plustic:pipe_piece:0, Brass Pipe Piece
-plustic:pipe_piece:0, Cold-Iron Pipe Piece
-plustic:pipe_piece:0, Cupronickel Pipe Piece
-plustic:pipe_piece:0, Invar Pipe Piece
-plustic:pipe_piece:0, Mithril Pipe Piece
-plustic:pipe_piece:0, Nickel Pipe Piece
-plustic:pipe_piece:0, Pewter Pipe Piece
-plustic:pipe_piece:0, Platinum Pipe Piece
-plustic:pipe_piece:0, Star-Steel Pipe Piece
-plustic:pipe_piece:0, Tin Pipe Piece
-plustic:pipe_piece:0, Zinc Pipe Piece
 plustic:pipe_piece:0, Beryllium Pipe Piece
 plustic:pipe_piece:0, Boron Pipe Piece
 plustic:pipe_piece:0, Cadmium Pipe Piece
@@ -24746,6 +24801,21 @@ plustic:pipe_piece:0, Titanium Pipe Piece
 plustic:pipe_piece:0, Tungsten Pipe Piece
 plustic:pipe_piece:0, Uranium Pipe Piece
 plustic:pipe_piece:0, Zirconium Pipe Piece
+plustic:pipe_piece:0, Adamantine Pipe Piece
+plustic:pipe_piece:0, Antimony Pipe Piece
+plustic:pipe_piece:0, Aquarium Pipe Piece
+plustic:pipe_piece:0, Bismuth Pipe Piece
+plustic:pipe_piece:0, Brass Pipe Piece
+plustic:pipe_piece:0, Cold-Iron Pipe Piece
+plustic:pipe_piece:0, Cupronickel Pipe Piece
+plustic:pipe_piece:0, Invar Pipe Piece
+plustic:pipe_piece:0, Mithril Pipe Piece
+plustic:pipe_piece:0, Nickel Pipe Piece
+plustic:pipe_piece:0, Pewter Pipe Piece
+plustic:pipe_piece:0, Platinum Pipe Piece
+plustic:pipe_piece:0, Star-Steel Pipe Piece
+plustic:pipe_piece:0, Tin Pipe Piece
+plustic:pipe_piece:0, Zinc Pipe Piece
 plustic:pipe_piece:0, Treated Wood Pipe Piece
 plustic:pipe_piece:0, Constantan Pipe Piece
 plustic:pipe_piece:0, Magical Wooden Pipe Piece
@@ -24821,7 +24891,6 @@ plustic:pipe_piece:0, Kyronite Pipe Piece
 plustic:pipe_piece:0, Pladium Pipe Piece
 plustic:pipe_piece:0, Ionite Pipe Piece
 plustic:pipe_piece:0, Aethium Pipe Piece
-plustic:pipe_piece:0, Emerald Pipe Piece
 plustic:pipe_piece:0, Wyvern Pipe Piece
 plustic:pipe_piece:0, Awakened Pipe Piece
 plustic:pipe_piece:0, Chaotic Pipe Piece
@@ -24829,6 +24898,7 @@ plustic:pipe_piece:0, Bloodwood Pipe Piece
 plustic:pipe_piece:0, Fusewood Pipe Piece
 plustic:pipe_piece:0, Ghostwood Pipe Piece
 plustic:pipe_piece:0, Darkwood Pipe Piece
+plustic:pipe_piece:0, Emerald Pipe Piece
 plustic:laser_medium:0, Stone Laser Medium
 plustic:laser_medium:0, Prismarine Laser Medium
 plustic:laser_medium:0, Blazerod Laser Medium
@@ -25097,6 +25167,7 @@ totaltinkers:fullguard:0, Bone Full Guard
 totaltinkers:fullguard:0, Obsidian Full Guard
 totaltinkers:fullguard:0, Prismarine Full Guard
 totaltinkers:fullguard:0, End Full Guard
+totaltinkers:fullguard:0, Paper Full Guard
 totaltinkers:fullguard:0, Sponge Full Guard
 totaltinkers:fullguard:0, Firewood Full Guard
 totaltinkers:fullguard:0, Iron Full Guard
@@ -25123,21 +25194,6 @@ totaltinkers:fullguard:0, Ice Dragonsteel Full Guard
 totaltinkers:fullguard:0, Weezer Full Guard
 totaltinkers:fullguard:0, Dilithium Full Guard
 totaltinkers:fullguard:0, Tritanium Full Guard
-totaltinkers:fullguard:0, Adamantine Full Guard
-totaltinkers:fullguard:0, Antimony Full Guard
-totaltinkers:fullguard:0, Aquarium Full Guard
-totaltinkers:fullguard:0, Bismuth Full Guard
-totaltinkers:fullguard:0, Brass Full Guard
-totaltinkers:fullguard:0, Cold-Iron Full Guard
-totaltinkers:fullguard:0, Cupronickel Full Guard
-totaltinkers:fullguard:0, Invar Full Guard
-totaltinkers:fullguard:0, Mithril Full Guard
-totaltinkers:fullguard:0, Nickel Full Guard
-totaltinkers:fullguard:0, Pewter Full Guard
-totaltinkers:fullguard:0, Platinum Full Guard
-totaltinkers:fullguard:0, Star-Steel Full Guard
-totaltinkers:fullguard:0, Tin Full Guard
-totaltinkers:fullguard:0, Zinc Full Guard
 totaltinkers:fullguard:0, Beryllium Full Guard
 totaltinkers:fullguard:0, Boron Full Guard
 totaltinkers:fullguard:0, Cadmium Full Guard
@@ -25157,6 +25213,21 @@ totaltinkers:fullguard:0, Titanium Full Guard
 totaltinkers:fullguard:0, Tungsten Full Guard
 totaltinkers:fullguard:0, Uranium Full Guard
 totaltinkers:fullguard:0, Zirconium Full Guard
+totaltinkers:fullguard:0, Adamantine Full Guard
+totaltinkers:fullguard:0, Antimony Full Guard
+totaltinkers:fullguard:0, Aquarium Full Guard
+totaltinkers:fullguard:0, Bismuth Full Guard
+totaltinkers:fullguard:0, Brass Full Guard
+totaltinkers:fullguard:0, Cold-Iron Full Guard
+totaltinkers:fullguard:0, Cupronickel Full Guard
+totaltinkers:fullguard:0, Invar Full Guard
+totaltinkers:fullguard:0, Mithril Full Guard
+totaltinkers:fullguard:0, Nickel Full Guard
+totaltinkers:fullguard:0, Pewter Full Guard
+totaltinkers:fullguard:0, Platinum Full Guard
+totaltinkers:fullguard:0, Star-Steel Full Guard
+totaltinkers:fullguard:0, Tin Full Guard
+totaltinkers:fullguard:0, Zinc Full Guard
 totaltinkers:fullguard:0, Treated Wood Full Guard
 totaltinkers:fullguard:0, Constantan Full Guard
 totaltinkers:fullguard:0, Magical Wooden Full Guard
@@ -25232,7 +25303,6 @@ totaltinkers:fullguard:0, Kyronite Full Guard
 totaltinkers:fullguard:0, Pladium Full Guard
 totaltinkers:fullguard:0, Ionite Full Guard
 totaltinkers:fullguard:0, Aethium Full Guard
-totaltinkers:fullguard:0, Emerald Full Guard
 totaltinkers:fullguard:0, Wyvern Full Guard
 totaltinkers:fullguard:0, Awakened Full Guard
 totaltinkers:fullguard:0, Chaotic Full Guard
@@ -25240,6 +25310,7 @@ totaltinkers:fullguard:0, Bloodwood Full Guard
 totaltinkers:fullguard:0, Fusewood Full Guard
 totaltinkers:fullguard:0, Ghostwood Full Guard
 totaltinkers:fullguard:0, Darkwood Full Guard
+totaltinkers:fullguard:0, Emerald Full Guard
 totaltinkers:battleaxe, Battleaxe
 totaltinkers:cutlass, Cutlass
 totaltinkers:javelin, Javelin
@@ -25262,6 +25333,7 @@ totaltinkers:greatbladecore:0, Bone Greatblade Core
 totaltinkers:greatbladecore:0, Obsidian Greatblade Core
 totaltinkers:greatbladecore:0, Prismarine Greatblade Core
 totaltinkers:greatbladecore:0, End Greatblade Core
+totaltinkers:greatbladecore:0, Paper Greatblade Core
 totaltinkers:greatbladecore:0, Sponge Greatblade Core
 totaltinkers:greatbladecore:0, Firewood Greatblade Core
 totaltinkers:greatbladecore:0, Iron Greatblade Core
@@ -25288,21 +25360,6 @@ totaltinkers:greatbladecore:0, Ice Dragonsteel Greatblade Core
 totaltinkers:greatbladecore:0, Weezer Greatblade Core
 totaltinkers:greatbladecore:0, Dilithium Greatblade Core
 totaltinkers:greatbladecore:0, Tritanium Greatblade Core
-totaltinkers:greatbladecore:0, Adamantine Greatblade Core
-totaltinkers:greatbladecore:0, Antimony Greatblade Core
-totaltinkers:greatbladecore:0, Aquarium Greatblade Core
-totaltinkers:greatbladecore:0, Bismuth Greatblade Core
-totaltinkers:greatbladecore:0, Brass Greatblade Core
-totaltinkers:greatbladecore:0, Cold-Iron Greatblade Core
-totaltinkers:greatbladecore:0, Cupronickel Greatblade Core
-totaltinkers:greatbladecore:0, Invar Greatblade Core
-totaltinkers:greatbladecore:0, Mithril Greatblade Core
-totaltinkers:greatbladecore:0, Nickel Greatblade Core
-totaltinkers:greatbladecore:0, Pewter Greatblade Core
-totaltinkers:greatbladecore:0, Platinum Greatblade Core
-totaltinkers:greatbladecore:0, Star-Steel Greatblade Core
-totaltinkers:greatbladecore:0, Tin Greatblade Core
-totaltinkers:greatbladecore:0, Zinc Greatblade Core
 totaltinkers:greatbladecore:0, Beryllium Greatblade Core
 totaltinkers:greatbladecore:0, Boron Greatblade Core
 totaltinkers:greatbladecore:0, Cadmium Greatblade Core
@@ -25322,6 +25379,21 @@ totaltinkers:greatbladecore:0, Titanium Greatblade Core
 totaltinkers:greatbladecore:0, Tungsten Greatblade Core
 totaltinkers:greatbladecore:0, Uranium Greatblade Core
 totaltinkers:greatbladecore:0, Zirconium Greatblade Core
+totaltinkers:greatbladecore:0, Adamantine Greatblade Core
+totaltinkers:greatbladecore:0, Antimony Greatblade Core
+totaltinkers:greatbladecore:0, Aquarium Greatblade Core
+totaltinkers:greatbladecore:0, Bismuth Greatblade Core
+totaltinkers:greatbladecore:0, Brass Greatblade Core
+totaltinkers:greatbladecore:0, Cold-Iron Greatblade Core
+totaltinkers:greatbladecore:0, Cupronickel Greatblade Core
+totaltinkers:greatbladecore:0, Invar Greatblade Core
+totaltinkers:greatbladecore:0, Mithril Greatblade Core
+totaltinkers:greatbladecore:0, Nickel Greatblade Core
+totaltinkers:greatbladecore:0, Pewter Greatblade Core
+totaltinkers:greatbladecore:0, Platinum Greatblade Core
+totaltinkers:greatbladecore:0, Star-Steel Greatblade Core
+totaltinkers:greatbladecore:0, Tin Greatblade Core
+totaltinkers:greatbladecore:0, Zinc Greatblade Core
 totaltinkers:greatbladecore:0, Treated Wood Greatblade Core
 totaltinkers:greatbladecore:0, Constantan Greatblade Core
 totaltinkers:greatbladecore:0, Magical Wooden Greatblade Core
@@ -25397,7 +25469,6 @@ totaltinkers:greatbladecore:0, Kyronite Greatblade Core
 totaltinkers:greatbladecore:0, Pladium Greatblade Core
 totaltinkers:greatbladecore:0, Ionite Greatblade Core
 totaltinkers:greatbladecore:0, Aethium Greatblade Core
-totaltinkers:greatbladecore:0, Emerald Greatblade Core
 totaltinkers:greatbladecore:0, Wyvern Greatblade Core
 totaltinkers:greatbladecore:0, Awakened Greatblade Core
 totaltinkers:greatbladecore:0, Chaotic Greatblade Core
@@ -25405,6 +25476,7 @@ totaltinkers:greatbladecore:0, Bloodwood Greatblade Core
 totaltinkers:greatbladecore:0, Fusewood Greatblade Core
 totaltinkers:greatbladecore:0, Ghostwood Greatblade Core
 totaltinkers:greatbladecore:0, Darkwood Greatblade Core
+totaltinkers:greatbladecore:0, Emerald Greatblade Core
 totaltinkers:greatblade, Greatblade
 natural_absorption:absorption_book, Book of Absorption
 valkyrienskies:physics_infuser, Physics Infuser

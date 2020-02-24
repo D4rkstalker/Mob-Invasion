@@ -11,7 +11,7 @@
 				"count-variance": 1,
 				"count": 1
 			},
-			"chunk-chance": 10,
+			"chunk-chance": 20,
 			"cluster-count": 1,
 			"min-height": 50,
 			"max-height": 256,

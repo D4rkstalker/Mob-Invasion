@@ -17,7 +17,7 @@
 					"minecraft:sand",
 					"minecraft:sandstone"
 			],
-			"chunk-chance": 10,
+			"chunk-chance": 20,
 			"cluster-count": 1,
 			"vein-height": 10,
 			"vein-diameter": 15,

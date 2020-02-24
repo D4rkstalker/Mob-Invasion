@@ -61,9 +61,6 @@
 			"blockToSurround": {
 				"block": "netherex:fiery_netherrack"
 			},
-			"blockToSpawn": {
-				"block": "thermalfoundation:fluid_pyrotheum"
-			},
 			"generationStage": "terrain_alteration"
 		}, 
 		{
@@ -110,7 +107,7 @@
 				"block": "netherex:fiery_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:glowstone"
+				"block": "thermalfoundation:fluid_glowstone"
 			},
 			"generationStage": "decoration"
 		}, 
@@ -126,7 +123,7 @@
 				"block": "netherex:fiery_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:glowstone"
+				"block": "thermalfoundation:fluid_glowstone"
 			},
 			"generationStage": "decoration"
 		}, 
@@ -144,22 +141,6 @@
 				"block": "thermalfoundation:fluid_pyrotheum"
 			},
 			"generateFalling": true,
-			"generationStage": "decoration"
-		}, 
-		{
-			"trait": "libraryex:cluster",
-			"generationAttempts": 10,
-			"randomizeGenerationAttempts": false,
-			"generationProbability": 1.0,
-			"minimumGenerationHeight": 1,
-			"maximumGenerationHeight": 128,
-			"direction": "down",
-			"blockToAttachTo": {
-				"block": "netherex:fiery_netherrack"
-			},
-			"blockToSpawn": {
-				"block": "thermalfoundation:fluid_glowstone"
-			},
 			"generationStage": "decoration"
 		}, 
 		{

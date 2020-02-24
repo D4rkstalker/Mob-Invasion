@@ -1,6 +1,6 @@
 {
 	"biome": "netherex:fungi_forest",
-	"generationWeight": 2,
+	"generationWeight": 4,
 	"useDefaultDecorations": true,
 	"isSubBiome": false,
 	"isEnabled": true,

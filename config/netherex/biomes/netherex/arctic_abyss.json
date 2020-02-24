@@ -109,6 +109,21 @@
 			"generationStage": "terrain_alteration"
 		}, 
 		{
+			"trait": "libraryex:pool",
+			"generationAttempts": 2,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 0.125,
+			"minimumGenerationHeight": 36,
+			"maximumGenerationHeight": 108,
+			"blockToSurround": {
+				"block": "netherex:frostburn_ice"
+			},
+			"blockToSpawn": {
+				"block": "lycanitesmobs:ooze"
+			},
+			"generationStage": "terrain_alteration"
+		}, 
+		{
 			"trait": "libraryex:scatter",
 			"generationAttempts": 5,
 			"randomizeGenerationAttempts": true,
@@ -136,7 +151,7 @@
 				"block": "netherex:icy_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:packed_ice"
+				"block": "minecraft:glowstone"
 			},
 			"generationStage": "decoration"
 		}, 
@@ -152,7 +167,7 @@
 				"block": "netherex:icy_netherrack"
 			},
 			"blockToSpawn": {
-				"block": "minecraft:packed_ice"
+				"block": "minecraft:glowstone"
 			},
 			"generationStage": "decoration"
 		}, 

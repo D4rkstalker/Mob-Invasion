@@ -22,7 +22,7 @@
 				"size-variance": 4
 			},
 			"cluster-count": 1,
-			"chunk-chance": 20,
+			"chunk-chance": 50,
 			"retrogen": false,
 			"biome": {
 				"restriction": "blacklist",
