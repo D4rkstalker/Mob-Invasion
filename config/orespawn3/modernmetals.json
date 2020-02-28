@@ -38,7 +38,7 @@
 				"variation": 4,
 				"frequency": 8,
 				"minHeight": 0,
-				"maxHeight": 32
+				"maxHeight": 16
 			},
 			"blocks": [
 				{
@@ -153,7 +153,7 @@
 				"variation": 4,
 				"frequency": 5,
 				"minHeight": 0,
-				"maxHeight": 64
+				"maxHeight": 16
 			},
 			"blocks": [
 				{
@@ -245,7 +245,7 @@
 				"variation": 4,
 				"frequency": 4,
 				"minHeight": 0,
-				"maxHeight": 32
+				"maxHeight": 8
 			},
 			"blocks": [
 				{
@@ -310,11 +310,11 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 4,
+				"size": 8,
 				"variation": 4,
 				"frequency": 6,
 				"minHeight": 0,
-				"maxHeight": 32
+				"maxHeight": 16
 			},
 			"blocks": [
 				{
@@ -337,7 +337,7 @@
 				"variation": 4,
 				"frequency": 6,
 				"minHeight": 0,
-				"maxHeight": 32
+				"maxHeight": 16
 			},
 			"blocks": [
 				{

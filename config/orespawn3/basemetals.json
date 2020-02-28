@@ -227,8 +227,8 @@
 				"size": 8,
 				"variation": 4,
 				"frequency": 1,
-				"minHeight": 32,
-				"maxHeight": 96
+				"minHeight": 0,
+				"maxHeight": 32
 			},
 			"blocks": [
 				{
@@ -249,9 +249,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 4,
-				"frequency": 0.125,
+				"frequency": 2,
 				"minHeight": 1,
-				"maxHeight": 32
+				"maxHeight": 16
 			},
 			"blocks": [
 				{

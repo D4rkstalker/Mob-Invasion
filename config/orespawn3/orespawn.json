@@ -128,8 +128,9 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 3,
+				"size": 5,
 				"numObjects": 2,
+				"frequency": 4,
 				"minHeight": 0,
 				"maxHeight": 16
 			},
