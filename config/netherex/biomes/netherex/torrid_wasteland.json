@@ -33,15 +33,57 @@
 		}, 
 		{
 			"entity": "netherex:ember",
-			"spawnWeight": 25,
+			"spawnWeight": 20,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 3
 		}, 
 		{
 			"entity": "netherex:salamander",
-			"spawnWeight": 100,
+			"spawnWeight": 50,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "minecraft:blaze",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "lycanitesmobs:volcan",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "lycanitesmobs:khalk",
+			"spawnWeight": 5,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 8
+		}, 
+		{
+			"entity": "lycanitesmobs:salamander",
+			"spawnWeight": 10,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "lycanitesmobs:lobber",
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "lycanitesmobs:afrit",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "iceandfire:firedragon",
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
 		}, 
 		{
 			"entity": "natura:imp",
@@ -53,10 +95,10 @@
 	"traits": [
 		{
 			"trait": "libraryex:pool",
-			"generationAttempts": 8,
+			"generationAttempts": 2,
 			"randomizeGenerationAttempts": false,
-			"generationProbability": 1.0,
-			"minimumGenerationHeight": 10,
+			"generationProbability": 0.125,
+			"minimumGenerationHeight": 36,
 			"maximumGenerationHeight": 108,
 			"blockToSurround": {
 				"block": "netherex:fiery_netherrack"

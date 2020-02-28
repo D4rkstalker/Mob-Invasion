@@ -1,0 +1,66 @@
+{
+	"populate": {
+        "void_bolder": {
+
+			"distribution": "gaussian",
+			"generator": {
+                "type": "boulder",
+                "block": [
+					{
+						"name": "minecraft:endstone",
+						"weight": 100
+					}
+                ],
+				"diameter": 10,
+                "size-variance": 10,
+				"count-variance": 1,
+                "count": 1
+			},
+            "chunk-chance": 1,
+			"cluster-count": 1,
+			"center-height": 10,
+			"spread": 3,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	},
+	"populate": 
+	{
+		"void_spikes": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "stalactite",
+				"block": [
+					{
+						"name": "minecraft:air",
+						"weight": 100
+					}
+				],
+				"min-height": 12,
+				"size-variance": 10,
+				"cluster-size": 8,
+				"smooth": "true",
+				"alt-sinc" : "true"
+			},
+			"cluster-count": 1,
+			"chunk-chance": 20,
+			"min-height": 40,
+			"max-height": 99,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1
+				]
+			}
+		}
+	}
+}

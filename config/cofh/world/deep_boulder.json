@@ -16,7 +16,7 @@
 					}
                 ],
 				"diameter": 1,
-                "size-variance": 0,
+                "size-variance": 15,
 				"count-variance": 1,
                 "count": 1
 			},

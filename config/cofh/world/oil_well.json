@@ -10,6 +10,7 @@
 				"material": [
 					"minecraft:grass",
 					"minecraft:stone",
+					"minecraft:water",
 					"minecraft:sand"
 				],
 				"gen-body": "minecraft:air",
@@ -22,7 +23,7 @@
 				"size-variance": 4
 			},
 			"cluster-count": 1,
-			"chunk-chance": 50,
+			"chunk-chance": 100,
 			"retrogen": false,
 			"biome": {
 				"restriction": "blacklist",

@@ -6,10 +6,10 @@ mods.thermalexpansion.Pulverizer.addRecipe(<betternether:cincinnasite>*4, <bette
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:glowstone_dust>, <betternether:cincinnasite>, 2000, <minecraft:glowstone_dust>, 20);
 mods.thermalexpansion.Pulverizer.addRecipe(<woot:stygianirondust>*2, <woot:stygianironore>, 2000, <woot:stygianirondust>, 50);
 mods.thermalexpansion.Crucible.addRecipe(<liquid:coal>* 100, <minecraft:coal>, 2000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:pyrotheum>* 100, <nex:netherrack:0>, 1000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:cryotheum>* 100, <nex:netherrack:1>, 1000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:experience>* 50, <nex:netherrack:3>, 1000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:mushroom_stew>* 1000, <nex:netherrack:2>, 5000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:pyrotheum>* 100, <netherex:fiery_netherrack>, 1000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:cryotheum>* 100, <netherex:icy_netherrack>, 1000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:experience>* 50, <netherex:gloomy_netherrack>, 1000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:mushroom_stew>* 1000, <netherex:lively_netherrack>, 5000);
 mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:0>, <modernmetals:galvanizedsteel_ingot>, 1500);
 mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:1>, <modernmetals:tungsten_ingot>, 1500);
 mods.thermalexpansion.Compactor.addPressRecipe(<nuclearcraft:part:2>, <thermalfoundation:material:136>, 1500);
@@ -19,6 +19,10 @@ mods.nuclearcraft.ingot_former.addRecipe([<liquid:corium> * 4000 , <nuclearcraft
 mods.thermalexpansion.InductionSmelter.addRecipe(<nuclearcraft:alloy:1>, <nuclearcraft:ingot:6>, <nuclearcraft:alloy:6>, 2000);
 mods.thermalexpansion.InductionSmelter.addRecipe(<nuclearcraft:alloy:6>, <nuclearcraft:ingot:5>, <thermalfoundation:material:160>, 2000);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:glowstone_dust>*4, <betternether:cincinnasite_forged>, 2000, <thermalfoundation:material>, 20);
+
+val honey = <ore:blockHoney>;
+honey.add(<harvestcraft:honey>);
+honey.add(<biomesoplenty:honey_block>);
 
 var iron = <ore:ingotIron>;
 iron.add(<enderio:item_alloy_ingot:9>);
@@ -76,7 +80,6 @@ mods.thermalexpansion.Infuser.addRecipe(<draconicevolution:chaos_shard> ,<dracon
 //#Remove
 recipes.remove(<immersiveengineering:stone_decoration:1>);
 recipes.remove(<tconstruct:smeltery_controller>);
-recipes.remove(<uncraftingtable:uncrafting_table>);
 recipes.remove(<environmentaltech:connector>);
 recipes.remove(<environmentaltech:modifier_null>);
 recipes.remove(<environmentaltech:structure_panel>);
@@ -112,16 +115,10 @@ recipes.remove(<thermalexpansion:frame>);
 //#Add
 recipes.addShaped(<immersiveengineering:stone_decoration:1> * 5, [[<minecraft:brick>, <minecraft:hardened_clay>, <minecraft:brick>],[<minecraft:hardened_clay>, <actuallyadditions:item_misc:5>, <minecraft:hardened_clay>], [<minecraft:brick>, <minecraft:hardened_clay>, <minecraft:brick>]]);
 recipes.addShaped(<tconstruct:smeltery_controller>, [[<tconstruct:materials>, <tconstruct:materials>, <tconstruct:materials>],[<tconstruct:materials>, <ore:ingotCrudeSteel>, <tconstruct:materials>], [<tconstruct:materials>, <tconstruct:materials>, <tconstruct:materials>]]);
-recipes.addShaped(<uncraftingtable:uncrafting_table>, [[<draconicevolution:chaos_shard:1>, <techguns:itemshared:92>, <draconicevolution:chaos_shard:1>],[<ore:blockAethium>, <appliedenergistics2:part:360>, <ore:blockAethium>], [<appliedenergistics2:material:44>, <draconicevolution:fusion_crafting_core>, <appliedenergistics2:material:43>]]);
 recipes.addShaped(<environmentaltech:connector>, [[<ore:dustRedstone>, <thermalfoundation:material:513>, <ore:dustRedstone>],[<thermalfoundation:material:515>, <ore:ingotSignalum>, <thermalfoundation:material:515>], [<ore:dustRedstone>, <thermalfoundation:material:514>, <ore:dustRedstone>]]);
 recipes.addShaped(<environmentaltech:modifier_null>, [[<ore:ingotTungsten>, <ore:blockGlassHardened>, <ore:ingotTungsten>],[<ore:ingotIridium>, <environmentaltech:interconnect>, <ore:ingotIridium>], [<ore:ingotTungsten>, <ore:blockGlassHardened>, <ore:ingotTungsten>]]);
 recipes.addShaped(<environmentaltech:structure_panel>, [[<ore:ingotSteel>, <ore:ingotTritanium>, <ore:ingotSteel>],[<ore:ingotTritanium>, <environmentaltech:connector>, <ore:ingotTritanium>], [<ore:ingotSteel>, <ore:ingotTritanium>, <ore:ingotSteel>]]);
 recipes.addShaped(<minecraft:end_crystal>, [[<minecraft:glass_pane>, <minecraft:glass_pane>, <minecraft:glass_pane>],[<minecraft:glass_pane>, <draconicevolution:wyvern_core>, <minecraft:glass_pane>], [<environmentaltech:aethium_crystal>, <matteroverdrive:dilithium_crystal>, <environmentaltech:aethium_crystal>]]);
-recipes.addShapeless(<openmodularturrets:ammo_meta>, [<techguns:itemshared:76>]);
-recipes.addShapeless(<openmodularturrets:ammo_meta:4>, [<techguns:itemshared:7>]);
-recipes.addShapeless(<openmodularturrets:ammo_meta:3>, [<techguns:itemshared:5>]);
-recipes.addShapeless(<openmodularturrets:ammo_meta:2>, [<techguns:itemshared:127>]);
-recipes.addShapeless(<openmodularturrets:ammo_meta:1>, [<techguns:itemshared:1>]);
 recipes.addShaped(<openmodularturrets:turret_base:4>, [[<ore:crystalAethium>, <ore:crystalLonsdaleite>, <environmentaltech:aethium_crystal>],[<ore:crystalLonsdaleite>, <openmodularturrets:intermediate_tiered:4>, <ore:crystalLonsdaleite>], [<ore:crystalAethium>, <ore:crystalLonsdaleite>, <ore:crystalAethium>]]);
 recipes.addShaped(<openmodularturrets:turret_base:3>, [[<ore:oreIonite>, <ore:crystalKyronite>, <environmentaltech:ionite_crystal>],[<ore:crystalKyronite>, <openmodularturrets:intermediate_tiered:3>, <ore:crystalKyronite>], [<ore:oreIonite>, <ore:crystalKyronite>, <ore:oreIonite>]]);
 recipes.addShaped(<openmodularturrets:turret_base:2>, [[<ore:ingotManyullyn>, <ore:ingotAdamantine>, <tconstruct:ingots:2>],[<ore:ingotAdamantine>, <openmodularturrets:intermediate_tiered:2>, <ore:ingotAdamantine>], [<ore:ingotManyullyn>, <ore:ingotAdamantine>, <ore:ingotManyullyn>]]);
@@ -144,7 +141,6 @@ recipes.addShaped(<openmodularturrets:intermediate_tiered:0> * 5, [[<environment
 recipes.addShaped(<openmodularturrets:intermediate_tiered:1> * 5, [[<environmentaltech:erodium_crystal>, <draconicevolution:draconium_ingot>, <environmentaltech:erodium_crystal>],[<nuclearcraft:alloy:10>, <openmodularturrets:intermediate_regular>, <nuclearcraft:alloy:10>], [<environmentaltech:erodium_crystal>, <draconicevolution:draconium_ingot>, <environmentaltech:erodium_crystal>]]);
 recipes.addShaped(<matteroverdrive:gravitational_anomaly>, [[<extrautils2:compressedcobblestone:7>, <exchangers:te_exchanger_core_tier3>, <extrautils2:compressedcobblestone:7>],[<exchangers:eio_exchanger_core_tier3>, <exchangers:exchanger_core_tier3>, <exchangers:ie_exchanger_core_tier3>], [<extrautils2:compressedcobblestone:7>, <exchangers:mekanism_exchanger_core_tier3>, <extrautils2:compressedcobblestone:7>]]);
 recipes.addShaped(<openmodularturrets:intermediate_tiered:4>, [[<draconicevolution:draconic_ingot>, <environmentaltech:aethium_crystal>, <draconicevolution:draconic_ingot>],[<openmodularturrets:intermediate_regular>, <openmodularturrets:intermediate_tiered:3>, <openmodularturrets:intermediate_regular>], [<draconicevolution:draconic_ingot>, <environmentaltech:aethium_crystal>, <draconicevolution:draconic_ingot>]]);
-recipes.addShaped(<techguns:itemshared:92>, [[<nuclearcraft:alloy:10>, <exchangers:te_exchanger_core_tier3>, <nuclearcraft:alloy:10>],[<nuclearcraft:alloy:10>, <nuclearcraft:gem:5>, <nuclearcraft:alloy:10>], [<nuclearcraft:alloy:10>, <matteroverdrive:gravitational_anomaly>, <nuclearcraft:alloy:10>]]);
 recipes.addShaped(<thermalexpansion:frame:64>, [[<tconstruct:ingots>, <ore:ingotRedstone>, <tconstruct:ingots>],[<ore:ingotSteel>, <draconicevolution:draconic_core>, <ore:ingotSteel>], [<ore:ingotConstructionAlloy>, <ore:ingotRedstone>, <ore:ingotConstructionAlloy>]]);
 recipes.addShaped(<thermalexpansion:frame>, [[<tconstruct:ingots:2>, <ore:ingotRedstone>, <tconstruct:ingots:2>],[<ore:ingotPlatinum>, <draconicevolution:draconic_core>, <ore:ingotPlatinum>], [<ore:ingotConstructionAlloy>, <ore:ingotRedstone>, <ore:ingotConstructionAlloy>]]);
 //File End

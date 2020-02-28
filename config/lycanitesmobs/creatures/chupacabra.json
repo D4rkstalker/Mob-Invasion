@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityChupacabra",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelChupacabra",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -37,7 +37,7 @@
   "health": 15,
   "defense": 0,
   "armor": 0,
-  "speed": 28,
+  "speed": 25,
   "damage": 2,
   "attackSpeed": 2,
   "rangedSpeed": 1,

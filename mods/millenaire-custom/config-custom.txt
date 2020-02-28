@@ -10,6 +10,9 @@ travel_book_learning=true
 //Generate help data; Generates various data (colour sheet, goods list, infos on generic goals) useful to content makers
 generate_help_data=false
 
+//config.ignore_resource_cost.label; config.ignore_resource_cost.desc:
+ignore_resource_cost=false
+
 //Unique random identifier to count unique players if statistics are enabled
 random_uid=6433738002561635328
 
@@ -18,8 +21,5 @@ advancements_creative=firstcontact,explorer,selfdefense
 
 //Advancement completed for anonymous statistics
 advancements_survival=firstcontact,explorer,marcopolo
-
-//; 
-ignore_resource_cost=false
 
 validation=346191072

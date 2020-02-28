@@ -44,6 +44,18 @@
 			"maximumGroupCount": 4
 		}, 
 		{
+			"entity": "netherex:brute",
+			"spawnWeight": 50,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "lycanitesmobs:morock",
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
 			"entity": "natura:imp",
 			"spawnWeight": 10,
 			"minimumGroupCount": 8,

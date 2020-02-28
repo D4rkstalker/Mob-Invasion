@@ -197,6 +197,630 @@
 			"spawnWeight": 8,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:ant",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:fly",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
 		}
 	],
 	"traits": [],

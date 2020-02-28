@@ -4,14 +4,14 @@ mouseSensitivity:1.0
 fov:1.0
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:4
 guiScale:2
 particles:2
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -24,7 +24,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:true
 enableVsync:false
 useVbo:true
@@ -102,6 +102,13 @@ key_Zepplin Airship Turn Right:77
 key_Zepplin Airship Down:74
 key_Zepplin Airship Stop:76
 key_keybind.baublesinventory:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
@@ -121,25 +128,21 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:0
 key_key.toggle_shaders:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
 key_veinminer.key.enable:0
+key_key.death_history:22
 key_key.next_item.desc:0
 key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
 key_key.togglehud.desc:0
 key_MoCreatures Dive:44
 key_MoCreatures GUI:100
+key_key.ebwizardry.next_spell:205
+key_key.ebwizardry.previous_spell:203
 key_key.exchanger_range_switch:51
 key_key.exchanger_mode_switch:39
 key_key.exchanger_force_drop_items:52
@@ -172,6 +175,7 @@ key_Difficulty Meter - Show Always:0
 key_Toggle StepUp:0
 key_key.open_wct.desc:0
 key_key.cycle_magnet_mode.desc:0
+key_key.pickup.item:0
 key_key.unhook:0
 key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL
@@ -195,14 +199,9 @@ key_key.toggleDislocator:0
 key_key.cycleDigAOE:0
 key_key.cycleAttackAOE:0
 key_key.toggleShields:0
-key_key.dragon_fireAttack:0
-key_key.dragon_strike:0
-key_key.dragon_down:0
-key_key.dragon_change_view:0
-key_Open Matter Scanner GUI:210
-key_Android Ability key:45
-key_Android Switch Ability key:19
 key_Seamoth descend:46
+key_key.carry.desc:42
+key_Reputation GUI:62
 key_key.colytra.toggle.desc:0
 key_key.craftingtweaks.rotate:82
 key_key.craftingtweaks.rotate_counter_clockwise:0
@@ -237,16 +236,21 @@ key_mekanism.key.feetMode:35
 key_mekanism.key.voice:22
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
+key_key.dragon_fireAttack:0
+key_key.dragon_strike:0
+key_key.dragon_down:0
+key_key.dragon_change_view:0
 key_invtweaks.key.sort:41
 key_justenoughbuttons.key.makecopy:210
-key_justenoughbuttons.key.hideall:35:CONTROL
-key_justenoughbuttons.key.chunkoverlay:62
-key_justenoughbuttons.key.moboverlay:65
+key_justenoughbuttons.key.hideall:23:CONTROL
 key_jecalculation.key.gui_craft:0
 key_jecalculation.key.gui_math:0
+key_LevelUpToggle:38
+key_LevelUpSkills:221
 key_key.menu:50
 key_key.villages:47
 key_key.escorts:34
+key_Mo'Bends Menu:34
 key_keybind.fovfixtoggle:0
 key_key.plustic_release_entity.desc:11
 key_key.plustic_toggle_gui.desc:23
@@ -259,18 +263,23 @@ key_key.porterNextDestination:0
 key_key.porterPrevDestination:26
 key_key.debugDumpNBTItem:0
 key_key.debugDumpNBTBlock:0
+key_keys.travellersBackpack.inventory:48
+key_keys.travellersBackpack.toggle_tank:49
 key_WorldEdit Reference:0
+key_Open Matter Scanner GUI:210
+key_Android Ability key:45
+key_Android Switch Ability key:19
 key_key.control:0
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
-key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:48
-key_key.journeymap.toggle_waypoints:44
-key_key.journeymap.fullscreen_create_waypoint:48
+key_key.journeymap.minimap_preset:0
+key_key.journeymap.create_waypoint:0
+key_key.journeymap.toggle_waypoints:0
+key_key.journeymap.fullscreen_create_waypoint:0
 key_key.journeymap.fullscreen_chat_position:0
 key_key.journeymap.map_toggle_alt:36
-key_key.journeymap.fullscreen_waypoints:48:CONTROL
+key_key.journeymap.fullscreen_waypoints:0
 key_key.journeymap.minimap_toggle_alt:0
 key_key.journeymap.fullscreen_options:24
 key_key.journeymap.fullscreen.north:200
@@ -301,13 +310,15 @@ key_Command Key: /weather thunder:0
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
-soundCategory_weather:0.0
+soundCategory_weather:0.02112676
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
+soundCategory_ds_footsteps:1.0
+soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
