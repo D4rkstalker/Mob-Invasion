@@ -24,6 +24,9 @@ val honey = <ore:blockHoney>;
 honey.add(<harvestcraft:honey>);
 honey.add(<biomesoplenty:honey_block>);
 
+val tritanium = <ore:plateTritanium>;
+tritanium.add(<matteroverdrive:tritanium_plate>);
+
 var iron = <ore:ingotIron>;
 iron.add(<enderio:item_alloy_ingot:9>);
 var gem = <ore:gemIonite>;
@@ -114,7 +117,7 @@ recipes.remove(<thermalexpansion:frame>);
 //Don't touch me!
 //#Add
 recipes.addShaped(<immersiveengineering:stone_decoration:1> * 5, [[<minecraft:brick>, <minecraft:hardened_clay>, <minecraft:brick>],[<minecraft:hardened_clay>, <actuallyadditions:item_misc:5>, <minecraft:hardened_clay>], [<minecraft:brick>, <minecraft:hardened_clay>, <minecraft:brick>]]);
-recipes.addShaped(<tconstruct:smeltery_controller>, [[<tconstruct:materials>, <tconstruct:materials>, <tconstruct:materials>],[<tconstruct:materials>, <ore:ingotCrudeSteel>, <tconstruct:materials>], [<tconstruct:materials>, <tconstruct:materials>, <tconstruct:materials>]]);
+recipes.addShaped(<tconstruct:smeltery_controller>, [[<tconstruct:materials>, <tconstruct:materials>, <tconstruct:materials>],[<tconstruct:materials>, <ore:ingotSteel>, <tconstruct:materials>], [<tconstruct:materials>, <tconstruct:materials>, <tconstruct:materials>]]);
 recipes.addShaped(<environmentaltech:connector>, [[<ore:dustRedstone>, <thermalfoundation:material:513>, <ore:dustRedstone>],[<thermalfoundation:material:515>, <ore:ingotSignalum>, <thermalfoundation:material:515>], [<ore:dustRedstone>, <thermalfoundation:material:514>, <ore:dustRedstone>]]);
 recipes.addShaped(<environmentaltech:modifier_null>, [[<ore:ingotTungsten>, <ore:blockGlassHardened>, <ore:ingotTungsten>],[<ore:ingotIridium>, <environmentaltech:interconnect>, <ore:ingotIridium>], [<ore:ingotTungsten>, <ore:blockGlassHardened>, <ore:ingotTungsten>]]);
 recipes.addShaped(<environmentaltech:structure_panel>, [[<ore:ingotSteel>, <ore:ingotTritanium>, <ore:ingotSteel>],[<ore:ingotTritanium>, <environmentaltech:connector>, <ore:ingotTritanium>], [<ore:ingotSteel>, <ore:ingotTritanium>, <ore:ingotSteel>]]);

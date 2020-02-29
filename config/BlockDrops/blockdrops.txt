@@ -1695,21 +1695,6 @@
     "3pair0": "{\n  \"left\": 2,\n  \"right\": 6\n}"
   },
   {
-    "name": "vs_world:valkyrium_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "vs_world:valkyrium_crystal",
-    "meta0": 0,
-    "0chance0": 549.825,
-    "1chance0": 601.875,
-    "2chance0": 650.675,
-    "3chance0": 700.89996,
-    "0pair0": "{\n  \"left\": 4,\n  \"right\": 7\n}",
-    "1pair0": "{\n  \"left\": 4,\n  \"right\": 8\n}",
-    "2pair0": "{\n  \"left\": 4,\n  \"right\": 9\n}",
-    "3pair0": "{\n  \"left\": 4,\n  \"right\": 10\n}"
-  },
-  {
     "name": "minecraft:leaves",
     "meta": 1,
     "length": 1,
@@ -4163,5 +4148,20 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
+  },
+  {
+    "name": "vs_world:valkyrium_ore",
+    "meta": 0,
+    "length": 1,
+    "name0": "vs_world:valkyrium_crystal",
+    "meta0": 0,
+    "0chance0": 550.3,
+    "1chance0": 599.55,
+    "2chance0": 650.25,
+    "3chance0": 700.6,
+    "0pair0": "{\n  \"left\": 4,\n  \"right\": 7\n}",
+    "1pair0": "{\n  \"left\": 4,\n  \"right\": 8\n}",
+    "2pair0": "{\n  \"left\": 4,\n  \"right\": 9\n}",
+    "3pair0": "{\n  \"left\": 4,\n  \"right\": 10\n}"
   }
 ]

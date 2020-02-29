@@ -40,4 +40,7 @@ advancements_creative=
 //Advancement completed for anonymous statistics
 advancements_survival=
 
+//; 
+ignore_resource_cost=false
+
 validation=346190585

@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -94,7 +94,7 @@ key_Airship Turn Right:32
 key_Airship Down:45
 key_Airship Sprinting:29
 key_VS Controller Dismount Key:42
-key_Zepplin Airship Up:0
+key_Zepplin Airship Up:78
 key_Zepplin Airship Forward:72
 key_Zepplin Airship Backward:80
 key_Zepplin Airship Turn Left:75
@@ -109,7 +109,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -129,6 +128,7 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:0
 key_key.toggle_shaders:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:35
@@ -199,10 +199,19 @@ key_key.toggleDislocator:0
 key_key.cycleDigAOE:0
 key_key.cycleAttackAOE:0
 key_key.toggleShields:0
+key_key.dragon_fireAttack:0
+key_key.dragon_strike:0
+key_key.dragon_down:0
+key_key.dragon_change_view:0
+key_Open Matter Scanner GUI:210
+key_Android Ability key:45
+key_Android Switch Ability key:19
 key_Seamoth descend:46
 key_key.carry.desc:42
 key_Reputation GUI:62
 key_key.colytra.toggle.desc:0
+key_Command Key: /help:0
+key_Command Key: /weather thunder:0
 key_key.craftingtweaks.rotate:82
 key_key.craftingtweaks.rotate_counter_clockwise:0
 key_key.craftingtweaks.balance:0
@@ -236,10 +245,6 @@ key_mekanism.key.feetMode:35
 key_mekanism.key.voice:22
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
-key_key.dragon_fireAttack:0
-key_key.dragon_strike:0
-key_key.dragon_down:0
-key_key.dragon_change_view:0
 key_invtweaks.key.sort:41
 key_justenoughbuttons.key.makecopy:210
 key_justenoughbuttons.key.hideall:23:CONTROL
@@ -266,9 +271,6 @@ key_key.debugDumpNBTBlock:0
 key_keys.travellersBackpack.inventory:48
 key_keys.travellersBackpack.toggle_tank:49
 key_WorldEdit Reference:0
-key_Open Matter Scanner GUI:210
-key_Android Ability key:45
-key_Android Switch Ability key:19
 key_key.control:0
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
@@ -305,8 +307,6 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-key_Command Key: /help:0
-key_Command Key: /weather thunder:0
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0

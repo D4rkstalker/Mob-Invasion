@@ -25,10 +25,12 @@ recipes.remove(<mekanism:controlcircuit:2>);
 recipes.remove(<mekanism:controlcircuit:1>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<appliedenergistics2:material>, [[null, null, null],[null, <lycanitesmobs:crystalshardcharge>, null], [null, null, null]]);
 recipes.addShaped(<travellersbackpack:travellers_backpack>, [[<minecraft:iron_bars>, <comforts:sleeping_bag>, <minecraft:iron_bars>],[<thermalexpansion:tank:*>, <actuallyadditions:block_giant_chest>, <thermalexpansion:tank:*>], [<matteroverdrive:tritanium_plate>, <tconstruct:tooltables>, <matteroverdrive:tritanium_plate>]]);
 recipes.addShaped(<harvestcraft:honeyitem> * 9, [[null, null, null],[null, <biomesoplenty:honey_block>, null], [null, null, null]]);
 recipes.addShaped(<biomesoplenty:honey_block>, [[<harvestcraft:honeyitem>, <harvestcraft:honeyitem>, <harvestcraft:honeyitem>],[<harvestcraft:honeyitem>, <harvestcraft:honeyitem>, <harvestcraft:honeyitem>], [<harvestcraft:honeyitem>, <harvestcraft:honeyitem>, <harvestcraft:honeyitem>]]);
 recipes.addShaped(<enderio:item_material:20> * 4, [[null, <minecraft:flint>, null],[<minecraft:flint>, <jjmeteor:red_meteor_powder>, <minecraft:flint>], [null, <minecraft:flint>, null]]);
+recipes.addShaped(<enderio:item_material:20> * 4, [[null, <minecraft:flint>, null],[<minecraft:flint>, <jjmeteor:blue_meteor_powder>, <minecraft:flint>], [null, <minecraft:flint>, null]]);
 recipes.addShaped(<tconstruct:materials:17>, [[<darkutils:material>, <darkutils:material>, <darkutils:material>],[<darkutils:material>, <minecraft:bone>, <darkutils:material>], [<darkutils:material>, <darkutils:material>, <darkutils:material>]]);
 recipes.addShaped(<mekanism:basicblock:8>, [[<enderio:item_alloy_ingot>, <thermalfoundation:material:134>, <enderio:item_alloy_ingot>],[<mekanism:ingot:1>, <enderio:item_alloy_ingot:3>, <mekanism:ingot:1>], [<modernmetals:tungsten_ingot>, <thermalfoundation:material:134>, <modernmetals:tungsten_ingot>]]);
 recipes.addShaped(<extrautils2:resonator>, [[<ore:ingotPewter>, <immersiveengineering:stone_decoration:3>, <ore:ingotPewter>],[<enderio:item_alloy_endergy_ingot>, <extrautils2:ingredients>, <ore:ingotPewter>], [<enderio:item_alloy_ingot:9>, <enderio:item_alloy_ingot>, <ore:ingotPewter>]]);

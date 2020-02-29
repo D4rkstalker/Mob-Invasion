@@ -1,4 +1,0 @@
-villager:norman_lonewife
-villager:norman_lonemiller
-village:norman_lonemill
-building:norman_lonemill

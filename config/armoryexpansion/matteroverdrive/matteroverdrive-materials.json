@@ -3,7 +3,7 @@
     "bowMaterialStats": {
       "drawspeed": 1.0,
       "range": 1.0,
-      "bonusDamage": 0.0,
+      "bonusDamage": 5.0,
       "materialType": "bow"
     },
     "arrowShaftMaterialStats": {
@@ -17,8 +17,8 @@
     "headMaterialStats": {
       "durability": 160,
       "harvestLevel": 3,
-      "attack": -1.0,
-      "miningspeed": 3.8999999,
+      "attack": 10.0,
+      "miningspeed": 8,
       "materialType": "head"
     },
     "handleMaterialStats": {
@@ -38,7 +38,7 @@
     "platesMaterialStats": {
       "durability": 20.0,
       "modifier": 1.875,
-      "toughness": 0.0,
+      "toughness": 3.8,
       "materialType": "plates"
     },
     "trimMaterialStats": {
@@ -49,7 +49,7 @@
     "color": 11184810,
     "type": "METAL",
     "castable": false,
-    "craftable": false
+    "craftable": true
   },
   {
     "bowMaterialStats": {
@@ -60,7 +60,7 @@
     },
     "arrowShaftMaterialStats": {
       "modifier": 1.0,
-      "bonusAmmo": 0,
+      "bonusAmmo": 8,
       "materialType": "arrowshaft"
     },
     "projectileMaterialStats": {
@@ -84,7 +84,7 @@
     },
     "coreMaterialStats": {
       "durability": 20.0,
-      "defense": 14.0,
+      "defense": 24.0,
       "materialType": "core"
     },
     "platesMaterialStats": {
@@ -100,7 +100,7 @@
     "identifier": "tritanium",
     "color": 11184810,
     "type": "METAL",
-    "castable": false,
+    "castable": true,
     "craftable": false
   }
 ]
