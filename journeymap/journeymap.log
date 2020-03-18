@@ -1,6 +1,6 @@
-[20:29:05] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[20:29:05] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[20:29:06] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.9, built with Forge 14.23.5.2768
+[21:22:38] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[21:22:38] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[21:22:38] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.9, built with Forge 14.23.5.2768
 Forge: 14.23.5.2847
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -12,20 +12,21 @@ Features:
 	MapSurface : singleplayer = true , multiplayer = true
 	MapCaves : singleplayer = true , multiplayer = true
 MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.9, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, systemTimeRealFormat=HH:mm:ss, shape=Circle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
-MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.9, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, systemTimeRealFormat=HH:mm:ss, shape=Circle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
-FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.9, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=false, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.9, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, systemTimeRealFormat=HH:mm:ss, shape=Circle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.9, mobDisplay=Small Dots, zoomLevel=5, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=false, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.9, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=true, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.9, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.9, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.9, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=2, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=2, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.9, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[20:29:06] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[20:29:06] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[20:29:06] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: fi.dy.masa.worldutils.compat.journeymap.JourneymapClientPlugin
-[20:29:06] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[20:30:33] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: D:\Minecraft\Instances\Mob%20Invasion\mods\journeymap-1.12.2-5.5.9.jar\assets\journeymap\icon\entity
-[20:30:33] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[20:30:33] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: D:\Minecraft\Instances\Mob%20Invasion\mods\journeymap-1.12.2-5.5.9.jar\assets\journeymap\theme\flat
-[20:30:33] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
-[20:30:34] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[21:22:39] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[21:22:39] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[21:22:39] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: fi.dy.masa.worldutils.compat.journeymap.JourneymapClientPlugin
+[21:22:39] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
+[21:22:39] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[21:25:13] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: D:\Minecraft\Instances\Mob%20Invasion\mods\journeymap-1.12.2-5.5.9.jar\assets\journeymap\icon\entity
+[21:25:13] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[21:25:13] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: D:\Minecraft\Instances\Mob%20Invasion\mods\journeymap-1.12.2-5.5.9.jar\assets\journeymap\theme\flat
+[21:25:13] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[21:25:14] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
@@ -79,10 +80,3 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
 	... 26 more
-[21:04:27] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\Minecraft\Instances\Mob Invasion\journeymap\data\sp\New World\waypoints
-[21:04:28] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Minecraft\Instances\Mob Invasion\journeymap\data\sp\New World\DIM0. Memory: 4635MB total, 829MB free 
-[21:04:29] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
-[21:04:31] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for streams
-[21:04:31] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
-[21:04:31] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
-[21:07:53] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Minecraft\Instances\Mob Invasion\journeymap\data\sp\New World\DIM0

@@ -1,2 +1,9 @@
-village:byzantines_lonesheepfarm_x
-building:byzantines_oldsheepfarm
+villager:byzantines_wife_byzantine
+villager:byzantines_keeperpine_byzantine
+village:byzantines_PineTower
+village:byzantines_militaryvillage
+building:byzantines_smelter
+building:byzantines_mine
+building:byzantines_borderpost_gate
+building:byzantines_pinetower
+building:byzantines_fortress

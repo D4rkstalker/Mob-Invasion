@@ -757,3 +757,1119 @@
 8.0.1 28-02-2020 21:29:01 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_sadhu.txt
 8.0.1 28-02-2020 21:29:01 ERROR: Culture: byzantines: en: In dialogue file D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
 8.0.1 28-02-2020 21:29:04 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.0.1 01-03-2020 12:24:33 Starting new session. Mods: examplemod met me_normans 
+8.0.1 01-03-2020 12:25:12 ERROR: null: Could not load good: variedcommodities:ingot_bronze
+8.0.1 01-03-2020 12:25:12 ERROR: null: Could not load good: variedcommodities:ingot_steel
+8.0.1 01-03-2020 12:25:12 ERROR: null: Error when loading a block type: Colour 115/0/0/730000 in line <dragonEgg;122;0;false;115/0/0> is already taken.
+8.0.1 01-03-2020 12:25:12 ERROR: null: Error when loading a block type: Colour 215/217/20/d7d914 in line <goldore;minecraft:gold_ore;0;false;215/217/20> is already taken.
+8.0.1 01-03-2020 12:25:12 ERROR: null: Error when loading a block type: Colour 231/232/177/e7e8b1 in line <ironore;minecraft:iron_ore;0;false;231/232/177> is already taken.
+8.0.1 01-03-2020 12:25:12 ERROR: null: Error when loading a block type: Colour 8/8/5/80805 in line <coalore;minecraft:coal_ore;0;false;8/8/5> is already taken.
+8.0.1 01-03-2020 12:25:12 ERROR: null: Could not parse values line of 0 for block Block{tconstruct:seared_tank}
+8.0.1 01-03-2020 12:25:12 ERROR: null: Error when loading a block type: Line faucet;tconstruct:faucet;0;true;1/50/5; in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 12:25:12 ERROR: null: Error when loading a block type: Line castingchannel;tconstruct:channel;0;1/50/6 in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good bookshelves is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good gold is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good dye_blue is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good leatherhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good leatherchest is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good leatherlegs is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good leatherboots is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good steelhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good steelchest is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good steellegs is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good steelboots is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good diamondhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good diamondchest is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good diamondlegs is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good diamondboots is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good stonesword is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good steelsword is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good diamondsword is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good bottle is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good netherwart is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good akwardpotion is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good sugar is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Good leather is present twice in the goods list.
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: manyullyningotknightslimeingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanvillagers
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanbuildings
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanitems
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanfull
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 12:25:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 12:25:17 ERROR: null: VT: norman/bricoleur: Error when reading value 'bronzeingot,64' for parameter requiredgood: Unknown item: bronzeingot
+8.0.1 01-03-2020 12:25:17 ERROR: null: VT: norman/bricoleur: Error when reading value 'steelingot,64' for parameter requiredgood: Unknown item: steelingot
+8.0.1 01-03-2020 12:25:18 WARNING: VT: norman/merchant_weapons: Starting inv of foreign merchant countains good with null tradeable price: Diamond Sword/0
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good bed_straw is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good gold is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good sapling_appletree is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good leather is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good sugar is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good stonesword is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good leatherhelmet is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good leatherchest is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good leatherlegs is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good leatherboots is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good byzantinepickaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good byzantineaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good byzantineshovel is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good byzantinehoe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good bookshelves is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good bottle is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good netherwart is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good akwardpotion is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good banner_white is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good norpattern is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good beefjerky is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good grout is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: loneabbey
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good coal is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good dye_blue is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:23 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good diamond is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good emerald is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good quartz is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good leatherhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good leatherchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good leatherlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good leatherboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good steelhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good steelchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good steellegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good steelboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good goldhelmet is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good goldchest is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good goldlegs is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good goldboots is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good diamondhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good diamondchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good diamondlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good diamondboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good woodsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good stonesword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good steelsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good goldsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good diamondsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good glowstonedust is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good fermentedspidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good gunpowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good dragonbreath is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: lonemill
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good rabbitfoot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good glisteringmelonslice is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good spidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good pufferfish is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good magmacream is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good goldencarrot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good blazepowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good ghasttear is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: pigfarm
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: cattlefarm
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:25:24 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:25:24 MAJOR: null: Loading language: fr
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.mineiron2 is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:24 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:25:27 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_alchemist.txt
+8.0.1 01-03-2020 12:25:27 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_sadhu.txt
+8.0.1 01-03-2020 12:25:28 ERROR: Culture: byzantines: en: In dialogue file D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 01-03-2020 12:25:30 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.0.1 01-03-2020 12:32:08 Starting new session. Mods: examplemod met me_normans 
+8.0.1 01-03-2020 12:32:44 ERROR: null: Could not load good: variedcommodities:ingot_bronze
+8.0.1 01-03-2020 12:32:44 ERROR: null: Could not load good: variedcommodities:ingot_steel
+8.0.1 01-03-2020 12:32:44 ERROR: null: Error when loading a block type: Colour 115/0/0/730000 in line <dragonEgg;122;0;false;115/0/0> is already taken.
+8.0.1 01-03-2020 12:32:44 ERROR: null: Error when loading a block type: Colour 215/217/20/d7d914 in line <goldore;minecraft:gold_ore;0;false;215/217/20> is already taken.
+8.0.1 01-03-2020 12:32:44 ERROR: null: Error when loading a block type: Colour 231/232/177/e7e8b1 in line <ironore;minecraft:iron_ore;0;false;231/232/177> is already taken.
+8.0.1 01-03-2020 12:32:44 ERROR: null: Error when loading a block type: Colour 8/8/5/80805 in line <coalore;minecraft:coal_ore;0;false;8/8/5> is already taken.
+8.0.1 01-03-2020 12:32:44 ERROR: null: Could not parse values line of 0 for block Block{tconstruct:seared_tank}
+8.0.1 01-03-2020 12:32:44 ERROR: null: Error when loading a block type: Line faucet;tconstruct:faucet;0;true;1/50/5; in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 12:32:44 ERROR: null: Error when loading a block type: Line castingchannel;tconstruct:channel;0;1/50/6 in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good bookshelves is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good gold is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good dye_blue is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good leatherhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good leatherchest is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good leatherlegs is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good leatherboots is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good steelhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good steelchest is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good steellegs is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good steelboots is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good diamondhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good diamondchest is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good diamondlegs is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good diamondboots is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good stonesword is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good steelsword is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good diamondsword is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good bottle is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good netherwart is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good akwardpotion is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good sugar is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Good leather is present twice in the goods list.
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: manyullyningotknightslimeingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanvillagers
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanbuildings
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanitems
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanfull
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 12:32:49 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 12:32:49 ERROR: null: VT: norman/bricoleur: Error when reading value 'bronzeingot,64' for parameter requiredgood: Unknown item: bronzeingot
+8.0.1 01-03-2020 12:32:49 ERROR: null: VT: norman/bricoleur: Error when reading value 'steelingot,64' for parameter requiredgood: Unknown item: steelingot
+8.0.1 01-03-2020 12:32:49 WARNING: VT: norman/merchant_weapons: Starting inv of foreign merchant countains good with null tradeable price: Diamond Sword/0
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good bed_straw is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good gold is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good sapling_appletree is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leather is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good sugar is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good stonesword is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leatherhelmet is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leatherchest is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leatherlegs is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leatherboots is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good byzantinepickaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good byzantineaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good byzantineshovel is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good byzantinehoe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good bookshelves is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good bottle is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good netherwart is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good akwardpotion is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good banner_white is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good norpattern is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good beefjerky is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good grout is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: loneabbey
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good coal is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good dye_blue is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good diamond is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good emerald is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good quartz is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leatherhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leatherchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leatherlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leatherboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good steelhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good steelchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good steellegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good steelboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good goldhelmet is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good goldchest is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good goldlegs is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good goldboots is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good diamondhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good diamondchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good diamondlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good diamondboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good woodsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good stonesword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good steelsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good goldsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good diamondsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good glowstonedust is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good fermentedspidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good gunpowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good dragonbreath is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: lonemill
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good rabbitfoot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good glisteringmelonslice is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good spidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good pufferfish is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good magmacream is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good goldencarrot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good blazepowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good ghasttear is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: pigfarm
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: cattlefarm
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:32:55 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:32:55 MAJOR: null: Loading language: fr
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.mineiron2 is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:55 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:32:56 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_alchemist.txt
+8.0.1 01-03-2020 12:32:56 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_sadhu.txt
+8.0.1 01-03-2020 12:32:56 ERROR: Culture: byzantines: en: In dialogue file D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 01-03-2020 12:32:58 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.0.1 01-03-2020 12:43:20 Starting new session. Mods: examplemod met me_normans 
+8.0.1 01-03-2020 12:43:56 ERROR: null: Could not load good: variedcommodities:ingot_bronze
+8.0.1 01-03-2020 12:43:56 ERROR: null: Could not load good: variedcommodities:ingot_steel
+8.0.1 01-03-2020 12:43:56 ERROR: null: Error when loading a block type: Colour 115/0/0/730000 in line <dragonEgg;122;0;false;115/0/0> is already taken.
+8.0.1 01-03-2020 12:43:56 ERROR: null: Error when loading a block type: Colour 215/217/20/d7d914 in line <goldore;minecraft:gold_ore;0;false;215/217/20> is already taken.
+8.0.1 01-03-2020 12:43:56 ERROR: null: Error when loading a block type: Colour 231/232/177/e7e8b1 in line <ironore;minecraft:iron_ore;0;false;231/232/177> is already taken.
+8.0.1 01-03-2020 12:43:56 ERROR: null: Error when loading a block type: Colour 8/8/5/80805 in line <coalore;minecraft:coal_ore;0;false;8/8/5> is already taken.
+8.0.1 01-03-2020 12:43:56 ERROR: null: Could not parse values line of 0 for block Block{tconstruct:seared_tank}
+8.0.1 01-03-2020 12:43:56 ERROR: null: Error when loading a block type: Line faucet;tconstruct:faucet;0;true;1/50/5; in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 12:43:56 ERROR: null: Error when loading a block type: Line castingchannel;tconstruct:channel;0;1/50/6 in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good bookshelves is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good gold is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good dye_blue is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good leatherhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good leatherchest is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good leatherlegs is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good leatherboots is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good steelhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good steelchest is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good steellegs is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good steelboots is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good diamondhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good diamondchest is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good diamondlegs is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good diamondboots is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good stonesword is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good steelsword is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good diamondsword is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good bottle is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good netherwart is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good akwardpotion is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good sugar is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Good leather is present twice in the goods list.
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: manyullyningotknightslimeingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanvillagers
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanbuildings
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanitems
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanfull
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 12:44:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 12:44:00 ERROR: null: VT: norman/bricoleur: Error when reading value 'bronzeingot,64' for parameter requiredgood: Unknown item: bronzeingot
+8.0.1 01-03-2020 12:44:00 ERROR: null: VT: norman/bricoleur: Error when reading value 'steelingot,64' for parameter requiredgood: Unknown item: steelingot
+8.0.1 01-03-2020 12:44:01 WARNING: VT: norman/merchant_weapons: Starting inv of foreign merchant countains good with null tradeable price: Diamond Sword/0
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good bed_straw is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good gold is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good sapling_appletree is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leather is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good sugar is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good stonesword is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leatherhelmet is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leatherchest is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leatherlegs is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leatherboots is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good byzantinepickaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good byzantineaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good byzantineshovel is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good byzantinehoe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good bookshelves is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good bottle is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good netherwart is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good akwardpotion is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good banner_white is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good norpattern is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good beefjerky is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good grout is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: loneabbey
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good coal is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good dye_blue is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good diamond is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good emerald is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good quartz is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leatherhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leatherchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leatherlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leatherboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good steelhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good steelchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good steellegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good steelboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good goldhelmet is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good goldchest is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good goldlegs is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good goldboots is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good diamondhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good diamondchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good diamondlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good diamondboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good woodsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good stonesword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good steelsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good goldsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good diamondsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good glowstonedust is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good fermentedspidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good gunpowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good dragonbreath is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: lonemill
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good rabbitfoot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good glisteringmelonslice is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good spidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good pufferfish is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good magmacream is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good goldencarrot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good blazepowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good ghasttear is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: pigfarm
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: cattlefarm
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:44:06 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:44:07 MAJOR: null: Loading language: fr
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.mineiron2 is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_alchemist.txt
+8.0.1 01-03-2020 12:44:07 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_sadhu.txt
+8.0.1 01-03-2020 12:44:07 ERROR: Culture: byzantines: en: In dialogue file D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 01-03-2020 12:44:09 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.0.1 01-03-2020 12:51:44 Starting new session. Mods: examplemod met me_normans 
+8.0.1 01-03-2020 12:52:20 ERROR: null: Could not load good: variedcommodities:ingot_bronze
+8.0.1 01-03-2020 12:52:20 ERROR: null: Could not load good: variedcommodities:ingot_steel
+8.0.1 01-03-2020 12:52:20 ERROR: null: Error when loading a block type: Colour 115/0/0/730000 in line <dragonEgg;122;0;false;115/0/0> is already taken.
+8.0.1 01-03-2020 12:52:20 ERROR: null: Error when loading a block type: Colour 215/217/20/d7d914 in line <goldore;minecraft:gold_ore;0;false;215/217/20> is already taken.
+8.0.1 01-03-2020 12:52:20 ERROR: null: Error when loading a block type: Colour 231/232/177/e7e8b1 in line <ironore;minecraft:iron_ore;0;false;231/232/177> is already taken.
+8.0.1 01-03-2020 12:52:20 ERROR: null: Error when loading a block type: Colour 8/8/5/80805 in line <coalore;minecraft:coal_ore;0;false;8/8/5> is already taken.
+8.0.1 01-03-2020 12:52:20 ERROR: null: Could not parse values line of 0 for block Block{tconstruct:seared_tank}
+8.0.1 01-03-2020 12:52:20 ERROR: null: Error when loading a block type: Line faucet;tconstruct:faucet;0;true;1/50/5; in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 12:52:20 ERROR: null: Error when loading a block type: Line castingchannel;tconstruct:channel;0;1/50/6 in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good bookshelves is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good gold is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good dye_blue is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good leatherhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good leatherchest is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good leatherlegs is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good leatherboots is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good steelhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good steelchest is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good steellegs is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good steelboots is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good diamondhelmet is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good diamondchest is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good diamondlegs is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good diamondboots is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good stonesword is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good steelsword is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good diamondsword is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good bottle is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good netherwart is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good akwardpotion is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good sugar is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Good leather is present twice in the goods list.
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: manyullyningotknightslimeingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanvillagers
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanbuildings
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanitems
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanfull
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 12:52:24 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 12:52:24 ERROR: null: VT: norman/bricoleur: Error when reading value 'bronzeingot,64' for parameter requiredgood: Unknown item: bronzeingot
+8.0.1 01-03-2020 12:52:24 ERROR: null: VT: norman/bricoleur: Error when reading value 'steelingot,64' for parameter requiredgood: Unknown item: steelingot
+8.0.1 01-03-2020 12:52:24 WARNING: VT: norman/merchant_weapons: Starting inv of foreign merchant countains good with null tradeable price: Diamond Sword/0
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good bed_straw is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good gold is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good sapling_appletree is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leather is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good sugar is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good stonesword is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leatherhelmet is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leatherchest is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leatherlegs is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leatherboots is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good byzantinepickaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good byzantineaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good byzantineshovel is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good byzantinehoe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good bookshelves is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good bottle is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good netherwart is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good akwardpotion is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good banner_white is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good norpattern is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good beefjerky is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good grout is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: loneabbey
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good coal is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good dye_blue is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good diamond is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good emerald is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good quartz is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leatherhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leatherchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leatherlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good leatherboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good steelhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good steelchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good steellegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good steelboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good goldhelmet is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good goldchest is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:52:30 WARNING: Culture: norman: Trade good goldlegs is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good goldboots is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good diamondhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good diamondchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good diamondlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good diamondboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good woodsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good stonesword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good steelsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good goldsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good diamondsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good glowstonedust is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good fermentedspidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good gunpowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good dragonbreath is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: lonemill
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good rabbitfoot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good glisteringmelonslice is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good spidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good pufferfish is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good magmacream is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good goldencarrot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good blazepowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good ghasttear is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: pigfarm
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: cattlefarm
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 12:52:31 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 12:52:31 MAJOR: null: Loading language: fr
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.mineiron2 is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_alchemist.txt
+8.0.1 01-03-2020 12:52:31 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_sadhu.txt
+8.0.1 01-03-2020 12:52:31 ERROR: Culture: byzantines: en: In dialogue file D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 01-03-2020 12:52:33 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.0.1 01-03-2020 13:06:31 Starting new session. Mods: examplemod met me_normans 
+8.0.1 01-03-2020 13:07:13 ERROR: null: Could not load good: variedcommodities:ingot_bronze
+8.0.1 01-03-2020 13:07:13 ERROR: null: Could not load good: variedcommodities:ingot_steel
+8.0.1 01-03-2020 13:07:13 ERROR: null: Error when loading a block type: Colour 115/0/0/730000 in line <dragonEgg;122;0;false;115/0/0> is already taken.
+8.0.1 01-03-2020 13:07:13 ERROR: null: Error when loading a block type: Colour 215/217/20/d7d914 in line <goldore;minecraft:gold_ore;0;false;215/217/20> is already taken.
+8.0.1 01-03-2020 13:07:13 ERROR: null: Error when loading a block type: Colour 231/232/177/e7e8b1 in line <ironore;minecraft:iron_ore;0;false;231/232/177> is already taken.
+8.0.1 01-03-2020 13:07:13 ERROR: null: Error when loading a block type: Colour 8/8/5/80805 in line <coalore;minecraft:coal_ore;0;false;8/8/5> is already taken.
+8.0.1 01-03-2020 13:07:13 ERROR: null: Could not parse values line of 0 for block Block{tconstruct:seared_tank}
+8.0.1 01-03-2020 13:07:13 ERROR: null: Error when loading a block type: Line faucet;tconstruct:faucet;0;true;1/50/5; in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 13:07:13 ERROR: null: Error when loading a block type: Line castingchannel;tconstruct:channel;0;1/50/6 in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good bookshelves is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good gold is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good dye_blue is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good leatherhelmet is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good leatherchest is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good leatherlegs is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good leatherboots is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good steelhelmet is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good steelchest is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good steellegs is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good steelboots is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good diamondhelmet is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good diamondchest is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good diamondlegs is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good diamondboots is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good stonesword is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good steelsword is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good diamondsword is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good bottle is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good netherwart is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good akwardpotion is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good sugar is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Good leather is present twice in the goods list.
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: manyullyningotknightslimeingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanvillagers
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanbuildings
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanitems
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanfull
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 13:07:17 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 13:07:17 ERROR: null: VT: norman/bricoleur: Error when reading value 'bronzeingot,64' for parameter requiredgood: Unknown item: bronzeingot
+8.0.1 01-03-2020 13:07:17 ERROR: null: VT: norman/bricoleur: Error when reading value 'steelingot,64' for parameter requiredgood: Unknown item: steelingot
+8.0.1 01-03-2020 13:07:17 WARNING: VT: norman/merchant_weapons: Starting inv of foreign merchant countains good with null tradeable price: Diamond Sword/0
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good bed_straw is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good gold is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good sapling_appletree is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leather is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good sugar is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good stonesword is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leatherhelmet is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leatherchest is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leatherlegs is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leatherboots is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good byzantinepickaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good byzantineaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good byzantineshovel is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good byzantinehoe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good bookshelves is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good bottle is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good netherwart is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good akwardpotion is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good banner_white is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good norpattern is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good beefjerky is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good grout is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: loneabbey
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good coal is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good dye_blue is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good diamond is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good emerald is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good quartz is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leatherhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leatherchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leatherlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leatherboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good steelhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good steelchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good steellegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good steelboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good goldhelmet is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good goldchest is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good goldlegs is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good goldboots is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good diamondhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good diamondchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good diamondlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good diamondboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good woodsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good stonesword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good steelsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good goldsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good diamondsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good glowstonedust is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good fermentedspidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good gunpowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good dragonbreath is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: lonemill
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good rabbitfoot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good glisteringmelonslice is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good spidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good pufferfish is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good magmacream is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good goldencarrot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good blazepowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good ghasttear is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: pigfarm
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: cattlefarm
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:07:21 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:07:21 MAJOR: null: Loading language: fr
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.mineiron2 is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:21 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_alchemist.txt
+8.0.1 01-03-2020 13:07:22 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_sadhu.txt
+8.0.1 01-03-2020 13:07:22 ERROR: Culture: byzantines: en: In dialogue file D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 01-03-2020 13:07:24 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.0.1 01-03-2020 13:18:17 Starting new session. Mods: examplemod met me_normans 
+8.0.1 01-03-2020 13:18:56 ERROR: null: Could not load good: variedcommodities:ingot_bronze
+8.0.1 01-03-2020 13:18:56 ERROR: null: Could not load good: variedcommodities:ingot_steel
+8.0.1 01-03-2020 13:18:56 ERROR: null: Error when loading a block type: Colour 115/0/0/730000 in line <dragonEgg;122;0;false;115/0/0> is already taken.
+8.0.1 01-03-2020 13:18:56 ERROR: null: Error when loading a block type: Colour 215/217/20/d7d914 in line <goldore;minecraft:gold_ore;0;false;215/217/20> is already taken.
+8.0.1 01-03-2020 13:18:56 ERROR: null: Error when loading a block type: Colour 231/232/177/e7e8b1 in line <ironore;minecraft:iron_ore;0;false;231/232/177> is already taken.
+8.0.1 01-03-2020 13:18:56 ERROR: null: Error when loading a block type: Colour 8/8/5/80805 in line <coalore;minecraft:coal_ore;0;false;8/8/5> is already taken.
+8.0.1 01-03-2020 13:18:56 ERROR: null: Could not parse values line of 0 for block Block{tconstruct:seared_tank}
+8.0.1 01-03-2020 13:18:56 ERROR: null: Error when loading a block type: Line faucet;tconstruct:faucet;0;true;1/50/5; in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 13:18:56 ERROR: null: Error when loading a block type: Line castingchannel;tconstruct:channel;0;1/50/6 in blocklist.txt does not have five or eight fields.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good bookshelves is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good gold is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good dye_blue is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good leatherhelmet is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good leatherchest is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good leatherlegs is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good leatherboots is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good steelhelmet is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good steelchest is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good steellegs is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good steelboots is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good diamondhelmet is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good diamondchest is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good diamondlegs is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good diamondboots is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good stonesword is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good steelsword is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good diamondsword is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good bottle is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good netherwart is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good akwardpotion is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good sugar is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Good leather is present twice in the goods list.
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop forge.txt: bronzeingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop forge.txt: steelingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: manyullyningotknightslimeingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: bronzeingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop marchandises_de_bricoleur.txt: steelingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanvillagers
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanbuildings
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanitems
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: parchment_normanfull
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: bronzeingot
+8.0.1 01-03-2020 13:19:00 ERROR: Culture: norman: Unknown good when loading shop townhall.txt: steelingot
+8.0.1 01-03-2020 13:19:00 ERROR: null: VT: norman/bricoleur: Error when reading value 'bronzeingot,64' for parameter requiredgood: Unknown item: bronzeingot
+8.0.1 01-03-2020 13:19:00 ERROR: null: VT: norman/bricoleur: Error when reading value 'steelingot,64' for parameter requiredgood: Unknown item: steelingot
+8.0.1 01-03-2020 13:19:01 WARNING: VT: norman/merchant_weapons: Starting inv of foreign merchant countains good with null tradeable price: Diamond Sword/0
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good bed_straw is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good gold is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good sapling_appletree is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leather is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good sugar is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good stonesword is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leatherhelmet is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leatherchest is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leatherlegs is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leatherboots is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good byzantinepickaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good byzantineaxe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good byzantineshovel is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good byzantinehoe is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good bookshelves is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good bottle is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good netherwart is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good akwardpotion is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good banner_white is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good norpattern is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good beefjerky is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good grout is used neither in shops nor for market merchants.
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: loneabbey
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good coal is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good gold is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good dye_blue is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good redstone is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good diamond is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good emerald is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good quartz is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leatherhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leatherchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leatherlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leatherboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good steelhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good steelchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good steellegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good steelboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good goldhelmet is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good goldchest is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good goldlegs is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good goldboots is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good diamondhelmet has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good diamondchest has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good diamondlegs has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good diamondboots has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good woodsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good stonesword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good steelsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good goldsword is listed as a foreign good but is sold by the culture in shop: armoury
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good diamondsword has an unregsietred category: tradehelp.genericweapon
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good glowstonedust is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good fermentedspidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good gunpowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good dragonbreath is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: lonemill
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good rabbitfoot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good glisteringmelonslice is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good spidereye is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good pufferfish is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good magmacream is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good goldencarrot is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good blazepowder is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good ghasttear is listed as a foreign good but is sold by the culture in shop: alchemyworkshop
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: pigfarm
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: cattlefarm
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good seared_brick is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good seared_bricks is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good smeltery_controller is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good seared_tank is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good smeltery_drain is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good faucet is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good castingchannel is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good casting_table is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good casting_basin is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good cobaltingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good arditeingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good manyullyningot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good knightslimeingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: townhall
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: forge
+8.0.1 01-03-2020 13:19:05 WARNING: Culture: norman: Trade good pigironingot is listed as a foreign good but is sold by the culture in shop: marchandises_de_bricoleur
+8.0.1 01-03-2020 13:19:05 MAJOR: null: Loading language: fr
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.mineiron2 is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\en\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makeleatherhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makeleatherchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makeleatherlegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makeleatherboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteelhelmet is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteelchest is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteellegs is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteelboots is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makewoodensword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makestonesword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesteelsword is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Key goal.makesugar is present more than once in D:\Minecraft\Instances\Mob Invasion\mods\millenaire-custom\mods\me_normans\languages\de\strings.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_alchemist.txt
+8.0.1 01-03-2020 13:19:05 ERROR: null: Git conflict lines present in D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\zh_tw\quests_sadhu.txt
+8.0.1 01-03-2020 13:19:05 ERROR: Culture: byzantines: en: In dialogue file D:\Minecraft\Instances\Mob Invasion\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 01-03-2020 13:19:08 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning

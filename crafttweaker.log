@@ -2,12 +2,35 @@
 [PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 01_unification.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: receipies.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: custom1.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: custom2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ET.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ICBM.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: matteroverdrive.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mekanism.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: omt.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 3ms
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tconstruct.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: torched.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 5ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 01_unification.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 02_nuclearcraft_mekanism.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: custom1.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: custom2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ET.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ICBM.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: matteroverdrive.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mekanism.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: omt.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tconstruct.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: torched.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
-[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
 [INITIALIZATION][CLIENT][INFO] Initializing 'unification.zs'...
@@ -36,7 +59,7 @@
 [INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_fusion recipe: 1000 x liquidtritium, 144 x lithium6 -> 1000 x helium, 1000 x helium, 5 x neutron, 5 x neutron
 [INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_fusion recipe: 1000 x liquidtritium, 144 x lithium7 -> 1000 x helium, 1000 x helium, 10 x neutron, 10 x neutron
 [INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_fusion recipe: 1000 x liquidtritium, 144 x boron11 -> 1500 x helium, 1500 x helium, 10 x neutron, 10 x neutron
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: receipies.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: custom1.zs}
 [INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_ingot_former recipe: 4000 x corium -> 1 x item.nuclearcraft.alloy:1
 [INITIALIZATION][CLIENT][INFO] Adding Honey Block to ore dictionary entry blockHoney
 [INITIALIZATION][CLIENT][INFO] Adding Honey Block to ore dictionary entry blockHoney
@@ -50,42 +73,50 @@
 [INITIALIZATION][CLIENT][INFO] Adding Litherite Crystal to ore dictionary entry gemLitherite
 [INITIALIZATION][CLIENT][INFO] Adding Chunk of Flesh to ore dictionary entry listAllmeatraw
 [INITIALIZATION][CLIENT][INFO] Adding Bitumen to ore dictionary entry crystalCrudeOil
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: custom2.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ET.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ICBM.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: matteroverdrive.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mekanism.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: omt.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 620ms
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tconstruct.zs}
+[INITIALIZATION][CLIENT][INFO] Material wasn't null
+[INITIALIZATION][CLIENT][INFO] Material wasn't null
+[INITIALIZATION][CLIENT][INFO] Material wasn't null
+[INITIALIZATION][CLIENT][INFO] Material wasn't null
+[INITIALIZATION][CLIENT][INFO] Material wasn't null
+[INITIALIZATION][CLIENT][INFO] Material wasn't null
+[INITIALIZATION][CLIENT][INFO] Material wasn't null
+[INITIALIZATION][CLIENT][INFO] Material wasn't null
+[INITIALIZATION][CLIENT][INFO] Setting toughness of tough to 5.0
+[INITIALIZATION][CLIENT][INFO] Setting durability of tough to 20.0 for core
+[INITIALIZATION][CLIENT][INFO] Setting durability of tough to 15.0 for plates
+[INITIALIZATION][CLIENT][INFO] Setting durability of tough to 10.0 for trim
+[INITIALIZATION][CLIENT][INFO] Setting modifier of tough to 1.5
+[INITIALIZATION][CLIENT][INFO] Setting defense of certus to 25.0
+[INITIALIZATION][CLIENT][INFO] Setting toughness of manyullyn to 8.0
+[INITIALIZATION][CLIENT][INFO] Setting durability of manyullyn to 30.0 for core
+[INITIALIZATION][CLIENT][INFO] Setting durability of manyullyn to 25.0 for plates
+[INITIALIZATION][CLIENT][INFO] Setting durability of manyullyn to 15.0 for trim
+[INITIALIZATION][CLIENT][INFO] Setting modifier of manyullyn to 15.0
+[INITIALIZATION][CLIENT][INFO] Setting defense of cobalt to 50.0
+[INITIALIZATION][CLIENT][INFO] Setting durability of cobalt to 25.0 for core
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: torched.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 913ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dark Steel Armor Plating with name ct_shaped448154969
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux-Infused Chestplate Assembly with name ct_shaped510989015
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Conductive Iron Armor Plating with name ct_shaped-1364022346
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blast Brick with name ct_shaped-301324876
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Smeltery Controller with name ct_shaped-64717810
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Connector with name ct_shaped788693196
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Null Modifier with name ct_shaped-1455001294
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Panel with name ct_shaped659749376
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for End Crystal with name ct_shaped-500624484
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 5) with name ct_shaped1618003835
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 4) with name ct_shaped805626961
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 3) with name ct_shaped156382261
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 2) with name ct_shaped1087309701
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 1) with name ct_shaped-654331460
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 5) with name ct_shaped203715445
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 4) with name ct_shaped1582412815
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 3) with name ct_shaped-571270010
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 2) with name ct_shaped-2060265616
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel (Tier 1) with name ct_shaped-1678594606
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 5) with name ct_shaped639121310
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 4) with name ct_shaped-1956556991
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 3) with name ct_shaped-1686177542
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 2) with name ct_shaped1235983700
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chamber (Tier 1) with name ct_shaped1083429062
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 5) with name ct_shaped1337166390
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 4) with name ct_shaped-17025184
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 3) with name ct_shaped1457501927
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 1) with name ct_shaped-1893441811
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 2) with name ct_shaped-637750758
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gravitational Anomaly with name ct_shaped286538045
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sensor (Tier 5) with name ct_shaped1837543010
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Device Frame with name ct_shaped829192121
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped2093079117
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Builder with name ct_shaped-2100472763
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped61777809
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Casing with name ct_shaped979873443
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Draconic Core with name ct_shaped1990866043
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Device Frame with name ct_shaped-119959263
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped1259350729
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Certus Quartz Crystal with name ct_shaped-569406388
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Traveller's Backpack with name ct_shaped-1358337998
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Honey with name ct_shaped767555186
@@ -93,16 +124,59 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Grains of Infinity with name ct_shaped392829426
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Grains of Infinity with name ct_shaped-1278477219
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Necrotic Bone with name ct_shaped-1347087269
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Casing with name ct_shaped1237939707
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonator with name ct_shaped-514034260
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Quartz Grindstone with name ct_shaped-690777149
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Block with name ct_shaped-973217354
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped-720541604
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Draconic Core with name ct_shaped1771189099
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wither Skeleton Skull with name ct_shaped422983406
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ultimate Control Circuit with name ct_shaped-606631036
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Control Circuit with name ct_shaped1255469352
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Control Circuit with name ct_shaped-1514821844
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Connector with name ct_shaped788693196
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Null Modifier with name ct_shaped-1455001294
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Panel with name ct_shaped659749376
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fragmentation Explosives with name ct_shaped314019906
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chemical Explosives with name ct_shaped-1887332071
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Incendiary Explosives with name ct_shaped-1373694176
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Shrapnel Explosives with name ct_shaped897991528
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Condensed Explosives with name ct_shaped1812433161
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rocket Launcher with name ct_shaped-809410013
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Missile Module with name ct_shaped212972605
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Matter Explosives with name ct_shaped625937025
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Antimatter Explosives with name ct_shaped1506648049
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Anti-Gravitational Explosives with name ct_shaped-884542115
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Endothermic Explosives with name ct_shaped-27560002
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Exothermic Explosives with name ct_shaped1489328807
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for EMP Explosives with name ct_shaped-1344780160
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nuclear Explosives with name ct_shaped-505159165
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Thermobaric Explosives with name ct_shaped367117115
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Contagious Explosives with name ct_shaped-471604098
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Pill with name ct_shaped-465058292
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tritanium Spine with name ct_shaped-1319962114
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Android Leg with name ct_shaped-196349302
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Android Arm with name ct_shaped-995475763
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Android Torso with name ct_shaped-1362239629
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Android Head with name ct_shaped-204415570
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gravitational Anomaly with name ct_shaped286538045
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ultimate Control Circuit with name ct_shaped292529347
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Control Circuit with name ct_shaped-1552276477
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Control Circuit with name ct_shaped153442235
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fence (Tier 5) with name ct_shaped-364844392
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fence (Tier 4) with name ct_shaped-1001301118
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fence (Tier 3) with name ct_shaped1694671252
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fence (Tier 2) with name ct_shaped-1247186931
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fence (Tier 1) with name ct_shaped1857099725
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Block (Tier 5) with name ct_shaped-235477143
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Block (Tier 4) with name ct_shaped-1261728624
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Block (Tier 3) with name ct_shaped-1913703803
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Block (Tier 2) with name ct_shaped-166588007
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Block (Tier 1) with name ct_shaped1793156717
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 5) with name ct_shaped181815210
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 4) with name ct_shaped1383039562
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 3) with name ct_shaped923918957
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 2) with name ct_shaped651914388
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turret Base (Tier 1) with name ct_shaped-1608783228
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Torch with name ct_shaped380214945
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Torch with name ct_shaped1910294603
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rocket Propelled Torch with name ct_shaped1294866923
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for RPT Launcher with name ct_shaped-800834868
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Torch Gun with name ct_shaped-866410640
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
 [AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <draconicevolution:draconium_ore>
 [AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <woot:stygianironingot>

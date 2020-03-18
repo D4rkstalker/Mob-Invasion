@@ -15,9 +15,9 @@
 			"parameters": {
 				"size": 10,
 				"variation": 8,
-				"frequency": 12,
+				"frequency":15,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -40,9 +40,9 @@
 			"parameters": {
 				"size": 2,
 				"variation": 8,
-				"frequency": 12,
+				"frequency":15,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -65,9 +65,9 @@
 			"parameters": {
 				"size": 4,
 				"variation": 8,
-				"frequency": 12,
+				"frequency":15,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -90,9 +90,9 @@
 			"parameters": {
 				"size": 5,
 				"variation": 8,
-				"frequency": 12,
+				"frequency":15,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -115,9 +115,9 @@
 			"parameters": {
 				"size": 10,
 				"variation": 8,
-				"frequency": 12,
+				"frequency":15,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -140,9 +140,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 12,
+				"frequency":15,
 				"minHeight": 0,
-				"maxHeight": 96
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -165,9 +165,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 12,
+				"frequency":15,
 				"minHeight": 0,
-				"maxHeight": 96
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -190,9 +190,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 4,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -215,9 +215,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 4,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -240,9 +240,9 @@
 			"parameters": {
 				"size": 10,
 				"variation": 12,
-				"frequency": 20,
+				"frequency":26,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -265,9 +265,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 12,
-				"frequency": 20,
+				"frequency":26,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -290,9 +290,9 @@
 			"parameters": {
 				"size": 4,
 				"variation": 4,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -315,9 +315,9 @@
 			"parameters": {
 				"size": 6,
 				"variation": 4,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -340,9 +340,9 @@
 			"parameters": {
 				"size": 2,
 				"variation": 4,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -365,9 +365,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -390,9 +390,9 @@
 			"parameters": {
 				"size": 10,
 				"variation": 12,
-				"frequency": 20,
+				"frequency":26,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -415,9 +415,9 @@
 			"parameters": {
 				"size": 6,
 				"variation": 8,
-				"frequency": 12,
+				"frequency":15,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -440,9 +440,9 @@
 			"parameters": {
 				"size": 10,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -465,9 +465,9 @@
 			"parameters": {
 				"size": 4,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -490,9 +490,9 @@
 			"parameters": {
 				"size": 4,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -515,9 +515,9 @@
 			"parameters": {
 				"size": 6,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -540,9 +540,9 @@
 			"parameters": {
 				"size": 6,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -565,9 +565,9 @@
 			"parameters": {
 				"size": 6,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -590,9 +590,9 @@
 			"parameters": {
 				"size": 10,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -615,9 +615,9 @@
 			"parameters": {
 				"size": 4,
 				"variation": 4,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -640,9 +640,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -665,9 +665,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -690,9 +690,9 @@
 			"parameters": {
 				"size": 4,
 				"variation": 4,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -715,9 +715,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
@@ -740,13 +740,118 @@
 			"parameters": {
 				"size": 2,
 				"variation": 4,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{
 					"name": "nethermetals:nether_uranium_ore",
+					"chance": 100
+				}
+			]
+		},
+		"nether_dimensional_shard_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 8,
+				"variation": 8,
+				"frequency":13,
+				"minHeight": 0,
+				"maxHeight": 127
+			},
+			"blocks": [
+				{
+					"name": "rftools:dimensional_shard_ore",
+					"chance": 100,
+					"metaData": 1
+				}
+			]
+		},
+		"nether_draconium_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 8,
+				"variation": 8,
+				"frequency":13,
+				"minHeight": 0,
+				"maxHeight": 127
+			},
+			"blocks": [
+				{
+					"name": "draconicevolution:draconium_ore",
+					"chance": 100,
+					"properties": {
+						"type": "nether"
+					}
+				}
+			]
+		},
+		"nether_ore_fluid": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 8,
+				"variation": 8,
+				"frequency":13,
+				"minHeight": 0,
+				"maxHeight": 127
+			},
+			"blocks": [
+				{
+					"name": "thermalfoundation:ore_fluid",
+					"chance": 100,
+					"metaData": 3
+				}
+			]
+		},
+		"nether_cincinnasite_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [
+				-1
+			],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 16,
+				"variation": 8,
+				"frequency":13,
+				"minHeight": 0,
+				"maxHeight": 127
+			},
+			"blocks": [
+				{
+					"name": "betternether:cincinnasite_ore",
 					"chance": 100
 				}
 			]
@@ -765,9 +870,9 @@
 			"parameters": {
 				"size": 8,
 				"variation": 8,
-				"frequency": 10,
+				"frequency":13,
 				"minHeight": 0,
-				"maxHeight": 200
+				"maxHeight": 127
 			},
 			"blocks": [
 				{

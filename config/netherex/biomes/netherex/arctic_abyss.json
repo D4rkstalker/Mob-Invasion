@@ -189,6 +189,607 @@
 		}, 
 		{
 			"trait": "libraryex:ore",
+			"generationAttempts": 15,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 18,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_coal_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 15,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 10,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_diamond_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 15,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 12,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_emerald_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 15,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 13,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_gold_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 15,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 18,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_iron_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 15,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 16,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_lapis_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 15,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 16,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_redstone_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 12,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_antimony_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 12,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_bismuth_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 26,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 22,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_copper_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 26,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 20,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_lead_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 8,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_mercury_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 10,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_nickel_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 6,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_platinum_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 16,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_silver_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 26,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 22,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_tin_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 15,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 14,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_zinc_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 18,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_aluminum_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 12,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_cadmium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 12,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_chromium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 14,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_iridium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 14,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_magnesium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 14,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_manganese_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 18,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_osmium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 8,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_plutonium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 16,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_rutile_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 16,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_tantalum_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 8,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_titanium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 16,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_tungsten_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 6,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_uranium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 16,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "nethermetals:nether_zirconium_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 13,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 16,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "betternether:cincinnasite_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 20,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 8,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "tconstruct:ore",
+				"properties": {
+					"type": "ardite"
+				}
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 20,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 8,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "tconstruct:ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 20,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 8,
+			"blockToReplace": {
+				"block": "netherex:lively_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "thermalfoundation:ore_fluid",
+				"properties": {
+					"type": "glowstone"
+				}
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 20,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 8,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "draconicevolution:draconium_ore",
+				"properties": {
+					"type": "nether"
+				}
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 20,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 0,
+			"maximumGenerationHeight": 127,
+			"veinSize": 8,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "rftools:dimensional_shard_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
 			"generationAttempts": 16,
 			"randomizeGenerationAttempts": false,
 			"generationProbability": 1.0,

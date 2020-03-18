@@ -4090,21 +4090,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
   },
   {
-    "name": "ebwizardry:crystal_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "ebwizardry:magic_crystal",
-    "meta0": 0,
-    "0chance0": 199.125,
-    "1chance0": 267.55,
-    "2chance0": 349.9,
-    "3chance0": 442.42502,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 9\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}"
-  },
-  {
     "name": "enderio:block_dark_paper_anvil",
     "meta": 0,
     "length": 1,
@@ -4155,13 +4140,28 @@
     "length": 1,
     "name0": "vs_world:valkyrium_crystal",
     "meta0": 0,
-    "0chance0": 550.3,
-    "1chance0": 599.55,
-    "2chance0": 650.25,
-    "3chance0": 700.6,
+    "0chance0": 548.375,
+    "1chance0": 597.0,
+    "2chance0": 649.275,
+    "3chance0": 698.675,
     "0pair0": "{\n  \"left\": 4,\n  \"right\": 7\n}",
     "1pair0": "{\n  \"left\": 4,\n  \"right\": 8\n}",
     "2pair0": "{\n  \"left\": 4,\n  \"right\": 9\n}",
     "3pair0": "{\n  \"left\": 4,\n  \"right\": 10\n}"
+  },
+  {
+    "name": "ebwizardry:crystal_ore",
+    "meta": 0,
+    "length": 1,
+    "name0": "ebwizardry:magic_crystal",
+    "meta0": 0,
+    "0chance0": 199.025,
+    "1chance0": 265.0,
+    "2chance0": 350.97498,
+    "3chance0": 443.125,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 9\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}"
   }
 ]

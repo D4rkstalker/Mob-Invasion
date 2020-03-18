@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -94,7 +94,7 @@ key_Airship Turn Right:32
 key_Airship Down:45
 key_Airship Sprinting:29
 key_VS Controller Dismount Key:42
-key_Zepplin Airship Up:78
+key_Zepplin Airship Up:0
 key_Zepplin Airship Forward:72
 key_Zepplin Airship Backward:80
 key_Zepplin Airship Turn Left:75
@@ -102,13 +102,6 @@ key_Zepplin Airship Turn Right:77
 key_Zepplin Airship Down:74
 key_Zepplin Airship Stop:76
 key_keybind.baublesinventory:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -127,6 +120,13 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:0
 key_quark.keybind.lockBuilding:0
 key_key.toggle_shaders:0
@@ -307,7 +307,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:1.0
+soundCategory_master:0.705298
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.02112676

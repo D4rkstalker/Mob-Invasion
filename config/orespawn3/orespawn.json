@@ -84,7 +84,7 @@
 			"parameters": {
 				"size": 8,
 				"variation": 2,
-				"frequency": 2,
+				"frequency": 8,
 				"minHeight": 0,
 				"maxHeight": 32
 			},
@@ -128,7 +128,7 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 5,
+				"size": 8,
 				"numObjects": 2,
 				"frequency": 4,
 				"minHeight": 0,
@@ -174,9 +174,9 @@
 				"excludes": []
 			},
 			"parameters": {
-				"size": 5,
+				"size": 10,
 				"variation": 2,
-				"frequency": 1,
+				"frequency": 2,
 				"minHeight": 0,
 				"maxHeight": 32
 			},
@@ -194,7 +194,7 @@
 			"replaces": "default",
 			"dimensions": [],
 			"biomes": {
-				"includes": [ "MOUNTAIN" ]
+				"excludes": []
 			},
 			"parameters": {
 				"size": 1,

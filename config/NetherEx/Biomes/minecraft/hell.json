@@ -1,6 +1,6 @@
 {
 	"biome": "minecraft:hell",
-	"generationWeight": 10,
+	"generationWeight": 4,
 	"useDefaultDecorations": true,
 	"isSubBiome": false,
 	"isEnabled": true,

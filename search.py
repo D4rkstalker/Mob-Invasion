@@ -3,7 +3,7 @@ import glob
 from shutil import copy2
 import filecmp
 #print("String to search: ")
-THING_TO_SEARCH = "finite"
+THING_TO_SEARCH = "emerald_ore"
 # print("Directory to search: ")
 # DIRECTORY_TO_SEARCH = input()
 

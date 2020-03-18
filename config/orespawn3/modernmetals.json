@@ -323,6 +323,29 @@
 				}
 			]
 		},
+		"titanium_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 8,
+				"variation": 4,
+				"frequency": 6,
+				"minHeight": 0,
+				"maxHeight": 16
+			},
+			"blocks": [
+				{
+					"name": "modernmetals:titanium_ore",
+					"chance": 100
+				}
+			]
+		},
 		"uranium_ore": {
 			"retrogen": false,
 			"enabled": true,

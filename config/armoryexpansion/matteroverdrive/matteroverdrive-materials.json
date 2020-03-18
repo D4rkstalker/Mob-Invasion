@@ -18,7 +18,7 @@
       "durability": 160,
       "harvestLevel": 3,
       "attack": 10.0,
-      "miningspeed": 8,
+      "miningspeed": 8.0,
       "materialType": "head"
     },
     "handleMaterialStats": {

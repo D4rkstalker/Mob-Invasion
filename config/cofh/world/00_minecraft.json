@@ -169,9 +169,9 @@
 			"generator": {
 				"block": "gold_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 9
+				"cluster-size": 10
 			},
-			"cluster-count": 2,
+			"cluster-count": 3,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": false,
@@ -184,7 +184,6 @@
 				]
 			}
 		},
-
 		"redstone": {
 			"distribution": "uniform",
 			"generator": {
@@ -213,7 +212,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 8
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"min-height": 0,
 			"max-height": 16,
 			"retrogen": false,
@@ -232,9 +231,9 @@
 			"generator": {
 				"block": "lapis_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 7
+				"cluster-size": 14
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
@@ -313,6 +312,36 @@
 			}
 		},
 
+		"gem": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "emerald_ore",
+						"weight": 20
+					},
+					{
+						"name": "diamond_ore",
+						"weight": 80
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 10
+			},
+			"cluster-count": 2,
+			"min-height": 5,
+			"max-height": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
 		"silverfish": {
 			"distribution": "uniform",
 			"generator": {
